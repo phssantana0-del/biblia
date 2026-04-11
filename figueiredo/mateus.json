@@ -1,0 +1,3435 @@
+{
+  "id": "mateus",
+  "titulo": "Evangelho de S. Mateus",
+  "abreviacao": "Mt",
+  "testamento": "Novo Testamento",
+  "grupo": "Evangelhos",
+  "capitulos": [
+    {
+      "num": 1,
+      "sumario": "Genealogia de Jesus Cristo, sua Conceição e Nascimento.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "LIVRO da genealogia de Jesus Cristo, filho de Davi, filho de Abraão.",
+          "nota": "fn1_1"
+        },
+        {
+          "n": 2,
+          "texto": "Abraão gerou a Isaac. Isaac gerou a Jacó. Jacó gerou a Judas e a seus irmãos."
+        },
+        {
+          "n": 3,
+          "texto": "E Judas gerou de Tamar a Farés, e a Zarão. Farés gerou a Esron. Esron gerou a Arão."
+        },
+        {
+          "n": 4,
+          "texto": "E Arão gerou a Aminadab. Aminadab gerou a Naasson. Naasson gerou a Salmon."
+        },
+        {
+          "n": 5,
+          "texto": "E Salmon gerou de Raab a Booz. Booz gerou de Rute a Obed. Obed gerou a Jessé. Jessé gerou ao rei Davi."
+        },
+        {
+          "n": 6,
+          "texto": "O rei Davi gerou a Salomão, daquela que foi de Urias.",
+          "nota": "fn1_2"
+        },
+        {
+          "n": 7,
+          "texto": "E Salomão gerou a Roboão. Roboão gerou a Abias. Abias gerou a Asá."
+        },
+        {
+          "n": 8,
+          "texto": "Asá gerou a Josafat. Josafat gerou a Jorão. Jorão gerou a Ozias.",
+          "nota": "fn1_3"
+        },
+        {
+          "n": 9,
+          "texto": "Ozias gerou a Joatão. Joatão gerou a Acaz. E Acaz gerou a Ezequias."
+        },
+        {
+          "n": 10,
+          "texto": "Ezequias gerou a Manassés. Manassés gerou a Amon. Amon gerou a Josias."
+        },
+        {
+          "n": 11,
+          "texto": "Josias gerou a Jeconias, e a seus irmãos na transmigração de Babilônia.",
+          "nota": "fn1_4"
+        },
+        {
+          "n": 12,
+          "texto": "E depois da transmigração de Babilônia: Jeconias gerou a Salatiel. Salatiel gerou a Zorobabel."
+        },
+        {
+          "n": 13,
+          "texto": "Zorobabel gerou a Abiúd. Abiúd gerou a Eliacim. Eliacim gerou a Azor."
+        },
+        {
+          "n": 14,
+          "texto": "E Azor gerou a Sadoc. Sadoc gerou a Achim. Achim gerou a Eliúd."
+        },
+        {
+          "n": 15,
+          "texto": "Eliúd gerou a Eleazar. Eleazar gerou a Matan. Matan gerou a Jacó."
+        },
+        {
+          "n": 16,
+          "texto": "E Jacó gerou a José, espôso de Maria, da qual nasceu Jesus, que se chama o Cristo.",
+          "nota": "fn1_5"
+        },
+        {
+          "n": 17,
+          "texto": "De maneira que tôdas as gerações, desde Abraão até Davi, são catorze gerações: E desde Davi até a transmigração de Babilônia, catorze gerações: E desde a transmigração de Babilônia até Cristo catorze gerações."
+        },
+        {
+          "tipo": "bio",
+          "titulo": "José",
+          "texto": "S. José era, como nos diz o Evangelho, oriundo da tribo de Davi e exercia o mister humilde de carpinteiro para ganhar a vida. Vivia em Nazaré, onde esposou Maria. A missão que desempenhou na terra, guarda da Santa Família, põe em relêvo a sua singular perfeição e eximia santidade. Ignora-se a época da sua morte, mas tudo leva a crer que faleceu antes da vida pública de Jesus. A tradição das catacumbas representa S. José nas cenas evangélicas, em que desempenha um papel importante, como Nascimento, fuga para o Egito. Até ao século IV pintam-no como um homem novo e sem barba; depois do século V, sob a influência dos Evangelhos apócrifos, representam-no como um respeitável velho."
+        },
+        {
+          "tipo": "bio",
+          "titulo": "Maria",
+          "texto": "Em hebreu <em>Myriam</em>, significa <em>senhora, dona</em>, de sorte que o nome de <em>Nossa Senhora</em> com que os cristãos antonomàsticamente invocam a Mãe de Jesus, é a tradução de seu nome próprio. Isenta da culpa original, e destinada a ser a Mãe do Redentor dos homens, devia exceder em perfeições morais tôdas as criaturas. Era filha de S. Joaquim e de Santa Ana, da tribo de Judá e da casa real de Davi. A tradição diz-nos que foi apresentada no Templo de Jerusalém e empregada no serviço de Deus. Desposou S. José em Nazaré, onde teve o lugar o mistério da Anunciação. O Evangelho conta-nos a caridade com que visitou sua prima Santa Izabel, as angústias do nascimento de Jesus, os sobressaltos da fuga para o Egito, e acompanha a sua vida tôda amargurada até ao Calvário, e do Calvário à solidão do Cenáculo."
+        },
+        {
+          "n": 18,
+          "texto": "Ora a Conceição de Jesus Cristo foi desta maneira: Estando já Maria, sua mãe, desposada com José antes de coabitarem, se achou ter ela concebido por obra do Espírito Santo."
+        },
+        {
+          "n": 19,
+          "texto": "E José, seu espôso, como era justo, e não queria infamá-la, resolveu deixá-la secretamente.",
+          "nota": "fn1_6"
+        },
+        {
+          "n": 20,
+          "texto": "Mas andando êle com isto no pensamento, eis-que lhe apareceu em sonhos um anjo do Senhor dizendo: José, filho de Davi, não temas receber a Maria tua mulher: Porque o que nela se gerou, é obra do Espírito Santo."
+        },
+        {
+          "n": 21,
+          "texto": "E ela dará à luz um filho: e lhe chamarás por nome JESUS: Porque êle salvará o seu povo dos pecados dêles."
+        },
+        {
+          "n": 22,
+          "texto": "Mas tudo isto aconteceu para que se cumprisse o que falou o Senhor pelo Profeta, que diz:"
+        },
+        {
+          "n": 23,
+          "texto": "<span class='prophetic'>Eis uma virgem conceberá e dará à luz um filho: E apelidá-lo-ão pelo nome de Emanuel, que quer dizer, Deus conosco.</span>",
+          "nota": "fn1_7"
+        },
+        {
+          "n": 24,
+          "texto": "E despertando José do sono, fêz como o anjo do Senhor lhe havia mandado, e recebeu a sua mulher."
+        },
+        {
+          "n": 25,
+          "texto": "E êle não a conheceu, enquanto ela não deu à luz ao seu primogênito: E lhe pôs por nome Jesus.",
+          "nota": "fn1_8"
+        }
+      ],
+      "notas": {
+        "fn1_1": {
+          "rotulo": "Filho de Davi",
+          "texto": "O nomear o Evangelista somente a Davi e Abraão foi porque a estes especialmente prometera Deus que do seu sangue nasceria o Messias. O nomear primeiro a Davi, sendo mais moderno, foi atender à dignidade real, e a que a sua memória estava mais fresca entre os judeus, e o seu nome na boca de todos. — <em>Calmet, com S. Jerônimo e S. João Crisóstomo.</em>"
+        },
+        "fn1_2": {
+          "rotulo": "Daquela que foi de Urias",
+          "texto": "Isto é, daquela que foi mulher de Urias, a qual vem a ser Bersabé, de cujo adultério com o rei Davi nasceu um filho, e morto este, recebeu Davi por sua legítima mulher a Bersabé, cujo primeiro marido foi morto na guerra, e dela teve Davi a Salomão, 2 Rs 12, 24. — <em>Calmet.</em>"
+        },
+        "fn1_3": {
+          "rotulo": "Jorão gerou a Ozias",
+          "texto": "Jorão não foi pai imediato de Ozias, mas somente seu terceiro avô, porque Jorão gerou a Ocozias. Ocozias a Joás, que teve a Amazias, de quem nasceu Ozias, 2 Par cc. 22, 24, 25. Duas razões se alegam da causa desta omissão. Uma que o Evangelista, por um certo mistério, quis dividir tôda a genealogia de Cristo em três classes iguais cada uma de catorze gerações. Outra de como o profeta Elias tinha predito a Acab, rei de Israel, que tôda a sua descendência seria exterminada — <em>Sacy.</em> De resto é freqüente entre os orientais omitir-se o nome de muitos descendentes, porque só cuidam de enumerar os mais célebres."
+        },
+        "fn1_4": {
+          "rotulo": "Josias gerou a Jeconias",
+          "texto": "Aqui se deve entender não imediatamente, senão por meio de Joaquim, pai de Jeconias. 1 Par 3, 15. 16. Este Joaquim não mereceu ter lugar na sepultura dos reis de Judá, Jer 22, 18. E por esta razão S. Mateus julgou que também não devia pôr-se na genealogia de Jesus Cristo. <em>E a seus irmãos</em>: quer dizer, e a seu irmão Sedecias. 1 Par 3, 16."
+        },
+        "fn1_5": {
+          "rotulo": "Gerou a José",
+          "texto": "S. Mateus apresentando aqui a genealogia de S. José, mostra bem que era judeu, conformando-se em tudo com os usos dos seus compatriotas, que, em suas tábuas genealógicas, não faziam menção das mães, mas nem por isso deixa de ser completa a genealogia apresentada, pois que a Santíssima Virgem, sua mãe, descendia, como seu espôso, da família de Davi. S. Mateus escrevia para os Judeus e S. Lucas para os gentios; S. Mateus pretendia que vissem em Jesus o herdeiro de Davi, seguindo a genealogia legal. S. Lucas, que escrevia para os gentios, considerava o Salvador como nascido da mulher — <em>semen mulieris</em> — e apresenta a genealogia natural."
+        },
+        "fn1_6": {
+          "rotulo": "Resolveu deixá-la secretamente",
+          "texto": "É esta uma das passagens mais graves do Novo Testamento. Há aqui duas questões distintas: Por que resolveu S. José deixar a Virgem? Por que intenta fazê-lo secretamente? S. José, vendo que Maria havia concebido, não podia ficar junto dela (Dt 22, 20–21), pelo que diz S. Jerônimo: <em>Hoc testimonium Mariae est, quod Joseph sciens illius castitatem et admirans quod evenerat, celat silentio cujus mysterium nesciebat.</em> S. Bernardo interpreta desta sorte o texto: S. José nada suspeitando mais, conheceu apenas a grandeza do milagre que se realizava, e reconhece a sua humildade e exclama como S. Pedro: <em>Exi a me, quia homo peccator sum</em> (Lc 5, 8). Mas esta explicação, como bem adverte Maldonado, não se concilia com o sentido natural do texto <em>voluit occulte dimittere eam.</em> Resolve deixá-la, mas sem a querer infamar — <em>nollet eam traducere</em> — o que indica a dúvida, a hesitação. Foi então que baixou o anjo, que lhe certifica o fato e a direta intervenção divina."
+        },
+        "fn1_7": {
+          "rotulo": "Uma Virgem conceberá",
+          "texto": "S. Mateus cita a profecia de Isaías, conhecida por aqueles a quem se dirigia, e ao mesmo tempo que põe em relêvo que Jesus será o Messias esperado, <em>Deus conosco</em>, faz ressaltar a virgindade de Maria, pois isto quer indicar o têrmo grego <em>partenos</em> e o hebraico <em>Almah.</em> Os racionalistas dizem que esta narração se não encontra em S. Lucas. Falta atender à diversidade do escopo dos dois Evangelistas: S. Mateus procurava demonstrar aos judeus que na pessoa de Jesus se realizavam as antigas profecias messiânicas, e entre essas, a de Isaías tinha lugar primacial. Esta razão não militava para S. Lucas, que escrevia para os gentios."
+        },
+        "fn1_8": {
+          "rotulo": "Primogênito / Jesus",
+          "texto": "<em>Primogênito</em>: não porque a Senhora tivesse depois outro filho, mas porque antes deste não teve outro; que na frase da Escritura isso é o que precisamente quer dizer primogênito. — <em>S. Jerônimo.</em><br><br><em>Jesus</em>: em hebreu <em>Yehoschouah</em>, na forma completa, e que quer dizer <em>Iahveh é salvador.</em> Jesus é na verdade o salvador dos homens, o Deus salvador, que nos resgatou e livrou do pecado."
+        }
+      }
+    },
+    {
+      "num": 2,
+      "sumario": "Chegada dos Magos, e suas Ofertas ao Deus Menino. Morte dos Inocentes por Herodes. Fugida de Jesus para o Egito, e a sua volta para Judéia.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Tendo pois nascido Jesus em Belém de Judá, em tempo do rei Herodes, eis-que vieram do Oriente uns Magos a Jerusalém,",
+          "nota": "fn2_1"
+        },
+        {
+          "n": 2,
+          "texto": "dizendo: Onde está o rei dos judeus, que é nascido? Porque nós vimos no Oriente a sua estrêla: E viemos a adorá-lo.",
+          "nota": "fn2_2"
+        },
+        {
+          "n": 3,
+          "texto": "E o rei Herodes ouvindo isto se turbou e tôda Jerusalém com êle."
+        },
+        {
+          "n": 4,
+          "texto": "E convocando todos os príncipes dos sacerdotes e os escribas do povo, lhes perguntava onde havia de nascer o Cristo.",
+          "nota": "fn2_3"
+        },
+        {
+          "n": 5,
+          "texto": "E êles lhe disseram: Em Belém de Judá: Porque assim está escrito pelo profeta:"
+        },
+        {
+          "n": 6,
+          "texto": "<span class='prophetic'>E tu Belém, terra de Judá, não és a de menos consideração entre as principais de Judá: Porque de ti sairá o condutor que há de comandar o meu povo de Israel.</span>"
+        },
+        {
+          "n": 7,
+          "texto": "Então Herodes tendo chamado secretamente os Magos, inquiriu dêles com todo o cuidado que tempo havia que lhes aparecera a estrêla."
+        },
+        {
+          "n": 8,
+          "texto": "E enviando-os a Belém, disse-lhes: Ide, e informai-vos bem que menino é esse: E depois que o houverdes achado, vinde-mo dizer, para eu ir também adorá-lo."
+        },
+        {
+          "n": 9,
+          "texto": "Êles, tendo ouvido as palavras do rei, partiram: e logo a estrêla, que tinham visto no Oriente, lhes apareceu, indo adiante dêles, até que, chegando, parou sôbre onde estava o menino."
+        },
+        {
+          "n": 10,
+          "texto": "E quando êles viram a estrêla, foi sobremaneira grande o júbilo que sentiram."
+        },
+        {
+          "n": 11,
+          "texto": "E entrando na casa, acharam o menino com Maria sua Mãe, e prostrando-se, o adoraram: e abrindo os seus cofres, lhe fizeram suas ofertas de ouro, incenso, e mirra.",
+          "nota": "fn2_4"
+        },
+        {
+          "n": 12,
+          "texto": "E havida resposta em sonhos, que não tornassem a Herodes, voltaram por outro caminho para a sua terra."
+        },
+        {
+          "n": 13,
+          "texto": "Partidos que êles foram, eis-que apareceu um anjo do Senhor em sonhos a José e lhe disse: Levanta-te, e toma o menino, e sua mãe, e foge para o Egito, e fica-te lá até que eu te avise, porque Herodes tem de buscar o menino para o matar."
+        },
+        {
+          "n": 14,
+          "texto": "José, levantando-se, tomou de noite o menino, e sua mãe, e retirou-se para o Egito."
+        },
+        {
+          "n": 15,
+          "texto": "E ali estêve até à morte de Herodes: para se cumprir o que proferira o Senhor pelo profeta, que diz: <span class='prophetic'>Do Egito chamei a meu filho.</span>"
+        },
+        {
+          "n": 16,
+          "texto": "Herodes então, vendo que tinha sido iludido dos Magos, ficou muito irado por isso, e mandou matar todos os meninos que havia em Belém, e em todo o seu têrmo que tivessem dois anos, e daí para baixo, regulando-se nisto pelo tempo que tinha exatamente averiguado dos Magos."
+        },
+        {
+          "n": 17,
+          "texto": "Então se cumpriu o que estava anunciado pelo profeta Jeremias que diz:"
+        },
+        {
+          "n": 18,
+          "texto": "<span class='prophetic'>Em Ramá se ouviu um clamor, um chôro, e um grande lamento: Vinha a ser Raquel chorando a seus filhos, sem admitir consolação pela falta dêles.</span>",
+          "nota": "fn2_5"
+        },
+        {
+          "n": 19,
+          "texto": "E sendo morto Herodes, eis-que o anjo do Senhor apareceu em sonhos a José no Egito,"
+        },
+        {
+          "n": 20,
+          "texto": "dizendo: Levanta-te, e toma o menino e sua mãe, e vai para a terra de Israel: Porque são mortos os que buscavam o menino para o matar."
+        },
+        {
+          "n": 21,
+          "texto": "José, levantando-se, tomou o menino e sua mãe, e veio para a terra de Israel."
+        },
+        {
+          "n": 22,
+          "texto": "Mas ouvindo que Arquelau reinava na Judéia em lugar de seu pai Herodes, temeu ir para lá: E avisado em sonhos, se retirou para as partes da Galiléia.",
+          "nota": "fn2_6"
+        },
+        {
+          "n": 23,
+          "texto": "E veio morar em uma cidade que se chama Nazaré: Para se cumprir o que fôra dito pelos profetas: Que será chamado Nazareno.",
+          "nota": "fn2_7"
+        }
+      ],
+      "notas": {
+        "fn2_1": {
+          "rotulo": "Belém de Judá / Rei Herodes / Magos",
+          "texto": "<em>Belém</em>: etimologicamente significa 'casa do pão'. Era a pátria de Davi, pertencia à tribo de Judá e tinha o sobrenome Efrata. Hoje vê-se a Igreja da Natividade sôbre a gruta onde nasceu Jesus Cristo, com 12m40 de comprido, 3m91 de largura e 3m de altura.<br><br><em>Herodes:</em> três Herodes é preciso distinguir na história evangélica: Herodes o Grande, de nação idumeu, o deste capítulo; Herodes Antipas, o que mandou degolar o Batista; e Herodes Agripa, o que mandou cortar a cabeça a S. Tiago.<br><br><em>Magos:</em> eram sábios que vieram da Arábia deserta, da Caldéia ou da Mesopotâmia. Como Balaão habitou estas regiões, conservou-se a lembrança da profecia que anunciou o advento do Messias por uma estrêla. Num 24, 17."
+        },
+        "fn2_2": {
+          "rotulo": "A sua estrêla",
+          "texto": "Esta passagem tem servido aos adversários de argumento contra a narração sagrada; porque, dizem, uma estrêla por causa da sua imensa elevação não pode indicar um país, menos uma cidade, e de modo nenhum uma casa. A dificuldade desaparece desde que se considere que o têrmo <em>aster</em> do grego significa não só uma estrêla no sentido rigoroso, mas ainda um meteoro luminoso que, visto a certa distância, tem tôdas as aparências duma estrêla. Podemos admitir que os Magos viram um sinal luminoso que os conduzia, como a coluna de fogo dirigira os judeus no deserto. Por isso S. Leão diz: <em>Dedit aspicientibus intellectum qui praestitit signum.</em> Esta é a primeira manifestação de Jesus aos homens, comemorada na liturgia com a festa da Epifania, a 6 de janeiro."
+        },
+        "fn2_3": {
+          "rotulo": "Os príncipes dos sacerdotes / os escribas",
+          "texto": "<em>Os príncipes dos sacerdotes:</em> isto é, os chefes das vinte e quatro famílias sacerdotais, que serviam no templo por seu turno como lemos no 1 Par 24. — <em>Calmet.</em><br><br><em>Os escribas do povo:</em> isto é, os doutores da Lei, porque estes eram os depositários dos livros santos, e os intérpretes das escrituras divinas."
+        },
+        "fn2_4": {
+          "rotulo": "Ouro, incenso e mirra",
+          "texto": "Símbolos da realeza, da humanidade e da divindade de Jesus, como entende a tradição universal."
+        },
+        "fn2_5": {
+          "rotulo": "Vinha a ser Raquel",
+          "texto": "O grego diz: 'Chôro, e lamentação, e gemido grande' (Jer 31, 15). O que o profeta havia dito antes do tempo do cativeiro de Babilônia, o aplicou também o Evangelista ao tempo da mortandade dos inocentes. Jeremias, para dar uma idéia da dor que causaria o cativeiro das dez tribos, introduz a Raquel, como saindo da sua sepultura, para chorar à vista de tão triste espetáculo. Esta bela imagem a aplica o Evangelista à crueldade de Herodes com os Inocentes. — <em>Calmet.</em> Raquel fôra enterrada perto de Belém. O seu túmulo foi restaurado em 1579, no tempo de Moamed IV."
+        },
+        "fn2_6": {
+          "rotulo": "Arquelau",
+          "texto": "Filho de Herodes, o Grande, e da Samaritana Maltácia, designado por seu pai para suceder no reino da Judéia. Os soldados proclamaram-no rei, mas não quis usar de tal título sem ter prévia autorização de Augusto. Antes de partir para Roma sufocou uma sedição, matando três mil judeus. Regressou da capital do império com o título de etnarca e esposou Glafira, viúva de seu irmão Alexandre. Desprezava a lei mosaica e tratava com supremo desprêzo os judeus, que se queixaram a Augusto. Foi deposto no ano 7 e exilado para Viena, nas Gálias onde morreu. A autoridade de Arquelau estendia-se pela Judéia, Iduméia e Samaria."
+        },
+        "fn2_7": {
+          "rotulo": "Nazaré",
+          "texto": "Nazaré é uma aldeia da Galiléia, que nunca é mencionada no Antigo Testamento. Foi Jesus Cristo que a tornou célebre. Está a 270 metros acima da planície de Esdrelon. É um dos pontos mais pitorescos da Palestina. As casas são cobertas de verduras, vendo-se por tôda a parte flores, oliveiras, figueiras e cactus. Onde outrora foi a casa da Santíssima Virgem vê-se hoje a Igreja da Anunciação reconstruida em 1730, e restaurada em 1877."
+        }
+      }
+    },
+    {
+      "num": 3,
+      "sumario": "Vinda e Pregação do Batista no Deserto. Repreensão que dá aos Fariseus, e Saduceus. Diferença entre o seu Batismo, e o de Jesus Cristo. Desce o Espírito Santo sobre Jesus Cristo depois de João o Batizar. O Eterno Pai o aclama seu Filho muito amado.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Naqueles dias pois veio João Batista pregando no deserto da Judéia,",
+          "nota": "fn3_1"
+        },
+        {
+          "n": 2,
+          "texto": "e dizendo: Fazei penitência: Porque está próximo o reino dos Céus.",
+          "nota": "fn3_2"
+        },
+        {
+          "n": 3,
+          "texto": "Porque este é de quem falou o profeta Isaías, dizendo: Voz do que clama no deserto: Preparai o caminho do Senhor: Endireitai as suas veredas."
+        },
+        {
+          "n": 4,
+          "texto": "Ora o mesmo João tinha um vestido de peles de camelo, e uma cinta de couro em roda dos seus rins: E a sua comida eram gafanhotos, e mel silvestre.",
+          "nota": "fn3_3"
+        },
+        {
+          "n": 5,
+          "texto": "Então vinha a êle Jerusalém, e tôda a Judéia, e tôda a terra da comarca do Jordão."
+        },
+        {
+          "n": 6,
+          "texto": "E confessando os seus pecados, eram por êle batizados no Jordão."
+        },
+        {
+          "n": 7,
+          "texto": "Mas vendo que muitos dos fariseus, e dos saduceus vinham ao seu batismo, lhes disse: Raça de víboras, quem vos ensinou a fugir da ira vindoura?",
+          "nota": "fn3_4"
+        },
+        {
+          "n": 8,
+          "texto": "Fazei pois dignos frutos de penitência."
+        },
+        {
+          "n": 9,
+          "texto": "E não queirais dizer dentro de vós mesmos: Nós temos por pai a Abraão: porque eu vos digo que poderoso é Deus para fazer que nasçam destas pedras filhos a Abraão."
+        },
+        {
+          "n": 10,
+          "texto": "Porque já o machado está pôsto à raiz das árvores. Tôda a árvore pois que não dá bom fruto, será cortada, e lançada no fogo."
+        },
+        {
+          "n": 11,
+          "texto": "Eu na verdade vos batizo em água para vos trazer à penitência: Porém o que há de vir depois de mim, é mais poderoso do que eu, e eu não sou digno de lhe ministrar o calçado: Êle vos batizará no Espírito Santo, e em fogo.",
+          "nota": "fn3_5"
+        },
+        {
+          "n": 12,
+          "texto": "A sua pá na sua mão se acha: e êle limpará muito bem a sua eira: E recolherá o seu trigo no celeiro, mas queimará as palhas num fogo, que jamais se apagará."
+        },
+        {
+          "n": 13,
+          "texto": "Então veio Jesus da Galiléia ao Jordão ter com João, para ser batizado por êle."
+        },
+        {
+          "n": 14,
+          "texto": "Porém João o impedia, dizendo: Eu sou o que devo ser batizado por ti, e tu vens a mim?"
+        },
+        {
+          "n": 15,
+          "texto": "E respondendo Jesus, lhe disse: Deixa por ora: Porque assim nos convém cumprir tôda a justiça. Êle então o deixou,",
+          "nota": "fn3_6"
+        },
+        {
+          "n": 16,
+          "texto": "E depois que Jesus foi batizado, saiu logo para fora da água: e eis-que se lhe abriram os céus: e viu ao Espírito de Deus, que descia como pomba, e que vinha sôbre êle.",
+          "nota": "fn3_7"
+        },
+        {
+          "n": 17,
+          "texto": "E eis uma voz dos céus, que dizia: Êste é meu filho amado, no qual tenho pôsto toda a minha complacência."
+        }
+      ],
+      "notas": {
+        "fn3_1": {
+          "rotulo": "Naqueles dias / João Batista / Deserto da Judéia",
+          "texto": "<em>Naqueles dias</em>: isto é, no tempo de Cristo, no ano 781-782 de Roma, 15 Tib. 28 da Era Cristã.<br><br><em>João Batista</em>: João, em hebraico Yohanam, Iahveh dá graça, apelidado o Batista, porque batizava no Jordão, era da tribo sacerdotal, filho de Zacarias e de Izabel, prima da Virgem. Lc 1, 5-80. Destinado pela Providência para ser o Precursor do Messias, preparou-se para a sua missão, por uma vida rude e austera. Morreu mártir de seu zêlo em defender a pureza dos costumes.<br><br><em>Deserto da Judéia</em>: assim chamado, não que fôsse estéril e sem pastagens, mas porque era desabitado; é a região que fica a oeste do Mar Morto."
+        },
+        "fn3_2": {
+          "rotulo": "Reino dos Céus",
+          "texto": "A sociedade nova que o Messias vinha fundar sôbre a terra, é o grande reino predito por Daniel; reino sempre combatido e sempre triunfante."
+        },
+        "fn3_3": {
+          "rotulo": "Eram gafanhotos",
+          "texto": "Entre os hebreus não se reputavam os gafanhotos alimento imundo, como se colhe do Lev 11, 22. E fora da Palestina, escreve Plínio no livro VI, cap. 30 e no livro VII, cap. 2 que a gente pobre os comia temperados com sal, e secos ao fumo. — <em>Calmet.</em><br><br><em>Mel silvestre</em>: é muito abundante no deserto da Judéia."
+        },
+        "fn3_4": {
+          "rotulo": "Fariseus",
+          "texto": "No tempo de Cristo a sociedade judaica estava dividida em duas poderosas facções — fariseus e saduceus. Os primeiros constituíam o partido conservador, os últimos o avançado. Aquêles prendiam-se em extremo à letra da lei, e procuravam observar escrupulosamente todas as antigas tradições, e faziam consistir a religião nesse respeito e nas práticas exteriores, seguidas à risca, com o máximo cuidado, pregavam mais do que praticavam e procuravam fazer proselitismo. Os saduceus, assim chamados de Sadoc, discípulo de Antigono de Soche, sectário de Simão o Justo, o último membro da grande Sinagoga, estavam em oposição com os fariseus. Eram demolidores das antigas tradições, a que não prestavam importância, negavam a ressurreição dos mortos, a existência dos Anjos; nas fileiras dos saduceus tinham lugar os representantes da aristocracia judaica, que dava a êste partido grande importância."
+        },
+        "fn3_5": {
+          "rotulo": "No Espírito Santo e em fogo",
+          "texto": "O Salvador deve mergulhar as almas nas chamas ardentes que as purificam doutro modo que as águas do Jordão. Por êste fogo entendem os intérpretes as comunicações do Espírito Santo e a infusão da Graça pelos Sacramentos."
+        },
+        "fn3_6": {
+          "rotulo": "Toda a justiça",
+          "texto": "Jesus Cristo nesta passagem ensina ao Precursor a regular a sua conduta, não atendendo à dignidade de quem solicita o batismo, mas em obediência aos desígnios do Céu. Mostra-lhe o que a ambos é conveniente e o que mais útil é ao seu ministério, dando ao mesmo tempo uma grande lição de virtude, sobretudo da humildade, da penitência e da submissão."
+        },
+        "fn3_7": {
+          "rotulo": "E que vinha sobre êle",
+          "texto": "Não sòmente o Senhor, senão também S. João e todos os judeus que o acompanhavam viram a figura de uma pomba, na qual o Espírito Santo desceu do Céu, e descansou sôbre a cabeça de Jesus Cristo. O Espírito Santo apareceu nesta figura, porque, como diz S. João Crisóstomo, sendo a pomba doce e pura, quis aquêle divino espírito, que o é de doçura, de pureza e de paz eleger esta forma, que representava de alguma maneira o que êle é, e o que devem ser aquêles sôbre os quais desce pelo batismo. O mistério da Trindade, como observa S. Jerônimo, se descobre no batismo de Jesus Cristo: o Filho, que é o mesmo batizado; o Espírito Santo, que desce sôbre êle em figura de pomba; e a voz do Padre, que dá um ilustre testemunho da pessoa de seu Filho."
+        }
+      }
+    },
+    {
+      "num": 4,
+      "sumario": "Vai Jesus para o Deserto, onde depois de jejuar quarenta dias, é tentado pelo Demônio. Chama os quatro Pescadores, Pedro, André, Tiago e João. Anuncia o Evangelho na Galiléia. Cura muitos Doentes. Anda acompanhado de muito Povo.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Então foi levado Jesus pelo espírito ao deserto, para ser tentado pelo diabo.",
+          "nota": "fn4_1"
+        },
+        {
+          "n": 2,
+          "texto": "E tendo jejuado quarenta dias, e quarenta noites, depois teve fome."
+        },
+        {
+          "n": 3,
+          "texto": "E chegando-se a êle o tentador, lhe disse: Se és filho de Deus, dize que estas pedras se convertam em pães."
+        },
+        {
+          "n": 4,
+          "texto": "Jesus respondendo lhe disse: Escrito está: Não só de pão vive o homem, mas de tôda a palavra que sai da bôca de Deus."
+        },
+        {
+          "n": 5,
+          "texto": "Então tomando-o o diabo o levou à cidade santa, e o pôs sôbre o pináculo do templo.",
+          "nota": "fn4_2"
+        },
+        {
+          "n": 6,
+          "texto": "E lhe disse: Se és filho de Deus, lança-te daqui abaixo. Porque escrito está: Que mandou aos seus anjos que cuidem de ti, e êles te tomarão nas palmas, para que não suceda tropeçares em pedra com o teu pé."
+        },
+        {
+          "n": 7,
+          "texto": "Jesus lhe disse: Também está escrito: Não tentarás ao Senhor teu Deus."
+        },
+        {
+          "n": 8,
+          "texto": "De novo o subiu o diabo a um monte muito alto: E lhe mostrou todos os reinos do mundo, e a glória dêles."
+        },
+        {
+          "n": 9,
+          "texto": "E lhe disse: Tudo isto te darei, se prostrado me adorares."
+        },
+        {
+          "n": 10,
+          "texto": "Então lhe disse Jesus: Vai-te, satanás: Porque escrito está: Ao Senhor teu Deus adorarás, e a êle só servirás."
+        },
+        {
+          "n": 11,
+          "texto": "Então o deixou o diabo: e eis-que chegaram os anjos, e o serviram."
+        },
+        {
+          "n": 12,
+          "texto": "E quando ouviu Jesus que João fôra prêso, retirou-se para a Galiléia."
+        },
+        {
+          "n": 13,
+          "texto": "E, deixada a cidade de Nazaré, veio habitar em Cafarnaum, cidade marítima nos confins de Zabulon, e Neftalim:",
+          "nota": "fn4_3"
+        },
+        {
+          "n": 14,
+          "texto": "Para se cumprir o que tinha dito o profeta Isaías:"
+        },
+        {
+          "n": 15,
+          "texto": "<span class='prophetic'>A terra de Zabulon, e a terra de Neftalim, a estrada que vai dar no mar além do Jordão, a Galiléia dos gentios.</span>"
+        },
+        {
+          "n": 16,
+          "texto": "<span class='prophetic'>Povo, que estava de assento nas trevas, viu uma grande luz: E aos que estavam de assento na região da sombra da morte, a êstes apareceu a luz.</span>"
+        },
+        {
+          "n": 17,
+          "texto": "Desde então começou Jesus a pregar, e a dizer: Fazei penitência; porque está próximo o reino dos céus."
+        },
+        {
+          "n": 18,
+          "texto": "E caminhando Jesus ao longo do mar da Galiléia, viu dois irmãos, Simão, que se chama Pedro: e seu irmão André, que lançavam a rêde ao mar (porque eram pescadores).",
+          "nota": "fn4_4"
+        },
+        {
+          "n": 19,
+          "texto": "E disse-lhes: Vinde após mim, e farei que vós sejais pescadores de homens."
+        },
+        {
+          "n": 20,
+          "texto": "E êles sem mais detença, deixadas as rêdes, o seguiram."
+        },
+        {
+          "n": 21,
+          "texto": "E passando dali, viu outros dois irmãos, Tiago, filho de Zebedeu, e João seu irmão, em uma barca com seu pai Zebedeu, que consertavam as suas rêdes: E os chamou."
+        },
+        {
+          "n": 22,
+          "texto": "E êles no mesmo ponto, deixando as rêdes, e o pai, foram em seu seguimento."
+        },
+        {
+          "n": 23,
+          "texto": "E Jesus rodeava tôda a Galiléia, ensinando nas suas Sinagogas, e pregando o Evangelho do reino: E curando tôda a casta de doenças, e tôda a casta de enfermidades no povo.",
+          "nota": "fn4_5"
+        },
+        {
+          "n": 24,
+          "texto": "E correu a sua fama por tôda a Síria e lhe trouxeram todos os que se achavam enfermos, possuídos de vários achaques, e dores, e os possessos, e os lunáticos, e os paralíticos, e os curou.",
+          "nota": "fn4_6"
+        },
+        {
+          "n": 25,
+          "texto": "E uma grande multidão de povo o foi seguindo de Galiléia, e de Decápole, e de Jerusalém, e da Judéia, e de além do Jordão.",
+          "nota": "fn4_7"
+        }
+      ],
+      "notas": {
+        "fn4_1": {
+          "rotulo": "Ao deserto",
+          "texto": "Êste deserto é o chamado da Quarentena, por causa dos quarenta dias que Jesus Cristo aí passou. Passa a oeste de Jericó; é muito acidentado, e as suas montanhas são as mais belas da Palestina meridional."
+        },
+        "fn4_2": {
+          "rotulo": "Pináculo do templo",
+          "texto": "O sentido é incerto, segundo Vigouroux nas notas à Bíblia de Glaire. Uns querem que seja a fachada do templo, outros o conjunto das construções do templo; outros o pórtico de Salomão ou a porta Real, que ficam sôbre um precipício como adverte Josefo."
+        },
+        "fn4_3": {
+          "rotulo": "Cafarnaum",
+          "texto": "Não é fácil indicar precisamente onde fica Cafarnaum. A maldição caiu de tal sorte sôbre a cidade anatematizada que não é fácil discriminar entre as ruínas o local onde se ergueu. Segundo uns, Cafarnaum ficava em Rhan-Miniéh; segundo outros, em Tell Hum."
+        },
+        "fn4_4": {
+          "rotulo": "Do mar da Galiléia",
+          "texto": "Era um lago, ao qual, como a muitos outros, os hebreus chamavam mar, e que teve os seguintes nomes: lago Cennereth, Genesareth ou de Genesar. Chamavam-lhe mar da Galiléia, porque banhava esta região. No tempo de Herodes tomou o nome de Tiberíades, quando êle fundou uma povoação em honra de Tibério."
+        },
+        "fn4_5": {
+          "rotulo": "O Evangelho do reino",
+          "texto": "Evangelho é uma palavra grega, que significa bom anúncio, ou alegre nova. O evangelho do reino, porém, é o que prometia o reino dos Céus aos homens que seguissem a Jesus Cristo, o reino de Deus."
+        },
+        "fn4_6": {
+          "rotulo": "Toda a Síria",
+          "texto": "No Novo Testamento a Síria designa a região limitada a este pelo Eufrates e pela Arábia, ao sul pela Palestina, a oeste pelo Mediterrâneo e Fenícia, ao norte pela Cordilheira do Amnus."
+        },
+        "fn4_7": {
+          "rotulo": "Decápole",
+          "texto": "Era a confederação de muitas cidades unidas para a defesa mútua. Ainda que a palavra Decápole, etimologicamente, designe dez cidades, o número das cidades confederadas era variável. A maior parte ficava situada a este do Jordão."
+        }
+      }
+    },
+    {
+      "num": 5,
+      "sumario": "Sermão das Oito Bem-aventuranças, pregado no Monte. Os Apóstolos, Sal da Terra, e Luz do Mundo. Jesus Cristo vindo ao Mundo, não para destruir a Lei, mas para a aperfeiçoar. Que nos não devemos irar contra o Próximo. Que se não deve olhar para a Mulher com olhos impúdicos. Que devemos amar, e fazer bem a nossos Inimigos.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "E vendo Jesus a grande multidão do povo, subiu a um monte, e depois de se ter sentado, se chegaram para o pé dêle os seus discípulos."
+        },
+        {
+          "n": 2,
+          "texto": "E êle abrindo a sua bôca os ensinava dizendo:",
+          "nota": "fn5_1"
+        },
+        {
+          "n": 3,
+          "texto": "Bem-aventurados os pobres de espírito: Porque dêles é o reino dos Céus.",
+          "nota": "fn5_2"
+        },
+        {
+          "n": 4,
+          "texto": "Bem-aventurados os mansos: Porque êles possuirão a terra.",
+          "nota": "fn5_3"
+        },
+        {
+          "n": 5,
+          "texto": "Bem-aventurados os que choram: Porque êles serão consolados.",
+          "nota": "fn5_4"
+        },
+        {
+          "n": 6,
+          "texto": "Bem-aventurados os que têm fome, e sêde de justiça: Porque êles serão fartos.",
+          "nota": "fn5_5"
+        },
+        {
+          "n": 7,
+          "texto": "Bem-aventurados os misericordiosos: Porque êles alcançarão misericórdia.",
+          "nota": "fn5_6"
+        },
+        {
+          "n": 8,
+          "texto": "Bem-aventurados os limpos de coração: Porque êles verão a Deus.",
+          "nota": "fn5_7"
+        },
+        {
+          "n": 9,
+          "texto": "Bem-aventurados os pacíficos: Porque êles serão chamados filhos de Deus.",
+          "nota": "fn5_8"
+        },
+        {
+          "n": 10,
+          "texto": "Bem-aventurados os que padecem perseguição por amor da justiça: Porque dêles é o reino dos Céus.",
+          "nota": "fn5_9"
+        },
+        {
+          "n": 11,
+          "texto": "Bem-aventurados sois, quando vos injuriarem, e vos perseguirem, e disserem todo o mal contra vós, mentindo, por meu respeito:"
+        },
+        {
+          "n": 12,
+          "texto": "Folgai, e exultai, porque o vosso galardão é copioso nos Céus: Pois assim também perseguiram os profetas que foram antes de vós."
+        },
+        {
+          "n": 13,
+          "texto": "Vós sois o sal da terra. E se o sal perder a sua fôrça, com que outra coisa se há de salgar? para nenhuma coisa mais fica servindo, senão para se lançar fora e ser pisado dos homens.",
+          "nota": "fn5_10"
+        },
+        {
+          "n": 14,
+          "texto": "Vós sois a luz do mundo. Não pode esconder-se uma cidade que está situada sôbre um monte:",
+          "nota": "fn5_11"
+        },
+        {
+          "n": 15,
+          "texto": "Nem os que acendem uma luzerna a metem debaixo do alqueire, mas põem-na sôbre o candeeiro, a fim de que ela dê luz a todos os que estão na casa."
+        },
+        {
+          "n": 16,
+          "texto": "Assim luza a vossa luz diante dos homens: Que êles vejam as vossas boas obras e glorifiquem a vosso pai, que está nos Céus.",
+          "nota": "fn5_12"
+        },
+        {
+          "n": 17,
+          "texto": "Não julgueis que vim destruir a lei, ou os profetas: Não vim a destruí-los, mas sim a dar-lhes cumprimento."
+        },
+        {
+          "n": 18,
+          "texto": "Porque em verdade vos afirmo, que enquanto não passar o Céu e a terra, não passará da lei um só i, ou um til, sem que tudo seja cumprido."
+        },
+        {
+          "n": 19,
+          "texto": "Aquêle pois que quebrar um dêstes mínimos mandamentos, e que ensinar assim aos homens, será chamado mui pequeno no reino dos Céus: Mas o que os guardar, e ensinar a guardá-los, êsse será reputado grande no reino dos Céus."
+        },
+        {
+          "n": 20,
+          "texto": "Porque eu vos digo, que se a vossa justiça não for maior e mais perfeita do que a dos escribas, e a dos fariseus, não entrareis no reino dos Céus."
+        },
+        {
+          "n": 21,
+          "texto": "Ouvistes que foi dito aos antigos: Não matarás: E quem matar será réu no Juízo.",
+          "nota": "fn5_13"
+        },
+        {
+          "n": 22,
+          "texto": "Pois eu digo-vos: Que todo o que se ira contra seu irmão, será réu no juízo. E o que disser a seu irmão: Raca, será réu no conselho: E o que lhe disser: És um tolo, será réu do fogo do inferno.",
+          "nota": "fn5_14"
+        },
+        {
+          "n": 23,
+          "texto": "Portanto, se tu estás fazendo a tua oferta diante do altar, e te lembrar aí que teu irmão tem contra ti alguma coisa:"
+        },
+        {
+          "n": 24,
+          "texto": "Deixa ali a tua oferta diante do altar e vai-te reconciliar primeiro com teu irmão: E depois virás fazer a tua oferta."
+        },
+        {
+          "n": 25,
+          "texto": "Concerta-te sem demora com o teu adversário, enquanto estás pôsto a caminho com êle: Para que não suceda que êle adversário te entregue ao juiz, e que o juiz te entregue ao seu ministro: E sejas mandado para a cadeia."
+        },
+        {
+          "n": 26,
+          "texto": "Em verdade te digo, que não sairás de lá, até não pagares o último ceitil."
+        },
+        {
+          "n": 27,
+          "texto": "Ouvistes que foi dito aos antigos: Não adulterarás."
+        },
+        {
+          "n": 28,
+          "texto": "Eu porém digo-vos: Que todo o que olhar para uma mulher cobiçando-a, já no seu coração adulterou com ela."
+        },
+        {
+          "n": 29,
+          "texto": "E se o teu ôlho direito te serve de escândalo, arranca-o, e lança-o fora de ti: Porque melhor te é que se perca um de teus membros, do que todo o teu corpo seja lançado no inferno."
+        },
+        {
+          "n": 30,
+          "texto": "E se a tua mão direita te serve de escândalo, corta-a e lança-a fora de ti: Porque melhor te é que se perca um de teus membros, do que todo o teu corpo vá para o inferno."
+        },
+        {
+          "n": 31,
+          "texto": "Também foi dito: Qualquer que se desquitar de sua mulher, dê-lhe carta de repúdio."
+        },
+        {
+          "n": 32,
+          "texto": "Mas eu vos digo: Que todo o que repudiar a sua mulher, a não ser por causa de fornicação, a faz ser adúltera: E o que tomar a repudiada, comete adultério."
+        },
+        {
+          "n": 33,
+          "texto": "Igualmente ouvistes que foi dito aos antigos: Não jurarás falso: Mas cumprirás ao Senhor os teus juramentos."
+        },
+        {
+          "n": 34,
+          "texto": "Eu porém vos digo, que absolutamente não jureis, nem pelo Céu, porque é o trono de Deus:"
+        },
+        {
+          "n": 35,
+          "texto": "Nem pela terra, porque é o assento de seus pés: Nem por Jerusalém, porque é a cidade do grande rei:"
+        },
+        {
+          "n": 36,
+          "texto": "Nem jurarás pela tua cabeça, pois não podes fazer que um cabelo teu seja branco ou negro."
+        },
+        {
+          "n": 37,
+          "texto": "Mas seja o vosso falar, sim, sim: Não, não: Porque tudo o que daqui passa, procede do mal."
+        },
+        {
+          "n": 38,
+          "texto": "Vós tendes ouvido o que se disse: Ôlho por ôlho, e dente por dente."
+        },
+        {
+          "n": 39,
+          "texto": "Eu porém digo-vos, que não resistais ao que vos fizer mal: Mas se alguém te ferir na tua face direita, oferece-lhe também a outra:"
+        },
+        {
+          "n": 40,
+          "texto": "E ao que quer demandar-te em juízo, e tirar-te a tua túnica, larga-lhe também a capa:"
+        },
+        {
+          "n": 41,
+          "texto": "E se qualquer te obrigar a ir carregado mil passos, vai com êle ainda mais outros dois mil."
+        },
+        {
+          "n": 42,
+          "texto": "Dá a quem te pede, e não voltes as costas ao que deseja que lhe emprestes."
+        },
+        {
+          "n": 43,
+          "texto": "Tendes ouvido que foi dito: Amarás ao teu próximo, e aborrecerás a teu inimigo."
+        },
+        {
+          "n": 44,
+          "texto": "Mas eu vos digo: Amai a vossos inimigos, fazei bem aos que vos têm ódio: E orai pelos que vos perseguem e caluniam:"
+        },
+        {
+          "n": 45,
+          "texto": "Para serdes filhos de vosso Pai, que está nos Céus, o qual faz nascer o seu sol sôbre bons e maus: E vir chuva sôbre justos e injustos."
+        },
+        {
+          "n": 46,
+          "texto": "Porque se vós não amais senão os que vos amam, que recompensa haveis de ter? não fazem os publicanos também o mesmo?",
+          "nota": "fn5_15"
+        },
+        {
+          "n": 47,
+          "texto": "E se vós saudardes sòmente aos vossos irmãos, que fazeis nisso de especial? não fazem também assim os gentios?"
+        },
+        {
+          "n": 48,
+          "texto": "Sêde vós logo perfeitos, como também vosso Pai celestial é perfeito."
+        }
+      ],
+      "notas": {
+        "fn5_1": {
+          "rotulo": "Dizendo",
+          "texto": "Começa aqui a pregação de Jesus Cristo, que durou três anos. O monte em que Jesus fala está situado ao nordeste da cidade de Tiberíades, e é hoje denominado Kurn-Hattin, monte das Bem-aventuranças. Tem cinqüenta metros acima da planície. Êste é de todos os discursos de Cristo, que os evangelistas nos conservaram, o mais extenso de todos e o mais completo. O Sermão do Monte — <em>Oratio Montana</em> — é propriamente o Código do Reino Messiânico, ou seja o código do povo cristão. Abrange os capítulos V-VI-VII."
+        },
+        "fn5_2": {
+          "rotulo": "Bem-aventurados os pobres de espírito",
+          "texto": "Começam aqui as condições ou requisitos dirigidos aos cidadãos do reino Messiânico, sob a forma de sentenças breves e curtas. São as oito bem-aventuranças ou Macarismos. <em>Pobres de espírito</em>: segundo a fôrça do têrmo <em>spiritus</em>, vontade, a expressão <em>pauperes spiritu</em> designa o desprendimento do homem, não só de tudo o que é externo a êle, mas de si próprio; numa palavra só, é a oposição formal consideradamente contrária ao egoísmo."
+        },
+        "fn5_3": {
+          "rotulo": "Bem-aventurados os mansos",
+          "texto": "O pensamento enunciado neste versículo é uma dedução legítima da pobreza de espírito ou humildade enunciada no versículo antecedente. A humildade e a mansidão são precisamente a mesma virtude sob dois aspectos diferentes. O homem é humilde em relação a Deus, e é manso, <em>mitis</em>, para com o próximo."
+        },
+        "fn5_4": {
+          "rotulo": "Bem-aventurados os que choram",
+          "texto": "Uns intérpretes entendem os que choram os seus pecados; S. João Crisóstomo, S. Antônio, S. Cirilo; outros os que choram os alheios, como Cristo chorou sôbre Jerusalém; S. Agostinho e S. Gregório de Nissa."
+        },
+        "fn5_5": {
+          "rotulo": "Bem-aventurados os que têm fome e sêde",
+          "texto": "Fome e sêde é uma fórmula metafórica muito usada na Sagrada Escritura para designar um desejo ardente, veemente e sincero de alguma coisa. <em>De justiça</em>: esta palavra (<em>dikaiosyne</em> no texto grego) significa a justiça intrínseca, a santidade pessoal, o estado de justo."
+        },
+        "fn5_6": {
+          "rotulo": "Bem-aventurados os misericordiosos",
+          "texto": "No texto grego está <em>eleémones</em>, os que dão a esmola; Jesus quer que os cidadãos do seu reino sejam dotados dos melhores sentimentos para com os outros, de sentimentos de amor recíproco; mas quer também que êsses sentimentos não sejam estéreis, e que se traduzam em atos de caridade."
+        },
+        "fn5_7": {
+          "rotulo": "Bem-aventurados os limpos de coração",
+          "texto": "A expressão grega <em>katharoi te kardia</em>, <em>mundi corde</em>, correspondente à hebraica <em>iches lebi</em>, quer dizer, retidão, pureza de intenções, candura, simplicidade de coração."
+        },
+        "fn5_8": {
+          "rotulo": "Bem-aventurados os pacíficos",
+          "texto": "O têrmo grego <em>eirenopoiós</em>, <em>pacificus</em>, significa o que vive em paz consigo e com os seus semelhantes, o que é amigo da paz e que a promove ou restabelece onde ela não existe ou está quebrada."
+        },
+        "fn5_9": {
+          "rotulo": "Bem-aventurados os que padecem perseguição",
+          "texto": "O têrmo de justiça é o mesmo que já encontramos no v. 6 <em>dikaiosyne</em>. É a justiça intrínseca, a justificação e santidade íntima e pessoal. E como Jesus Cristo é propriamente a nossa justificação, por isso no versículo 11, o Salvador não diz — por amor de justiça — mas sim — por meu respeito — <em>propter me</em>."
+        },
+        "fn5_10": {
+          "rotulo": "Vós sois o sal da terra",
+          "texto": "Começa aqui a perícopa que vai até o v. 16, e onde se indicam as autoridades do reino messiânico e se discriminam as suas atribuições. Tem o sal duas propriedades por todos conhecidas; evita e destrói a corrupção, tempera os alimentos. Jesus Cristo faz destas propriedades físicas uma aplicação moral. Os Apóstolos, que são as autoridades do reino messiânico devem evitar e destruir a corrupção."
+        },
+        "fn5_11": {
+          "rotulo": "Vós sois a luz do mundo",
+          "texto": "Depois de lhes ter chamado sal que preserva e depura, Jesus Cristo chama às autoridades de seu reino luz; mas a luz ilumina: também a êles cumpre iluminar os que estão imersos nas densas trevas."
+        },
+        "fn5_12": {
+          "rotulo": "Assim luza a vossa luz",
+          "texto": "Compreende não só a luz da verdade evangélica, cuja pregação era a missão principal dos Apóstolos e seus sucessores, mas também o exemplo — o que com maior clareza se manifesta nos têrmos <em>opera vestra bona</em> (as vossas boas obras) <em>ta kala erga</em>."
+        },
+        "fn5_13": {
+          "rotulo": "No Juízo",
+          "texto": "O juízo era provàvelmente o tribunal que funcionava em cada cidade, composto por vinte e três juízes. Jesus Cristo quer significar que o ódio, a cólera, o desejo de vingança são tão criminosos aos olhos de Deus, como o homicídio."
+        },
+        "fn5_14": {
+          "rotulo": "Réu no conselho / Fogo do inferno",
+          "texto": "<em>Réu no conselho</em>: era o tribunal soberano composto de setenta e dois membros, que julgava em suprema instância os crimes religiosos e políticos.<br><br><em>Fogo do inferno</em>: o que está na Vulgata é <em>gehennae ignis</em>, que Glaire traduz geena de fogo. O nosso geena vem de duas palavras hebraicas designando um vale onde outrora queimaram vítimas humanas."
+        },
+        "fn5_15": {
+          "rotulo": "Os publicanos",
+          "texto": "Eram os que tinham a seu cargo os tributos e impostos. Pompeu, havendo subjugado aos judeus, sessenta anos antes com pouca diferença da vinda de Cristo, os fez tributários. Estavam em muita honra entre os romanos; porém eram tidos por infames entre os Judeus. — <em>Pereira.</em>"
+        }
+      }
+    },
+    {
+      "num": 6,
+      "sumario": "Como havemos de dar a Esmola, e como havemos de Orar. Do bom Espírito do Jejum. Que não devemos ajuntar Tesouros, senão no Céu. Que não podemos servir a dois Senhores. Que não devemos inquietar-nos pelo que havemos de comer, ou vestir.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Guardai-vos não façais as vossas boas obras diante dos homens, com o fim de serdes vistos por êles: Doutra sorte não tereis a recompensa da mão de vosso Pai, que está nos Céus.",
+          "nota": "fn6_1"
+        },
+        {
+          "n": 2,
+          "texto": "Quando pois dás a esmola, não faças tocar a trombeta diante de ti, como praticam os hipócritas nas Sinagogas, e nas ruas, para serem honrados dos homens: Em verdade vos digo, que êles já receberam a sua recompensa."
+        },
+        {
+          "n": 3,
+          "texto": "Mas quando dás a esmola, não saiba a tua esquerda o que faz a tua direita:"
+        },
+        {
+          "n": 4,
+          "texto": "Para que a tua esmola fique escondida, e teu Pai, que vê o que tu fazes em secreto, ta pagará."
+        },
+        {
+          "n": 5,
+          "texto": "E quando orais, não haveis de ser como os hipócritas, que gostam de orar em pé nas Sinagogas, e nos cantos das ruas, para serem vistos dos homens: Em verdade vos digo, que êles já receberam a sua recompensa."
+        },
+        {
+          "n": 6,
+          "texto": "Mas tu quando orares, entra no teu aposento, e, fechada a porta, ora a teu Pai em secreto: E teu Pai, que vê o que se passa em secreto, te dará a paga.",
+          "nota": "fn6_2"
+        },
+        {
+          "n": 7,
+          "texto": "E quando orais não faleis muito, como os gentios: Pois cuidam que pelo seu muito falar serão ouvidos."
+        },
+        {
+          "n": 8,
+          "texto": "Não queirais portanto parecer-vos com êles: Porque vosso Pai sabe o que vos é necessário, primeiro que vós lh'o peçais."
+        },
+        {
+          "n": 9,
+          "texto": "Assim pois é que vós haveis de orar: <em>Padre nosso que estais nos Céus: Santificado seja o vosso nome.</em>"
+        },
+        {
+          "n": 10,
+          "texto": "<em>Venha a nós o vosso reino. Seja feita a vossa vontade, assim na terra, como no céu.</em>"
+        },
+        {
+          "n": 11,
+          "texto": "<em>O pão nosso, necessário à nossa subsistência, nos dai hoje.</em>",
+          "nota": "fn6_3"
+        },
+        {
+          "n": 12,
+          "texto": "<em>E perdoai as nossas dívidas, assim como nós também perdoamos aos nossos devedores.</em>"
+        },
+        {
+          "n": 13,
+          "texto": "<em>E não nos deixeis cair em tentação. Mas livrai-nos do mal, amém.</em>"
+        },
+        {
+          "n": 14,
+          "texto": "Porque se vós perdoardes aos homens as ofensas que tendes dêles: Também vosso Pai celestial vos perdoará os vossos pecados."
+        },
+        {
+          "n": 15,
+          "texto": "Mas se não perdoardes aos homens: Tampouco vosso Pai vos perdoará os vossos pecados."
+        },
+        {
+          "n": 16,
+          "texto": "E quando jejuais, não vos ponhais tristes como os hipócritas: Porque êles desfiguram os seus rostos, para fazer ver aos homens, que jejuam. Na verdade vos digo, que já receberam a sua recompensa."
+        },
+        {
+          "n": 17,
+          "texto": "Mas tu, quando jejuas, unge a tua cabeça, e lava o teu rosto."
+        },
+        {
+          "n": 18,
+          "texto": "A fim de que não pareças aos homens que jejuas, mas somente a teu Pai que está presente a tudo o que há de mais secreto; E teu Pai que vê o que se passa em secreto te dará a paga."
+        },
+        {
+          "n": 19,
+          "texto": "Não queirais entesourar para vós tesouros na terra: Onde a ferrugem, e a traça os consome: E onde os ladrões os desenterram, e roubam."
+        },
+        {
+          "n": 20,
+          "texto": "Mas entesourai para vós tesouros no Céu: Onde não os consome a ferrugem, nem a traça, e onde os ladrões não os desenterram, nem roubam."
+        },
+        {
+          "n": 21,
+          "texto": "Porque onde está o teu tesouro, aí está também o teu coração."
+        },
+        {
+          "n": 22,
+          "texto": "O teu ôlho é a luz do teu corpo. Se o teu ôlho fôr simples: Todo o teu corpo será luminoso.",
+          "nota": "fn6_4"
+        },
+        {
+          "n": 23,
+          "texto": "Mas se o teu ôlho for mau: Todo o teu corpo estará em trevas. Se pois a luz, que em ti há, são trevas: Quão grandes não serão essas mesmas trevas?"
+        },
+        {
+          "n": 24,
+          "texto": "Ninguém pode servir a dois senhores: Porque ou há de aborrecer um, e amar outro: Ou há de acomodar-se a êste, e desprezar aquêle. Não podeis servir a Deus, e às riquezas."
+        },
+        {
+          "n": 25,
+          "texto": "Portanto vos digo, não andeis cuidadosos da vossa vida, que comereis, nem para o vosso corpo, que vestireis. Não é mais a alma que a comida? E o corpo mais que o vestido?"
+        },
+        {
+          "n": 26,
+          "texto": "Olhai para as aves do Céu, que não semeiam, nem segam, nem fazem provimentos nos celeiros: E contudo vosso Pai celestial as sustenta. Porventura não sois vós muito mais do que elas?"
+        },
+        {
+          "n": 27,
+          "texto": "E qual de vós discorrendo pode acrescentar um côvado à sua estatura?"
+        },
+        {
+          "n": 28,
+          "texto": "E por que andais vós solícitos pelo vestido? Considerai como crescem os lírios do campo: Êles não trabalham, nem fiam."
+        },
+        {
+          "n": 29,
+          "texto": "Digo-vos mais, que nem Salomão em tôda a sua glória se cobriu jamais como um dêstes."
+        },
+        {
+          "n": 30,
+          "texto": "Pois se ao feno do campo, que hoje é, e amanhã é lançado no forno, Deus veste assim: Quanto mais a vós, homens de pouca fé?"
+        },
+        {
+          "n": 31,
+          "texto": "Não vos aflijais pois, dizendo: Que comeremos, ou que beberemos, ou com que nos cobriremos?"
+        },
+        {
+          "n": 32,
+          "texto": "Porque os gentios é que se cansam por estas coisas. Porquanto vosso Pai sabe que tendes necessidade de todas elas."
+        },
+        {
+          "n": 33,
+          "texto": "Buscai pois primeiramente o reino de Deus, e a sua justiça: E tôdas estas coisas se vos acrescentarão."
+        },
+        {
+          "n": 34,
+          "texto": "E assim não andeis inquietos pelo dia de amanhã. Porque o dia de amanhã a si mesmo trará seu cuidado: Ao dia basta a sua própria aflição."
+        }
+      ],
+      "notas": {
+        "fn6_1": {
+          "rotulo": "Guardai-vos",
+          "texto": "Condena-se aqui a hipocrisia e a vaidade na prática das obras meritórias."
+        },
+        "fn6_2": {
+          "rotulo": "Entra no teu aposento",
+          "texto": "Jesus Cristo não proíbe as orações públicas, que se fazem nas assembléias dos fiéis, pois que Êle mesmo diz que estará no meio de dois ou três que se reunam para orar em seu nome, mas quer que nas orações particulares e de simples devoção cada um se retire para rezar com mais recolhimento e evitar qualquer ostentação."
+        },
+        "fn6_3": {
+          "rotulo": "Necessário à nossa subsistência",
+          "texto": "Seguimos a tradução de Glaire: <em>Donnez-nous aujourd'hui le pain nécessaire à notre subsistance.</em>"
+        },
+        "fn6_4": {
+          "rotulo": "O teu ôlho",
+          "texto": "Pelo ôlho entende Santo Agostinho, com êle Santo Izidoro, a intenção com que obramos; pelo corpo as obras que fazemos. E chama-se ôlho simples o que é de todo puro e limpo."
+        }
+      }
+    },
+    {
+      "num": 7,
+      "sumario": "Condenam-se os Juízos Temerários. Que se não devem dar as Coisas Santas aos Cães. Que todo o que pede, e busca, e bate à Porta, Deus o ouve. Que é estreita a Porta por onde se entra no Céu. Como se hão de conhecer os Profetas Falsos. Como se há de ouvir a Palavra de Deus.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Não queirais julgar, para que não sejais julgados."
+        },
+        {
+          "n": 2,
+          "texto": "Pois com o juízo com que julgardes, sereis julgados: E com a medida com que medirdes, vos medirão também a vós."
+        },
+        {
+          "n": 3,
+          "texto": "Por que vês tu pois a aresta no ôlho de teu irmão: E não vês a trave no teu ôlho?",
+          "nota": "fn7_1"
+        },
+        {
+          "n": 4,
+          "texto": "Ou como dizes a teu irmão: Deixa-me tirar-te do ôlho uma aresta: Quando tu tens no teu uma trave?"
+        },
+        {
+          "n": 5,
+          "texto": "Hipócrita, tira primeiro a trave do teu ôlho, e então verás como hás de tirar a aresta do ôlho de teu irmão."
+        },
+        {
+          "n": 6,
+          "texto": "Não deis aos cães o que é santo: Nem lanceis aos porcos as vossas pérolas, para que não suceda que êles lhes ponham os pés em cima, e tornando-se contra vós vos despedacem.",
+          "nota": "fn7_2"
+        },
+        {
+          "n": 7,
+          "texto": "Pedi, e dar-se-vos-á: Buscai, e achareis: Batei, e abrir-se-vos-á."
+        },
+        {
+          "n": 8,
+          "texto": "Porque todo o que pede, recebe: E o que busca, acha: E a quem bate, abrir-se-á."
+        },
+        {
+          "n": 9,
+          "texto": "Ou qual de vós porventura é o homem que se seu filho lhe pedir pão, lhe dará uma pedra?"
+        },
+        {
+          "n": 10,
+          "texto": "Ou porventura, se lhe pedir um peixe, lhe dará uma serpente?"
+        },
+        {
+          "n": 11,
+          "texto": "Pois se vós outros sendo maus, sabeis dar boas dádivas a vossos filhos: Quanto mais vosso pai, que está nos Céus, dará bens aos que lhos pedirem?"
+        },
+        {
+          "n": 12,
+          "texto": "E assim tudo o que vós quereis que vos façam os homens, fazei-o também vós a êles. Porque esta é a lei, e os profetas."
+        },
+        {
+          "n": 13,
+          "texto": "Entrai pela porta estreita: Porque larga é a porta, e espaçoso o caminho que guia para a perdição, e muitos são os que entram por ela."
+        },
+        {
+          "n": 14,
+          "texto": "Que estreita é a porta, e que apertado o caminho, que guia para a vida: E que poucos são os que acertam com êle!"
+        },
+        {
+          "n": 15,
+          "texto": "Guardai-vos dos falsos profetas, que vêm a vós com vestidos de ovelhas, e dentro são lôbos roubadores:",
+          "nota": "fn7_3"
+        },
+        {
+          "n": 16,
+          "texto": "Pelos seus frutos os conhecereis. Porventura os homens colhem uvas dos espinhos, ou figos dos abrolhos?"
+        },
+        {
+          "n": 17,
+          "texto": "Assim tôda a árvore boa dá bons frutos: E a má árvore dá maus frutos:"
+        },
+        {
+          "n": 18,
+          "texto": "Não pode a árvore boa dar maus frutos: Nem a árvore má dar bons frutos:",
+          "nota": "fn7_4"
+        },
+        {
+          "n": 19,
+          "texto": "Tôda a árvore, que não dá bom fruto, será cortada e metida no fogo."
+        },
+        {
+          "n": 20,
+          "texto": "Assim pois pelos frutos dêles os conhecereis."
+        },
+        {
+          "n": 21,
+          "texto": "Nem todo o que me diz: Senhor, Senhor, entrará no reino dos Céus: Mas sim o que faz a vontade de meu Pai, que está nos Céus, êsse entrará no reino dos Céus."
+        },
+        {
+          "n": 22,
+          "texto": "Muitos me dirão naquele dia: Senhor, Senhor, não é assim que profetizamos em teu nome, e em teu nome expelimos os demônios, e em teu nome obramos muitos prodígios?"
+        },
+        {
+          "n": 23,
+          "texto": "E eu então lhes direi em voz bem inteligível: Pois eu nunca vos conheci: Apartai-vos de mim, os que obrais a iniqüidade."
+        },
+        {
+          "n": 24,
+          "texto": "Todo aquêle pois que ouve estas minhas palavras, e as observa, será comparado ao homem sábio, que edificou a sua casa sôbre rocha."
+        },
+        {
+          "n": 25,
+          "texto": "E veio a chuva, e transbordaram os rios, e assopraram os ventos, e combateram aquela casa, e ela não caiu: Porque estava fundada sôbre a rocha."
+        },
+        {
+          "n": 26,
+          "texto": "E todo o que ouve estas minhas palavras, e as não observa, será comparado ao homem sem consideração, que edificou a sua casa sôbre areia:"
+        },
+        {
+          "n": 27,
+          "texto": "E veio a chuva, e trasbordaram os rios, e assopraram os ventos, e combateram aquela casa e ela caiu, e foi grande a sua ruína."
+        },
+        {
+          "n": 28,
+          "texto": "E aconteceu que, tendo acabado Jesus êste discurso, estava o povo admirado da sua doutrina."
+        },
+        {
+          "n": 29,
+          "texto": "Porque êle os ensinava como quem tinha autoridade, e não como os escribas dêles, e os fariseus."
+        }
+      ],
+      "notas": {
+        "fn7_1": {
+          "rotulo": "Por que vês tu pois a aresta",
+          "texto": "Jesus Cristo não tira aqui o poder de julgar, nos que estão estabelecidos para corrigir e castigar aos que pecam. Condena sim o juízo, que fazemos temerariamente dos nossos irmãos, quando por menos consideração, por preocupação, ou por malignidade julgamos da sua conduta, dos seus sentimentos e das suas intenções."
+        },
+        "fn7_2": {
+          "rotulo": "Nem lanceis aos porcos",
+          "texto": "Assim como não é permitido dar às pessoas impuras, e muito menos aos animais, as vítimas que se oferecem a Deus, da mesma sorte não convém que se anuncie a palavra de Deus, ou se comuniquem as suas graças, aos que as desprezam. — <em>Amelote.</em>"
+        },
+        "fn7_3": {
+          "rotulo": "Falsos profetas",
+          "texto": "Os hebreus davam a designação de profetas não só aos que prediziam o futuro, mas àqueles que interpretavam a Escritura. Sob a denominação de falsos profetas entendem os falsos doutores judeus e cristãos."
+        },
+        "fn7_4": {
+          "rotulo": "A árvore má dá bons frutos",
+          "texto": "O homem mau corrompe e perverte com os seus maus conselhos, e sobretudo com os péssimos exemplos, levando a corrupção ao coração dos outros."
+        }
+      }
+    },
+    {
+      "num": 8,
+      "sumario": "Sara Jesus Cristo um Leproso. Admira, e louva a Fé do Centurião. Cura a Sogra de Pedro. Expele os Demônios. Manda a um que o siga, e que se deixe de ir enterrar seu Pai. Faz serenar uma Tempestade no Mar. Permite aos Demônios que saiam de um Possesso, e que se vão meter numa Manada de Porcos.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "E depois que Jesus desceu do monte, foi muita a gente do povo que o seguiu:"
+        },
+        {
+          "n": 2,
+          "texto": "E eis-que vindo um leproso, o adorava, dizendo: Se tu queres, Senhor, bem me podes limpar.",
+          "nota": "fn8_1"
+        },
+        {
+          "n": 3,
+          "texto": "E Jesus estendendo a mão, tocou-o, dizendo: Pois eu quero. Fica limpo. E logo ficou limpa tôda a sua lepra.",
+          "nota": "fn8_2"
+        },
+        {
+          "n": 4,
+          "texto": "Então lhe disse Jesus: Vê não o digas a alguém: Mas vai, mostra-te ao sacerdote, e faze a oferta que ordenou Moisés, para lhes servir de testemunho a êles.",
+          "nota": "fn8_3"
+        },
+        {
+          "n": 5,
+          "texto": "Tendo porém entrado em Cafarnaum, chegou-se a êle um centurião, fazendo-lhe esta súplica,",
+          "nota": "fn8_4"
+        },
+        {
+          "n": 6,
+          "texto": "e dizendo: Senhor, o meu criado jaz em casa doente de uma paralisia, e padece muito com ela.",
+          "nota": "fn8_5"
+        },
+        {
+          "n": 7,
+          "texto": "Respondeu-lhe então Jesus: Eu irei, e o curarei."
+        },
+        {
+          "n": 8,
+          "texto": "E respondendo o centurião, disse: Senhor, eu não sou digno de que entres na minha casa: Porém manda-o só com a tua palavra, e o meu criado será salvo."
+        },
+        {
+          "n": 9,
+          "texto": "Pois também eu sou homem sujeito a outro, que tenho soldados às minhas ordens e digo a um: Vai acolá, e êle vai: E a outro: Vem cá, e êle vem: E ao meu servo: Faze isto, e êle o faz."
+        },
+        {
+          "n": 10,
+          "texto": "E Jesus, ouvindo-o assim falar, admirou-se e disse para os que o seguiam: Em verdade vos afirmo, que não achei tamanha fé em Israel.",
+          "nota": "fn8_6"
+        },
+        {
+          "n": 11,
+          "texto": "Digo-vos, porém, que virão muitos do Oriente, e do Ocidente, e que terão lugar com Abraão, e Isaac e Jacó no reino dos Céus."
+        },
+        {
+          "n": 12,
+          "texto": "Mas que os filhos do reino serão lançados nas trevas exteriores: Ali haverá chôro, e ranger de dentes."
+        },
+        {
+          "n": 13,
+          "texto": "Então disse Jesus ao centurião: Vai, e faça-se-te segundo tu crêste. E naquela mesma hora ficou são o criado."
+        },
+        {
+          "n": 14,
+          "texto": "E tendo chegado Jesus à casa de Pedro, viu que a sogra dele estava de cama, e com febre:"
+        },
+        {
+          "n": 15,
+          "texto": "E tocou-lhe na mão, e a febre a deixou, e ela se levantou, e se pôs a servi-los."
+        },
+        {
+          "n": 16,
+          "texto": "Sôbre a tarde porém lhe puseram diante muitos endemoninhados: E êle com a sua palavra expelia os espíritos: E curou todos os enfermos:"
+        },
+        {
+          "n": 17,
+          "texto": "Para se cumprir o que estava anunciado pelo profeta Isaías, que diz: Êle mesmo tomou as nossas enfermidades: E carregou com as nossas doenças."
+        },
+        {
+          "n": 18,
+          "texto": "Ora vendo-se Jesus rodeado de muito povo, mandou-lhes que passassem para a banda dalém do lago."
+        },
+        {
+          "n": 19,
+          "texto": "Então chegando-se a êle um escriba, lhe disse: Mestre, eu seguir-te-ei para onde quer que fôres."
+        },
+        {
+          "n": 20,
+          "texto": "Ao que Jesus lhe respondeu: As rapôsas têm covas, e as aves do Céu, ninhos: Porém o Filho do homem não tem onde reclinar a cabeça."
+        },
+        {
+          "n": 21,
+          "texto": "E outro de seus discípulos lhe disse: Senhor, deixa-me ir primeiro a enterrar meu pai."
+        },
+        {
+          "n": 22,
+          "texto": "Mas Jesus lhe respondeu: Segue-me e deixa que os mortos sepultem os seus mortos."
+        },
+        {
+          "n": 23,
+          "texto": "E entrando êle numa barca, o seguiram seus discípulos:"
+        },
+        {
+          "n": 24,
+          "texto": "E eis-que sobreveio no mar uma grande tempestade, de modo que a barca se cobria das ondas, e entretanto êle dormia."
+        },
+        {
+          "n": 25,
+          "texto": "Então se chegaram a êle seus discípulos, e o acordaram, dizendo: Senhor, salva-nos, que perecemos."
+        },
+        {
+          "n": 26,
+          "texto": "E Jesus lhes disse: Por que temeis, homens de pouca fé? E levantando-se, pôs preceito ao mar, e aos ventos, e logo se seguiu uma grande bonança."
+        },
+        {
+          "n": 27,
+          "texto": "E os homens se admiraram, dizendo: Quem é êste que os ventos e o mar lhe obedecem?"
+        },
+        {
+          "n": 28,
+          "texto": "E quando Jesus passou à outra parte do lago, ao país dos gerasenos, vieram-lhe ao encontro dois endemoninhados, que saíam dos sepulcros, em extremo furiosos, de tal maneira que ninguém ousava passar por aquêles caminhos.",
+          "nota": "fn8_7"
+        },
+        {
+          "n": 29,
+          "texto": "E gritaram logo ambos, dizendo: Que temos nós contigo, Jesus, Filho de Deus? Vieste aqui atormentar-nos antes de tempo?"
+        },
+        {
+          "n": 30,
+          "texto": "Ora em alguma distância dêles andava uma manada de muitos porcos pastando."
+        },
+        {
+          "n": 31,
+          "texto": "E os demônios o rogavam, dizendo: Se nos lanças daqui, manda-nos para a manada dos porcos."
+        },
+        {
+          "n": 32,
+          "texto": "E êle lhes disse: Ide. E saindo êles se foram aos porcos, e no mesmo ponto tôda a manada correu impetuosamente por um despenhadeiro a precipitar-se no mar: E morreram afogados nas águas."
+        },
+        {
+          "n": 33,
+          "texto": "E os pastôres fugiram: E vindo à cidade, contaram tudo, e o sucesso dos que tinham sido endemoninhados."
+        },
+        {
+          "n": 34,
+          "texto": "E logo tôda a cidade saiu a encontrar-se com Jesus: E quando o viram, pediram-lhe que se retirasse do seu têrmo."
+        }
+      ],
+      "notas": {
+        "fn8_1": {
+          "rotulo": "Um leproso",
+          "texto": "A lepra era muito vulgar na Palestina. O que sofria desta horrível enfermidade incorria nas impurezas legais."
+        },
+        "fn8_2": {
+          "rotulo": "E logo ficou",
+          "texto": "A ação imediata do poder de Deus, transcendendo as fôrças da natureza."
+        },
+        "fn8_3": {
+          "rotulo": "Não o digas a alguém / Mostra-te ao sacerdote",
+          "texto": "Jesus impõe êste silêncio pelas seguintes razões: 1.º Por modéstia, a fim de nos ensinar a evitar a publicidade das nossas obras meritórias. 2.º Por prudência, para que se não excitasse o ódio dos seus inimigos.<br><br><em>Mostra-te ao sacerdote</em>: Jesus Cristo curou o leproso por um ato libérrimo da sua divina vontade, envia porém o leproso ao sacerdote para que êle respeitasse a lei, que proibia aos leprosos aproximarem-se do povo, Lev 14, 2."
+        },
+        "fn8_4": {
+          "rotulo": "Um centurião",
+          "texto": "Êste era um oficial do exército, o capitão de cem soldados. As Legiões Romanas eram mandadas por Tribunos, que correspondem aos nossos coronéis, e repartidas em companhias de cem homens, donde veio o nome de centuriões aos seus capitães."
+        },
+        "fn8_5": {
+          "rotulo": "E padece muito com ela",
+          "texto": "A paralisia nem sempre priva o enfermo da sensibilidade; pode haver a falta do movimento e existir sensibilidade. Assim êste paralítico podia sofrer extremamente, mesmo nas partes paralisadas."
+        },
+        "fn8_6": {
+          "rotulo": "Não achei tamanha fé em Israel",
+          "texto": "Na verdade o discurso procedente do centurião traduz uma confiança ilimitada em Jesus, a quem pedia auxílio, não como homem, pois não se considera digno de que Jesus entre em sua casa, mas como Deus, que tudo pode."
+        },
+        "fn8_7": {
+          "rotulo": "Que saíam dos sepulcros",
+          "texto": "Eram êstes muito espaçosos, e como umas grandes grutas, ou cavernas, como se vê em muitos lugares da Escritura. Distavam das cidades, e dos povoados, para que os cadáveres não infeccionassem o ar com a sua corrupção, e porque os que se chegavam a êles ficavam impuros, segundo a lei. Num 19, 11."
+        }
+      }
+    },
+    {
+      "num": 9,
+      "sumario": "Sara Jesus Cristo um Paralítico. Declara o Poder que tem de perdoar Pecados. Chama a Mateus. Murmuração dos Fariseus, por verem comer o Senhor com os Pecadores. Cura uma Mulher, que padecia um Fluxo de Sangue, e ressuscita uma Menina. Dá vista a dois Cegos, e fala a um Endemoninhado Mudo.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Entrando em uma barca, passou à outra banda, e foi à sua cidade.",
+          "nota": "fn9_1"
+        },
+        {
+          "n": 2,
+          "texto": "E eis-que lhe apresentaram um paralítico, que jazia em um leito. E vendo Jesus a fé dêles, disse ao paralítico: Filho, tem confiança, perdoados te são teus pecados.",
+          "nota": "fn9_2"
+        },
+        {
+          "n": 3,
+          "texto": "E logo alguns dos escribas disseram dentro de si: Êste blasfema."
+        },
+        {
+          "n": 4,
+          "texto": "E como visse Jesus os pensamentos dêles, disse: Por que cogitais mal nos vossos corações?"
+        },
+        {
+          "n": 5,
+          "texto": "Que coisa é mais fácil dizer: Perdoados te são teus pecados, ou dizer: Levanta-te, e anda?"
+        },
+        {
+          "n": 6,
+          "texto": "Pois para que saibais que o Filho do homem tem poder sôbre a terra de perdoar pecados, disse êle então ao paralítico: Levanta-te, toma o teu leito, e vai para tua casa."
+        },
+        {
+          "n": 7,
+          "texto": "E êle se levantou, e foi para sua casa."
+        },
+        {
+          "n": 8,
+          "texto": "E vendo isto as gentes, temeram, e glorificaram a Deus, que deu tal poder aos homens."
+        },
+        {
+          "n": 9,
+          "texto": "E passando Jesus dali, viu um homem que estava sentado no Telônio, chamado Mateus. E lhe disse: Segue-me. E levantando-se êle, o seguiu.",
+          "nota": "fn9_3"
+        },
+        {
+          "n": 10,
+          "texto": "E aconteceu que estando Jesus sentado à mesa numa casa, eis-que vindo muitos publicanos, e pecadores, se sentaram a comer com êle, e com os seus discípulos.",
+          "nota": "fn9_4"
+        },
+        {
+          "n": 11,
+          "texto": "E vendo isto os fariseus diziam aos seus discípulos: Por que come o vosso mestre com os publicanos, e pecadores?"
+        },
+        {
+          "n": 12,
+          "texto": "Mas ouvindo-os Jesus, disse: Os sãos não têm necessidade de médico, mas sim os enfermos."
+        },
+        {
+          "n": 13,
+          "texto": "Ide pois e aprendei o que quer dizer: Misericórdia quero, e não sacrifício. Porquanto eu não vim a chamar os justos, mas os pecadores."
+        },
+        {
+          "n": 14,
+          "texto": "Então vieram ter com êle os discípulos de João, dizendo: Qual é a razão por que nós, e os fariseus jejuamos com freqüência, e os teus discípulos não jejuam?"
+        },
+        {
+          "n": 15,
+          "texto": "E Jesus lhes disse: Porventura podem estar tristes os filhos do espôso? mas virão dias em que lhes será tirado o espôso: E então êles jejuarão.",
+          "nota": "fn9_5"
+        },
+        {
+          "n": 16,
+          "texto": "E ninguém deita remendo de pano novo em vestido velho: Porque leva quanto alcança do vestido: E se faz maior a ruptura."
+        },
+        {
+          "n": 17,
+          "texto": "Nem deitam vinho novo em odres velhos: Doutra maneira rebentam os odres, e se vai o vinho, e se perdem os odres: Mas deitam vinho novo em odres novos: E assim ambas as coisas se conservam.",
+          "nota": "fn9_6"
+        },
+        {
+          "n": 18,
+          "texto": "Dizendo-lhes êle estas coisas, eis-que um príncipe se chegou a êle, e o adorou, dizendo: Senhor, agora acaba de expirar minha filha: Mas vem tu, põe a tua mão sôbre ela, e viverá.",
+          "nota": "fn9_7"
+        },
+        {
+          "n": 19,
+          "texto": "E Jesus levantando-se o foi seguindo com seus discípulos."
+        },
+        {
+          "n": 20,
+          "texto": "E eis-que uma mulher, que havia doze anos padecia um fluxo de sangue, se chegou por detrás dêle, e lhe tocou a ourela do vestido.",
+          "nota": "fn9_8"
+        },
+        {
+          "n": 21,
+          "texto": "Porque ia dizendo dentro de si: Se eu tocar, ainda que seja sòmente o seu vestido, serei curada."
+        },
+        {
+          "n": 22,
+          "texto": "E voltando-se Jesus, e vendo-a, disse: Tem confiança, filha, a tua fé te sarou. E ficou sã a mulher desde aquela hora."
+        },
+        {
+          "n": 23,
+          "texto": "E depois que Jesus chegou à casa daquele príncipe, e viu os tocadores de flautas, e uma multidão de gente, que fazia reboliço, disse:",
+          "nota": "fn9_9"
+        },
+        {
+          "n": 24,
+          "texto": "Retirai-vos: Porque a menina não está morta, mas dorme. E êles o escarneciam.",
+          "nota": "fn9_10"
+        },
+        {
+          "n": 25,
+          "texto": "E tendo saído a gente, entrou Jesus: E a tomou pela mão. E a menina se levantou."
+        },
+        {
+          "n": 26,
+          "texto": "E correu esta fama por tôda aquela terra."
+        },
+        {
+          "n": 27,
+          "texto": "Passando Jesus daquele lugar, o seguiram dois cegos, gritando, e dizendo: Tem misericórdia de nós, filho de Davi."
+        },
+        {
+          "n": 28,
+          "texto": "E chegando à casa vieram a êle os cegos. E Jesus lhes disse: Credes que vos posso fazer isto a vós outros? Disseram êles: Sim, Senhor."
+        },
+        {
+          "n": 29,
+          "texto": "Então lhes tocou os olhos, dizendo: Faça-se-vos segundo a vossa fé."
+        },
+        {
+          "n": 30,
+          "texto": "Imediatamente foram abertos os seus olhos: E Jesus os ameaçou, dizendo: Vêde lá que o não saiba alguém."
+        },
+        {
+          "n": 31,
+          "texto": "Mas êles, saindo dali, divulgaram por tôda aquela terra o seu nome."
+        },
+        {
+          "n": 32,
+          "texto": "Depois que saíram, lhe apresentaram um homem mudo, possuído do demônio."
+        },
+        {
+          "n": 33,
+          "texto": "E depois que foi expelido o demônio, falou o mudo, e se admiraram as gentes, dizendo: Nunca tal se viu em Israel."
+        },
+        {
+          "n": 34,
+          "texto": "Porém os fariseus diziam: Êle em virtude do príncipe dos demônios lança fora os demônios."
+        },
+        {
+          "n": 35,
+          "texto": "Entretanto ia Jesus dando volta por tôdas as cidades, e aldeias, ensinando nas sinagogas dêles, e pregando o evangelho do reino, e curando tôda a doença, e tôda a enfermidade."
+        },
+        {
+          "n": 36,
+          "texto": "E olhando para aquelas gentes, se compadeceu delas: Porque estavam fatigadas, e quebrantadas como ovelhas que não têm pastor."
+        },
+        {
+          "n": 37,
+          "texto": "Então disse a seus discípulos: A seara verdadeiramente é grande, mas os obreiros poucos."
+        },
+        {
+          "n": 38,
+          "texto": "Rogai pois ao Senhor da seara, que envie obreiros à sua seara."
+        }
+      ],
+      "notas": {
+        "fn9_1": {
+          "rotulo": "E foi à sua cidade",
+          "texto": "A Cafarnaum, onde costumava habitar."
+        },
+        "fn9_2": {
+          "rotulo": "A fé dêles",
+          "texto": "A do paralítico, e a dos que o traziam."
+        },
+        "fn9_3": {
+          "rotulo": "Que estava sentado no Telônio",
+          "texto": "Telônio se chamava a mesa, e o lugar onde se cobravam as rendas públicas."
+        },
+        "fn9_4": {
+          "rotulo": "Numa casa",
+          "texto": "Isto é, em casa do mesmo S. Mateus, como consta de Mc 2, 15, e de Lc 5, 29."
+        },
+        "fn9_5": {
+          "rotulo": "Os filhos do espôso",
+          "texto": "É um hebraísmo e assim os filhos do Espôso não querem dizer outra coisa mais, que os seus amigos, ou companheiros; havendo alusão ao costume que havia antigamente, de dar aos que se casavam alguns mancebos, que os acompanhassem em todas as cerimônias da sua boda, e estes eram os chamados 'filhos do Espôso'."
+        },
+        "fn9_6": {
+          "rotulo": "Odres",
+          "texto": "Os orientais serviam-se vulgarmente de odres de pele de cabra e de camelo para conservar o vinho."
+        },
+        "fn9_7": {
+          "rotulo": "Um príncipe",
+          "texto": "Da Sinagoga, por nome Jairo. Lc 8, 41. Chama-se pois príncipe da Sinagoga, porque presidia à Sinagoga."
+        },
+        "fn9_8": {
+          "rotulo": "Eis-que uma mulher",
+          "texto": "Eusébio de Cesaréia, na sua história, diz que esta mulher era de Panéias, cidade da Fenícia, chamada por fim Cesaréia Filipe. Diz que no seu tempo existiam diante da porta de sua casa duas estátuas de bronze, representando uma a mulher numa atitude suplicante, e a outra Jesus Cristo estendendo a sua destra."
+        },
+        "fn9_9": {
+          "rotulo": "Tocadores de flautas",
+          "texto": "Acompanhavam com as carpideiras os funerais. Cfr. Jer 9, 17."
+        },
+        "fn9_10": {
+          "rotulo": "Mas dorme",
+          "texto": "Jesus Cristo diz que a filha de Jairo dorme, no mesmo sentido em que mais tarde disse a Lázaro: Vai revocá-lo à vida, com a mesma facilidade com que desperta o que esteja dormindo."
+        }
+      }
+    },
+    {
+      "num": 10,
+      "sumario": "Envia Jesus Cristo os doze Discípulos a pregar, instrui-os. Descrevem-se os seus Nomes. Exorta-os a padecer e sofrer. Diz-lhes que não viera ao Mundo trazer Paz, mas trazer Guerra. Que é necessário confessá-lo diante dos Homens.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Então, convocados os seus doze discípulos, deu-lhes Jesus poder sôbre os espíritos imundos, para os expelirem, e para curarem tôdas as doenças, e tôdas as enfermidades."
+        },
+        {
+          "n": 2,
+          "texto": "Ora os nomes dos doze Apóstolos são êstes: O primeiro, Simão, que se chama Pedro, e André seu irmão."
+        },
+        {
+          "n": 3,
+          "texto": "Tiago, filho de Zebedeu, e João seu irmão, Filipe, e Bartolomeu, Tomé, e Mateus, o Publicano, Tiago, filho de Alfeu e Tadeu.",
+          "nota": "fn10_1"
+        },
+        {
+          "n": 4,
+          "texto": "Simão Cananeu e Judas Iscariotes, que foi o que o entregou.",
+          "nota": "fn10_2"
+        },
+        {
+          "n": 5,
+          "texto": "A êstes doze enviou Jesus, dando-lhes estas instruções, dizendo: Não ireis caminho de gentios, nem entreis nas cidades dos samaritanos."
+        },
+        {
+          "n": 6,
+          "texto": "Mas ide antes às ovelhas, que pereceram da casa de Israel."
+        },
+        {
+          "n": 7,
+          "texto": "E pondo-vos a caminho pregai, dizendo: Que está próximo o reino dos Céus:"
+        },
+        {
+          "n": 8,
+          "texto": "Curai os enfermos, ressuscitai os mortos, limpai os leprosos, expeli os demônios: Dai de graça o que de graça recebestes."
+        },
+        {
+          "n": 9,
+          "texto": "Não possuais ouro, nem prata, nem tragais dinheiro nas vossas cintas:"
+        },
+        {
+          "n": 10,
+          "texto": "Nem alforje para o caminho, nem duas túnicas, nem calçado, nem bordão; porque digno é o trabalhador do seu alimento.",
+          "nota": "fn10_3"
+        },
+        {
+          "n": 11,
+          "texto": "E em qualquer cidade, ou aldeia, em que entrardes, informai-vos de quem há nela digno: E ficai aí até que vos retireis.",
+          "nota": "fn10_4"
+        },
+        {
+          "n": 12,
+          "texto": "E ao entrardes na casa, saudai-a, dizendo: Paz seja nesta casa."
+        },
+        {
+          "n": 13,
+          "texto": "E se aquela casa na realidade o merecer, virá sôbre ela a vossa paz: E se o não merecer, tornará para vós a vossa paz."
+        },
+        {
+          "n": 14,
+          "texto": "Sucedendo não vos querer alguém em casa, nem ouvir o que dizeis: Ao sair para fora de casa, ou da cidade, sacudi o pó de vossos pés."
+        },
+        {
+          "n": 15,
+          "texto": "Em verdade vos afirmo isto: Menos rigor experimentará no dia do Juízo a terra de Sodoma, e de Gomorra, do que aquela cidade."
+        },
+        {
+          "n": 16,
+          "texto": "Vêde que eu vos mando como ovelhas no meio de lôbos. Sêde logo prudentes como as serpentes, e simples como as pombas."
+        },
+        {
+          "n": 17,
+          "texto": "Mas guardai-vos dos homens: Porque êles vos farão comparecer nos seus juízos; e vos farão açoutar nas suas sinagogas:",
+          "nota": "fn10_5"
+        },
+        {
+          "n": 18,
+          "texto": "E vós sereis levados por meu respeito à presença dos governadores, e dos reis, para lhes servirdes a êles, e aos gentios de testemunho.",
+          "nota": "fn10_6"
+        },
+        {
+          "n": 19,
+          "texto": "E quando vos levarem, não cuideis como ou o que haveis de falar: Porque naquela hora vos será inspirado o que haveis de dizer:",
+          "nota": "fn10_7"
+        },
+        {
+          "n": 20,
+          "texto": "Porque não sois vós os que falais, mas o espírito de vosso Pai é o que falará em vós."
+        },
+        {
+          "n": 21,
+          "texto": "E um irmão entregará à morte a outro irmão, e o pai ao filho: E os filhos se levantarão contra os pais, e lhes darão a morte:",
+          "nota": "fn10_8"
+        },
+        {
+          "n": 22,
+          "texto": "E vós por causa do meu nome sereis o ódio de todos: Aquele porém que perseverar até ao fim, êsse é o que será salvo."
+        },
+        {
+          "n": 23,
+          "texto": "Quando porém vos perseguirem numa cidade, fugi para outra. Em verdade vos afirmo, que não acabareis de correr as cidades de Israel, sem que venha o Filho do homem."
+        },
+        {
+          "n": 24,
+          "texto": "Não é o discípulo mais que seu mestre, nem o servo mais que seu senhor."
+        },
+        {
+          "n": 25,
+          "texto": "Basta ao discípulo ser como seu mestre: E ao servo como seu senhor. Se êles chamaram Belzebu ao pai de família: Quanto mais aos seus domésticos?"
+        },
+        {
+          "n": 26,
+          "texto": "Pois não os temais: Porque nada há encoberto, que se não venha a descobrir: Nem oculto, que se não venha a saber."
+        },
+        {
+          "n": 27,
+          "texto": "O que eu vos digo às escuras, dizei-o às claras: E o que se vos diz ao ouvido, publicai-o dos telhados.",
+          "nota": "fn10_9"
+        },
+        {
+          "n": 28,
+          "texto": "E não temais aos que matam o corpo, e não podem matar a alma: Temei antes porém ao que pode lançar no inferno tanto a alma como o corpo."
+        },
+        {
+          "n": 29,
+          "texto": "Porventura não se vendem dois passarinhos por um asse: E um dêles não cairá sôbre a terra sem vosso Pai?",
+          "nota": "fn10_10"
+        },
+        {
+          "n": 30,
+          "texto": "E até os mesmos cabelos da vossa cabeça todos êles estão contados."
+        },
+        {
+          "n": 31,
+          "texto": "Não temais pois: Que mais valeis vós que muitos pássaros."
+        },
+        {
+          "n": 32,
+          "texto": "Todo aquele pois que me confessar diante dos homens, também eu o confessarei diante do meu Pai que está nos Céus:"
+        },
+        {
+          "n": 33,
+          "texto": "E o que me negar diante dos homens, também eu o negarei diante do meu Pai que está nos Céus."
+        },
+        {
+          "n": 34,
+          "texto": "Não julgueis que vim trazer paz à terra: Não vim trazer-lhe paz mas espada:",
+          "nota": "fn10_11"
+        },
+        {
+          "n": 35,
+          "texto": "Porque vim a separar ao homem contra o seu pai, e a filha contra sua mãe, e a nora contra sua sogra:",
+          "nota": "fn10_12"
+        },
+        {
+          "n": 36,
+          "texto": "E os inimigos do homem serão os seus mesmos domésticos."
+        },
+        {
+          "n": 37,
+          "texto": "O que ama o pai, ou a mãe mais do que a mim, não é digno de mim. E o que ama o filho ou a filha mais do que a mim, não é digno de mim."
+        },
+        {
+          "n": 38,
+          "texto": "E o que não toma a sua cruz, e não me segue, não é digno de mim."
+        },
+        {
+          "n": 39,
+          "texto": "O que acha a sua alma, perdê-la-á: E o que perder a sua alma por mim, achá-la-á.",
+          "nota": "fn10_13"
+        },
+        {
+          "n": 40,
+          "texto": "O que a vós vos recebe, a mim me recebe: E o que a mim me recebe, recebe aquêle que me enviou."
+        },
+        {
+          "n": 41,
+          "texto": "O que recebe um profeta na qualidade de profeta, receberá a recompensa de profeta: E o que recebe um justo na qualidade de justo, receberá a recompensa de justo."
+        },
+        {
+          "n": 42,
+          "texto": "E todo o que der a beber a um daqueles pequeninos um copo dágua fria, só pela razão de ser meu discípulo, na verdade vos digo, que não perderá a sua recompensa."
+        }
+      ],
+      "notas": {
+        "fn10_1": {
+          "rotulo": "Tiago",
+          "texto": "Em latim <em>Jacob</em>: pelo princípio de menor esfôrço começou a pronunciar-se na península hispânica Iago, precedido do Sant, vindo dali Sant'Iago e por corrupção Tiago."
+        },
+        "fn10_2": {
+          "rotulo": "Iscariotes",
+          "texto": "Assim chamado, talvez por ser do lugar de Carioth, da tribo de Judá, de que se faz menção no livro de Jos 15, 25."
+        },
+        "fn10_3": {
+          "rotulo": "Porque digno é o trabalhador",
+          "texto": "Daqui se colhe, estarem os fiéis obrigados por Direito Divino a sustentar os ministros do evangelho, que são os seus pastôres, devendo porém êstes ministrar os socorros espirituais, o ensino, e todos os deveres do seu Santo Ministério, tendo em vista o máximo desinterêsse e abnegação."
+        },
+        "fn10_4": {
+          "rotulo": "Digno",
+          "texto": "Isto é, de vos hospedar."
+        },
+        "fn10_5": {
+          "rotulo": "Farão açoutar nas suas sinagogas",
+          "texto": "Profetiza aqui Jesus Cristo as perseguições que sofreriam os Apóstolos e os que seguissem e pregassem a sua doutrina. A perseguição da Sinagoga começou bem depressa, sendo o protomártir S. Estêvão."
+        },
+        "fn10_6": {
+          "rotulo": "Governadores e reis",
+          "texto": "Assim sucedeu dentro e fora do império romano, e ainda hoje sucede, pois as perseguições continuam, como por todos é sabido."
+        },
+        "fn10_7": {
+          "rotulo": "Porque naquela hora vos será inspirado",
+          "texto": "Jesus Cristo promete aqui o dom de inspiração e assistência de auxílios e graças especiais, e só por estas se pode explicar a constância admirável, a firmeza heroica, a paciência sobrenatural que ostentavam os mártires do cristianismo."
+        },
+        "fn10_8": {
+          "rotulo": "E um irmão entregará à morte a outro irmão",
+          "texto": "Foi freqüente durante as perseguições ver os pais acusarem e martirizarem os filhos, os irmãos, as irmãs, etc., como sucedeu a Santa Bárbara, etc."
+        },
+        "fn10_9": {
+          "rotulo": "Publicai-o dos telhados",
+          "texto": "É um hebraísmo com que se queria significar que se devia dar publicidade aos ensinamentos ministrados por Jesus. Os tetos das casas dos judeus são em forma de terraço, para o qual dava acesso uma escada exterior."
+        },
+        "fn10_10": {
+          "rotulo": "Um asse / Sem vosso Pai",
+          "texto": "<em>Um asse</em>: moeda insignificante.<br><br><em>Sem vosso Pai</em>: isto é, sem a vontade, sem a ordem do vosso Pai. Jesus Cristo quer fazer entender aos seus Apóstolos, que estão sob a proteção especial do Pai Celeste."
+        },
+        "fn10_11": {
+          "rotulo": "Mas espada",
+          "texto": "Espada contra o mal, contra a injustiça, contra o êrro, contra o pecado e contra o inferno; porque o Evangelho, que é a Luz, não transija com as trevas, porque é a liberdade, não transija com a tirania."
+        },
+        "fn10_12": {
+          "rotulo": "Contra o seu pai",
+          "texto": "É a explicação do versículo anterior; promulgando-se a intransigência contra o mal."
+        },
+        "fn10_13": {
+          "rotulo": "O que acha a sua alma",
+          "texto": "Aquêle que ao tempo da confissão do meu nome na presença dos perseguidores, me nega por salvar a sua vida, perderá a sua alma; e ao contrário salvará esta o que por aquela causa perder a vida."
+        }
+      }
+    },
+    {
+      "num": 11,
+      "sumario": "Manda o Batista desde a Prisão perguntar a Jesus se Êle é o Messias prometido. Jesus o louva em presença do Povo. Compara os Judeus aos Meninos, que brincam no Terreiro. Repreende e ameaça as Cidades, que se não tinham convertido com seus Milagres. Convida que venham a Êle os que estão fatigados. Diz que o seu Jugo é suave.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "E aconteceu que quando Jesus acabou de dar estas instruções aos seus doze discípulos, passou dali a ensinar e pregar nas cidades dêles."
+        },
+        {
+          "n": 2,
+          "texto": "E como João, estando no cárcere, tivesse ouvido as obras de Cristo, enviando dois de seus discípulos,",
+          "nota": "fn11_1"
+        },
+        {
+          "n": 3,
+          "texto": "lhe fêz esta pergunta: Tu és o que hás-de vir, ou é outro o que esperamos?"
+        },
+        {
+          "n": 4,
+          "texto": "E respondendo Jesus, lhes disse: Ide contar a João o que ouvistes, e vistes."
+        },
+        {
+          "n": 5,
+          "texto": "Os cegos vêem, os coxos andam, os leprosos limpam-se, os surdos ouvem, os mortos ressuscitam, aos pobres anuncia-se-lhes o Evangelho:"
+        },
+        {
+          "n": 6,
+          "texto": "E bem-aventurado aquêle que não fôr escandalizado em mim."
+        },
+        {
+          "n": 7,
+          "texto": "E logo que êles se foram, começou Jesus a falar de João às gentes: Que saístes vós a ver no deserto? uma cana agitada do vento?"
+        },
+        {
+          "n": 8,
+          "texto": "Mas que saístes a ver? um homem vestido de roupas delicadas? Bem vêdes que os que vestem roupas delicadas, são os que assistem nos palácios dos reis."
+        },
+        {
+          "n": 9,
+          "texto": "Mas que saístes a ver? um profeta? Certamente vos digo, e ainda mais do que profeta."
+        },
+        {
+          "n": 10,
+          "texto": "Porque este é de quem está escrito: Eis-aí envio eu o meu anjo ante a tua face, que preparará o teu caminho diante de ti."
+        },
+        {
+          "n": 11,
+          "texto": "Na verdade vos digo, que entre os nascidos de mulheres não se levantou outro maior que João Batista. Mas o que é menor no reino dos Céus, é maior do que êle."
+        },
+        {
+          "n": 12,
+          "texto": "E desde os dias de João Batista até agora, o reino dos Céus sofre violência, e os que fazem violência são os que o arrebatam."
+        },
+        {
+          "n": 13,
+          "texto": "Porque todos os profetas, e a lei até João profetizaram:"
+        },
+        {
+          "n": 14,
+          "texto": "E se vós o quereis bem compreender, êle mesmo é o Elias, que há-de vir."
+        },
+        {
+          "n": 15,
+          "texto": "O que tem ouvidos de ouvir, ouça:"
+        },
+        {
+          "n": 16,
+          "texto": "Mas a quem direi eu que é semelhante esta geração? É semelhante aos meninos, que estão sentados na praça: Que gritando aos seus iguais,"
+        },
+        {
+          "n": 17,
+          "texto": "dizem: Nós cantamos para vós, e vós não bailastes: Choramos-vos, e não chorastes."
+        },
+        {
+          "n": 18,
+          "texto": "Porque veio João, que não comia, nem bebia, e dizem: Êle tem demônio."
+        },
+        {
+          "n": 19,
+          "texto": "Veio o Filho do homem, que come, e bebe, e dizem: Eis-aqui um homem glutão, e bebedor do vinho, amigo de publicanos, e de pecadores. Mas a sabedoria foi justificada por seus filhos."
+        },
+        {
+          "n": 20,
+          "texto": "Então começou a lançar em rosto às cidades, em que foram obradas tantas das suas maravilhas, que não haviam feito penitência."
+        },
+        {
+          "n": 21,
+          "texto": "Ai de ti, Corozain, ai de ti, Betsaida: Que se em Tiro, e em Sidônia se tivessem obrado as maravilhas que se obraram em vós, muito tempo há que elas teriam feito penitência em cilício, e em cinza.",
+          "nota": "fn11_2"
+        },
+        {
+          "n": 22,
+          "texto": "Eu vos digo contudo: Que haverá menos rigor para Tiro, e Sidônia, que para vós outros no dia do Juízo."
+        },
+        {
+          "n": 23,
+          "texto": "E tu, Cafarnaum, elevar-te-ás porventura até o Céu? has-de ser abatida até o inferno: Porque se em Sodoma se tivessem feito os milagres que se fizeram em ti, talvez que ela tivesse permanecido até ao dia de hoje."
+        },
+        {
+          "n": 24,
+          "texto": "Eu vos digo contudo, que no dia do Juízo haverá menos rigor para a terra de Sodoma, que para ti."
+        },
+        {
+          "n": 25,
+          "texto": "Naquele tempo respondendo Jesus, disse: Graças te dou a ti, Pai, Senhor do Céu, e da terra, porque escondeste estas coisas aos sábios, e entendidos, e as revelaste aos pequeninos.",
+          "nota": "fn11_3"
+        },
+        {
+          "n": 26,
+          "texto": "Assim é, Pai: Porque assim foi do teu agrado."
+        },
+        {
+          "n": 27,
+          "texto": "Tôdas as coisas me foram entregues por meu Pai. E ninguém conhece o filho senão o pai: Nem alguém conhece o pai senão o filho, e a quem o filho o quiser revelar."
+        },
+        {
+          "n": 28,
+          "texto": "Vinde a mim todos os que andais em trabalho, e vos achais carregados, e eu vos aliviarei."
+        },
+        {
+          "n": 29,
+          "texto": "Tomai sôbre vós o meu jugo; e aprendei de mim que sou manso, e humilde de coração: E achareis descanso para as vossas almas."
+        },
+        {
+          "n": 30,
+          "texto": "Porque o meu jugo é suave, e o meu ônus é leve."
+        }
+      ],
+      "notas": {
+        "fn11_1": {
+          "rotulo": "No cárcere",
+          "texto": "S. João Batista estava prisioneiro em Maqueronte, a este do Mar Morto."
+        },
+        "fn11_2": {
+          "rotulo": "Corozain / Betsaida / Tiro / Sidônia",
+          "texto": "<em>Corozain</em>: aldeia da Galiléia. S. Jerônimo diz que ficava a duas milhas romanas de Cafarnaum, nas margens do lago de Genesaré.<br><br><em>Betsaida</em>: cidade da Galiléia, que etimologicamente significa Cidade de pesca, situada na margem ocidental do lago de Genesaré, perto de Cafarnaum.<br><br><em>Tiro</em>: antiga capital da Fenícia, sôbre o Mediterrâneo, em poder dos romanos, no tempo de Jesus Cristo.<br><br><em>Sidônia</em>: primitiva capital da Fenícia, ao norte de Tiro."
+        },
+        "fn11_3": {
+          "rotulo": "Estas coisas",
+          "texto": "Estes mistérios do reino celestial. — <em>Menóchio.</em>"
+        }
+      }
+    },
+    {
+      "num": 12,
+      "sumario": "Defende Jesus Cristo seus Discípulos, que haviam colhido umas Espigas em dia de Sábado. Cura o que tinha uma das Mãos ressecada. Convence a Calúnia dos Fariseus que atribuíam a Belzebu a Liberdade que Êle dera a um Possesso. Declara ser irremissível o Pecado contra o Espírito Santo. Declara por sua Mãe, e por seus Irmãos, todos os que fazem a Vontade de seu Eterno Pai.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Naquele tempo, num dia de sábado, saiu Jesus caminhando ao longo dos pães: E seus discípulos, que tinham fome, começaram a colhêr espigas, e a comer delas."
+        },
+        {
+          "n": 2,
+          "texto": "E vendo isto os fariseus, lhe disseram: Eis-aí estão fazendo os teus discípulos o que não é permitido fazer nos sábados."
+        },
+        {
+          "n": 3,
+          "texto": "Porém êle lhes disse: Não tendes lido o que fez Davi, quando êle teve fome, e os que com êle estavam:"
+        },
+        {
+          "n": 4,
+          "texto": "Como entrou na casa de Deus, e comeu os pães da proposição, os quais não era lícito comer, nem a êle, nem aos que com êle estavam, mas unicamente aos sacerdotes?",
+          "nota": "fn12_1"
+        },
+        {
+          "n": 5,
+          "texto": "Ou não tendes lido na lei, que os sacerdotes nos sábados no templo quebrantam o sábado, e ficam sem pecado?"
+        },
+        {
+          "n": 6,
+          "texto": "Pois digo-vos, que aqui está o que é maior que o templo."
+        },
+        {
+          "n": 7,
+          "texto": "E se vós soubésseis o que é: Misericórdia quero, e não sacrifício, jamais condenarieis aos inocentes:"
+        },
+        {
+          "n": 8,
+          "texto": "Porque o Filho do homem é Senhor até do sábado mesmo."
+        },
+        {
+          "n": 9,
+          "texto": "E depois de partir dali, veio à sinagoga dêles."
+        },
+        {
+          "n": 10,
+          "texto": "E eis-que aparece um homem, que tinha ressecada uma das mãos, e êles, para terem de que o argüir, lhe fizeram esta pergunta, dizendo: É porventura lícito curar nos sábados?"
+        },
+        {
+          "n": 11,
+          "texto": "E êle lhes disse: Que homem haverá por acaso entre nós, que tenha uma ovelha, e que se esta lhe cair no sábado em uma cova, não lhe lance a mão para dali a tirar?"
+        },
+        {
+          "n": 12,
+          "texto": "Ora quanto mais excelente é um homem, do que uma ovelha? Logo é lícito fazer bem nos dias de sábado."
+        },
+        {
+          "n": 13,
+          "texto": "Então disse para o homem: Estende a tua mão. E êle a estendeu, e lhe foi restituída sã como a outra."
+        },
+        {
+          "n": 14,
+          "texto": "Mas os fariseus saindo dali, consultavam contra êle, como o fariam morrer."
+        },
+        {
+          "n": 15,
+          "texto": "E Jesus sabendo-o, se retirou daquele lugar, e foram muitos após êle, e os curou a todos:"
+        },
+        {
+          "n": 16,
+          "texto": "E lhes pôs preceito, que não descobrissem quem êle era."
+        },
+        {
+          "n": 17,
+          "texto": "Para que se cumprisse o que foi anunciado pelo profeta Isaías, que diz:",
+          "nota": "fn12_2"
+        },
+        {
+          "n": 18,
+          "texto": "<span class='prophetic'>Eis-aqui o meu servo, que eu escolhi, o meu amado, em quem a minha alma tem pôsto a sua complacência. Porei o meu espírito sôbre êle, e êle anunciará às gentes a justiça.</span>"
+        },
+        {
+          "n": 19,
+          "texto": "<span class='prophetic'>Não contenderá, nem clamará, nem ouvirá algum a sua voz nas praças:</span>"
+        },
+        {
+          "n": 20,
+          "texto": "<span class='prophetic'>Não quebrará a cana, que está deprimida, nem apagará a torcida que fumega, até que saia vitoriosa a sua justiça.</span>"
+        },
+        {
+          "n": 21,
+          "texto": "E as gentes esperarão no seu nome."
+        },
+        {
+          "n": 22,
+          "texto": "Então lhe trouxeram um endemoninhado cego, e mudo, e êle o curou, de sorte que falava, e via."
+        },
+        {
+          "n": 23,
+          "texto": "E ficaram pasmadas tôdas as gentes, e diziam: Porventura é êste o filho de Davi?"
+        },
+        {
+          "n": 24,
+          "texto": "Mas os fariseus ouvindo isto diziam: Êste não lança fora os demônios, senão em virtude de Belzebu, príncipe dos demônios.",
+          "nota": "fn12_3"
+        },
+        {
+          "n": 25,
+          "texto": "E Jesus sabendo os pensamentos dêles, lhes disse: Todo o reino dividido contra si mesmo, será desolado: E tôda a cidade, ou casa dividida contra si mesma, não subsistirá."
+        },
+        {
+          "n": 26,
+          "texto": "Ora se satanás lança fora a satanás, está êle dividido contra si mesmo: Como persistirá logo o seu reino?"
+        },
+        {
+          "n": 27,
+          "texto": "E se eu lanço fora os demônios em virtude de Belzebu, em virtude de quem os expelem vossos filhos? Por isso é que êles serão os vossos juízes."
+        },
+        {
+          "n": 28,
+          "texto": "Se eu porém lanço fora os demônios pela virtude do espírito de Deus, logo é chegado a vós o Reino de Deus:"
+        },
+        {
+          "n": 29,
+          "texto": "Ou como pode alguém entrar na casa do valente e saquear os seus móveis, se antes não prender o valente? e então lhe saqueará a casa."
+        },
+        {
+          "n": 30,
+          "texto": "O que não é comigo, é contra mim: E o que não ajunta comigo, dispersa.",
+          "nota": "fn12_4"
+        },
+        {
+          "n": 31,
+          "texto": "Portanto vos digo: Todo o pecado e blasfêmia serão perdoados aos homens, porém a blasfêmia contra o Espírito Santo não lhes será perdoada.",
+          "nota": "fn12_5"
+        },
+        {
+          "n": 32,
+          "texto": "E todo o que disser alguma palavra contra o Filho do homem, perdoar-se-lhe-á: Porém o que a disser contra o Espírito Santo, não se lhe perdoará, nem neste mundo, nem no outro.",
+          "nota": "fn12_6"
+        },
+        {
+          "n": 33,
+          "texto": "Ou fazei a árvore boa, e o seu fruto bom: Ou fazei a árvore má e o seu fruto mau: Pois que pelo fruto é que a árvore se conhece."
+        },
+        {
+          "n": 34,
+          "texto": "Raça de víboras, como podeis falar coisas boas sendo maus? porque a bôca fala o de que está cheio o coração."
+        },
+        {
+          "n": 35,
+          "texto": "O homem bom do bom tesouro tira boas coisas: Mas o homem mau do mau tesouro tira más coisas."
+        },
+        {
+          "n": 36,
+          "texto": "E digo-vos, que tôda a palavra ociosa, que falarem os homens, darão conta dela no dia do Juízo.",
+          "nota": "fn12_7"
+        },
+        {
+          "n": 37,
+          "texto": "Porque pelas tuas palavras serás justificado, e pelas tuas palavras serás condenado."
+        },
+        {
+          "n": 38,
+          "texto": "Então lhe tornaram alguns dos escribas, e fariseus, dizendo: Mestre, nós quiséramos ver-te fazer algum prodígio."
+        },
+        {
+          "n": 39,
+          "texto": "Êle lhes respondeu, dizendo: Esta geração má, e adúltera, pede um prodígio: Mas não lhe será dado outro prodígio, senão o prodígio do profeta Jonas."
+        },
+        {
+          "n": 40,
+          "texto": "Porque assim como Jonas estêve no ventre da baleia três dias, e três noites; assim estará o Filho do homem três dias, e três noites no coração da terra."
+        },
+        {
+          "n": 41,
+          "texto": "Os habitantes de Nínive se levantarão no dia do Juízo com esta geração, e a condenarão: Porque fizeram penitência com a pregação de Jonas. E eis-aqui está neste lugar quem é mais do que Jonas."
+        },
+        {
+          "n": 42,
+          "texto": "A rainha do meio-dia se levantará no dia do Juízo com esta geração, e a condenará: Porque veio lá das extremidades da terra a ouvir a sabedoria de Salomão e eis-aqui está neste lugar quem é mais do que Salomão.",
+          "nota": "fn12_8"
+        },
+        {
+          "n": 43,
+          "texto": "E quando o espírito imundo tem saído de um homem, anda por lugares secos, buscando repouso, e não o acha."
+        },
+        {
+          "n": 44,
+          "texto": "E então diz: Voltarei para minha casa, donde saí. E quando vem, a acha desocupada, varrida e ornada."
+        },
+        {
+          "n": 45,
+          "texto": "Então vai e ajunta a si outros sete espíritos piores do que êle, e entrando habitam ali: E o último estado daquele homem fica sendo pior que o primeiro. Assim também acontecerá a esta geração péssima."
+        },
+        {
+          "n": 46,
+          "texto": "Estando êle ainda falando ao povo, eis-que se achava da parte de fora sua mãe, e seus irmãos, que procuravam falar-lhe.",
+          "nota": "fn12_9"
+        },
+        {
+          "n": 47,
+          "texto": "E um lhe disse: Olha que tua mãe, e teus irmãos estão ali fora, e te buscam."
+        },
+        {
+          "n": 48,
+          "texto": "E êle respondendo ao que lhe falava, lhe disse: Quem é minha mãe, e quem são os meus irmãos?",
+          "nota": "fn12_10"
+        },
+        {
+          "n": 49,
+          "texto": "E estendendo a mão para seus discípulos, disse: Eis-ali minha mãe, e meus irmãos:",
+          "nota": "fn12_11"
+        },
+        {
+          "n": 50,
+          "texto": "Porque todo aquêle que fizer a vontade de meu Pai, que está nos Céus: Êsse é meu irmão, e irmã e mãe."
+        }
+      ],
+      "notas": {
+        "fn12_1": {
+          "rotulo": "Os pães da proposição",
+          "texto": "Pelo cap. 24 do Levítico mandava Deus que sôbre o altar do templo se conservassem sempre doze pães, muito grandes, que todos os sábados se reformavam, e eram só para os sacerdotes. Chamavam-se pães da proposição, porque sempre estavam diante de Deus."
+        },
+        "fn12_2": {
+          "rotulo": "Pelo profeta Isaías",
+          "texto": "Cap. 42, 1, cujo texto, ainda segundo a letra, pertence a Jesus Cristo."
+        },
+        "fn12_3": {
+          "rotulo": "Belzebu",
+          "texto": "Nome dum ídolo dos filisteus. Os judeus davam este nome ao demônio."
+        },
+        "fn12_4": {
+          "rotulo": "Dispersa",
+          "texto": "Jesus Cristo fala aqui dos fariseus, que se opunham à pregação da Boa Nova."
+        },
+        "fn12_5": {
+          "rotulo": "Porém a blasfêmia contra o Espírito Santo",
+          "texto": "Qual seja porém a blasfêmia contra o Espírito Santo, que Jesus Cristo aqui declara ser irremissível? diz Santo Agostinho, no sermão 71, que é talvez a maior dificuldade que se encontra em tôda a Escritura. Êle se inclina a que êste pecado contra o Espírito Santo se deve entender da impenitência final junta com a desesperação da misericórdia divina. Porém Santo Atanásio e S. Jerônimo entendem que é o pecado com que as obras visivelmente do Espírito Santo se atribuem ao demônio."
+        },
+        "fn12_6": {
+          "rotulo": "Nem neste mundo",
+          "texto": "Daqui tira Santo Agostinho, no livro 21 da Cidade de Deus, cap. 24, e S. Gregório, no livro 4 dos Diálogos, cap. 39, um bom argumento da existência do purgatório. Porque não diria Cristo, que o pecado contra o Espírito Santo não se perdoava nem neste mundo, nem no outro, se não supusesse que alguns pecados se perdoavam no outro mundo."
+        },
+        "fn12_7": {
+          "rotulo": "Que tôda a palavra ociosa",
+          "texto": "Se até de uma palavra ociosa hão de os homens dar conta a Deus no dia do Juízo, que será das palavras de murmuração, de calúnia, de desonestidade, de blasfêmia, e de heresia!"
+        },
+        "fn12_8": {
+          "rotulo": "Rainha do meio-dia",
+          "texto": "A Rainha de Sabá, província da Arábia, situada no sul da Judéia."
+        },
+        "fn12_9": {
+          "rotulo": "Seus irmãos",
+          "texto": "Esta expressão indica os primos ou parentes em geral. Entre os hebreus e entre muitos outros povos da Antiguidade, a palavra irmão tinha um sentido muito mais amplo. Assim no Gên 12, 8, Abraão e Ló são chamados irmãos, e contudo Ló era apenas sobrinho daquele."
+        },
+        "fn12_10": {
+          "rotulo": "Quem é minha mãe",
+          "texto": "Isto não foi desprezar sua mãe: foi mostrar quanto êle estava despegado da carne, e sangue, e quanto nós o devemos estar no exercício do ministério Apostólico, que todo é espiritual. — <em>S. Jerônimo e S. Ambrósio.</em>"
+        },
+        "fn12_11": {
+          "rotulo": "Eis-ali minha mãe",
+          "texto": "É mãe de Jesus Cristo todo o que faz nascer na alma de qualquer próximo, ou com a sua pregação, ou com o seu bom exemplo. — <em>S. Ambrósio, S. Gregório, e S. Bernardo.</em>"
+        }
+      }
+    },
+    {
+      "num": 13,
+      "sumario": "Jesus sentado em uma Barca propõe ao Povo várias Parábolas, como a do Semeador, e a do Joio misturado no Trigo, e Êle as explica particularmente a seus Discípulos. Ensinando em Nazaré, diz que um Profeta só na sua Pátria deixa de ter estimação.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Naquele dia saindo Jesus de casa, sentou-se à borda do mar."
+        },
+        {
+          "n": 2,
+          "texto": "E vieram para êle muitas gentes, de tal sorte que entrando em uma barca se assentou: E tôda a gente estava de pé na ribeira."
+        },
+        {
+          "n": 3,
+          "texto": "E lhe falou muitas coisas por parábolas, dizendo: Eis aí que saiu o que semeia, a semear.",
+          "nota": "fn13_1"
+        },
+        {
+          "n": 4,
+          "texto": "E quando semeava, uma parte da semente caiu junto da estrada, e vieram as aves do Céu, e comeram-na.",
+          "nota": "fn13_2"
+        },
+        {
+          "n": 5,
+          "texto": "Outra porém caiu em pedregulho, onde não tinha muita terra: E logo nasceu, porque não tinha altura de terra:"
+        },
+        {
+          "n": 6,
+          "texto": "Mas saindo o sol se queimou: E porque não tinha raiz se secou."
+        },
+        {
+          "n": 7,
+          "texto": "Outra igualmente caiu sôbre os espinhos: E cresceram os espinhos, e êstes a afogaram."
+        },
+        {
+          "n": 8,
+          "texto": "Outra, enfim, caiu em boa terra: E dava fruto, havendo grãos que rendiam a cento por um, outros a sessenta, outros a trinta.",
+          "nota": "fn13_3"
+        },
+        {
+          "n": 9,
+          "texto": "O que tem ouvidos de ouvir, ouça."
+        },
+        {
+          "n": 10,
+          "texto": "E chegando-se a êle os discípulos, lhe disseram: Por que razão lhes falas tu por parábolas?"
+        },
+        {
+          "n": 11,
+          "texto": "Êle respondendo, lhes disse: Porque a vós outros vos é dado saber os mistérios do reino dos Céus: Mas a êles não lhes é concedido."
+        },
+        {
+          "n": 12,
+          "texto": "Porque ao que tem, se lhe dará, e terá em abundância: Mas ao que não tem, até o que tem lhe será tirado."
+        },
+        {
+          "n": 13,
+          "texto": "Por isso é que eu lhes falo em parábolas: Porque êles vendo não vêem, e ouvindo não ouvem, nem entendem."
+        },
+        {
+          "n": 14,
+          "texto": "De sorte que neles se cumpre a profecia de Isaías, que diz: Vós ouvireis com os ouvidos, e não entendereis: E vereis com os olhos, e não vereis."
+        },
+        {
+          "n": 15,
+          "texto": "Porque o coração dêste povo se fêz pesado, e os seus ouvidos se fizeram tardos, e êles fecharam os seus olhos: Para não suceder que vejam com os olhos, e ouçam com os ouvidos, e entendam no coração, e se convertam, e eu os sare."
+        },
+        {
+          "n": 16,
+          "texto": "Mas por vós, ditosos os vossos olhos, pelo que vêem, e ditosos os vossos ouvidos pelo que ouvem."
+        },
+        {
+          "n": 17,
+          "texto": "Porque em verdade vos digo, que muitos profetas, e justos desejaram ver o que vêdes, e não o viram: E ouvir o que ouvis, e não o ouviram."
+        },
+        {
+          "n": 18,
+          "texto": "Ouvi pois, vós outros, a parábola do semeador."
+        },
+        {
+          "n": 19,
+          "texto": "Todo aquele que ouve a palavra do reino, e não a entende, vem o mau, e arrebata o que se semeou no seu coração: Este é o que recebeu a semente junto da estrada."
+        },
+        {
+          "n": 20,
+          "texto": "Mas o que recebeu a semente no pedregulho, este é o que ouve a palavra, e logo a recebe com gôsto:"
+        },
+        {
+          "n": 21,
+          "texto": "Porém êle não tem em si raiz, antes é de pouca duração: E quando lhe sobrevém tribulação e perseguição por amor da palavra, logo se escandaliza."
+        },
+        {
+          "n": 22,
+          "texto": "E o que recebeu a semente entre espinhos, este é o que ouve a palavra, porém os cuidados dêste mundo, e o engano das riquezas sufocam a palavra e fica infrutuosa."
+        },
+        {
+          "n": 23,
+          "texto": "E o que recebeu a semente em boa terra, este é o que ouve a palavra, e a entende, e dá fruto, e assim um dá a cento, e outro a sessenta, e outro a trinta por um."
+        },
+        {
+          "n": 24,
+          "texto": "Outra parábola lhes propôs, dizendo: O reino dos Céus é semelhante a um homem, que semeou boa semente no seu campo:"
+        },
+        {
+          "n": 25,
+          "texto": "E enquanto dormiam os homens, veio o seu inimigo, e semeou depois cizânia no meio do trigo, e foi-se.",
+          "nota": "fn13_4"
+        },
+        {
+          "n": 26,
+          "texto": "E tendo crescido a erva e dado fruto, apareceu também então a cizânia."
+        },
+        {
+          "n": 27,
+          "texto": "E chegando os servos do pai de família, lhe disseram: Senhor, porventura não semeaste tu boa semente no teu campo? Pois donde lhe veio a cizânia?"
+        },
+        {
+          "n": 28,
+          "texto": "E êle lhes disse: O homem inimigo é que fez isto. E os servos lhe tornaram: Queres tu que nós vamos e a arranquemos?"
+        },
+        {
+          "n": 29,
+          "texto": "E respondeu-lhes: Não: Para que talvez não suceda que, arrancando a cizânia, arranqueis juntamente com ela também o trigo."
+        },
+        {
+          "n": 30,
+          "texto": "Deixai crescer uma, e outra coisa até à ceifa, e no tempo da ceifa, direi aos segadores: Colhei primeiramente a cizânia, e atai-a em molhos para a queimar, mas o trigo recolhei-o no meu celeiro.",
+          "nota": "fn13_5"
+        },
+        {
+          "n": 31,
+          "texto": "Propôs-lhes mais outra parábola dizendo: O reino dos Céus é semelhante a um grão de mostarda, que um homem tomou, e semeou no seu campo:",
+          "nota": "fn13_6"
+        },
+        {
+          "n": 32,
+          "texto": "O qual grão é na verdade o mais pequeno de tôdas as sementes: Mas depois de ter crescido, é a maior de todas as plantas e se faz árvore, de sorte que as aves do Céu vêm a fazer ninhos nos seus ramos."
+        },
+        {
+          "n": 33,
+          "texto": "Disse-lhes ainda outra parábola: O reino dos Céus é semelhante ao fermento, que uma mulher toma, e o esconde em três medidas de farinha, até que todo êle fica levedado."
+        },
+        {
+          "n": 34,
+          "texto": "Tôdas estas coisas disse Jesus ao povo em parábolas: E não lhes falava sem parábolas:"
+        },
+        {
+          "n": 35,
+          "texto": "A fim de que se cumprisse o que estava anunciado pelo profeta, que diz: Abrirei em parábolas a minha bôca, farei dela sair com ímpeto coisas escondidas desde a criação do mundo."
+        },
+        {
+          "n": 36,
+          "texto": "Então, despedidas as gentes, veio à casa: E chegaram-se a êle os seus discípulos, dizendo: Explica-nos a parábola da cizânia do campo."
+        },
+        {
+          "n": 37,
+          "texto": "Êle lhes respondeu, dizendo: O que semeia a boa semente, é o Filho do homem."
+        },
+        {
+          "n": 38,
+          "texto": "E o campo é o mundo. A boa semente porém são os filhos do reino dos Céus. E a cizânia são os maus filhos."
+        },
+        {
+          "n": 39,
+          "texto": "E o inimigo que a semeou, é o diabo. E o tempo da ceifa é o fim do mundo. E os segadores são os Anjos."
+        },
+        {
+          "n": 40,
+          "texto": "De maneira que assim como é colhida a cizânia, e queimada no fogo: Assim acontecerá no fim do mundo:"
+        },
+        {
+          "n": 41,
+          "texto": "Enviará o Filho do homem os seus Anjos, e tirarão do seu reino todos os escândalos, e os que obram a iniquidade:"
+        },
+        {
+          "n": 42,
+          "texto": "E lançá-los-ão na fornalha do fogo. Ali será o chôro, e o ranger com os dentes."
+        },
+        {
+          "n": 43,
+          "texto": "Então resplandecerão os justos, como o sol, no reino de seu pai. O que tem ouvidos de ouvir, ouça."
+        },
+        {
+          "n": 44,
+          "texto": "O reino dos Céus é semelhante a um tesouro escondido no campo: Que quando um homem o acha, o esconde, e pelo gôsto que sente de o achar, vai, e vende tudo o que tem, e compra aquele campo."
+        },
+        {
+          "n": 45,
+          "texto": "Assim mesmo é semelhante o reino dos Céus a um homem negociante, que busca boas pérolas."
+        },
+        {
+          "n": 46,
+          "texto": "E tendo achado uma de grande preço, vai vender tudo o que tem, e a compra."
+        },
+        {
+          "n": 47,
+          "texto": "Finalmente o reino dos Céus é semelhante a uma rêde lançada ao mar, que toda a casta de peixes colhe:"
+        },
+        {
+          "n": 48,
+          "texto": "E depois de estar cheia, a tiram os homens para fora, e sentados na praia escolhem os bons para os vasos e deitam fora os maus."
+        },
+        {
+          "n": 49,
+          "texto": "Assim será no fim do mundo: Sairão os Anjos, e separarão os maus dentre os justos."
+        },
+        {
+          "n": 50,
+          "texto": "E lançá-los-ão na fornalha do fogo: Ali será o chôro, e o ranger com os dentes."
+        },
+        {
+          "n": 51,
+          "texto": "Tendes vós compreendido bem tudo isto? Responderam êles: Sim."
+        },
+        {
+          "n": 52,
+          "texto": "Êle lhes disse: Por isso todo o escriba instruído no reino dos Céus, é semelhante a um pai de família, que tira do seu tesouro coisas novas e velhas."
+        },
+        {
+          "n": 53,
+          "texto": "E depois que acabou de dizer estas parábolas, aconteceu partir Jesus dali."
+        },
+        {
+          "n": 54,
+          "texto": "E vindo para a sua pátria, êle os ensinava nas suas sinagogas de modo que se admiravam, e diziam: Donde lhe vem a êste uma sabedoria como esta, e tais maravilhas?"
+        },
+        {
+          "n": 55,
+          "texto": "Porventura não é êste o filho do carpinteiro? Não se chamava sua mãe Maria, e seus irmãos Tiago, e José, e Simão, e Judas:",
+          "nota": "fn13_7"
+        },
+        {
+          "n": 56,
+          "texto": "E suas irmãs não vivem elas tôdas entre nós? Donde vêm logo a êste todas estas coisas?"
+        },
+        {
+          "n": 57,
+          "texto": "E dele tomavam ocasião para se escandalizarem. Mas Jesus lhes disse: Não há profeta sem honra senão na sua pátria e na sua casa."
+        },
+        {
+          "n": 58,
+          "texto": "E não fez ali muitos milagres, por causa da incredulidade de seus naturais."
+        }
+      ],
+      "notas": {
+        "fn13_1": {
+          "rotulo": "Por parábolas",
+          "texto": "Foi esta a principal forma do ensino de Jesus. Etimologicamente, parábola significa semelhança, aproximação, analogia desenvolvida. No Novo Testamento designa uma forma especial, um gênero de apólogo determinado. É uma narração quase sempre fictícia, que exprime simbolicamente uma verdade religiosa e em que entram como principais agentes sêres naturais ou hábitos de vida humana."
+        },
+        "fn13_2": {
+          "rotulo": "Uma parte da semente",
+          "texto": "Pela semente quer Jesus Cristo indicar a palavra de Deus, a boa pregação. Nesta parábola, quer Jesus Cristo ensinar duas coisas: 1.ª Que são poucos os que aproveitam a palavra de Deus. 2.ª As coisas que impedem que a pregação produza os seus bons frutos, que são a dissipação do espírito, a dureza do coração e o desregramento da conduta."
+        },
+        "fn13_3": {
+          "rotulo": "Cento por um",
+          "texto": "Por estas boas obras que produzem trinta, sessenta e cem, entendem os Padres os que as enunciam com perfeição, os que progridem, os que se aproximam do grau mais elevado do aperfeiçoamento moral."
+        },
+        "fn13_4": {
+          "rotulo": "Cizânia",
+          "texto": "É uma planta da família das gramíneas e da tribo das hordeáceas. A desta parábola é o <em>Lolium temulentum</em>, muito comum nas searas da Palestina."
+        },
+        "fn13_5": {
+          "rotulo": "Atai-a em molhos para a queimar",
+          "texto": "Jesus pretende significar pela cizânia os maus que pervertem os bons, corrompendo-os com as suas máximas e péssimos exemplos, os quais serão eternamente condenados."
+        },
+        "fn13_6": {
+          "rotulo": "É semelhante a um grão de mostarda",
+          "texto": "Esta parábola exprime bem o progresso e eficácia da doutrina Evangélica, e como de uns humildes princípios chegou a Igreja ao estado da maior grandeza, dilatando-se maravilhosamente por todo o mundo. — <em>Amelote.</em>"
+        },
+        "fn13_7": {
+          "rotulo": "Seus irmãos",
+          "texto": "Está já dito o sentido desta expressão: primos e parentes. Tiago é S. Tiago Menor, um dos doze Apóstolos. Judas é o apóstolo S. Judas, autor da Epístola católica que tem o seu nome."
+        }
+      }
+    },
+    {
+      "num": 14,
+      "sumario": "Morte de S. João Batista. Com cinco Pães e dois Peixes, satisfaz Jesus Cristo no Deserto cinco mil Homens. Caminha sobre as Ondas em ocasião de Tormenta. O mesmo faz Pedro, enquanto lhe não falta a Fé. Cura o Senhor diversas Enfermidades ao contacto do seu Vestido.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Naquele tempo Herodes tetrarca ouviu a fama de Jesus.",
+          "nota": "fn14_1"
+        },
+        {
+          "n": 2,
+          "texto": "E disse aos seus criados: Êste é João Batista: Êle ressuscitou dentre os mortos, e por isso obram nele tantos milagres."
+        },
+        {
+          "n": 3,
+          "texto": "Porque Herodes tinha feito prender a João, e ligar com cadeias: E assim o meteu no cárcere, por causa de Herodíades, mulher de seu irmão.",
+          "nota": "fn14_2"
+        },
+        {
+          "n": 4,
+          "texto": "Porque João lhe dizia: Não te é lícito tê-la por mulher.",
+          "nota": "fn14_3"
+        },
+        {
+          "n": 5,
+          "texto": "E querendo matá-lo, temia ao povo: Porque o reputavam como um profeta."
+        },
+        {
+          "n": 6,
+          "texto": "Mas no dia em que Herodes fazia anos, bailou a filha de Herodíades diante de todos e agradou a Herodes.",
+          "nota": "fn14_4"
+        },
+        {
+          "n": 7,
+          "texto": "Por onde êle lhe prometeu com juramento, que lhe daria tudo o que lhe pedisse."
+        },
+        {
+          "n": 8,
+          "texto": "Mas ela, prevenida por sua mãe: Dá-me, disse, aqui em um prato a cabeça de João Batista."
+        },
+        {
+          "n": 9,
+          "texto": "E o rei se entristeceu: Mas pelo juramento e pelos que estavam com êle à mesa, lha mandou dar."
+        },
+        {
+          "n": 10,
+          "texto": "E deu ordem para que fossem degolar a João no cárcere.",
+          "nota": "fn14_5"
+        },
+        {
+          "n": 11,
+          "texto": "E foi trazida a sua cabeça num prato, e dada à moça, e ela a levou a sua mãe."
+        },
+        {
+          "n": 12,
+          "texto": "E chegando os seus discípulos, levaram o seu corpo, e o sepultaram: E foram dar a notícia a Jesus."
+        },
+        {
+          "n": 13,
+          "texto": "E quando Jesus a ouviu, se retirou dali em uma barca a um lugar deserto: E tendo ouvido isto, as gentes foram saindo das cidades a pé em seu seguimento.",
+          "nota": "fn14_6"
+        },
+        {
+          "n": 14,
+          "texto": "E ao saltar em terra viu Jesus uma grande multidão de gente, e teve deles compaixão, e curou os seus enfermos."
+        },
+        {
+          "n": 15,
+          "texto": "E vindo a tarde, se chegaram a êle os seus discípulos, dizendo: Deserto é êste lugar, e a hora é já passada: Deixa ir essa gente, para que, passando às aldeias, compre de comer."
+        },
+        {
+          "n": 16,
+          "texto": "E Jesus lhes disse: Não têm necessidade de se ir: Dai-lhes vós outros de comer."
+        },
+        {
+          "n": 17,
+          "texto": "Responderam-lhe: Não temos aqui senão cinco pães e dois peixes."
+        },
+        {
+          "n": 18,
+          "texto": "Jesus lhes disse: Trazei-mos cá."
+        },
+        {
+          "n": 19,
+          "texto": "E tendo mandado à gente que se recostasse sôbre o feno, tomando os cinco pães e os dois peixes, com os olhos no Céu abençoou e partiu os pães, e os deu aos discípulos, e os discípulos ao povo.",
+          "nota": "fn14_7"
+        },
+        {
+          "n": 20,
+          "texto": "E comeram todos, e se saciaram. E levantaram, do que sobejou, doze cestos cheios daqueles fragmentos."
+        },
+        {
+          "n": 21,
+          "texto": "E o número dos que comeram foi de cinco mil homens, sem falar em mulheres e meninos."
+        },
+        {
+          "n": 22,
+          "texto": "E obrigou logo Jesus a seus discípulos a que se embarcassem, e que passassem primeiro que êle à outra ribeira do lago, enquanto êle despedia a gente.",
+          "nota": "fn14_8"
+        },
+        {
+          "n": 23,
+          "texto": "E logo que a despediu, subiu só a um monte a orar. E quando veio a noite, achava-se ali só."
+        },
+        {
+          "n": 24,
+          "texto": "E a barca no meio do mar era combatida das ondas: Porque o vento era contrário."
+        },
+        {
+          "n": 25,
+          "texto": "Porém na quarta vigília da noite, veio Jesus ter com êles, andando sôbre o mar.",
+          "nota": "fn14_9"
+        },
+        {
+          "n": 26,
+          "texto": "E quando o viram andar sôbre o mar, se turbaram dizendo: É pois um fantasma, e de mêdo começaram a gritar."
+        },
+        {
+          "n": 27,
+          "texto": "Mas Jesus lhes falou imediatamente, dizendo: Tende confiança, sou eu, não temais."
+        },
+        {
+          "n": 28,
+          "texto": "E respondendo Pedro, lhe disse: Senhor, se tu és, manda-me que vá até onde tu estás por cima das águas."
+        },
+        {
+          "n": 29,
+          "texto": "E êle lhe disse: Vem. E descendo Pedro da barca, ia caminhando sôbre a água para chegar a Jesus."
+        },
+        {
+          "n": 30,
+          "texto": "Vendo, porém, que o vento era rijo, temeu, e quando se ia submergindo, gritou, dizendo: Senhor, põe-me a salvo."
+        },
+        {
+          "n": 31,
+          "texto": "E no mesmo ponto Jesus estendendo a mão, o tomou por ela e lhe disse: Homem de pouca fé, por que duvidaste?"
+        },
+        {
+          "n": 32,
+          "texto": "E depois que subiram à barca, cessou o vento."
+        },
+        {
+          "n": 33,
+          "texto": "Então vieram os que estavam na barca, e o adoraram, dizendo: Verdadeiramente tu és Filho de Deus."
+        },
+        {
+          "n": 34,
+          "texto": "E tendo passado à outra banda, vieram para a terra de Genesar."
+        },
+        {
+          "n": 35,
+          "texto": "E depois de o terem reconhecido os naturais daquele lugar, mandaram por todo aquele país circunvizinho, e lhe apresentaram todos quantos padeciam algum mal:"
+        },
+        {
+          "n": 36,
+          "texto": "E lhe rogavam que os deixasse tocar sequer a orla do seu vestido. E todos os que o tocaram, ficaram sãos."
+        }
+      ],
+      "notas": {
+        "fn14_1": {
+          "rotulo": "Herodes tetrarca",
+          "texto": "Chamava-se também Antipas e era filho, como Arquelau, de Herodes o Grande e da Samaritana Maltácia. Depois da morte de seu pai tornou-se tetrarca da Galiléia e da Peréia. Era um espírito fraco, pusilânime, sem vontade própria, supersticioso, astuto e sem convicções. O título de tetrarca era dado aos príncipes que governavam a quarta parte dum reino desmembrado."
+        },
+        "fn14_2": {
+          "rotulo": "Herodíades",
+          "texto": "Era filha de Aristóbulo, um dos filhos de Herodes Magno e de Mariana, e irmã de Herodes Agripa. Casou com Herodes Felipe, a quem abandonou para se juntar criminosamente com Herodes Antipas."
+        },
+        "fn14_3": {
+          "rotulo": "Não te é lícito",
+          "texto": "Porque semelhantes núpcias estavam proibidas por Deus no Lev 18. — <em>Calmet.</em>"
+        },
+        "fn14_4": {
+          "rotulo": "A filha de Herodíades",
+          "texto": "Chamada Salomé, como consta da história de Josefo, no livro 18, cap. 7. — <em>Duhamel.</em>"
+        },
+        "fn14_5": {
+          "rotulo": "No cárcere",
+          "texto": "Josefo ensina-nos que S. João Batista foi preso em Maqueronte (Machoerus, hoje M'Kaus) a este do Mar Morto. Era uma fortaleza construída por Alexandre, filho de Hircano I."
+        },
+        "fn14_6": {
+          "rotulo": "Lugar deserto",
+          "texto": "Ficava nas cercanias de Betsaida-Júlias, a nordeste do lago de Tiberíades, na tetrarquia de Filipe, príncipe dum caráter pacífico e bondoso."
+        },
+        "fn14_7": {
+          "rotulo": "Abençoou",
+          "texto": "Abençoar e dar graças, são expressões sinônimas na Escritura. Jo 6, 11."
+        },
+        "fn14_8": {
+          "rotulo": "A outra ribeira do lago",
+          "texto": "De Genesar ou Tiberíades. Na margem ficava a terra de Genesar. Josefo diz que esta terra era muito fértil e duma grande beleza."
+        },
+        "fn14_9": {
+          "rotulo": "Na quarta vigília",
+          "texto": "Quase ao ralar da alva. Dividiam a noite em quatro partes, que chamavam vigílias, porque, segundo a disciplina militar, se mudavam as sentinelas quatro vezes no decurso da noite."
+        }
+      }
+    },
+    {
+      "num": 15,
+      "sumario": "Tradição dos Fariseus, que os obrigava a lavarem as Mãos freqüentemente. Êles tinham corrompido o quarto Preceito do Decálogo. A Cananéia alcança remédio para uma sua Filha endemoninhada. Jesus sustenta quatro mil Homens com sete Pães e poucos Peixes.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Então chegaram a êle uns escribas, e fariseus de Jerusalém, dizendo:"
+        },
+        {
+          "n": 2,
+          "texto": "Por que violam os teus discípulos a tradição dos antigos? pois não lavam as suas mãos, quando comem pão.",
+          "nota": "fn15_1"
+        },
+        {
+          "n": 3,
+          "texto": "E êle, respondendo, lhes disse: E vós também por que transgredis o mandamento de Deus pela vossa tradição? Porque Deus disse:"
+        },
+        {
+          "n": 4,
+          "texto": "Honra a teu pai, e a tua mãe: E o que amaldiçoar a seu pai, ou a sua mãe, morra de morte.",
+          "nota": "fn15_2"
+        },
+        {
+          "n": 5,
+          "texto": "Porém vós outros dizeis: Qualquer que disser a seu pai, ou a sua mãe, toda a oferta que eu faça a Deus, te aproveitará a ti."
+        },
+        {
+          "n": 6,
+          "texto": "Pois é certo que o tal não honrará a seu pai, ou a sua mãe: Assim é que vós tendes feito vão o mandamento de Deus pela vossa tradição.",
+          "nota": "fn15_3"
+        },
+        {
+          "n": 7,
+          "texto": "Hipócritas, bem profetizou de vós outros Isaías, quando diz:"
+        },
+        {
+          "n": 8,
+          "texto": "Êste povo honra-me com os lábios: Mas o seu coração está longe de mim.",
+          "nota": "fn15_4"
+        },
+        {
+          "n": 9,
+          "texto": "Em vão pois me honram, ensinando doutrinas e mandamentos, que vêm dos homens.",
+          "nota": "fn15_5"
+        },
+        {
+          "n": 10,
+          "texto": "E chamando a si as turbas, lhes disse: Ouvi, e entendei."
+        },
+        {
+          "n": 11,
+          "texto": "Não é o que entra pela bôca, o que faz imundo o homem: Mas o que sai da bôca, isso é o que faz imundo o homem.",
+          "nota": "fn15_6"
+        },
+        {
+          "n": 12,
+          "texto": "Então chegando-se a êle seus discípulos, lhe disseram: Sabes que os fariseus, depois que ouviram o que disseste, ficaram escandalizados?"
+        },
+        {
+          "n": 13,
+          "texto": "Mas êle, respondendo, lhes disse: Tôda a planta que meu Pai celestial não plantou, será arrancada pela raiz.",
+          "nota": "fn15_7"
+        },
+        {
+          "n": 14,
+          "texto": "Deixai-os: Cegos são os condutores de cegos: E se um cego guia a outro cego, ambos vêm a cair no barranco."
+        },
+        {
+          "n": 15,
+          "texto": "E respondendo, Pedro lhe disse: Explica-nos essa parábola."
+        },
+        {
+          "n": 16,
+          "texto": "E respondeu Jesus: Também vós outros estais ainda sem inteligência?"
+        },
+        {
+          "n": 17,
+          "texto": "Não compreendeis que tudo o que entra pela bôca, desce ao ventre, e se lança depois num lugar escuso?"
+        },
+        {
+          "n": 18,
+          "texto": "Mas as coisas que saem da bôca vêm do coração, e essas são as que fazem o homem imundo:"
+        },
+        {
+          "n": 19,
+          "texto": "Porque do coração é que saem os maus pensamentos, os homicídios, os adultérios, as fornicações, os furtos, e os falsos testemunhos, as blasfêmias."
+        },
+        {
+          "n": 20,
+          "texto": "Estas coisas são as que fazem imundo o homem. O comer porém com as mãos por lavar, isto não faz imundo o homem."
+        },
+        {
+          "n": 21,
+          "texto": "E tendo saído daquele lugar, retirou-se Jesus para as partes de Tiro, e de Sidônia."
+        },
+        {
+          "n": 22,
+          "texto": "E eis que uma mulher cananéia, que tinha saído daqueles confins, gritou, dizendo-lhe: Senhor, filho de Davi, tem compaixão de mim: Que está minha filha miseravelmente atormentada do demônio.",
+          "nota": "fn15_8"
+        },
+        {
+          "n": 23,
+          "texto": "Mas êle não lhe respondeu palavra. E chegando-se seus discípulos, lhe pediam, dizendo: Despede-a: Porque vem gritando atrás de nós.",
+          "nota": "fn15_9"
+        },
+        {
+          "n": 24,
+          "texto": "E êle respondendo lhes disse: Eu não fui enviado senão às ovelhas que pereceram da casa de Israel.",
+          "nota": "fn15_10"
+        },
+        {
+          "n": 25,
+          "texto": "Mas ela veio, e o adorou, dizendo: Senhor, valei-me."
+        },
+        {
+          "n": 26,
+          "texto": "Êle respondendo lhe disse: Não é bom tomar o pão dos filhos, e lançá-lo aos cães.",
+          "nota": "fn15_11"
+        },
+        {
+          "n": 27,
+          "texto": "E ela replicou: Assim é, Senhor: Mas também os cachorrinhos comem das migalhas, que caem da mesa dos seus donos.",
+          "nota": "fn15_12"
+        },
+        {
+          "n": 28,
+          "texto": "Então respondendo Jesus, lhe disse: Ó mulher, grande é a tua fé: Faça-se contigo como queres, e desde aquela hora ficou sã a sua filha."
+        },
+        {
+          "n": 29,
+          "texto": "E tendo Jesus saído dali, veio ao longo do mar de Galiléia: E subindo a um monte se assentou ali."
+        },
+        {
+          "n": 30,
+          "texto": "Então concorreu a êle uma grande multidão de povo que trazia consigo mudos, cegos, coxos, enfermos e outros muitos: E lançaram-se a seus pés, e êle os sarou."
+        },
+        {
+          "n": 31,
+          "texto": "De sorte que se admiravam as gentes, vendo falar os mudos, andar os coxos, ver os cegos: E engrandeciam por isso ao Deus de Israel."
+        },
+        {
+          "n": 32,
+          "texto": "Mas Jesus chamando a seus discípulos, disse: Tenho compaixão destas gentes, porque ha já três dias que perseveram comigo, e não têm que comer: E não quero despedi-los em jejum, por que não desfaleçam no caminho."
+        },
+        {
+          "n": 33,
+          "texto": "E os discípulos lhe disseram: Como poderemos nós pois achar neste deserto tantos pães, que fartemos tão grande multidão de gente?"
+        },
+        {
+          "n": 34,
+          "texto": "E Jesus lhes perguntou: Quantos pães tendes vós? E êles responderam: Sete, e uns poucos de peixinhos.",
+          "nota": "fn15_13"
+        },
+        {
+          "n": 35,
+          "texto": "Mandou êle então à gente que se recostasse sôbre a terra."
+        },
+        {
+          "n": 36,
+          "texto": "E tomando os sete pães e os peixes, e dando graças, os partiu, e deu aos seus discípulos, e os discípulos os deram ao povo."
+        },
+        {
+          "n": 37,
+          "texto": "E comeram todos e se fartaram. E dos fragmentos que sobejaram, levantaram sete alcôfas cheias."
+        },
+        {
+          "n": 38,
+          "texto": "E os que comeram foram quatro mil homens, fora meninos e mulheres."
+        },
+        {
+          "n": 39,
+          "texto": "E despedida a gente entrou Jesus em uma barca, e passou os limites de Magedan.",
+          "nota": "fn15_14"
+        }
+      ],
+      "notas": {
+        "fn15_1": {
+          "rotulo": "Quando comem pão",
+          "texto": "Hebraísmo que significa quando se alimentam. A tradição dos antigos, a que se refere êste versículo, designa os preceitos rituais que, segundo os judeus, tinham sido dados oralmente por Moisés e da mesma maneira transmitidos até êles."
+        },
+        "fn15_2": {
+          "rotulo": "Morra de morte",
+          "texto": "Hebraísmo freqüente, que significa, morrerá infalivelmente."
+        },
+        "fn15_3": {
+          "rotulo": "Não honrará a seu pai",
+          "texto": "Isto é, se com êste pretexto, já não socorre, nem assiste com o necessário a seu pai ou a sua mãe, preceito que Jesus encarece suavissimamente."
+        },
+        "fn15_4": {
+          "rotulo": "Honra-me com os lábios",
+          "texto": "Quer dizer, entrega-se tão sómente às práticas exteriores, sem se importar com o que lhe vai na alma. Esta censura cabe àqueles que se contentam em rezar e frequentar os templos, sem que contudo procurem viver na observância da lei de Jesus Cristo."
+        },
+        "fn15_5": {
+          "rotulo": "Que vêm dos homens",
+          "texto": "Isto é, os que são contrários à lei de Deus. São êstes mandamentos e estas doutrinas que Jesus condena e contra as quais se insurge."
+        },
+        "fn15_6": {
+          "rotulo": "Não é o que entra pela bôca",
+          "texto": "Freqüentes vezes se tem abusado deste texto para autorizar a violação da abstinência prescrita pela Igreja. É certo que a carne que se ingere não pode manchar a alma, mas o desprézo das leis da Igreja estabelecidas por Jesus Cristo, isso é que mancha a alma."
+        },
+        "fn15_7": {
+          "rotulo": "Toda a planta",
+          "texto": "Tôda a doutrina, que se não confirma com o que Deus manda e ensina. — <em>S. Hilário.</em>"
+        },
+        "fn15_8": {
+          "rotulo": "Uma mulher cananéia",
+          "texto": "S. Marcos lhe chama grega sirofenícia, porque esta província que estava entre a Palestina e a Síria, era naquele tempo povoada pelo resto dos antigos cananeus, que usavam do idioma, e ritos dos gregos."
+        },
+        "fn15_9": {
+          "rotulo": "Não lhe respondeu palavra",
+          "texto": "Para lhe experimentar a fé."
+        },
+        "fn15_10": {
+          "rotulo": "Eu não fui enviado",
+          "texto": "O Messias tinha sido enviado para salvação da humanidade, mas a pregação dos gentios competia aos Apóstolos."
+        },
+        "fn15_11": {
+          "rotulo": "E lançá-lo aos cães",
+          "texto": "Na frase dos judeus de que Cristo usava, chamam-se cães os gentios, por causa da impureza de seus costumes, e da imprudência com que se prostituíam à idolatria. — <em>Sacy.</em>"
+        },
+        "fn15_12": {
+          "rotulo": "Mas também os cachorrinhos",
+          "texto": "Assim é, Senhor, como dizeis, replicou a cananéia; porém depois que os filhos estão saciados do pão que lhes é devido, os cachorrinhos que andam ao redor da mesa, aproveitam aquelas migalhas, que caem, ou que sobram aos filhos. Estas palavras cheias de humildade, de modéstia, de fé, e de prudência, moveram ao Senhor."
+        },
+        "fn15_13": {
+          "rotulo": "Sete",
+          "texto": "Por aqui se vê que Jesus Cristo operou por duas vezes distintas a multiplicação dos pães."
+        },
+        "fn15_14": {
+          "rotulo": "De Magedan",
+          "texto": "O grego diz de Magdala. S. Jerônimo e Eusébio fazem demorar a Magedan, ou Magdala junto de Gerasa no Além-Jordão, hoje el Medjdel, na margem ocidental do lago Tiberíades."
+        }
+      }
+    },
+    {
+      "num": 16,
+      "sumario": "Para o experimentarem, pedem os Fariseus e Saduceus a Jesus Cristo que lhes faça ver algum Prodígio do Céu. Êle os repreende. Pergunta do Senhor aos Apóstolos sôbre a sua Pessoa. Resposta de Pedro confessando a Divindade do Senhor. Louva Jesus Cristo a sua Fé, e promete-lhe as Chaves do Reino dos Céus.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Então se chegaram a Jesus os fariseus e saduceus para o tentarem: E pediram-lhe que lhes fizesse ver algum prodígio do Céu.",
+          "nota": "fn16_1"
+        },
+        {
+          "n": 2,
+          "texto": "Mas êle, respondendo, lhes disse: Vós, quando vai chegando a noite, dizeis: Haverá tempo sereno, porque está o Céu rubicundo."
+        },
+        {
+          "n": 3,
+          "texto": "E quando é de manhã: Hoje haverá tormenta, porque o Céu mostra um avermelhado triste."
+        },
+        {
+          "n": 4,
+          "texto": "Sabeis logo conhecer que coisa prognostica o aspecto do Céu: E não podeis conhecer os sinais dos tempos? Esta geração perversa e adúltera pede um prodígio: E não se lhe dará outro prodígio, senão o prodígio do profeta Jonas. E deixando-os ali, se retirou.",
+          "nota": "fn16_2"
+        },
+        {
+          "n": 5,
+          "texto": "Ora, seus discípulos, tendo passado à banda dalém do estreito, esqueceu-lhes trazer pão."
+        },
+        {
+          "n": 6,
+          "texto": "Jesus lhes disse: Vêde, e guardai-vos do fermento dos fariseus e dos saduceus."
+        },
+        {
+          "n": 7,
+          "texto": "Mas êles discorriam lá entre si, dizendo: É que não trouxemos pão."
+        },
+        {
+          "n": 8,
+          "texto": "E entendendo-os Jesus, disse-lhes: Homens de pouca fé, por que estais considerando lá convosco, que não tendes pão?"
+        },
+        {
+          "n": 9,
+          "texto": "Ainda não compreendeis, nem vos lembrais dos cinco pães para cinco mil homens, e quantos foram os cestos que tomastes?"
+        },
+        {
+          "n": 10,
+          "texto": "Nem dos sete pães para quatro mil homens, e quantas alcôfas recolhestes?"
+        },
+        {
+          "n": 11,
+          "texto": "Por que não compreendeis que não é pelo pão que eu vos disse: Guardai-vos do fermento dos fariseus, e dos saduceus?"
+        },
+        {
+          "n": 12,
+          "texto": "Então entenderam que não havia dito que se guardassem do fermento dos pães, senão da doutrina dos fariseus, e dos saduceus."
+        },
+        {
+          "n": 13,
+          "texto": "E veio Jesus para as partes de Cesaréia de Filipe: E fez a seus discípulos esta pergunta, dizendo: Quem dizem os homens que é o Filho do homem?",
+          "nota": "fn16_3"
+        },
+        {
+          "n": 14,
+          "texto": "E êles responderam: Uns dizem que João Batista, mas outros que Elias, e outros que Jeremias, ou algum dos profetas."
+        },
+        {
+          "n": 15,
+          "texto": "Disse-lhes Jesus: E vós quem dizeis que sou eu?",
+          "nota": "fn16_4"
+        },
+        {
+          "n": 16,
+          "texto": "Respondendo Simão Pedro, disse: Tu és o Cristo, o Filho de Deus vivo.",
+          "nota": "fn16_5"
+        },
+        {
+          "n": 17,
+          "texto": "E respondendo Jesus, lhe disse: Bem-aventurado és Simão, filho de João: Porque não foi a carne e sangue quem to revelou, mas sim meu Pai que está nos Céus.",
+          "nota": "fn16_6"
+        },
+        {
+          "n": 18,
+          "texto": "Também eu te digo que tu és Pedro, e sôbre esta pedra edificarei a minha igreja, e as portas do inferno não prevalecerão contra ela.",
+          "nota": "fn16_7"
+        },
+        {
+          "n": 19,
+          "texto": "E eu te darei as chaves do reino dos Céus. E tudo o que ligares sôbre a terra, será ligado também nos céus; E tudo o que desatares sôbre a terra, será desatado também nos Céus.",
+          "nota": "fn16_8"
+        },
+        {
+          "n": 20,
+          "texto": "Então mandou a seus discípulos que a ninguém dissessem que êle era Jesus Cristo.",
+          "nota": "fn16_9"
+        },
+        {
+          "n": 21,
+          "texto": "Desde então começou Jesus a declarar a seus discípulos que convinha ir êle a Jerusalém, e padecer muitas coisas dos anciãos, dos escribas, e dos príncipes dos sacerdotes, e ser morto e ressuscitar ao terceiro dia.",
+          "nota": "fn16_10"
+        },
+        {
+          "n": 22,
+          "texto": "E tomando-o Pedro de parte, começou a increpá-lo, dizendo: Deus tal não permita, Senhor; não sucederá isto contigo."
+        },
+        {
+          "n": 23,
+          "texto": "Êle voltando-se para Pedro lhe disse: Tira-te de diante de mim, satanás, que me serves de escândalo: Porque não tens gôsto das coisas que são de Deus, mas das que são dos homens.",
+          "nota": "fn16_11"
+        },
+        {
+          "n": 24,
+          "texto": "Então disse Jesus aos seus discípulos: Se algum quer vir após de mim, negue-se a si mesmo, e tome a sua cruz, e siga-me.",
+          "nota": "fn16_12"
+        },
+        {
+          "n": 25,
+          "texto": "Porque o que quiser salvar a sua alma, perdê-la-á, e o que perder a sua alma por amor de mim, achá-la-á.",
+          "nota": "fn16_13"
+        },
+        {
+          "n": 26,
+          "texto": "Porque, de que aproveita ao homem ganhar todo o mundo, se vier a perder a sua alma? Ou que comutação fará o homem para recobrar a sua alma?"
+        },
+        {
+          "n": 27,
+          "texto": "Porque o Filho do homem há de vir na glória de seu pai com os seus anjos: E então dará a cada um a paga, segundo as suas obras."
+        },
+        {
+          "n": 28,
+          "texto": "Em verdade vos afirmo, que dos que aqui estão, há alguns que não hão de gostar a morte, antes que vejam vir o Filho do homem na glória do seu reino.",
+          "nota": "fn16_14"
+        }
+      ],
+      "notas": {
+        "fn16_1": {
+          "rotulo": "Para o tentarem",
+          "texto": "A fazerem experiência da sua virtude, e do seu poder. — <em>Duhamel.</em>"
+        },
+        "fn16_2": {
+          "rotulo": "Os sinais dos tempos",
+          "texto": "Isto é, os tempos da minha vinda que os profetas deixaram assinalados; como o tempo designado ao vaticínio de Jacó, e o das setenta semanas de Daniel."
+        },
+        "fn16_3": {
+          "rotulo": "Cesaréia de Filipe",
+          "texto": "Ao pé do Líbano, perto duma das nascentes do Jordão, na Gaulenitídia, que primitivamente se chamava Panéias. O tetrarca Filipe chamou-lhe Cesaréia em homenagem a Tibério César. Atualmente retomou o seu nome primitivo sob a forma Banias."
+        },
+        "fn16_4": {
+          "rotulo": "E vós",
+          "texto": "Aqui está a interrogação direta a Pedro, como que recorrendo para êle em suprema instância, o que é o reconhecimento da primazia de Pedro."
+        },
+        "fn16_5": {
+          "rotulo": "O Filho de Deus vivo",
+          "texto": "Jesus Cristo proporcionou a Pedro a ocasião de confessar a natureza divina do Salvador. O artigo que precede no original a palavra Filho, diz Teofilacto, indica claramente que se trata do Filho único de Deus."
+        },
+        "fn16_6": {
+          "rotulo": "Bem-aventurado és Simão, filho de João",
+          "texto": "Bem-aventurado, porque êste conhecimento só o tiveste pela revelação de meu Pai Celestial: 'não foi a carne e sangue'; isto é: nem teus pais, nem algum outro homem foi o que to ensinou, ou persuadiu; mas sòmente meu Pai foi o que te revelou."
+        },
+        "fn16_7": {
+          "rotulo": "Tu és Pedro",
+          "texto": "Jesus Cristo muda o nome ao que havia de ser desde aquele momento Príncipe dos Apóstolos. A mudança do nome implicava sempre o exercício duma alta missão. Pedro é o fundamento da Igreja, e como tal foi reconhecido pelos próprios Apóstolos, que nunca reclamaram contra o seu primado."
+        },
+        "fn16_8": {
+          "rotulo": "As chaves",
+          "texto": "Entre os povos orientais as chaves simbolizavam sempre o poderio, e a entrega das chaves a investidura em suprema autoridade. Jesus Cristo dizendo que entregou as chaves a Pedro, investiu-o na chefatura do colégio apostólico."
+        },
+        "fn16_9": {
+          "rotulo": "Que a ninguém dissessem que era Jesus Cristo",
+          "texto": "Razões desta proibição: 1.º Interêsse das almas, que não estavam preparadas para reconhecer a sua divina natureza. 2.º Interêsse dos apóstolos, que antes da descida do Espírito Santo eram rudes. 3.º Interêsse pela sua própria causa, para evitar perturbações e levantamentos populares."
+        },
+        "fn16_10": {
+          "rotulo": "Os anciãos",
+          "texto": "São os membros do sanedrim que de ordinário eram velhos, porque êstes eram os escolhidos de preferência para chefes da cidade e juízes."
+        },
+        "fn16_11": {
+          "rotulo": "Satanás",
+          "texto": "Satanás quer dizer, adversário ou inimigo, e êste nome de Jesus a Pedro, por se querer opor à sua Paixão e Morte. — <em>S. Hilário e S. Bernardo.</em>"
+        },
+        "fn16_12": {
+          "rotulo": "Negue-se a si mesmo",
+          "texto": "Isto é, às suas inclinações corrompidas; à sua própria vontade no que ela é contrária a Deus: em uma palavra, a tudo o que se opõe à nossa salvação. — <em>Sacy.</em>"
+        },
+        "fn16_13": {
+          "rotulo": "Salvar a sua alma",
+          "texto": "Ou vida, isto é, viver segundo as paixões do homem velho, que são os apetites desordenados. — <em>Duhamel.</em>"
+        },
+        "fn16_14": {
+          "rotulo": "Antes que vejam vir",
+          "texto": "Alguns Padres antigos, como Orígenes, Santo Hilário, S. Jerônimo, entendem por esta glória do reino de Cristo, a glória da sua transfiguração, que brevemente haviam de presenciar alguns discípulos."
+        }
+      }
+    },
+    {
+      "num": 17,
+      "sumario": "A Transfiguração de Jesus Cristo, com o mais que nela sucedeu. O Batista comparado a Elias. Sara Jesus Cristo um Lunático, que os Apóstolos não puderam livrar. A Fé, ainda do tamanho de um Grão de Mostarda, é capaz de transportar Montes. Prediz Jesus a sua Paixão. Faz pagar por si e por Pedro o Tributo das duas Dracmas.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "E seis dias depois toma Jesus consigo a Pedro, e a Tiago, e a João, seu irmão, e os leva à parte a um alto monte:",
+          "nota": "fn17_1"
+        },
+        {
+          "n": 2,
+          "texto": "E transfigurou-se diante dêles. E o seu rosto ficou refulgente como o sol: E as suas vestiduras se fizeram brancas como a neve."
+        },
+        {
+          "n": 3,
+          "texto": "E eis que lhes apareceram Moisés e Elias, falando com êle."
+        },
+        {
+          "n": 4,
+          "texto": "E começando a falar Pedro, disse a Jesus: Senhor, bom é que nós estejamos aqui: Se queres, façamos aqui três tabernáculos, um para ti, outro para Moisés, e outro para Elias."
+        },
+        {
+          "n": 5,
+          "texto": "Estando êle ainda falando, eis que uma lúcida nuvem os cobriu. E eis que saiu uma voz da nuvem que dizia: Êste é aquele, meu querido Filho, em quem tenho pôsto tôda a minha complacência: Ouvi-o."
+        },
+        {
+          "n": 6,
+          "texto": "E ouvindo isto os discípulos caíram de bruços e tiveram grande mêdo."
+        },
+        {
+          "n": 7,
+          "texto": "Porém Jesus se chegou a êles, e tocou-os, e disse-lhes: Levantai-vos e não temais."
+        },
+        {
+          "n": 8,
+          "texto": "Êles então levantando os seus olhos, não viram mais do que tão sòmente a Jesus."
+        },
+        {
+          "n": 9,
+          "texto": "E quando êles desciam do monte, lhes pôs Jesus preceito, dizendo: Não digais a pessoa alguma o que vistes, enquanto o Filho do homem não ressurgir dos mortos.",
+          "nota": "fn17_2"
+        },
+        {
+          "n": 10,
+          "texto": "E os seus discípulos lhe perguntaram, dizendo: Pois por que dizem os escribas que importava vir Elias primeiro?"
+        },
+        {
+          "n": 11,
+          "texto": "Mas êle, respondendo, lhes disse: Elias certamente há de vir, e restabelecerá todas as coisas:"
+        },
+        {
+          "n": 12,
+          "texto": "Digo-vos porém que Elias já veio, e êles não o conheceram, antes fizeram dele quanto quiseram. Assim também o Filho do homem há de padecer às suas mãos."
+        },
+        {
+          "n": 13,
+          "texto": "Então conheceram os discípulos, que de João Batista é que êle lhes falara."
+        },
+        {
+          "n": 14,
+          "texto": "E depois que veio para onde estava a gente, chegou a êle um homem, que, pôsto de joelhos diante dele, lhe dizia: Senhor, tem compaixão de meu filho, que é lunático e padece muito, porque muitas vezes cai no fogo, e muitas vezes na água."
+        },
+        {
+          "n": 15,
+          "texto": "E tenho-o apresentado a teus discípulos e êles o não puderam curar."
+        },
+        {
+          "n": 16,
+          "texto": "E respondendo Jesus, disse: Ó geração incrédula e perversa, até quando hei de estar convosco? até quando vos hei de sofrer? Trazei-mo cá."
+        },
+        {
+          "n": 17,
+          "texto": "E Jesus o ameaçou, e saiu dele o demônio, e desde aquela hora ficou o moço curado."
+        },
+        {
+          "n": 18,
+          "texto": "Então se chegaram os discípulos a Jesus em particular, e lhe disseram: Por que não pudemos nós lançá-lo fora?"
+        },
+        {
+          "n": 19,
+          "texto": "Jesus lhes disse: Por causa da vossa pouca fé. Porque na verdade vos digo, que se tiverdes fé, como um grão de mostarda, direis a êste monte, passa daqui para acolá, e êle ha de passar, e nada vos será impossível.",
+          "nota": "fn17_3"
+        },
+        {
+          "n": 20,
+          "texto": "Mas esta casta de demônios não se lança fora, senão à fôrça de oração e de jejum."
+        },
+        {
+          "n": 21,
+          "texto": "E achando-se êles juntos em Galiléia, disse-lhes Jesus: O Filho do homem será entregue às mãos dos homens."
+        },
+        {
+          "n": 22,
+          "texto": "E êstes lhe darão a morte, e ressuscitará ao terceiro dia. E êles se entristecerão em extremo."
+        },
+        {
+          "n": 23,
+          "texto": "E tendo vindo para Cafarnaum, chegaram-se a Pedro os que cobravam o tributo das duas dracmas e disseram-lhe: Vosso Mestre não paga as duas dracmas?",
+          "nota": "fn17_4"
+        },
+        {
+          "n": 24,
+          "texto": "Êle lhes respondeu: Paga. E depois que entrou em casa, Jesus o preveniu, dizendo: Que te parece, Simão? De quem recebem os reis da terra o tributo, ou censo? de seus filhos, ou dos estranhos?"
+        },
+        {
+          "n": 25,
+          "texto": "E Pedro lhe respondeu: Dos estranhos. Disse-lhe Jesus: Logo são isentos os filhos."
+        },
+        {
+          "n": 26,
+          "texto": "Mas para que os não escandalizemos, vai ao mar, e lança o anzol: E o primeiro peixe que subir, toma-o: E abrindo-lhe a bôca, acharás dentro um estáter: Tira-o, e dá-lho por mim e por ti.",
+          "nota": "fn17_5"
+        }
+      ],
+      "notas": {
+        "fn17_1": {
+          "rotulo": "Alto monte",
+          "texto": "Diz-se o Tabor, opinião aventada por Eusébio e S. Jerônimo. Hoje é contestada e pensa-se que a montanha da Transfiguração está situada mais ao norte e a este do Jordão."
+        },
+        "fn17_2": {
+          "rotulo": "Enquanto o Filho do homem",
+          "texto": "Não quis o Senhor que os apóstolos declarassem a um povo todo carnal, o que haviam visto, temendo que a grandeza do prodígio os fizesse mais incrédulos, e que depois de ter ouvido esta transfiguração tão gloriosa, servisse de escândalo a sua morte."
+        },
+        "fn17_3": {
+          "rotulo": "Por causa da vossa pouca fé",
+          "texto": "A pouca fé, que mostraram neste caso os apóstolos, foi causa de que não curassem aquele mancebo, e a que mereceu a justa repreensão de Jesus Cristo."
+        },
+        "fn17_4": {
+          "rotulo": "Duas dracmas",
+          "texto": "Ou didracmas valiam aproximadamente cento e noventa réis. Esta didracma era a contribuição que as famílias judaicas pagavam para a manutenção do Templo."
+        },
+        "fn17_5": {
+          "rotulo": "Estáter",
+          "texto": "Ou tetradracma, moeda dos hebreus correspondente a quatro dracmas, aproximadamente seis tostões."
+        }
+      }
+    },
+    {
+      "num": 18,
+      "sumario": "O maior no Reino dos Céus é o que se faz como um Menino. É grande Pecado escandalizar os Pequenos. Como se deve dar a Correção Fraterna. O que não obedece à Igreja, deve ser tratado como um Gentio, ou Publicano. Dá Jesus Cristo aos Apóstolos o Poder de ligar, e desatar. A Ira de Deus contra os que à sua imitação não perdoam ao Próximo.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Naquela hora chegaram-se a Jesus os discípulos, dizendo: Quem julgas tu que é maior no reino dos Céus?"
+        },
+        {
+          "n": 2,
+          "texto": "E chamando Jesus a um menino, o pôs no meio deles,"
+        },
+        {
+          "n": 3,
+          "texto": "e disse: Na verdade vos digo que se vos não converterdes, e vos não fizerdes como meninos, não haveis de entrar no reino dos Céus."
+        },
+        {
+          "n": 4,
+          "texto": "Todo aquele pois que se fizer pequeno, como êste menino, êsse será o maior no reino dos Céus."
+        },
+        {
+          "n": 5,
+          "texto": "E o que receber em meu nome um menino tal como êste, a mim é que recebe."
+        },
+        {
+          "n": 6,
+          "texto": "O que escandalizar porém a um dêstes pequeninos, que crêem em mim, melhor lhe fôra que se lhe pendurasse ao pescoço uma mó de moinho, e que o lançassem no fundo do mar."
+        },
+        {
+          "n": 7,
+          "texto": "Ai do mundo por causa dos escândalos. Porque é necessário que sucedam escândalos: Mas ai daquele homem, por quem vem o escândalo."
+        },
+        {
+          "n": 8,
+          "texto": "Ora se a tua mão, ou o teu pé te escandaliza: Corta-o, e lança-o fora de ti: Melhor te é entrar na vida manco, ou aleijado, do que tendo duas mãos, ou dois pés, ser lançado no fogo eterno."
+        },
+        {
+          "n": 9,
+          "texto": "E se o teu ôlho te escandaliza, tira-o, e lança-o fora de ti: Melhor te é entrar na vida com um só ôlho, do que tendo dois, ser lançado no fogo do inferno."
+        },
+        {
+          "n": 10,
+          "texto": "Vêde não desprezeis algum dêstes pequeninos: Porque eu vos declaro que os seus anjos nos Céus incessantemente estão vendo a face de meu Pai que está nos Céus."
+        },
+        {
+          "n": 11,
+          "texto": "Porque o Filho do homem veio a salvar o que havia perecido."
+        },
+        {
+          "n": 12,
+          "texto": "Que vos parece? Se tiver alguém cem ovelhas, e se se desgarrar uma delas: Porventura não deixa as noventa e nove nos montes, e vai a buscar aquela que se extraviou?"
+        },
+        {
+          "n": 13,
+          "texto": "E se acontecer achá-la: Digo-vos em verdade, que maior contentamento recebe êle por esta, do que pelas noventa e nove, que não se extraviaram."
+        },
+        {
+          "n": 14,
+          "texto": "Assim não é a vontade do vosso Pai, que está nos Céus, que pereça um dêstes pequeninos."
+        },
+        {
+          "n": 15,
+          "texto": "Portanto se teu irmão pecar contra ti, vai e corrige-o entre ti e êle só; se te ouvir, ganhado terás a teu irmão:"
+        },
+        {
+          "n": 16,
+          "texto": "Mas se te não ouvir, toma ainda contigo uma ou duas pessoas, para que por bôca de duas ou três testemunhas fique tudo confirmado."
+        },
+        {
+          "n": 17,
+          "texto": "E se os não ouvir, dize-o à Igreja, e se não ouvir a Igreja, tem-no por um gentio, ou um publicano.",
+          "nota": "fn18_1"
+        },
+        {
+          "n": 18,
+          "texto": "Em verdade vos digo, que tudo o que vós ligardes sôbre a terra, será ligado também no Céu: E tudo o que vós desatardes sôbre a terra, será desatado também no Céu."
+        },
+        {
+          "n": 19,
+          "texto": "Ainda vos digo mais, que se dois de vós se unirem entre si sôbre a terra, seja qual fôr a coisa que êles pedirem, meu Pai, que está nos Céus, lha fará."
+        },
+        {
+          "n": 20,
+          "texto": "Porque onde se acham dois ou três congregados em meu nome, aí estou eu no meio deles."
+        },
+        {
+          "n": 21,
+          "texto": "Então chegando-se Pedro a êle, perguntou: Senhor, quantas vezes poderá pecar meu irmão contra mim, que eu lhe perdoe? será até sete vezes?"
+        },
+        {
+          "n": 22,
+          "texto": "Respondeu-lhe Jesus: Não te digo que até sete vezes, mas que até setenta vezes sete vezes.",
+          "nota": "fn18_2"
+        },
+        {
+          "n": 23,
+          "texto": "Por isso o reino dos Céus é comparado a um homem rei, que quis tomar contas aos seus servos."
+        },
+        {
+          "n": 24,
+          "texto": "E tendo começado a tomar as contas, apresentou-se-lhes um, que lhe devia dez mil talentos.",
+          "nota": "fn18_3"
+        },
+        {
+          "n": 25,
+          "texto": "E como não tivesse com que pagar, mandou o seu Senhor que o vendessem a êle, e a sua mulher, e a seus filhos, e tudo o que tinha, para ficar pago da dívida."
+        },
+        {
+          "n": 26,
+          "texto": "Porém o tal servo lançando-se-lhe aos pés, lhe fazia esta súplica, dizendo: Tem paciência comigo, que eu te pagarei tudo."
+        },
+        {
+          "n": 27,
+          "texto": "Então o Senhor compadecido daquele servo, deixou-o ir livre, e perdoou-lhe a dívida."
+        },
+        {
+          "n": 28,
+          "texto": "E tendo saído este servo, encontrou um de seus companheiros, que lhe devia cem dinheiros: E lançando-lhe a mão o afogava, dizendo: Paga-me o que me deves.",
+          "nota": "fn18_4"
+        },
+        {
+          "n": 29,
+          "texto": "E o companheiro lançando-se-lhe aos pés o rogava, dizendo: Tem paciência comigo que eu te satisfarei tudo."
+        },
+        {
+          "n": 30,
+          "texto": "Porém êle não quis: Mas retirou-se, e fez que o metessem na cadeia, até pagar a dívida."
+        },
+        {
+          "n": 31,
+          "texto": "Porém os outros servos seus companheiros, vendo o que se passava, sentiram-no tão fortemente, e foram dar parte a seu Senhor de tudo o que tinha acontecido."
+        },
+        {
+          "n": 32,
+          "texto": "Então o chamou o seu Senhor, e lhe disse: Servo mau, eu perdoei-te a dívida tôda porque me vieste rogar para isso:"
+        },
+        {
+          "n": 33,
+          "texto": "Não devias tu logo compadecer-te igualmente do teu companheiro, assim como também eu me compadeci de ti?"
+        },
+        {
+          "n": 34,
+          "texto": "E cheio de cólera mandou seu senhor que o entregassem aos algozes, até pagar tôda a dívida.",
+          "nota": "fn18_5"
+        },
+        {
+          "n": 35,
+          "texto": "Assim também vos ha de fazer meu Pai celestial, se não perdoardes do íntimo de vossos corações, cada um a seu irmão."
+        }
+      ],
+      "notas": {
+        "fn18_1": {
+          "rotulo": "Tem-no",
+          "texto": "Como incorrigível, como incurável, como um homem separado da Igreja, como um pecador público. — <em>S. Tomás.</em>"
+        },
+        "fn18_2": {
+          "rotulo": "Setenta vezes sete vezes",
+          "texto": "Ou sete vezes setenta. Que fazem quatrocentas e noventa. E quem diz até sete vezes setenta, diz todos os pecados, observa S. Agostinho."
+        },
+        "fn18_3": {
+          "rotulo": "Dez mil talentos",
+          "texto": "Soma exorbitante. Com ela mostra Jesus Cristo a gravidade infinita de um pecado mortal, e a ilimitada grandeza da dívida, em que este pecado nos constitui no tribunal divino."
+        },
+        "fn18_4": {
+          "rotulo": "Cem dinheiros",
+          "texto": "O dinheiro era uma moeda antiga de prata de tão pouco valor."
+        },
+        "fn18_5": {
+          "rotulo": "E cheio de cólera",
+          "texto": "Nada provoca mais a ira de Deus contra nós, do que a falta de caridade com os próximos. Parábola admirável que nos ensina a perdoar para que sejamos perdoados."
+        }
+      }
+    },
+    {
+      "num": 19,
+      "sumario": "O Matrimônio indissolúvel. Louvor dos que por amor de Deus observam o Celibato. Jesus impondo as Mãos aos Meninos. Aconselha a Pobreza a um Rico, e êste se entristece. Embaraço que as Riquezas fazem à Salvação. Prêmio dos que tudo deixam por Cristo.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "E aconteceu que tendo Jesus acabado êstes discursos, partiu de Galiléia, e veio para os confins da Judéia, além do Jordão."
+        },
+        {
+          "n": 2,
+          "texto": "E seguiram-no muitas gentes, e curou ali os enfermos."
+        },
+        {
+          "n": 3,
+          "texto": "E chegaram-se a êle os fariseus tentando-o, e dizendo: É porventura lícito a um homem repudiar a sua mulher, por qualquer coisa?"
+        },
+        {
+          "n": 4,
+          "texto": "Êle respondendo, lhes disse: Não tendes lido que quem criou o homem desde o princípio, fê-los macho, e fêmea? e disse:",
+          "nota": "fn19_1"
+        },
+        {
+          "n": 5,
+          "texto": "Por isso deixará o homem pai e mãe, e ajuntar-se-á com sua mulher, e serão dois numa só carne:"
+        },
+        {
+          "n": 6,
+          "texto": "Assim que já não são dois, mas uma só carne: Não separe logo o homem o que Deus ajuntou."
+        },
+        {
+          "n": 7,
+          "texto": "Replicaram-lhe êles: Pois por que mandou Moisés dar o homem a sua mulher carta de desquite, e repudiá-la?"
+        },
+        {
+          "n": 8,
+          "texto": "Respondeu-lhes: Porque Moisés, pela dureza de vossos corações, vos permitiu repudiar a vossas mulheres: Mas ao princípio não foi assim.",
+          "nota": "fn19_2"
+        },
+        {
+          "n": 9,
+          "texto": "Eu pois vos declaro que todo aquele que repudiar sua mulher, se não é por causa de adultério, e casar com outra, comete adultério: E o que casar com a repudiada, também comete adultério."
+        }
+      ],
+      "notas": {
+        "fn19_1": {
+          "rotulo": "O homem",
+          "texto": "Isto é, a criatura humana. Esta palavra refere-se à espécie, e não ao indivíduo. Êste é o sentido do hebraico donde Jesus Cristo fez a citação Gên 1, 27."
+        },
+        "fn19_2": {
+          "rotulo": "Permitiu / Mas ao princípio não foi assim",
+          "texto": "<em>Permitiu</em>: não vo-lo mandou Moisés, como vós dizeis, mas só o permitiu, à vista da vossa obstinação, e dureza, e prevendo maiores males, se vo-lo não permitia.<br><br><em>Mas ao princípio não foi assim</em>: porque Adão e Eva foram de tal maneira criados um por causa do outro, e unidos tão estreitamente por disposição do seu Criador, que a sua união devia ser inseparável, e o modelo do laço indissolúvel dos matrimônios dos seus descendentes."
+        }
+      }
+    }
+  ]
+}

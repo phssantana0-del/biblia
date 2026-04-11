@@ -1,0 +1,22 @@
+[
+  {
+    "id": "figueiredo",
+    "edicao": "Bíblia Sagrada — Trad. Pe. Figueiredo",
+    "idioma": "pt-BR",
+    "livros": [
+      "figueiredo/mateus.json"
+    ]
+  },
+  {
+    "id": "vulgata",
+    "edicao": "Vulgata Latina",
+    "idioma": "la",
+    "livros": [
+      "vulgata/malaquias.json",
+      "vulgata/mateus.json",
+      "vulgata/marcos.json",
+      "vulgata/lucas.json",
+      "vulgata/joao.json"
+    ]
+  }
+]

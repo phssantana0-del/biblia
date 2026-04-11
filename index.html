@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bíblia Sagrada</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #111;
+    background: #fff;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 16px 60px;
+  }
+
+  /* ── Top bar ── */
+  #topbar {
+    border-bottom: 1px solid #999;
+    padding: 6px 0 4px;
+    font-size: 13px;
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  #topbar a, #topbar button.link-btn {
+    color: #00c;
+    text-decoration: none;
+    background: none;
+    border: none;
+    font-size: 13px;
+    cursor: pointer;
+    font-family: inherit;
+    padding: 0;
+  }
+  #topbar a:hover, #topbar button.link-btn:hover { text-decoration: underline; }
+  #topbar span { color: #555; }
+
+  #edition-selector {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  #edition-selector label { color: #555; }
+
+  select {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 13px;
+    padding: 2px 4px;
+    border: 1px solid #999;
+    background: #fff;
+    color: #111;
+    cursor: pointer;
+  }
+
+  /* ── Compare mode toggle ── */
+  #compare-bar { display: none !important; }
+
+  /* ── Nav ── */
+  #nav {
+    margin: 10px 0 0;
+    font-size: 13px;
+  }
+
+  .nav-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 4px;
+  }
+
+  .nav-row .book-title {
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+    color: #111;
+  }
+
+  .nav-row a, .chapter-links a {
+    color: #00c;
+    text-decoration: none;
+    white-space: nowrap;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    padding: 0;
+  }
+  .nav-row a:hover, .chapter-links a:hover { text-decoration: underline; }
+  .nav-row .dimmed { color: #999; }
+
+  .chapter-links {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-bottom: 4px;
+  }
+
+  .chapter-links .label { color: #555; }
+  .chapter-links a.current { font-weight: bold; color: #111; text-decoration: none; cursor: default; }
+
+  /* ── Main content area ── */
+  #main-area {
+    display: block;
+  }
+
+  /* In normal mode, single column fills full width */
+  #main-area.single #col-primary { display: block; }
+  #main-area.single #col-compare { display: none; }
+  #main-area.single #compare-grid { display: none; }
+
+  /* In compare mode, hide individual columns — grid handles layout */
+  #main-area.compare #col-primary { display: none; }
+  #main-area.compare #col-compare { display: none; }
+  #main-area.compare #compare-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 32px;
+  }
+
+  #col-compare-header { display: none; }
+
+  /* ── Compare grid ── */
+  #compare-grid { display: none; }
+
+  .cg-cell {
+    padding: 6px 0 10px;
+    font-size: 16px;
+    line-height: 1.7;
+  }
+
+  .cg-header-cell {
+    padding: 18px 0 6px;
+  }
+
+  .cg-edition-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #999;
+    margin-bottom: 4px;
+  }
+
+  .cg-chapter-title {
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 2px;
+  }
+
+  .cg-summary-text {
+    font-size: 13px;
+    color: #555;
+    font-style: italic;
+  }
+
+  .cg-rule {
+    grid-column: 1 / -1;
+    border: none;
+    border-top: 1px solid #aaa;
+    height: 0;
+    margin: 4px 0 8px;
+  }
+
+  .cg-divider {
+    grid-column: 1 / -1;
+    border-top: 1px solid #ddd;
+    height: 0;
+    margin: 0;
+  }
+
+  /* ── Chapter header ── */
+  .chapter-header {
+    margin: 18px 0 6px;
+  }
+
+  .chapter-header h1 {
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 2px;
+  }
+
+  .chapter-header .summary {
+    font-size: 13px;
+    color: #555;
+    font-style: italic;
+    margin-bottom: 10px;
+  }
+
+  hr.section-rule {
+    border: none;
+    border-top: 1px solid #aaa;
+    margin: 8px 0 12px;
+  }
+
+  /* ── Verses ── */
+  .verse {
+    margin-bottom: 4px;
+    font-size: 16px;
+  }
+
+  .vnum {
+    display: inline;
+    font-weight: bold;
+    margin-right: 4px;
+    color: #111;
+    font-size: 14px;
+  }
+
+  .vnum a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .prophetic { font-style: italic; }
+
+  /* highlight matched verses in compare mode */
+  .verse.highlighted { background: #fffff0; }
+
+  /* separador entre versículos no modo comparação */
+  #main-area.compare .verse {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+  }
+
+  /* ── Footnote reference ── */
+  sup.fnref {
+    font-size: 11px;
+    cursor: pointer;
+    color: #00c;
+    margin-left: 2px;
+    position: relative;
+  }
+
+  /* ── Inline footnote popup ── */
+  .fn-popup {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    background: #fffff0;
+    border: 1px solid #888;
+    padding: 10px 14px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    width: 420px;
+    max-width: 90vw;
+    box-shadow: 2px 3px 8px rgba(0,0,0,0.18);
+    left: 0;
+    top: 1.4em;
+    color: #111;
+    text-align: left;
+  }
+
+  .fn-popup.active { display: block; }
+  .fn-popup .fn-label { font-weight: bold; font-style: italic; }
+  .fn-popup .fn-close {
+    position: absolute;
+    top: 5px;
+    right: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #555;
+    line-height: 1;
+    background: none;
+    border: none;
+    padding: 2px 4px;
+  }
+  .fn-popup .fn-close:hover { color: #000; }
+
+  /* ── Bio boxes ── */
+  .bio {
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    padding: 10px 0;
+    margin: 12px 0;
+    font-size: 14.5px;
+  }
+
+  .bio .bio-title {
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+
+  /* ── Bottom nav ── */
+  #bottomnav {
+    margin-top: 24px;
+    font-size: 13px;
+    border-top: 1px solid #aaa;
+    padding-top: 8px;
+  }
+
+  #bottomnav .nav-row { margin-bottom: 4px; }
+
+  /* ── Loading / error states ── */
+  .loading-msg {
+    color: #888;
+    font-style: italic;
+    padding: 20px 0;
+    font-size: 14px;
+  }
+
+  .error-msg {
+    color: #a00;
+    font-size: 14px;
+    padding: 10px 0;
+  }
+
+  /* ── Book selector overlay ── */
+  #book-selector {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.35);
+    z-index: 200;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 60px;
+  }
+
+  #book-selector.open { display: flex; }
+
+  #book-panel {
+    background: #fff;
+    border: 1px solid #888;
+    padding: 16px 20px 20px;
+    max-width: 540px;
+    width: 96vw;
+    max-height: 80vh;
+    overflow-y: auto;
+    font-size: 14px;
+  }
+
+  #book-panel h2 {
+    font-size: 15px;
+    margin-bottom: 12px;
+    font-weight: bold;
+  }
+
+  #book-panel .close-btn {
+    float: right;
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-size: 16px;
+    color: #555;
+    line-height: 1;
+    margin-top: -2px;
+  }
+
+  .book-group { margin-bottom: 10px; }
+  .book-group .group-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #777;
+    margin-bottom: 4px;
+  }
+
+  .book-group a {
+    display: inline-block;
+    color: #00c;
+    text-decoration: none;
+    margin: 1px 8px 1px 0;
+    font-size: 13.5px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-family: inherit;
+    padding: 0;
+  }
+  .book-group a:hover { text-decoration: underline; }
+  .book-group a.current-book { font-weight: bold; color: #111; cursor: default; }
+  .book-group a.unavailable { color: #aaa; cursor: not-allowed; }
+
+  @media (max-width: 600px) {
+    body { font-size: 15px; }
+    .fn-popup { width: 92vw; }
+    #main-area.compare #compare-grid { grid-template-columns: 1fr; }
+    #edition-selector { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════════════ TOP BAR -->
+<div id="topbar">
+  <button class="link-btn" onclick="openBooks()">📖 Todos os Livros</button>
+  <span>|</span>
+  <span id="topbar-edition-label">Bíblia Sagrada</span>
+  <div id="edition-selector">
+    <label for="sel-edition">Edição:</label>
+    <select id="sel-edition" onchange="onEditionChange(this.value)">
+      <!-- preenchido dinamicamente -->
+    </select>
+    <span>|</span>
+    <button class="link-btn" id="btn-compare" onclick="toggleCompare()" title="Comparar com outra edição">⇄ Comparar</button>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ COMPARE BAR -->
+<div id="compare-bar">
+  <label>Comparar com:</label>
+  <select id="sel-compare-edition" onchange="onCompareEditionChange(this.value)">
+    <!-- preenchido quando compare ativo -->
+  </select>
+  <span id="compare-status" style="color:#888;font-style:italic;"></span>
+</div>
+
+<!-- ════════════════════════════════════════ NAV: livro + capítulo -->
+<div id="nav">
+  <div class="nav-row">
+    <a href="#" onclick="prevBook(); return false;">&lt; livro ant.</a>
+    <span class="book-title" id="nav-book-title"></span>
+    <a href="#" onclick="nextBook(); return false;">próx. livro &gt;</a>
+  </div>
+  <div class="nav-row" id="nav-chapter-row">
+    <span class="dimmed" id="nav-prev-ch">&lt; cap. ant.</span>
+    <span class="book-title">Capítulo <span id="nav-ch-num">1</span></span>
+    <span class="dimmed" id="nav-next-ch">próx. cap. &gt;</span>
+  </div>
+  <div class="chapter-links" id="chapter-links">
+    <span class="label">Capítulos:</span>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ CONTEÚDO PRINCIPAL -->
+<div id="main-area" class="single">
+  <div id="col-primary">
+    <div id="content"><p class="loading-msg">Carregando…</p></div>
+  </div>
+  <div id="col-compare">
+    <div id="col-compare-header"></div>
+    <div id="content-compare"><p class="loading-msg">Carregando edição para comparação…</p></div>
+  </div>
+  <div id="compare-grid"></div>
+</div>
+
+<!-- ════════════════════════════════════════ BOTTOM NAV -->
+<div id="bottomnav">
+  <div class="nav-row">
+    <span class="dimmed" id="bot-prev">&lt; cap. ant.</span>
+    <span class="book-title" id="bot-book-title"></span>
+    <span class="dimmed" id="bot-next">próx. cap. &gt;</span>
+  </div>
+  <div><a href="#" style="font-size:13px;color:#00c;" onclick="window.scrollTo(0,0);return false;">↑ topo</a></div>
+</div>
+
+<!-- ════════════════════════════════════════ BOOK SELECTOR -->
+<div id="book-selector" onclick="closeBooksOverlay(event)">
+  <div id="book-panel">
+    <h2>Selecionar Livro <button class="close-btn" onclick="closeBooks()">✕</button></h2>
+    <div id="book-list-content">
+      <p class="loading-msg">Carregando lista de livros…</p>
+    </div>
+  </div>
+</div>
+
+<script>
+// ══════════════════════════════════════════════════════════════
+//  ESTADO GLOBAL
+// ══════════════════════════════════════════════════════════════
+
+const BASE_URL = 'edicoes.json'; // caminho relativo ao HTML
+
+let state = {
+  editions: [],           // array de edições carregadas de edicoes.json
+  currentEditionId: null, // id da edição principal
+  currentBookId: null,    // id do livro atual
+  currentChapter: 1,
+  loadedBooks: {},        // cache: chave = "editionId/bookFile", valor = dados do livro
+  compareMode: false,
+  compareEditionId: null,
+  compareBookData: null,
+};
+
+let activePopup = null;
+
+// ══════════════════════════════════════════════════════════════
+//  BOOTSTRAP
+// ══════════════════════════════════════════════════════════════
+
+async function init() {
+  try {
+    const res = await fetch(BASE_URL);
+    if (!res.ok) throw new Error(`Não foi possível carregar edicoes.json (HTTP ${res.status})`);
+    state.editions = await res.json();
+  } catch (e) {
+    document.getElementById('content').innerHTML = `<p class="error-msg">Erro ao carregar edicoes.json: ${e.message}</p>`;
+    return;
+  }
+
+  buildEditionSelector();
+
+  // seleciona primeira edição com pelo menos um livro
+  const firstEdition = state.editions.find(e => e.livros && e.livros.length > 0);
+  if (!firstEdition) {
+    document.getElementById('content').innerHTML = `<p class="error-msg">Nenhum livro disponível ainda. Adicione entradas em edicoes.json.</p>`;
+    return;
+  }
+
+  state.currentEditionId = firstEdition.id;
+  document.getElementById('sel-edition').value = firstEdition.id;
+  document.getElementById('topbar-edition-label').textContent = firstEdition.edicao;
+
+  await loadBook(firstEdition.id, firstEdition.livros[0]);
+}
+
+// ══════════════════════════════════════════════════════════════
+//  SELETOR DE EDIÇÃO
+// ══════════════════════════════════════════════════════════════
+
+function buildEditionSelector() {
+  const sel = document.getElementById('sel-edition');
+  sel.innerHTML = '';
+  state.editions.forEach(ed => {
+    const opt = document.createElement('option');
+    opt.value = ed.id;
+    opt.textContent = ed.edicao;
+    if (ed.livros.length === 0) opt.disabled = true;
+    sel.appendChild(opt);
+  });
+}
+
+function onEditionChange(editionId) {
+  const ed = state.editions.find(e => e.id === editionId);
+  if (!ed || !ed.livros.length) return;
+  state.currentEditionId = editionId;
+  document.getElementById('topbar-edition-label').textContent = ed.edicao;
+
+  // tenta manter o mesmo livro se disponível na nova edição
+  const sameBook = ed.livros.find(f => f.includes(state.currentBookId));
+  const bookFile = sameBook || ed.livros[0];
+  loadBook(editionId, bookFile);
+}
+
+// ══════════════════════════════════════════════════════════════
+//  CARREGAMENTO DE LIVRO
+// ══════════════════════════════════════════════════════════════
+
+async function fetchBook(editionId, bookFile) {
+  const cacheKey = editionId + '/' + bookFile;
+  if (state.loadedBooks[cacheKey]) return state.loadedBooks[cacheKey];
+
+  const res = await fetch(bookFile);
+  if (!res.ok) throw new Error(`HTTP ${res.status} ao carregar ${bookFile}`);
+  const data = await res.json();
+  state.loadedBooks[cacheKey] = data;
+  return data;
+}
+
+async function loadBook(editionId, bookFile, chapter = 1) {
+  document.getElementById('content').innerHTML = '<p class="loading-msg">Carregando…</p>';
+  try {
+    const book = await fetchBook(editionId, bookFile);
+    state.currentBookId = book.id;
+    state.currentChapter = chapter;
+    renderChapter(book, chapter, 'content');
+    updateNav(book);
+    document.getElementById('nav-book-title').textContent = book.titulo;
+    document.getElementById('bot-book-title').textContent = book.titulo;
+    buildBookSelector();
+
+    // atualiza coluna de comparação se ativa
+    if (state.compareMode && state.compareEditionId) {
+      await loadCompareChapter();
+    }
+  } catch (e) {
+    document.getElementById('content').innerHTML = `<p class="error-msg">Erro ao carregar livro: ${e.message}</p>`;
+  }
+}
+
+// ══════════════════════════════════════════════════════════════
+//  RENDERIZAÇÃO
+// ══════════════════════════════════════════════════════════════
+
+function renderChapter(book, chNum, targetId) {
+  const ch = book.capitulos.find(c => c.num === chNum);
+  if (!ch) {
+    document.getElementById(targetId).innerHTML = '<p class="error-msg">Capítulo não encontrado neste arquivo JSON.</p>';
+    return;
+  }
+
+  // monta índice de notas
+  const notaKeys = ch.notas ? Object.keys(ch.notas) : [];
+
+  const verses = ch.versiculos.filter(i => i.tipo !== 'bio');
+  const bios   = ch.versiculos.filter(i => i.tipo === 'bio');
+  const ordered = [...verses, ...bios];
+
+  const lines = ordered.map(item => {
+    if (item.tipo === 'bio') {
+      return `<div class="bio"><div class="bio-title">${item.titulo}</div><p>${item.texto}</p></div>`;
+    }
+    let fnHtml = '';
+    if (item.nota && ch.notas && ch.notas[item.nota]) {
+      const nota = ch.notas[item.nota];
+      const fnNum = notaKeys.indexOf(item.nota) + 1;
+      const popupId = `popup_${targetId}_${item.nota}`;
+      fnHtml = `<sup class="fnref" onclick="togglePopup(event,'${popupId}')">[${fnNum}]<span class="fn-popup" id="${popupId}"><button class="fn-close" onclick="closePopup(event)">✕</button><span class="fn-label">${nota.rotulo}</span> — <span>${nota.texto}</span></span></sup>`;
+    }
+    return `<p class="verse" data-v="${item.n}"><span class="vnum"><a name="v${item.n}">${item.n}</a></span>${item.texto}${fnHtml}</p>`;
+  }).join('\n');
+
+  document.getElementById(targetId).innerHTML = `
+    <div class="chapter-header">
+      <h1>Capítulo ${ch.num}</h1>
+      <div class="summary">${ch.sumario}</div>
+    </div>
+    <hr class="section-rule">
+    ${lines}
+  `;
+}
+
+function renderVerseHtml(item, notas, notaKeys, prefix) {
+  if (item.tipo === 'bio') {
+    return `<div class="bio"><div class="bio-title">${item.titulo}</div><p>${item.texto}</p></div>`;
+  }
+  let fnHtml = '';
+  if (item.nota && notas && notas[item.nota]) {
+    const nota = notas[item.nota];
+    const fnNum = notaKeys.indexOf(item.nota) + 1;
+    const popupId = `popup_${prefix}_${item.nota}`;
+    fnHtml = `<sup class="fnref" onclick="togglePopup(event,'${popupId}')">[${fnNum}]<span class="fn-popup" id="${popupId}"><button class="fn-close" onclick="closePopup(event)">✕</button><span class="fn-label">${nota.rotulo}</span> — <span>${nota.texto}</span></span></sup>`;
+  }
+  return `<span class="vnum"><a name="v${item.n}_${prefix}">${item.n}</a></span>${item.texto}${fnHtml}`;
+}
+
+function renderCompareGrid(primaryBook, compareBook, chNum) {
+  const grid = document.getElementById('compare-grid');
+  grid.innerHTML = '';
+
+  const ch1 = primaryBook.capitulos.find(c => c.num === chNum);
+  const ch2 = compareBook ? compareBook.capitulos.find(c => c.num === chNum) : null;
+
+  if (!ch1) {
+    grid.innerHTML = '<p class="error-msg" style="grid-column:1/-1">Capítulo não encontrado.</p>';
+    return;
+  }
+
+  const ed1 = state.editions.find(e => e.id === state.currentEditionId);
+  const ed2 = compareBook ? state.editions.find(e => e.id === state.compareEditionId) : null;
+
+  // Cabeçalhos das edições
+  const makeHeaderCell = (ed, ch) => {
+    const div = document.createElement('div');
+    div.className = 'cg-cell cg-header-cell';
+    div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
+      + `<div class="cg-chapter-title">Capítulo ${ch.num}</div>`
+      + `<div class="cg-summary-text">${ch.sumario}</div>`;
+    return div;
+  };
+
+  grid.appendChild(makeHeaderCell(ed1, ch1));
+  if (ch2) {
+    grid.appendChild(makeHeaderCell(ed2, ch2));
+  } else {
+    grid.appendChild(document.createElement('div'));
+  }
+
+  // Linha separadora entre cabeçalho e versículos
+  const rule = document.createElement('div');
+  rule.className = 'cg-rule';
+  grid.appendChild(rule);
+
+  // Pares de versículos
+  const verses1 = ch1.versiculos.filter(i => i.tipo !== 'bio');
+  const bios1   = ch1.versiculos.filter(i => i.tipo === 'bio');
+  const verses2 = ch2 ? ch2.versiculos.filter(i => i.tipo !== 'bio') : [];
+  const bios2   = ch2 ? ch2.versiculos.filter(i => i.tipo === 'bio') : [];
+  const notaKeys1 = ch1.notas ? Object.keys(ch1.notas) : [];
+  const notaKeys2 = ch2 && ch2.notas ? Object.keys(ch2.notas) : [];
+  const maxLen = Math.max(verses1.length, verses2.length);
+  const maxBios = Math.max(bios1.length, bios2.length);
+
+  for (let i = 0; i < maxLen; i++) {
+    const item1 = verses1[i];
+    const item2 = verses2[i];
+
+    const cell1 = document.createElement('div');
+    cell1.className = 'cg-cell';
+    if (item1) cell1.innerHTML = renderVerseHtml(item1, ch1.notas || {}, notaKeys1, 'cg1');
+    grid.appendChild(cell1);
+
+    const cell2 = document.createElement('div');
+    cell2.className = 'cg-cell';
+    if (item2) cell2.innerHTML = renderVerseHtml(item2, (ch2 && ch2.notas) || {}, notaKeys2, 'cg2');
+    grid.appendChild(cell2);
+
+    const divider = document.createElement('div');
+    divider.className = 'cg-divider';
+    grid.appendChild(divider);
+  }
+
+  // bios sempre por último
+  for (let i = 0; i < maxBios; i++) {
+    const b1 = bios1[i];
+    const b2 = bios2[i];
+
+    const bcell1 = document.createElement('div');
+    bcell1.className = 'cg-cell';
+    if (b1) bcell1.innerHTML = `<div class="bio"><div class="bio-title">${b1.titulo}</div><p>${b1.texto}</p></div>`;
+    grid.appendChild(bcell1);
+
+    const bcell2 = document.createElement('div');
+    bcell2.className = 'cg-cell';
+    if (b2) bcell2.innerHTML = `<div class="bio"><div class="bio-title">${b2.titulo}</div><p>${b2.texto}</p></div>`;
+    grid.appendChild(bcell2);
+
+    const bdivider = document.createElement('div');
+    bdivider.className = 'cg-divider';
+    grid.appendChild(bdivider);
+  }
+}
+
+// ══════════════════════════════════════════════════════════════
+//  NAVEGAÇÃO
+// ══════════════════════════════════════════════════════════════
+
+function updateNav(book) {
+  const total = book.capitulos.length;
+  const ch = state.currentChapter;
+
+  document.getElementById('nav-ch-num').textContent = ch;
+
+  // prev
+  const prevEl = document.getElementById('nav-prev-ch');
+  const botPrev = document.getElementById('bot-prev');
+  if (ch > 1) {
+    prevEl.outerHTML = `<a href="#" id="nav-prev-ch" onclick="goChapter(${ch - 1}); return false;">&lt; cap. ant.</a>`;
+    botPrev.outerHTML = `<a href="#" id="bot-prev" onclick="goChapter(${ch - 1}); return false;">&lt; cap. ant.</a>`;
+  } else {
+    prevEl.outerHTML = `<span class="dimmed" id="nav-prev-ch">&lt; cap. ant.</span>`;
+    botPrev.outerHTML = `<span class="dimmed" id="bot-prev">&lt; cap. ant.</span>`;
+  }
+
+  // next
+  const nextEl = document.getElementById('nav-next-ch');
+  const botNext = document.getElementById('bot-next');
+  if (ch < total) {
+    nextEl.outerHTML = `<a href="#" id="nav-next-ch" onclick="goChapter(${ch + 1}); return false;">próx. cap. &gt;</a>`;
+    botNext.outerHTML = `<a href="#" id="bot-next" onclick="goChapter(${ch + 1}); return false;">próx. cap. &gt;</a>`;
+  } else {
+    nextEl.outerHTML = `<span class="dimmed" id="nav-next-ch">próx. cap. &gt;</span>`;
+    botNext.outerHTML = `<span class="dimmed" id="bot-next">próx. cap. &gt;</span>`;
+  }
+
+  // chapter links
+  let links = '<span class="label">Capítulos:</span> ';
+  for (let i = 1; i <= total; i++) {
+    if (i === ch) links += `<a class="current" href="#">${i}</a> `;
+    else links += `<a href="#" onclick="goChapter(${i}); return false;">${i}</a> `;
+  }
+  document.getElementById('chapter-links').innerHTML = links;
+}
+
+function goChapter(n) {
+  if (activePopup) { activePopup.classList.remove('active'); activePopup = null; }
+  const ed = state.editions.find(e => e.id === state.currentEditionId);
+  const bookFile = ed.livros.find(f => f.includes(state.currentBookId));
+  loadBook(state.currentEditionId, bookFile, n);
+  window.scrollTo(0, 0);
+}
+
+async function prevBook() {
+  const ed = state.editions.find(e => e.id === state.currentEditionId);
+  const idx = ed.livros.findIndex(f => f.includes(state.currentBookId));
+  if (idx <= 0) return;
+  await loadBook(state.currentEditionId, ed.livros[idx - 1], 1);
+}
+
+async function nextBook() {
+  const ed = state.editions.find(e => e.id === state.currentEditionId);
+  const idx = ed.livros.findIndex(f => f.includes(state.currentBookId));
+  if (idx < 0 || idx >= ed.livros.length - 1) return;
+  await loadBook(state.currentEditionId, ed.livros[idx + 1], 1);
+}
+
+// ══════════════════════════════════════════════════════════════
+//  MODO COMPARAÇÃO
+// ══════════════════════════════════════════════════════════════
+
+function toggleCompare() {
+  state.compareMode = !state.compareMode;
+  const area = document.getElementById('main-area');
+
+  if (state.compareMode) {
+    area.classList.replace('single', 'compare');
+    // auto-seleciona a outra edição disponível
+    const other = state.editions.find(e => e.id !== state.currentEditionId && e.livros.length > 0);
+    if (other) {
+      state.compareEditionId = other.id;
+      loadCompareChapter();
+    }
+  } else {
+    area.classList.replace('compare', 'single');
+    state.compareEditionId = null;
+    document.getElementById('compare-grid').innerHTML = '';
+    document.getElementById('content-compare').innerHTML = '';
+  }
+}
+
+function buildCompareEditionSelector() {
+  const sel = document.getElementById('sel-compare-edition');
+  sel.innerHTML = '<option value="">— selecionar edição —</option>';
+  state.editions.forEach(ed => {
+    if (ed.id === state.currentEditionId) return; // não comparar consigo mesmo
+    const opt = document.createElement('option');
+    opt.value = ed.id;
+    opt.textContent = ed.edicao;
+    if (ed.livros.length === 0) opt.disabled = true;
+    sel.appendChild(opt);
+  });
+}
+
+function onCompareEditionChange(editionId) {
+  if (!editionId) return;
+  state.compareEditionId = editionId;
+  loadCompareChapter();
+}
+
+async function loadCompareChapter() {
+  if (!state.compareEditionId) return;
+  const ed = state.editions.find(e => e.id === state.compareEditionId);
+  const grid = document.getElementById('compare-grid');
+  document.getElementById('compare-status').textContent = '';
+
+  if (!ed || !ed.livros.length) {
+    grid.innerHTML = '<p class="error-msg" style="grid-column:1/-1">Esta edição ainda não possui livros disponíveis.</p>';
+    return;
+  }
+
+  const bookFile2 = ed.livros.find(f => f.includes(state.currentBookId));
+  if (!bookFile2) {
+    grid.innerHTML = '<p class="error-msg" style="grid-column:1/-1">O livro atual ainda não está disponível nesta edição.</p>';
+    document.getElementById('compare-status').textContent = 'livro não disponível nesta edição';
+    return;
+  }
+
+  grid.innerHTML = '<p class="loading-msg" style="grid-column:1/-1">Carregando…</p>';
+
+  try {
+    const ed1 = state.editions.find(e => e.id === state.currentEditionId);
+    const bookFile1 = ed1.livros.find(f => f.includes(state.currentBookId));
+    const primaryBook = await fetchBook(state.currentEditionId, bookFile1);
+    const compareBook = await fetchBook(state.compareEditionId, bookFile2);
+    renderCompareGrid(primaryBook, compareBook, state.currentChapter);
+  } catch (e) {
+    grid.innerHTML = `<p class="error-msg" style="grid-column:1/-1">Erro: ${e.message}</p>`;
+  }
+}
+
+// ══════════════════════════════════════════════════════════════
+//  SELETOR DE LIVROS (OVERLAY)
+// ══════════════════════════════════════════════════════════════
+
+function buildBookSelector() {
+  const ed = state.editions.find(e => e.id === state.currentEditionId);
+  if (!ed) return;
+
+  // agrupa por testamento/grupo usando os dados carregados em cache
+  const groups = {};
+  ed.livros.forEach(file => {
+    const cacheKey = ed.id + '/' + file;
+    const book = state.loadedBooks[cacheKey];
+    const grupo = book ? `${book.testamento} — ${book.grupo}` : 'Outros';
+    if (!groups[grupo]) groups[grupo] = [];
+    groups[grupo].push({ file, book });
+  });
+
+  // livros que já foram carregados
+  let html = '';
+  for (const [grupo, items] of Object.entries(groups)) {
+    html += `<div class="book-group"><div class="group-label">${grupo}</div>`;
+    items.forEach(({ file, book }) => {
+      if (book) {
+        const isCurrent = book.id === state.currentBookId;
+        html += `<a class="${isCurrent ? 'current-book' : ''}" href="#" onclick="selectBook('${file}'); return false;">${book.titulo}</a>`;
+      }
+    });
+    html += '</div>';
+  }
+
+  // placeholder para livros não carregados ainda (só o arquivo está listado)
+  ed.livros.forEach(file => {
+    const cacheKey = ed.id + '/' + file;
+    if (!state.loadedBooks[cacheKey]) {
+      // livro listado mas ainda não carregado — mostra o nome do arquivo como link
+      const label = file.split('/').pop().replace('.json', '');
+      html += `<div class="book-group"><a href="#" onclick="selectBook('${file}'); return false;">${label}</a></div>`;
+    }
+  });
+
+  // outras edições com placeholder
+  const outrasEdicoes = state.editions.filter(e => e.id !== ed.id);
+  if (outrasEdicoes.length) {
+    outrasEdicoes.forEach(outra => {
+      if (outra.livros.length === 0) {
+        html += `<div class="book-group"><div class="group-label">${outra.edicao} — em breve</div></div>`;
+      }
+    });
+  }
+
+  if (!html) html = '<p style="color:#888;font-size:13px;">Nenhum livro disponível ainda.</p>';
+
+  document.getElementById('book-list-content').innerHTML = html;
+}
+
+async function selectBook(file) {
+  closeBooks();
+  await loadBook(state.currentEditionId, file, 1);
+}
+
+function openBooks() {
+  buildBookSelector();
+  document.getElementById('book-selector').classList.add('open');
+}
+function closeBooks() { document.getElementById('book-selector').classList.remove('open'); }
+function closeBooksOverlay(e) {
+  if (e.target === document.getElementById('book-selector')) closeBooks();
+}
+
+// ══════════════════════════════════════════════════════════════
+//  POPUPS DE NOTAS
+// ══════════════════════════════════════════════════════════════
+
+function togglePopup(e, popupId) {
+  e.stopPropagation();
+  const popup = document.getElementById(popupId);
+  if (!popup) return;
+  if (activePopup && activePopup !== popup) activePopup.classList.remove('active');
+  popup.classList.toggle('active');
+  activePopup = popup.classList.contains('active') ? popup : null;
+}
+
+function closePopup(e) {
+  e.stopPropagation();
+  if (activePopup) { activePopup.classList.remove('active'); activePopup = null; }
+}
+
+document.addEventListener('click', () => {
+  if (activePopup) { activePopup.classList.remove('active'); activePopup = null; }
+});
+
+// ══════════════════════════════════════════════════════════════
+//  START
+// ══════════════════════════════════════════════════════════════
+
+init();
+</script>
+</body>
+</html>
