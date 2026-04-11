@@ -1,0 +1,12 @@
+{
+  "name": "biblia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extrair": "node extrair-paginas.js"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
