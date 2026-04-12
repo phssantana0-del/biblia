@@ -12,6 +12,8 @@
     "id": "vulgata",
     "edicao": "Vulgata Latina",
     "idioma": "la",
-    "livros": []
+    "livros": [
+      "edicoes/vulgata/mateus/index.json"
+    ]
   }
 ]

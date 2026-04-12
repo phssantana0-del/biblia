@@ -1,0 +1,30 @@
+{
+  "num": 2,
+  "sumario": "Adoratio Magorum. Fuga in Aegyptum. Caedes Innocentium. Reditus in Israhel.",
+  "versiculos": [
+    { "n": 1,  "texto": "cum ergo natus esset Iesus in Bethleem Iudaeae in diebus Herodis regis ecce magi ab oriente venerunt Hierosolymam" },
+    { "n": 2,  "texto": "dicentes ubi est qui natus est rex Iudaeorum vidimus enim stellam eius in oriente et venimus adorare eum" },
+    { "n": 3,  "texto": "audiens autem Herodes rex turbatus est et omnis Hierosolyma cum illo" },
+    { "n": 4,  "texto": "et congregans omnes principes sacerdotum et scribas populi sciscitabatur ab eis ubi Christus nasceretur" },
+    { "n": 5,  "texto": "at illi dixerunt ei in Bethleem Iudaeae sic enim scriptum est per prophetam" },
+    { "n": 6,  "texto": "<span class='prophetic'>et tu Bethleem terra Iuda nequaquam minima es in principibus Iuda ex te enim exiet dux qui reget populum meum Israhel</span>" },
+    { "n": 7,  "texto": "tunc Herodes clam vocatis magis diligenter didicit ab eis tempus stellae quae apparuit eis" },
+    { "n": 8,  "texto": "et mittens illos in Bethleem dixit ite et interrogate diligenter de puero et cum inveneritis renuntiate mihi ut et ego veniens adorem eum" },
+    { "n": 9,  "texto": "qui cum audissent regem abierunt et ecce stella quam viderant in oriente antecedebat eos usque dum veniens staret supra ubi erat puer" },
+    { "n": 10, "texto": "videntes autem stellam gavisi sunt gaudio magno valde" },
+    { "n": 11, "texto": "et intrantes domum invenerunt puerum cum Maria matre eius et procidentes adoraverunt eum et apertis thesauris suis obtulerunt ei munera aurum tus et murram" },
+    { "n": 12, "texto": "et responso accepto in somnis ne redirent ad Herodem per aliam viam reversi sunt in regionem suam" },
+    { "n": 13, "texto": "qui cum recessissent ecce angelus Domini apparuit in somnis Ioseph dicens surge et accipe puerum et matrem eius et fuge in Aegyptum et esto ibi usque dum dicam tibi futurum est enim ut Herodes quaerat puerum ad perdendum eum" },
+    { "n": 14, "texto": "qui consurgens accepit puerum et matrem eius nocte et recessit in Aegyptum" },
+    { "n": 15, "texto": "et erat ibi usque ad obitum Herodis ut adimpleretur quod dictum est a Domino per prophetam dicentem <span class='prophetic'>ex Aegypto vocavi filium meum</span>" },
+    { "n": 16, "texto": "tunc Herodes videns quoniam inlusus esset a magis iratus est valde et mittens occidit omnes pueros qui erant in Bethleem et in omnibus finibus eius a bimatu et infra secundum tempus quod exquisierat a magis" },
+    { "n": 17, "texto": "tunc adimpletum est quod dictum est per Hieremiam prophetam dicentem" },
+    { "n": 18, "texto": "<span class='prophetic'>vox in Rama audita est ploratus et ululatus multus Rachel plorans filios suos et noluit consolari quia non sunt</span>" },
+    { "n": 19, "texto": "defuncto autem Herode ecce apparuit angelus Domini in somnis Ioseph in Aegypto" },
+    { "n": 20, "texto": "dicens surge et accipe puerum et matrem eius et vade in terram Israhel defuncti sunt enim qui quaerebant animam pueri" },
+    { "n": 21, "texto": "qui surgens accepit puerum et matrem eius et venit in terram Israhel" },
+    { "n": 22, "texto": "audiens autem quod Archelaus regnaret in Iudaea pro Herode patre suo timuit illo ire et admonitus in somnis secessit in partes Galilaeae" },
+    { "n": 23, "texto": "et veniens habitavit in civitate quae vocatur Nazareth ut adimpleretur quod dictum est per prophetas quoniam <span class='prophetic'>Nazareus vocabitur</span>" }
+  ],
+  "notas": {}
+}
