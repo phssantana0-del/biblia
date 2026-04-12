@@ -418,6 +418,138 @@
           "texto": "Como foram, por exemplo, Sansão, Davi, e o mesmo Salomão."
         }
       }
+    },
+    {
+      "num": 8,
+      "pdf": ".pdfs/proverbios/cap-8.pdf",
+      "sumario": "A Sabedoria convidando os homens a que venham a ela, e recebam as suas instruções. Excelência da Sabedoria. Ela está em Deus desde tôda a eternidade. As suas delícias são estar com os homens. Felicidade dos que a ouvem. Infelicidade dos que a aborrecem.",
+      "versiculos": [
+        { "n": 1, "texto": "Porventura a sabedoria não está repetidas vêzes clamando, e a prudência não faz ouvir a sua voz?", "nota": "fn8_1" },
+        { "n": 2, "texto": "No mais alto e elevado das eminências, ao longo do caminho, no meio das veredas posta em pé," },
+        { "n": 3, "texto": "junto às portas da cidade, na mesma entrada, fala, dizendo:" },
+        { "n": 4, "texto": "A vós, ó homens, é que eu estou continuamente clamando, e aos filhos dos homens é que se dirige a minha voz." },
+        { "n": 5, "texto": "Aprendei, ó pequeninos, a astúcia, e vós, insensatos, prestai-me atenção." },
+        { "n": 6, "texto": "Ouvi, porque tenho de vos falar acêrca de grandes coisas: E os meus lábios se abrirão para anunciarem o que é reto." },
+        { "n": 7, "texto": "A minha garganta meditará a verdade, e os meus lábios detestarão ao ímpio.", "nota": "fn8_2" },
+        { "n": 8, "texto": "Justos são todos os meus discursos, nêles não há coisa má, nem depravado:", "nota": "fn8_3" },
+        { "n": 9, "texto": "Retos são para os inteligentes, e de equidade para os que acham ciência." },
+        { "n": 10, "texto": "Recebei as minhas instruções com maior gôsto, do que se recebêsseis dinheiro: Escolhei antes a doutrina que o ouro." },
+        { "n": 11, "texto": "Porque melhor é a sabedoria que tôdas as riquezas de mais subido valor: E tudo quando é apetecível com ela se não pode comparar." },
+        { "n": 12, "texto": "Eu, a sabedoria, habito no conselho, e me acho presente aos pensamentos judiciosos." },
+        { "n": 13, "texto": "O temor do Senhor aborrece o mal: Eu detesto a arrogância, e a soberba, e o caminho corrompido, e a bôca de duas línguas." },
+        { "n": 14, "texto": "Meu é o conselho, e a equidade, minha é a prudência, minha é a fortaleza." },
+        { "n": 15, "texto": "Por mim reinam os reis, e por mim decretam os legisladores o que é justo:" },
+        { "n": 16, "texto": "Por mim imperam os príncipes, e os poderosos decretam a justiça." },
+        { "n": 17, "texto": "Eu amo aos que me amam: E os que vigiam desde a manhã por me buscarem, achar-me-ão." },
+        { "n": 18, "texto": "Comigo estão as riquezas, e a glória, a magnífica opulência, e a justiça.", "nota": "fn8_4" },
+        { "n": 19, "texto": "Porque melhor é o meu fruto que o ouro, e que a pedra preciosa, e as minhas produções melhores que a prata escolhida." },
+        { "n": 20, "texto": "Eu ando nos caminhos da justiça, no meio das veredas do juízo." },
+        { "n": 21, "texto": "Para enriquecer aos que me amam, e para encher os seus tesouros.", "nota": "fn8_5" },
+        { "n": 22, "texto": "O Senhor me possuiu no princípio de seus caminhos, desde o princípio antes que criasse coisa alguma.", "nota": "fn8_6" },
+        { "n": 23, "texto": "Desde a eternidade fui constituída, e desde o princípio, antes da terra ser criada.", "nota": "fn8_7" },
+        { "n": 24, "texto": "Ainda não havia os abismos, e eu estava já concebida: Ainda as fontes das águas não tinham arrebentado:" },
+        { "n": 25, "texto": "Ainda se não tinham assentado os montes sôbre a sua pesada massa: Antes de haver outeiros, era eu dada à luz:" },
+        { "n": 26, "texto": "Ainda êle não tinha feito a terra, nem os rios, nem tinha firmado o mundo sôbre os seus polos." },
+        { "n": 27, "texto": "Quando êle preparava os céus, eu me achava presente: Quando com lei certa, e dentro do seu âmbito encerrava os abismos:" },
+        { "n": 28, "texto": "Quando firmava lá no alto a região etérea, e quando equilibrava as fontes das águas:" },
+        { "n": 29, "texto": "Quando circunscrevia ao mar o seu têrmo, e punha lei às águas, para que não passassem os seus limites: Quando sustentava pendentes os fundamentos da terra." },
+        { "n": 30, "texto": "Estava eu com êle regulando tôdas as coisas: E cada dia me deleitava, brincando em todo o tempo diante dêle:" },
+        { "n": 31, "texto": "Brincando na redondeza da terra: E achando as minhas delícias em estar com os filhos dos homens." },
+        { "n": 32, "texto": "Agora pois, filhos, ouvi-me: Bem-aventurados os que guardam os meus caminhos." },
+        { "n": 33, "texto": "Ouvi a instrução e sêde sábios, e não queirais rejeitá-la." },
+        { "n": 34, "texto": "Bem-aventurado o homem que me ouve e que vela todos os dias à entrada da minha casa, e que está feito espia às umbreiras da minha porta." },
+        { "n": 35, "texto": "Aquêle que me achar, achará a vida, e haverá do Senhor a salvação:" },
+        { "n": 36, "texto": "Aquêle porém que pecar contra mim fará mal à sua alma. Todos os que me aborrecem, amam a morte." }
+      ],
+      "notas": {
+        "fn8_1": {
+          "rotulo": "Porventura",
+          "texto": "Êste capítulo pode ser considerado como a sequência do antecedente; no anterior descreveu os perigos da sedução; agora os encantos da prudência, que nos tornará sábios e felizes. É uma prosopopéia. A sabedoria fala como uma rainha aos seus vassalos."
+        },
+        "fn8_s": {
+          "rotulo": "Sabedoria",
+          "texto": "A maior parte dos Padres entendem aqui a sabedoria divina e eterna: <em>Dei cognitio</em>. Lapide, como a segunda pessoa da Santíssima Trindade: <em>Sapientia haec est hypostatica nempo Filius Dei, sive Christus</em>. Lapide, sabedoria portanto referida à divindade e à humanidade do Filho de Deus. — Glaire."
+        },
+        "fn8_2": {
+          "rotulo": "A minha garganta meditará",
+          "texto": "Isto é, a minha língua falará. — Menochio."
+        },
+        "fn8_3": {
+          "rotulo": "Justos são todos os meus discursos",
+          "texto": "Não envolvem êrro como os dos sábios do mundo. E tal é o caráter da divina sabedoria. — Pereira."
+        },
+        "fn8_4": {
+          "rotulo": "A magnífica opulência",
+          "texto": "O hebreu lê: «E a opulência estável». — Pereira."
+        },
+        "fn8_5": {
+          "rotulo": "Os seus tesouros",
+          "texto": "Veja-se Is 33, 6. — Pereira."
+        },
+        "fn8_6": {
+          "rotulo": "O Senhor me possuiu",
+          "texto": "Êste versículo é célebre na história da teologia dogmática. Os arianos, sectários do célebre hereje Ária, negaram, como é sabido, a consubstanciabilidade do Verbo, ou da segunda pessoa da Trindade, que consideravam uma criatura, segundo a doutrina do seu chefe, exposta na famosa carta de Ária a Eusébio. No calor da discussão lembraram-se de citar êste texto para demonstrarem a criabilidade do Verbo, deturpando-lhe o sentido claro, porque desta passagem só se pode concluir exatamente o inverso, isto é, que a Sabedoria ou o Verbo é coeterno e consubstanciai ao Pai."
+        },
+        "fn8_7": {
+          "rotulo": "Fui constituída",
+          "texto": "Lê o hebreu: «Tive o principado». — Pereira."
+        }
+      }
+    },
+    {
+      "num": 9,
+      "pdf": ".pdfs/proverbios/cap-9.pdf",
+      "sumario": "A Sabedoria edificou para si uma casa, preparou um banquete e convidou para êle os homens. Desgraçado o que desprezar o seu convite. A mulher insensata também chama a si os homens. Desgraçado o que se deixar vencer dos seus atrativos.",
+      "versiculos": [
+        { "n": 1, "texto": "A sabedoria edificou para si uma casa, cortou sete colunas.", "nota": "fn9_1" },
+        { "n": 2, "texto": "Imolou as suas vítimas, preparou o vinho, e dispôs a sua mesa.", "nota": "fn9_2" },
+        { "n": 3, "texto": "Enviou as suas escravas a chamar à fortaleza, e às muralhas da cidade:", "nota": "fn9_3" },
+        { "n": 4, "texto": "Todo o que é simples, venha a mim. E aos insensatos disse:" },
+        { "n": 5, "texto": "Vinde, comei o pão que eu vos dou e bebei o vinho que vos preparei.", "nota": "fn9_4" },
+        { "n": 6, "texto": "Deixai a infância, e vivei, e andai pelos caminhos da prudência." },
+        { "n": 7, "texto": "Aquêle que instrui ao mofador a si mesmo se faz injúria: E aquêle que repreende ao ímpio, a si mesmo se desonra." },
+        { "n": 8, "texto": "Não repreendas ao mofador, para que êle te não aborreça. Repreende ao sábio, êle te amará." },
+        { "n": 9, "texto": "Dá ocasião ao sábio, e se lhe acrescentará sabedoria: Ensina ao justo, e se apressará em aprender.", "nota": "fn9_5" },
+        { "n": 10, "texto": "O princípio da sabedoria é o temor do Senhor: E a ciência dos Santos é a prudência." },
+        { "n": 11, "texto": "Porque por mim se aumentará o número dos teus dias, e acrescentados serão novos anos à tua vida." },
+        { "n": 12, "texto": "Se fôres sábio, para ti mesmo o serás: E se fores mofador, tu só experimentarás o mal." },
+        { "n": 13, "texto": "A mulher insensata e gritadeira, e cheia de atrativos, e que de todo não sabe nada,", "nota": "fn9_6" },
+        { "n": 14, "texto": "assentou-se à porta de sua casa sôbre uma cadeira, num lugar alto da cidade," },
+        { "n": 15, "texto": "para chamar aos que passavam pela estrada, e que iam andando o seu caminho, dizendo:" },
+        { "n": 16, "texto": "O que é simples, decline para mim. E ao insensato disse ela:" },
+        { "n": 17, "texto": "As águas furtivas são mais doces, e o pão tomado às escondidas é mais gostoso." },
+        { "n": 18, "texto": "Mas êle ignorou que os gigantes estão com ela, e que os seus convidados se acham nas profundezas do inferno.", "nota": "fn9_7" }
+      ],
+      "notas": {
+        "fn9_1": {
+          "rotulo": "A sabedoria edificou",
+          "texto": "É a continuação da parábola principiada no capítulo precedente, em que o autor apresentou a sabedoria como uma mulher, cujas excelsas qualidades contrapõe aos falazes atrativos da voluptuosidade.<br><br>UMA CASA — Segundo os Padres da Igreja esta expressão designa a sagrada Humanidade de Jesus Cristo e a Igreja Cristã, que reúnem as qualidades descritas por Salomão. <em>Per domum Intellige Ecclesiam quae domus Dei vocatur</em> 1 Tim 3, 15 <em>in qua paratum est piis conviviam</em>. — Menochio.<br><br>SETE COLUNAS — O mesmo sete foi sempre considerado entre os hebreus, árabes e persas como um número perfeito e por consequência misterioso e sagrado. Os intérpretes vêem nestas sete colunas as figuras dos sete sacramentos e dos sete dons do Espírito Santo. A expressão cortar as colunas significa construir com magnificência."
+        },
+        "fn9_2": {
+          "rotulo": "Imolou as suas vítimas, preparou o vinho",
+          "texto": "IMOLOU AS SUAS VÍTIMAS — No hebreu está matar e degolar os seus animais, que tinha engordado para um festim.<br><br>PREPAROU O VINHO — Na Vulgata, que mais se aproxima do original, está <em>miscuit</em>, misturou, que o Padre Pereira traduziu por preparou, que é, na verdade, o sentido do texto porque os vinhos das regiões orientais são muito fortes e encorpados e por isto misturam-lhes água e algumas vêzes aromas proporcionalmente."
+        },
+        "fn9_3": {
+          "rotulo": "As suas escravas",
+          "texto": "Entendem os exegetas que as escravas da sabedoria são os Apóstolos, os doutores da Igreja, os confessores da fé, e quantos vão por todo o mundo anunciar a palavra de Deus."
+        },
+        "fn9_4": {
+          "rotulo": "O pão",
+          "texto": "Expressão metafórica, que indica a doutrina da sabedoria, a que, também por semelhança, se costuma chamar alimento do espírito."
+        },
+        "fn9_5": {
+          "rotulo": "Dá ocasião ao sábio",
+          "texto": "Isto é, de aprender. — Menochio."
+        },
+        "fn9_6": {
+          "rotulo": "Que de todo não sabe nada",
+          "texto": "Os Setenta lêem: «Que não conhece vergonha». — Pereira."
+        },
+        "fn9_7": {
+          "rotulo": "Gigantes",
+          "texto": "O que está no original hebraico é <em>rephaim</em>, têrmo que pròpriamente designa as almas dos mortos e que é distinto da palavra semelhante <em>Rephaim</em>, nome duma raça de gigantes. Em outro lugar 2, 18, S. Jerônimo traduzia <em>Rephaim</em> por inferno, quando a esta significação corresponde <em>ocheol</em>. Êste versículo é a conclusão breve, mas enérgica de Salomão. A casa de loucura é semelhante ao inferno e os seus convivas vêem-se num instante em companhia dos habitantes dos abismos, precipitados no inferno, onde não encontram nem podem esperar salvação."
+        }
+      }
     }
   ]
 }
