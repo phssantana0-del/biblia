@@ -1,5 +1,38 @@
 # Instruções para o Agente — Projeto Bíblia Pe. Figueiredo
 
+## Fonte da edição Vulgata Clementina
+
+Para a edição **Vulgata Clementina**, o texto deve ser sempre extraído de:
+
+> **https://la.wikisource.org/wiki/Vulgata_Clementina**
+
+### Padrão de URLs por livro
+- Mateus: `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum`
+- Marcos: `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Marcum`
+- Lucas: `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam`
+- João: `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Ioannem`
+- Gênesis: `https://la.wikisource.org/wiki/Vulgata_Clementina/Genesis`
+- Salmos: `https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi`
+- Para outros livros: consultar o índice em `https://la.wikisource.org/wiki/Vulgata_Clementina` para obter o nome exato.
+
+### Grafia característica da Clementina (diferente da Nova Vulgata)
+| Clementina | Nova Vulgata |
+|------------|--------------|
+| `Jesu / Jesus` | `Iesu / Iesus` |
+| `Jacob` | `Iacob` |
+| `Joseph` | `Ioseph` |
+| `Rahab` | `Rachab` |
+| `Emmanuel` | `Emmanuhel` |
+| `Jerosolyma` | `Hierosolyma` |
+| `Ægyptum / Ægypto` | `Aegyptum / Aegypto` |
+| `Israël` | `Israhel` |
+| `Judæus / Judæa` | `Iudaeus / Iudaea` |
+| pontuação antes de `:` e `?` | sem espaço antes |
+
+**Nunca usar o site vulgate.org** (Nova Vulgata/Stuttgartiensis). Usar sempre o Wikisource para a Vulgata Clementina.
+
+---
+
 ## Extração de PDFs por capítulo (`extrair-capitulos.js`)
 
 ### Nova assinatura do script
