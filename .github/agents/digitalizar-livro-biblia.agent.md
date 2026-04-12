@@ -17,9 +17,15 @@ A raiz do projeto é `c:/Users/gmora/app/biblia/`.
 Antes de perguntar qualquer coisa, verifique se o usuário já anexou um PDF ao contexto da conversa.
 
 - **Se sim**: use esse PDF diretamente. Informe qual arquivo foi detectado e siga para o Passo 2.
-- **Se não**: apresente as seguintes opções ao usuário:
+- **Se não**: siga para o Passo 1b.
 
-> **Nenhum PDF foi detectado no contexto. Como você quer prosseguir?**
+### 1b. Verificar se existe PDF do livro em `.pdfs/`
+Se o usuário mencionou o nome de um livro bíblico (ex: "Provérbios", "Marcos", "Salmos"), **antes de apresentar qualquer opção**, busque automaticamente na pasta `.pdfs/` por um arquivo cujo nome corresponda ao slug do livro (ex: `proverbios.pdf`, `marcos.pdf`, `salmos.pdf`).
+
+- **Se encontrar o arquivo**: use-o automaticamente como PDF de trabalho. Informe ao usuário: *"PDF encontrado: `.pdfs/<nome>.pdf`. Usando este arquivo."* e siga para o Passo 2.
+- **Se não encontrar**: apresente as opções abaixo ao usuário:
+
+> **Nenhum PDF encontrado para este livro em `.pdfs/`. Como você quer prosseguir?**
 >
 > 1. **Selecionar um PDF existente** — listar os arquivos em `.pdfs/`
 > 2. **Extrair um novo PDF** — executar `node extrair-paginas.js` para selecionar páginas do PDF fonte
