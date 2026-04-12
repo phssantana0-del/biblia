@@ -5,6 +5,7 @@
     "idioma": "pt-BR",
     "livros": [
       "figueiredo/salmos.json",
+      "figueiredo/proverbios.json",
       "figueiredo/mateus.json"
     ]
   },
