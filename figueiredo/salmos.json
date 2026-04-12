@@ -825,6 +825,116 @@
           "texto": "O SEU PECADO BUSCAR-SE-Á, E NÃO SE ACHARÁ — Pecado se toma aqui pelas coisas que se buscaram e alcançaram por meio dêle. — Bossuet."
         }
       }
+    },
+    {
+      "num": 11,
+      "sumario": "SALMO HISTÓRICO E DIDÁTICO. DAVI EXPONDO AO SENHOR AS MALDADES DE SEUS INIMIGOS PEDE A DEUS O LIVRE DELES A ELE E A TODOS OS QUE O SERVEM, O QUE ANUNCIA QUE O SENHOR SALVARIA, E ESTABELECERIA A SUA IGREJA, FAZENDO QUE OS SEUS MESMOS PERSEGUIDORES CONTRIBUÍSSEM PARA A SUA MAIOR EXALTAÇÃO, E GLÓRIA.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do coro, com vozes de baixo, salmo de Davi."
+        },
+        {
+          "n": 2,
+          "texto": "Salva-me, Senhor, porque faltou homem santo: Porque vieram a menos as verdades entre os filhos dos homens.",
+          "nota": "fn11_1"
+        },
+        {
+          "n": 3,
+          "texto": "Cada um deles falou coisas vãs ao seu próximo: Lábios dolosos com coração dobrado."
+        },
+        {
+          "n": 4,
+          "texto": "Destrua o Senhor todos os lábios dolosos, e a língua audaz."
+        },
+        {
+          "n": 5,
+          "texto": "Os que disseram: Queremos soltar livres a nossa língua, nossos lábios de nós são, quem é nosso Senhor?"
+        },
+        {
+          "n": 6,
+          "texto": "Pela miséria dos desvalidos, e o gemido dos pobres agora me levantarei, diz o Senhor. Eu os porei em salvo: Nisto eu obrarei confiadamente.",
+          "nota": "fn11_2"
+        },
+        {
+          "n": 7,
+          "texto": "As palavras do Senhor, palavras sinceras: Prata purificada ao fogo, acendrada em crisol, passada sete vezes por ardente prova."
+        },
+        {
+          "n": 8,
+          "texto": "Tu, Senhor, nos guardarás: E nos preservarás desta geração para sempre."
+        },
+        {
+          "n": 9,
+          "texto": "Os ímpios andam ao derredor: Segundo o teu altíssimo conselho, multiplicaste os filhos dos homens."
+        }
+      ],
+      "notas": {
+        "fn11_1": {
+          "rotulo": "Salva-me, Senhor, porque faltou homem santo",
+          "texto": "SALVA-ME -- Davi pede ao Senhor que o livre dos maus que o cercam. Compreende cinco estrofes. 1.ª (2-3) Davi invoca o Senhor no meio dos perigos que o cercam. 2.ª (4-5) Que Deus destrua os ímpios. 3.ª (6) Resposta de Deus que quer salvar os desvalidos e os miseráveis. 4.ª (7) O Salmista compara ao ouro mais puro as palavras de Deus. 5.ª (8-9) Pede ao Senhor que guarde os seus que estão no meio dos maus."
+        },
+        "fn11_2": {
+          "rotulo": "Pela miséria dos desvalidos",
+          "texto": "PELA MISÉRIA DOS DESVALIDOS -- Isto é, comovido pelas calamidades que os afligem."
+        }
+      }
+    },
+    {
+      "num": 12,
+      "sumario": "SALMO IMPETRATÓRIO. DAVI CHEIO DE CONSOLAÇÃO PELA FIRME ESPERANÇA QUE ACHA NA DIVINA MISERICÓRDIA, PEDE AO SENHOR QUE O LIVRE DA VIOLÊNCIA DE SEUS INIMIGOS, DOS QUAIS SE VÊ LARGA E PERTINAZMENTE PERSEGUIDO.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do coro, salmo de Davi. Até quando, Senhor, te esquecerás de mim para sempre? Até quando apartarás de mim a tua face?",
+          "nota": "fn12_1"
+        },
+        {
+          "n": 2,
+          "texto": "Até quando encherei a minha alma de desígnios, cada dia com dor no meu coração?",
+          "nota": "fn12_3"
+        },
+        {
+          "n": 3,
+          "texto": "Até quando será o meu inimigo exaltado sobre mim?"
+        },
+        {
+          "n": 4,
+          "texto": "Olha para mim, e ouve-me, Senhor Deus meu. Alumia os meus olhos para que eu não durma jamais na morte:",
+          "nota": "fn12_4"
+        },
+        {
+          "n": 5,
+          "texto": "Para que nunca o meu inimigo diga: Eu prevaleci contra ele. Os que me atribulam, exultarão se eu for abalado:"
+        },
+        {
+          "n": 6,
+          "texto": "Porém eu esperei na tua misericórdia. O meu coração exultará na salvação que me virá de ti: Cantarei ao Senhor que me deu bens: E entoarei salmos ao nome do Senhor altíssimo.",
+          "nota": "fn12_5"
+        }
+      ],
+      "notas": {
+        "fn12_1": {
+          "rotulo": "Ao regente do coro, salmo de Davi",
+          "texto": "SALMO DE DAVI -- Este Salmo exprime a situação de uma alma atribulada que, cheia de confiança no Senhor, lhe expõe o seu mal e O invoca num grande perigo. Tem três estrofes de três versos. 1.ª (1-3) Queixa-se Davi de se ver abandonado por Deus. 2.ª (4-5) Oração ao Senhor rogando o divino socorro. 3.ª (6) Esperança no Auxílio Celeste. É incerta a ocasião em que foi composto este Salmo; alguns crêem que ele se refere à perseguição de Saul; outros à rebelião de Absalão; e outros, que o seu objeto é expor os sentimentos dos justos que existiam cativos em Babilónia."
+        },
+        "fn12_2": {
+          "rotulo": "Até quando, Senhor, te esquecerás de mim para sempre",
+          "texto": "ATÉ QUANDO -- Em latim <em>usque quo</em>, é uma interrogação de queixa, <em>interrogatio lamentatio</em> (Caetano) mas que tem também força impetratória, equivalente a uma súplica."
+        },
+        "fn12_3": {
+          "rotulo": "Até quando encherei a minha alma de desígnios",
+          "texto": "ATÉ QUANDO ENCHEREI A MINHA ALMA DE DESÍGNIOS, ETC. -- <em>Ponere consilia in anima</em>, explica o estado de perplexidade em que se acha aquele que não está certo em alguma coisa. -- P. Seio."
+        },
+        "fn12_4": {
+          "rotulo": "não durma jamais na morte",
+          "texto": "NÃO DURMA JAMAIS NA MORTE -- Hebraísmo, que significa \"dormir na morte\" e morrer eternamente. -- S. Jerônimo."
+        },
+        "fn12_5": {
+          "rotulo": "que me deu bens",
+          "texto": "QUE ME DEU BENS, ETC. -- O hebraico tem: \"porque me retribuiu\" premiou a minha inocência nesta causa; me deu a recompensa do meu trabalho, paciência e esperança; e não se lê aqui: <em>Et psallam nomini tuo altissime</em>, como se lê no salmo 9, 2, -- P. Seio."
+        }
+      }
     }
   ]
 }
