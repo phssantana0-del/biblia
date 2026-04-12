@@ -4,17 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bíblia Sagrada</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
-    font-family: Georgia, 'Times New Roman', serif;
-    font-size: 16px;
+    font-family: 'EB Garamond', Georgia, 'Times New Roman', serif;
+    font-size: 18px;
     line-height: 1.7;
     color: #111;
     background: #fff;
     margin: 0;
     padding: 0;
+    font-variant-numeric: oldstyle-nums;
   }
 
   #page-layout {
@@ -25,7 +29,7 @@
   #topbar {
     border-bottom: 1px solid #999;
     padding: 6px 0 4px;
-    font-size: 13px;
+    font-size: 14px;
     display: flex;
     gap: 18px;
     flex-wrap: wrap;
@@ -37,7 +41,7 @@
     text-decoration: none;
     background: none;
     border: none;
-    font-size: 13px;
+    font-size: 14px;
     cursor: pointer;
     font-family: inherit;
     padding: 0;
@@ -55,8 +59,8 @@
   #edition-selector label { color: #555; }
 
   select {
-    font-family: Georgia, 'Times New Roman', serif;
-    font-size: 13px;
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 14px;
     padding: 2px 4px;
     border: 1px solid #999;
     background: #fff;
@@ -70,7 +74,7 @@
   /* ── Nav ── */
   #nav {
     margin: 10px 0 0;
-    font-size: 13px;
+    font-size: 14px;
   }
 
   .nav-row {
@@ -102,7 +106,7 @@
   .nav-row .dimmed { color: #999; }
 
   .chapter-links {
-    font-size: 13px;
+    font-size: 14px;
     display: flex;
     align-items: center;
     gap: 6px;
@@ -139,7 +143,7 @@
 
   .cg-cell {
     padding: 6px 0 10px;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.7;
   }
 
@@ -148,7 +152,7 @@
   }
 
   .cg-edition-label {
-    font-size: 11px;
+    font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 0.07em;
     color: #999;
@@ -156,13 +160,13 @@
   }
 
   .cg-chapter-title {
-    font-size: 17px;
+    font-size: 19px;
     font-weight: bold;
     margin-bottom: 2px;
   }
 
   .cg-summary-text {
-    font-size: 13px;
+    font-size: 14px;
     color: #555;
     font-style: italic;
   }
@@ -188,13 +192,13 @@
   }
 
   .chapter-header h1 {
-    font-size: 17px;
+    font-size: 19px;
     font-weight: bold;
     margin-bottom: 2px;
   }
 
   .chapter-header .summary {
-    font-size: 13px;
+    font-size: 14px;
     color: #555;
     font-style: italic;
     margin-bottom: 10px;
@@ -209,15 +213,19 @@
   /* ── Verses ── */
   .verse {
     margin-bottom: 4px;
-    font-size: 16px;
+    font-size: 19px;
   }
 
   .vnum {
-    display: inline;
+    display: inline-block;
+    min-width: 1.8em;
+    text-align: right;
     font-weight: bold;
-    margin-right: 4px;
+    margin-right: 6px;
     color: #111;
-    font-size: 14px;
+    font-size: 18px;
+    font-variant-numeric: lining-nums tabular-nums;
+    vertical-align: baseline;
   }
 
   .vnum a {
@@ -239,7 +247,7 @@
 
   /* ── Footnote reference ── */
   sup.fnref {
-    font-size: 11px;
+    font-size: 12px;
     cursor: pointer;
     color: #00c;
     margin-left: 2px;
@@ -254,7 +262,7 @@
     background: #fffff0;
     border: 1px solid #888;
     padding: 10px 14px;
-    font-size: 13.5px;
+    font-size: 15px;
     line-height: 1.6;
     width: 420px;
     max-width: 90vw;
@@ -287,20 +295,20 @@
     border-bottom: 1px solid #aaa;
     padding: 10px 0;
     margin: 12px 0;
-    font-size: 14.5px;
+    font-size: 16px;
   }
 
   .bio .bio-title {
     font-weight: bold;
     font-variant: small-caps;
-    font-size: 15px;
+    font-size: 17px;
     margin-bottom: 4px;
   }
 
   /* ── Bottom nav ── */
   #bottomnav {
     margin-top: 24px;
-    font-size: 13px;
+    font-size: 14px;
     border-top: 1px solid #aaa;
     padding-top: 8px;
   }
@@ -312,12 +320,12 @@
     color: #888;
     font-style: italic;
     padding: 20px 0;
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .error-msg {
     color: #a00;
-    font-size: 14px;
+    font-size: 15px;
     padding: 10px 0;
   }
 
@@ -328,8 +336,8 @@
     color: #00c;
     background: none;
     border: none;
-    font-family: Georgia, 'Times New Roman', serif;
-    font-size: 12.5px;
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 14px;
     cursor: pointer;
     padding: 0;
     text-decoration: none;
@@ -377,7 +385,7 @@
     justify-content: space-between;
     padding: 8px 12px;
     border-bottom: 1px solid #ccc;
-    font-size: 13px;
+    font-size: 14px;
     flex-shrink: 0;
     white-space: nowrap;
   }
@@ -428,12 +436,12 @@
     width: 96vw;
     max-height: 82vh;
     overflow-y: auto;
-    font-size: 14px;
+    font-size: 15px;
     box-shadow: 0 4px 20px rgba(0,0,0,0.18);
   }
 
   #book-panel h2 {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: bold;
     padding-bottom: 10px;
     margin-bottom: 14px;
@@ -459,7 +467,7 @@
   }
 
   .testament-title {
-    font-size: 12px;
+    font-size: 13px;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.12em;
@@ -469,7 +477,7 @@
 
   .book-group { margin-bottom: 8px; }
   .book-group .group-label {
-    font-size: 10.5px;
+    font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 0.08em;
     color: #999;
@@ -481,7 +489,7 @@
     color: #00c;
     text-decoration: none;
     margin: 1px 10px 2px 0;
-    font-size: 13.5px;
+    font-size: 15px;
     cursor: pointer;
     background: none;
     border: none;
@@ -493,7 +501,7 @@
   .book-group a.unavailable { color: #aaa; cursor: not-allowed; }
 
   @media (max-width: 600px) {
-    body { font-size: 15px; }
+    body { font-size: 17px; }
     .fn-popup { width: 92vw; }
     #main-area.compare #compare-grid { grid-template-columns: 1fr; }
     #edition-selector { margin-left: 0; }
@@ -521,7 +529,7 @@
     width: 96vw;
     max-height: 82vh;
     overflow-y: auto;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.7;
     box-shadow: 0 4px 20px rgba(0,0,0,0.18);
     position: relative;
@@ -538,9 +546,9 @@
     margin-top: -2px;
   }
 
-  #intro-content h3 { font-size: 15px; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 8px; }
+  #intro-content h3 { font-size: 17px; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 8px; }
   #intro-content p { margin-bottom: 10px; }
-  #intro-content em.footnote { font-size: 12px; color: #888; display: block; margin-top: 2px; }
+  #intro-content em.footnote { font-size: 13px; color: #888; display: block; margin-top: 2px; }
 </style>
 </head>
 <body>
