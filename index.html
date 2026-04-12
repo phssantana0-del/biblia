@@ -323,11 +323,11 @@
     display: none;
     position: fixed;
     top: 0; left: 0; right: 0; bottom: 0;
-    background: rgba(0,0,0,0.35);
+    background: rgba(0,0,0,0.4);
     z-index: 200;
     justify-content: center;
     align-items: flex-start;
-    padding-top: 60px;
+    padding-top: 50px;
   }
 
   #book-selector.open { display: flex; }
@@ -335,18 +335,21 @@
   #book-panel {
     background: #fff;
     border: 1px solid #888;
-    padding: 16px 20px 20px;
-    max-width: 540px;
+    padding: 16px 24px 24px;
+    max-width: 680px;
     width: 96vw;
-    max-height: 80vh;
+    max-height: 82vh;
     overflow-y: auto;
     font-size: 14px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.18);
   }
 
   #book-panel h2 {
     font-size: 15px;
-    margin-bottom: 12px;
     font-weight: bold;
+    padding-bottom: 10px;
+    margin-bottom: 14px;
+    border-bottom: 1px solid #ddd;
   }
 
   #book-panel .close-btn {
@@ -360,20 +363,36 @@
     margin-top: -2px;
   }
 
-  .book-group { margin-bottom: 10px; }
+  .testament-section { margin-bottom: 4px; }
+  .testament-section + .testament-section {
+    border-top: 1px solid #ddd;
+    padding-top: 14px;
+    margin-top: 8px;
+  }
+
+  .testament-title {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #555;
+    margin-bottom: 10px;
+  }
+
+  .book-group { margin-bottom: 8px; }
   .book-group .group-label {
-    font-size: 11px;
+    font-size: 10.5px;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: #777;
-    margin-bottom: 4px;
+    color: #999;
+    margin-bottom: 3px;
   }
 
   .book-group a {
     display: inline-block;
     color: #00c;
     text-decoration: none;
-    margin: 1px 8px 1px 0;
+    margin: 1px 10px 2px 0;
     font-size: 13.5px;
     cursor: pointer;
     background: none;
@@ -382,7 +401,7 @@
     padding: 0;
   }
   .book-group a:hover { text-decoration: underline; }
-  .book-group a.current-book { font-weight: bold; color: #111; cursor: default; }
+  .book-group a.current-book { font-weight: bold; color: #111; cursor: default; text-decoration: none; }
   .book-group a.unavailable { color: #aaa; cursor: not-allowed; }
 
   @media (max-width: 600px) {
@@ -870,51 +889,54 @@ function buildBookSelector() {
   const ed = state.editions.find(e => e.id === state.currentEditionId);
   if (!ed) return;
 
-  // agrupa por testamento/grupo usando os dados carregados em cache
-  const groups = {};
+  // Mapa de dois níveis: testamento → grupo → [{file, book}]
+  const testamentoMap = new Map();
+  const unloaded = [];
+
   ed.livros.forEach(file => {
     const cacheKey = ed.id + '/' + file;
     const book = state.loadedBooks[cacheKey];
-    const grupo = book ? `${book.testamento} — ${book.grupo}` : 'Outros';
-    if (!groups[grupo]) groups[grupo] = [];
-    groups[grupo].push({ file, book });
+    if (!book) { unloaded.push(file); return; }
+    const testamento = book.testamento || 'Outros';
+    const grupo = book.grupo || 'Outros';
+    if (!testamentoMap.has(testamento)) testamentoMap.set(testamento, new Map());
+    const grupoMap = testamentoMap.get(testamento);
+    if (!grupoMap.has(grupo)) grupoMap.set(grupo, []);
+    grupoMap.get(grupo).push({ file, book });
   });
 
-  // livros que já foram carregados
+  // Ordem canônica dos testamentos
+  const TESTAMENTO_ORDER = ['Antigo Testamento', 'Novo Testamento'];
+  const sortedTestamentos = [...testamentoMap.entries()].sort(([a], [b]) => {
+    const ia = TESTAMENTO_ORDER.indexOf(a), ib = TESTAMENTO_ORDER.indexOf(b);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b, 'pt');
+  });
+
   let html = '';
-  for (const [grupo, items] of Object.entries(groups)) {
-    html += `<div class="book-group"><div class="group-label">${grupo}</div>`;
-    items.forEach(({ file, book }) => {
-      if (book) {
-        const isCurrent = book.id === state.currentBookId;
-        html += `<a class="${isCurrent ? 'current-book' : ''}" href="#" onclick="selectBook('${file}'); return false;">${book.titulo}</a>`;
-      }
-    });
-    html += '</div>';
+
+  for (const [testamento, grupoMap] of sortedTestamentos) {
+    html += `<div class="testament-section"><div class="testament-title">${testamento}</div>`;
+    for (const [grupo, items] of grupoMap.entries()) {
+      html += `<div class="book-group"><div class="group-label">${grupo}</div>`;
+      items.forEach(({ file, book }) => {
+        const cls = book.id === state.currentBookId ? ' class="current-book"' : '';
+        html += `<a${cls} href="#" onclick="selectBook('${file}'); return false;">${book.titulo}</a>`;
+      });
+      html += `</div>`;
+    }
+    html += `</div>`;
   }
 
-  // placeholder para livros não carregados ainda (só o arquivo está listado)
-  ed.livros.forEach(file => {
-    const cacheKey = ed.id + '/' + file;
-    if (!state.loadedBooks[cacheKey]) {
-      // livro listado mas ainda não carregado — mostra o nome do arquivo como link
+  if (unloaded.length > 0) {
+    html += `<div class="testament-section"><div class="book-group"><div class="group-label">Carregando…</div>`;
+    unloaded.forEach(file => {
       const label = file.split('/').pop().replace('.json', '');
-      html += `<div class="book-group"><a href="#" onclick="selectBook('${file}'); return false;">${label}</a></div>`;
-    }
-  });
-
-  // outras edições com placeholder
-  const outrasEdicoes = state.editions.filter(e => e.id !== ed.id);
-  if (outrasEdicoes.length) {
-    outrasEdicoes.forEach(outra => {
-      if (outra.livros.length === 0) {
-        html += `<div class="book-group"><div class="group-label">${outra.edicao} — em breve</div></div>`;
-      }
+      html += `<a href="#" onclick="selectBook('${file}'); return false;">${label}</a>`;
     });
+    html += `</div></div>`;
   }
 
   if (!html) html = '<p style="color:#888;font-size:13px;">Nenhum livro disponível ainda.</p>';
-
   document.getElementById('book-list-content').innerHTML = html;
 }
 
@@ -923,9 +945,18 @@ async function selectBook(file) {
   await loadBook(state.currentEditionId, file, 1);
 }
 
-function openBooks() {
-  buildBookSelector();
+async function openBooks() {
   document.getElementById('book-selector').classList.add('open');
+  buildBookSelector();
+
+  // carrega metadados de todos os livros da edição em paralelo
+  const ed = state.editions.find(e => e.id === state.currentEditionId);
+  if (!ed) return;
+  const pending = ed.livros.filter(f => !state.loadedBooks[ed.id + '/' + f]);
+  if (pending.length > 0) {
+    await Promise.all(pending.map(f => fetchBook(ed.id, f).catch(() => null)));
+    buildBookSelector(); // re-renderiza com dados completos
+  }
 }
 function closeBooks() { document.getElementById('book-selector').classList.remove('open'); }
 function closeBooksOverlay(e) {
