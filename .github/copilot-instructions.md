@@ -2,7 +2,14 @@
 
 ## Extração de PDFs por capítulo (`extrair-capitulos.js`)
 
-### Regra de páginas para `.pdfs/proverbios.pdf`
+### Nova assinatura do script
+```
+node extrair-capitulos.js <livro-id> <cap:inicio:fim>...
+```
+- O PDF fonte é sempre `edicoes/figueiredo/<livro-id>/index.pdf`
+- Os PDFs gerados vão para `edicoes/figueiredo/<livro-id>/<N>.pdf`
+
+### Regra de páginas para `edicoes/figueiredo/proverbios/index.pdf`
 O `pdftotext --layout` reporta as páginas com **offset de −1** em relação às páginas reais deste PDF.
 Sempre aplicar **+1** nos números detectados pelo grep/awk.
 

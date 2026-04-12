@@ -5,48 +5,42 @@ import * as readline from 'readline';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const BIBLIAS_DIR = path.join(__dirname, '.pdfs');
-const OUTPUT_DIR = BIBLIAS_DIR;
-const DEFAULT_PDF = 'biblia-completa.pdf';
+// Raiz onde ficam as edições: edicoes/figueiredo/<livro>/
+const EDICOES_DIR = path.join(__dirname, 'edicoes', 'figueiredo');
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
 const ask = (question) => new Promise((resolve) => rl.question(question, resolve));
 
-function listPdfs() {
-  if (!fs.existsSync(BIBLIAS_DIR)) {
-    console.error(`Pasta .pdfs não encontrada em: ${BIBLIAS_DIR}`);
+/**
+ * Lista subpastas de edicoes/figueiredo/ que contenham um index.json.
+ * Retorna array de nomes de pasta (ex: ['proverbios', 'salmos']).
+ */
+function listLivros() {
+  if (!fs.existsSync(EDICOES_DIR)) {
+    console.error(`Pasta não encontrada: ${EDICOES_DIR}`);
     process.exit(1);
   }
-  const files = fs.readdirSync(BIBLIAS_DIR).filter((f) => f.toLowerCase().endsWith('.pdf'));
-  return files;
+  return fs.readdirSync(EDICOES_DIR, { withFileTypes: true })
+    .filter((d) => d.isDirectory() && fs.existsSync(path.join(EDICOES_DIR, d.name, 'index.json')))
+    .map((d) => d.name);
 }
 
-async function choosePdf(pdfs) {
-  const defaultIndex = pdfs.findIndex((f) => f === DEFAULT_PDF);
-
-  console.log('\nPDFs disponíveis em .pdfs/:\n');
-  pdfs.forEach((f, i) => {
-    const marker = i === defaultIndex ? ' (padrão)' : '';
-    console.log(`  ${i + 1}. ${f}${marker}`);
+async function chooseLivro(livros) {
+  console.log('\nLivros disponíveis em edicoes/figueiredo/:\n');
+  livros.forEach((nome, i) => {
+    const temPdf = fs.existsSync(path.join(EDICOES_DIR, nome, 'index.pdf'));
+    const hint = temPdf ? '' : ' (sem index.pdf)';
+    console.log(`  ${i + 1}. ${nome}${hint}`);
   });
   console.log();
 
-  const defaultPrompt = defaultIndex >= 0 ? ` [Enter para "${DEFAULT_PDF}"]` : '';
-  const answer = await ask(`Escolha o número do PDF${defaultPrompt}: `);
-
-  if (answer.trim() === '') {
-    if (defaultIndex >= 0) return pdfs[defaultIndex];
-    console.error('Nenhum PDF padrão disponível. Digite o número correspondente.');
-    return choosePdf(pdfs);
-  }
-
+  const answer = await ask('Escolha o número do livro: ');
   const num = parseInt(answer, 10);
-  if (isNaN(num) || num < 1 || num > pdfs.length) {
-    console.error(`Opção inválida. Escolha entre 1 e ${pdfs.length}.`);
-    return choosePdf(pdfs);
+  if (isNaN(num) || num < 1 || num > livros.length) {
+    console.error(`Opção inválida. Escolha entre 1 e ${livros.length}.`);
+    return chooseLivro(livros);
   }
-
-  return pdfs[num - 1];
+  return livros[num - 1];
 }
 
 async function askPageNumber(label, fallback) {
@@ -73,16 +67,24 @@ async function askOutputName(defaultName) {
 }
 
 async function main() {
-  const pdfs = listPdfs();
+  const livros = listLivros();
 
-  if (pdfs.length === 0) {
-    console.log('Nenhum PDF encontrado na pasta .pdfs/. Adicione um arquivo PDF lá e tente novamente.');
+  if (livros.length === 0) {
+    console.log('Nenhum livro encontrado em edicoes/figueiredo/. Crie a pasta do livro com um index.json primeiro.');
     rl.close();
     return;
   }
 
-  const pdfName = await choosePdf(pdfs);
-  const pdfPath = path.join(BIBLIAS_DIR, pdfName);
+  const livroNome = await chooseLivro(livros);
+  const livroDir = path.join(EDICOES_DIR, livroNome);
+  const pdfFonte = path.join(livroDir, 'index.pdf');
+
+  if (!fs.existsSync(pdfFonte)) {
+    console.error(`\nindex.pdf não encontrado em edicoes/figueiredo/${livroNome}/`);
+    console.error('Coloque o PDF completo do livro nesse caminho e tente novamente.');
+    rl.close();
+    process.exit(1);
+  }
 
   console.log();
   const startPage = await askPageNumber('Página inicial', null);
@@ -94,8 +96,7 @@ async function main() {
     process.exit(1);
   }
 
-  const baseName = path.basename(pdfName, '.pdf');
-  const defaultName = `${baseName}-pag-${startPage}-a-${endPage}`;
+  const defaultName = `${livroNome}-pag-${startPage}-a-${endPage}`;
 
   console.log();
   const outputName = await askOutputName(defaultName);
@@ -103,8 +104,8 @@ async function main() {
   rl.close();
 
   // Lê e processa o PDF
-  console.log(`\nLendo "${pdfName}"...`);
-  const srcBytes = fs.readFileSync(pdfPath);
+  console.log(`\nLendo "edicoes/figueiredo/${livroNome}/index.pdf"...`);
+  const srcBytes = fs.readFileSync(pdfFonte);
   const srcDoc = await PDFDocument.load(srcBytes);
   const totalPages = srcDoc.getPageCount();
 
@@ -121,7 +122,6 @@ async function main() {
   }
 
   const destDoc = await PDFDocument.create();
-  // pdf-lib usa índice 0-based
   const indices = [];
   for (let i = clampedStart - 1; i <= clampedEnd - 1; i++) {
     indices.push(i);
@@ -130,13 +130,13 @@ async function main() {
   const copiedPages = await destDoc.copyPages(srcDoc, indices);
   copiedPages.forEach((page) => destDoc.addPage(page));
 
-  const outputPath = path.join(OUTPUT_DIR, `${outputName}.pdf`);
+  const outputPath = path.join(livroDir, `${outputName}.pdf`);
   const destBytes = await destDoc.save();
   fs.writeFileSync(outputPath, destBytes);
 
   const pageCount = clampedEnd - clampedStart + 1;
   console.log(`\nConcluído! ${pageCount} página(s) extraída(s).`);
-  console.log(`Arquivo gerado: ${outputPath}`);
+  console.log(`Arquivo gerado: edicoes/figueiredo/${livroNome}/${outputName}.pdf`);
 }
 
 main().catch((err) => {

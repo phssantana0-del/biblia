@@ -19,28 +19,13 @@ Antes de perguntar qualquer coisa, verifique se o usuário já anexou um PDF ao 
 - **Se sim**: use esse PDF diretamente. Informe qual arquivo foi detectado e siga para o Passo 2.
 - **Se não**: siga para o Passo 1b.
 
-### 1b. Verificar se existe PDF do livro em `.pdfs/`
-Se o usuário mencionou o nome de um livro bíblico (ex: "Provérbios", "Marcos", "Salmos"), **antes de apresentar qualquer opção**, busque automaticamente na pasta `.pdfs/` por um arquivo cujo nome corresponda ao slug do livro (ex: `proverbios.pdf`, `marcos.pdf`, `salmos.pdf`).
+### 1b. Verificar se existe PDF do livro em `edicoes/figueiredo/`
+Se o usuário mencionou o nome de um livro bíblico (ex: "Provérbios", "Marcos", "Salmos"), **antes de apresentar qualquer opção**, busque automaticamente o arquivo `index.pdf` dentro da pasta do livro.
 
-- **Se encontrar o arquivo**: use-o automaticamente como PDF de trabalho. Informe ao usuário: *"PDF encontrado: `.pdfs/<nome>.pdf`. Usando este arquivo."* e siga para o Passo 2.
-- **Se não encontrar**: apresente as opções abaixo ao usuário:
+Por exemplo, para Provérbios: `edicoes/figueiredo/proverbios/index.pdf`
 
-> **Nenhum PDF encontrado para este livro em `.pdfs/`. Como você quer prosseguir?**
->
-> 1. **Selecionar um PDF existente** — listar os arquivos em `.pdfs/`
-> 2. **Extrair um novo PDF** — executar `node extrair-paginas.js` para selecionar páginas do PDF fonte
-
-Se o usuário escolher a **opção 1**:
-- Use a ferramenta de busca para listar todos os arquivos em `.pdfs/` com extensão `.pdf`
-- Apresente a lista numerada e peça que o usuário escolha
-- Use o PDF escolhido
-
-Se o usuário escolher a **opção 2**:
-- Execute `node extrair-paginas.js` no terminal (na pasta raiz do projeto)
-- Aguarde a conclusão. O script é interativo e pedirá ao usuário o PDF fonte e o intervalo de páginas
-- Quando o script terminar, identifique o arquivo gerado em `.pdfs/` (o mais recente criado)
-- Use esse arquivo gerado como o PDF de trabalho
-- Informe ao usuário qual arquivo foi gerado e confirme antes de continuar
+- **Se encontrar o arquivo**: use-o automaticamente como PDF de trabalho. Informe ao usuário: *"PDF encontrado: `edicoes/figueiredo/<livro>/index.pdf`. Usando este arquivo."* e siga para o Passo 2.
+- **Se não encontrar**: informe ao usuário que o `index.pdf` não está presente na pasta do livro e peça que ele o coloque em `edicoes/figueiredo/<livro>/index.pdf` antes de continuar.
 
 ---
 
@@ -62,24 +47,24 @@ Após confirmar o PDF de trabalho, **antes de qualquer leitura ou extração**, 
 ## PASSO 3 — Identificar o livro bíblico de destino
 
 ### 3a. Listar livros existentes
-Busque todos os arquivos `.json` dentro de `figueiredo/` (ex: `figueiredo/mateus.json`, `figueiredo/salmos.json`).
+Busque todas as subpastas dentro de `edicoes/figueiredo/` que contenham um arquivo `index.json`.
 
 Apresente ao usuário uma lista numerada com os livros já existentes, mais a opção de informar um livro novo:
 
-> **Para qual livro (JSON) os dados devem ser extraídos?**
+> **Para qual livro os dados devem ser extraídos?**
 >
 > Livros existentes:
-> 1. Mateus → `figueiredo/mateus.json`
-> 2. Salmos → `figueiredo/salmos.json`
-> ... (dinâmico, com base nos arquivos encontrados)
+> 1. proverbios → `edicoes/figueiredo/proverbios/index.json`
+> 2. salmos → `edicoes/figueiredo/salmos/index.json`
+> ... (dinâmico, com base nas pastas encontradas)
 >
 > 0. **Novo livro** — informar o nome
 
 ### 3b. Livro existente
 Se o usuário escolher um livro já existente:
-- Leia o JSON correspondente
-- Identifique o **maior número de capítulo** já presente em `capitulos`
-- Informe ao usuário: *"O livro já possui capítulos até o X. Os novos capítulos serão concatenados a partir do X+1."*
+- Leia o `index.json` correspondente
+- Identifique o **maior número** já presente no array `capitulos` (ex: se `capitulos: [1, 2, 3]`, o maior é 3)
+- Informe ao usuário: *"O livro já possui capítulos até o X. Os novos capítulos serão adicionados a partir do X+1."*
 - Confirme antes de prosseguir
 
 ### 3c. Livro novo
@@ -91,7 +76,7 @@ Se o usuário informar um nome de livro que não existe:
   - `testamento`: `"Antigo Testamento"` ou `"Novo Testamento"`
   - `grupo`: grupo canônico (ex: `"Evangelhos"`, `"Livros Poéticos"`, `"Profetas Maiores"`, `"Pentateuco"`, etc.)
 - Apresente os metadados inferidos ao usuário para confirmação antes de criar o arquivo
-- Crie o JSON com a estrutura base (ver "Estrutura JSON raiz" abaixo) e `"capitulos": []`
+- Crie a pasta `edicoes/figueiredo/<id>/` e dentro dela o `index.json` com a estrutura base (ver "Estrutura JSON raiz" abaixo) e `"capitulos": []`
 
 ---
 
@@ -143,35 +128,31 @@ Com base na tabela de páginas montada no Passo 4, execute o script `extrair-cap
 Formate os dados da tabela como tokens `cap:inicio:fim` e construa o comando:
 
 ```
-node extrair-capitulos.js <caminho-do-pdf-fonte> <livro-id> <cap1:inicio1:fim1> <cap2:inicio2:fim2> ...
+node extrair-capitulos.js <livro-id> <cap1:inicio1:fim1> <cap2:inicio2:fim2> ...
 ```
 
-Exemplo para os Salmos capítulos 1–3:
+Exemplo para Provérbios capítulos 8–9:
 ```
-node extrair-capitulos.js .pdfs/salmos.pdf salmos 1:3:5 2:6:8 3:9:12
+node extrair-capitulos.js proverbios 8:25:29 9:29:31
 ```
 
-- `<caminho-do-pdf-fonte>` — caminho do PDF de trabalho definido no Passo 1 (relativo à raiz do projeto)
-- `<livro-id>` — o campo `id` do livro (ex: `salmos`, `mateus`)
+- `<livro-id>` — o campo `id` do livro (ex: `salmos`, `proverbios`). O script usa automaticamente `edicoes/figueiredo/<livro-id>/index.pdf` como fonte.
 - Os tokens `cap:inicio:fim` usam os números de página **do PDF de entrada** (1-based, inclusivos)
+- Os PDFs gerados ficam em `edicoes/figueiredo/<livro-id>/<N>.pdf`
 
 ### 4.5b. Executar e confirmar
 - Execute o comando no terminal (pasta raiz do projeto)
-- Confirme que cada arquivo `.pdfs/<livro-id>/cap-N.pdf` foi criado com sucesso
+- Confirme que cada arquivo `edicoes/figueiredo/<livro-id>/<N>.pdf` foi criado com sucesso
 - Se o script reportar algum erro ou aviso (`!`), registre os capítulos afetados no relatório de revisão
 
-### 4.5c. Adicionar campo `"pdf"` ao JSON
-- Para cada capítulo gerado com sucesso, adicione o campo `"pdf"` no objeto do capítulo:
-  ```json
-  "pdf": ".pdfs/<livro-id>/cap-N.pdf"
-  ```
-- Se a extração de um capítulo falhar, **não adicione o campo `"pdf"`** nesse capítulo e registre no relatório — isso não deve bloquear o salvamento do JSON
+### 4.5c. Sem campo `"pdf"` no JSON
+O visualizador deriva a URL do PDF automaticamente a partir do diretório do livro e do número do capítulo. **Não adicione o campo `"pdf"` nos JSONs de capítulo.**
 
 ---
 
 ## Estrutura JSON obrigatória
 
-### Raiz do arquivo (livros novos)
+### `index.json` do livro (raiz da pasta do livro)
 ```json
 {
   "id": "marcos",
@@ -179,22 +160,23 @@ node extrair-capitulos.js .pdfs/salmos.pdf salmos 1:3:5 2:6:8 3:9:12
   "abreviacao": "Mc",
   "testamento": "Novo Testamento",
   "grupo": "Evangelhos",
-  "capitulos": []
+  "capitulos": [1, 2, 3]
 }
 ```
 
-### Capítulo
+O array `capitulos` contém os **números** dos capítulos já digitalizados. Ao adicionar um capítulo N, acrescente o número N ao array (em ordem crescente).
+
+### `<N>.json` — arquivo de capítulo individual
 ```json
 {
   "num": 1,
   "sumario": "Frase descritiva em itálico do início do capítulo.",
-  "pdf": ".pdfs/<livro-id>/cap-1.pdf",
   "versiculos": [],
   "notas": {}
 }
 ```
 
-O campo `"pdf"` é gerado automaticamente no Passo 4.5 e é **opcional** — sua ausência não quebra o visualizador.
+Sem campo `"pdf"` — o visualizador deriva automaticamente: `edicoes/figueiredo/<livro>/<N>.pdf`.
 
 ### Tipos de versículo
 
@@ -234,18 +216,24 @@ O campo `"pdf"` é gerado automaticamente no Passo 4.5 e é **opcional** — sua
 
 ## PASSO 5 — Salvar o JSON
 
-- **Livro existente**: leia o arquivo atual, acrescente os novos capítulos ao array `"capitulos"` (mantendo os capítulos anteriores intactos) e salve.
-- **Livro novo**: salve diretamente o novo arquivo em `figueiredo/<id>.json`.
-- **Nenhum arquivo auxiliar, script ou texto puro deve ser gravado.** Apenas o JSON do livro.
+Para cada capítulo N extraído:
+
+1. **Salvar `edicoes/figueiredo/<id>/<N>.json`** com os dados do capítulo.
+   - Se o arquivo já existir, confirme com o usuário antes de sobrescrever.
+2. **Atualizar `edicoes/figueiredo/<id>/index.json`**:
+   - Acrescente o número N ao array `capitulos` (em ordem crescente), **se ainda não estiver presente**.
+   - Não modifique nenhum outro campo do `index.json`.
+
+**Nenhum arquivo auxiliar, script ou texto puro deve ser gravado.** Apenas os JSONs dos capítulos e o `index.json` do livro.
 
 ---
 
-## PASSO 6 — Atualizar `edicoes.json`
+## PASSO 6 — Atualizar `edicoes/index.json`
 
-Leia o arquivo `edicoes.json` na raiz do projeto.
+Leia o arquivo `edicoes/index.json` na raiz do projeto.
 
 - Se o livro **já estiver** listado no array `"livros"` da edição `figueiredo`, nada precisa ser feito.
-- Se o livro **não estiver** listado, adicione o caminho `"figueiredo/<id>.json"` no array `"livros"` **respeitando a ordem canônica da Bíblia Católica** (ver lista abaixo).
+- Se o livro **não estiver** listado, adicione o caminho `"edicoes/figueiredo/<id>/index.json"` no array `"livros"` **respeitando a ordem canônica da Bíblia Católica** (ver lista abaixo).
 
 ### Ordem canônica dos livros — Bíblia Católica
 
@@ -276,7 +264,7 @@ Liste cada item que precisou de atenção especial (leitura ambígua, texto ileg
 
 ### 7c. Salvar o relatório em Markdown
 
-- Arquivo: `figueiredo/<id>.md` (ex: `figueiredo/marcos.md`)
+- Arquivo: `edicoes/figueiredo/<id>/<N>.md` — **um arquivo por capítulo** (ex: `edicoes/figueiredo/proverbios/8.md`)
 - Se o arquivo **não existir**: crie-o
 - Se o arquivo **já existir**: acrescente a nova sessão **ao final** do arquivo existente (não sobrescreva o conteúdo anterior)
 
@@ -285,20 +273,18 @@ Use o seguinte formato para cada sessão:
 ```markdown
 ---
 
-## Revisão — <Nome do Livro> | <Data: DD/MM/AAAA> | Entrada: <breve descrição do PDF/intervalo> | Capítulos: X–Y
+## Revisão — <Nome do Livro> Cap. N | <Data: DD/MM/AAAA>
 
-### Capítulos extraídos
+### Estatísticas
 
-| Capítulo | Versículos | Notas | Itens biográficos |
-|----------|------------|-------|-------------------|
-| 1        | 25         | 7     | 1                 |
-| **Total**| **25**     | **7** | **1**             |
+| Versículos | Notas | Itens biográficos |
+|------------|-------|-------------------|
+| 25         | 7     | 1                 |
 
 ### Pontos para revisão manual
 
-- [ ] **Cap. 1, v. 3** — Texto ilegível no rodapé; nota `fn1_1` incompleta. Verificar no PDF original.
-- [ ] **Cap. 2, sumário** — Itálico ambíguo; pode ser continuação do capítulo anterior.
-- [ ] **Cap. 3, v. 12** — Número do versículo inlegível no scan; atribuído como `null`.
+- [ ] **v. 3** — Texto ilegível no rodapé; nota `fn1_1` incompleta. Verificar no PDF original.
+- [ ] **sumário** — Itálico ambíguo; pode ser continuação do capítulo anterior.
 ```
 
 > Use `- [ ]` para indicar itens pendentes. Se não houver nenhum ponto de revisão, escreva: *"Nenhum ponto identificado para revisão manual."*
@@ -308,7 +294,7 @@ Use o seguinte formato para cada sessão:
 ## Comportamento geral
 
 - Conduza todo o processo **de forma autônoma**, perguntando ao usuário **apenas o que for estritamente necessário** para prosseguir.
-- Quando uma decisão puder ser inferida (metadados canônicos, ordem no `edicoes.json`, posição no array de versículos), tome-a e informe ao usuário o que foi decidido.
-- Nunca crie arquivos além do JSON do livro e do `.md` de revisão.
+- Quando uma decisão puder ser inferida (metadados canônicos, ordem no `edicoes/index.json`, posição no array de capítulos), tome-a e informe ao usuário o que foi decidido.
+- Nunca crie arquivos além dos JSONs dos capítulos, do `index.json` do livro e dos `.md` de revisão.
 - Nunca rascunhe o JSON em um arquivo de texto ou script intermediário.
 - Sempre confirme com o usuário antes de sobrescrever dados existentes em um JSON já populado.

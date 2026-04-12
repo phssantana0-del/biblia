@@ -1,0 +1,52 @@
+{
+  "id": "malaquias",
+  "titulo": "Prophetia Malachiæ",
+  "abreviacao": "Mal",
+  "testamento": "Vetus Testamentum",
+  "grupo": "Prophetæ Minores",
+  "capitulos": [
+    {
+      "num": 1,
+      "sumario": "Reprehensio Israëlis ob oblationum vilitatem. Vocatio gentium.",
+      "versiculos": [
+        { "n": 1,  "texto": "Onus verbi Domini ad Israël in manu Malachiæ." },
+        { "n": 2,  "texto": "Dilexi vos, dicit Dominus: et dixistis: In quo dilexisti nos? Nonne frater erat Esau Jacob? dicit Dominus, et dilexi Jacob," },
+        { "n": 3,  "texto": "Esau autem odio habui: et posui montes ejus in solitudinem, et hæreditatem ejus draconibus deserti." },
+        { "n": 4,  "texto": "Quod si dixerit Idumæa: Destructi sumus, sed revertentes ædificabimus quæ destructa sunt: hæc dicit Dominus exercituum: Isti ædificabunt, et ego destruam: et vocabuntur termini impietatis, et populus cui iratus est Dominus usque in æternum." },
+        { "n": 5,  "texto": "Et oculi vestri videbunt: et vos dicetis: Magnificetur Dominus super terminum Israël." },
+        { "n": 6,  "texto": "Filius honorat patrem, et servus dominum suum: si ergo pater ego sum, ubi est honor meus? et si dominus ego sum, ubi est timor meus? dicit Dominus exercituum ad vos, o sacerdotes, qui despicitis nomen meum, et dixistis: In quo despeximus nomen tuum?" },
+        { "n": 7,  "texto": "Qui offerunt super altare meum panem pollutum, et dicitis: In quo polluimus te? In eo quod dicitis: Mensa Domini contemptibilis est." },
+        { "n": 8,  "texto": "Si offeratis cæcum ad immolandum, nonne malum est? et si offeratis claudum et languidum, nonne malum est? Offer illud duci tuo, si placuerit ei, aut si susceperit faciem tuam, dicit Dominus exercituum." },
+        { "n": 9,  "texto": "Et nunc deprecamini vultum Dei, ut misereatur vestri (de manu enim vestra factum est hoc): si quomodo suscipiat facies vestra, dicit Dominus exercituum." },
+        { "n": 10, "texto": "Quis est in vobis qui claudat ostia, et incendat altare meum gratuito? Non est mihi voluntas in vobis, dicit Dominus exercituum: et munus non suscipiam de manu vestra." },
+        { "n": 11, "texto": "<span class='prophetic'>Ab ortu enim solis usque ad occasum, magnum est nomen meum in gentibus, et in omni loco sacrificatur et offertur nomini meo oblatio munda: quia magnum est nomen meum in gentibus, dicit Dominus exercituum.</span>" },
+        { "n": 12, "texto": "Vos autem polluistis illud, in eo quod dicitis: Mensa Domini contaminata est: et quod superponitur, contemptibile est cum igne qui illud devorat." },
+        { "n": 13, "texto": "Et dixistis: Ecce de labore, et exsufflastis illud, dicit Dominus exercituum: et intulistis de rapto claudum atque languidum, et intulistis munus: numquid suscipiam illud de manu vestra? dicit Dominus." },
+        { "n": 14, "texto": "Maledictus dolosus, qui habet in grege suo masculum, et votum faciens immolat debile Domino: quia Rex magnus ego, dicit Dominus exercituum, et nomen meum horribile in gentibus." }
+      ]
+    },
+    {
+      "num": 2,
+      "sumario": "Reprehensio sacerdotum negligentium. Condemnatio repudii et infidelitatis conjugalis.",
+      "versiculos": [
+        { "n": 1,  "texto": "Et nunc ad vos mandatum hoc, o sacerdotes." },
+        { "n": 2,  "texto": "Si nolueritis audire, et si nolueritis ponere super cor, ut detis gloriam nomini meo, dicit Dominus exercituum: mittam in vos egestatem, et maledicam benedictionibus vestris, et maledicam illis, quoniam non posuistis super cor." },
+        { "n": 3,  "texto": "Ecce ego projiciam vobis brachium, et dispergam super vultum vestrum stercus sollemnitatum vestrarum, et assumam vos cum eo." },
+        { "n": 4,  "texto": "Et scietis quia misi ad vos mandatum hoc, ut esset pactum meum cum Levi, dicit Dominus exercituum." },
+        { "n": 5,  "texto": "Pactum meum fuit cum eo vitæ et pacis: et dedi ei timorem, et timuit me, et a facie nominis mei pavebat." },
+        { "n": 6,  "texto": "Lex veritatis fuit in ore ejus, et iniquitas non est inventa in labiis ejus: in pace et in æquitate ambulavit mecum, et multos avertit ab iniquitate." },
+        { "n": 7,  "texto": "Labia enim sacerdotis custodient scientiam, et legem requirent ex ore ejus: quia angelus Domini exercituum est." },
+        { "n": 8,  "texto": "Vos autem recessistis de via, et scandalizastis plurimos in lege: irritum fecistis pactum Levi, dicit Dominus exercituum." },
+        { "n": 9,  "texto": "Propter quod et ego dedi vos contemptibiles et humiles omnibus populis, sicut non servastis vias meas, et accepistis faciem in lege." },
+        { "n": 10, "texto": "Numquid non pater unus omnium nostrum? numquid non Deus unus creavit nos? quare ergo despicit unusquisque nostrum fratrem suum, violans pactum patrum nostrorum?" },
+        { "n": 11, "texto": "Transgressus est Judas, et abominatio facta est in Israël et in Jerusalem: quia contaminavit Judas sanctificationem Domini, quam dilexit, et habuit filiam dei alieni." },
+        { "n": 12, "texto": "Disperdat Dominus virum qui fecerit hoc, magistrum et discipulum de tabernaculis Jacob, et offerentem munus Domino exercituum." },
+        { "n": 13, "texto": "Et hoc rursum fecistis: operiebatis lacrymis altare Domini, fletu et mugitu, ita ut ultra non respiciam ad sacrificium, nec suscipiam placabile quippiam de manu vestra." },
+        { "n": 14, "texto": "Et dixistis: Quam ob causam? Quia Dominus testis fuit inter te et uxorem pubertatis tuæ, quam despexisti: et hæc particeps tua, et uxor fœderis tui." },
+        { "n": 15, "texto": "Nonne unus fecit eam, et residuum spiritus ejus est? Et quid unus quærit? semen Dei. Custodite ergo spiritum vestrum, et uxorem adolescentiæ tuæ noli despicere." },
+        { "n": 16, "texto": "Cum odio habueris, dimitte, dicit Dominus Deus Israël: sed iniquitas operiet vestem ejus, dicit Dominus exercituum: custodite spiritum vestrum, et nolite despicere." },
+        { "n": 17, "texto": "Laborare fecistis Dominum in sermonibus vestris, et dixistis: In quo eum fecimus laborare? In eo quod dicitis: Omnis qui facit malum, bonus est in conspectu Domini, et tales ei placent: aut certe ubi est Deus judicii?" }
+      ]
+    }
+  ]
+}

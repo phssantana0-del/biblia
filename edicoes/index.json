@@ -1,0 +1,17 @@
+[
+  {
+    "id": "figueiredo",
+    "edicao": "Bíblia Sagrada — Trad. Pe. Figueiredo",
+    "idioma": "pt-BR",
+    "livros": [
+      "edicoes/figueiredo/proverbios/index.json",
+      "edicoes/figueiredo/mateus/index.json"
+    ]
+  },
+  {
+    "id": "vulgata",
+    "edicao": "Vulgata Latina",
+    "idioma": "la",
+    "livros": []
+  }
+]

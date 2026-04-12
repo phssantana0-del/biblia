@@ -13,9 +13,12 @@
     line-height: 1.7;
     color: #111;
     background: #fff;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 0 16px 60px;
+    margin: 0;
+    padding: 0;
+  }
+
+  #page-layout {
+    max-width: 100%;
   }
 
   /* ── Top bar ── */
@@ -333,25 +336,40 @@
   }
   .ver-original-btn:hover { text-decoration: underline; }
 
-  /* ── Drawer de PDF original ── */
-  #pdf-panel {
-    position: fixed;
-    top: 0;
-    right: 0;
-    width: min(50vw, 720px);
-    min-width: 320px;
-    height: 100vh;
-    background: #fff;
-    border-left: 1px solid #888;
-    box-shadow: -4px 0 18px rgba(0,0,0,0.18);
-    z-index: 300;
+  /* ── Layout raiz para o drawer push ── */
+  #page-layout {
     display: flex;
-    flex-direction: column;
-    transform: translateX(100%);
-    transition: transform 0.25s ease;
+    align-items: stretch;
+    width: 100%;
   }
 
-  #pdf-panel.open { transform: translateX(0); }
+  /* Envoltório do conteúdo principal — encolhe quando o drawer abre */
+  #content-wrapper {
+    flex: 1;
+    min-width: 0;
+    overflow: visible;
+    transition: flex 0.25s ease;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 16px 60px;
+  }
+
+  /* ── Drawer de PDF original ── */
+  #pdf-panel {
+    flex: 0 0 0;
+    width: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border-left: 0px solid #888;
+    background: #fff;
+    transition: flex-basis 0.25s ease, border-left-width 0.25s step-start;
+  }
+
+  #pdf-panel.open {
+    flex: 0 0 min(50vw, 720px);
+    border-left-width: 1px;
+  }
 
   #pdf-panel-header {
     display: flex;
@@ -361,6 +379,7 @@
     border-bottom: 1px solid #ccc;
     font-size: 13px;
     flex-shrink: 0;
+    white-space: nowrap;
   }
 
   #pdf-panel-header span { color: #555; font-style: italic; }
@@ -380,10 +399,11 @@
     flex: 1;
     border: none;
     width: 100%;
+    min-width: 280px;
   }
 
   @media (max-width: 700px) {
-    #pdf-panel { width: 100vw; min-width: unset; }
+    #pdf-panel.open { flex: 0 0 100vw; }
   }
 
   /* ── Book selector overlay ── */
@@ -482,6 +502,10 @@
 </head>
 <body>
 
+<!-- ════════════════════ LAYOUT RAIZ (conteúdo + drawer PDF) ════════════════════ -->
+<div id="page-layout">
+<div id="content-wrapper">
+
 <!-- ════════════════════════════════════════════════════ TOP BAR -->
 <div id="topbar">
   <button class="link-btn" onclick="openBooks()">📖 Todos os Livros</button>
@@ -555,6 +579,8 @@
   </div>
 </div>
 
+</div><!-- /#content-wrapper -->
+
 <!-- ════════════════════════════════════════════ DRAWER PDF ORIGINAL -->
 <div id="pdf-panel">
   <div id="pdf-panel-header">
@@ -564,19 +590,23 @@
   <iframe id="pdf-frame" src="" title="PDF original"></iframe>
 </div>
 
+</div><!-- /#page-layout -->
+
 <script>
 // ══════════════════════════════════════════════════════════════
 //  ESTADO GLOBAL
 // ══════════════════════════════════════════════════════════════
 
-const BASE_URL = 'edicoes.json'; // caminho relativo ao HTML
+const BASE_URL = 'edicoes/index.json';
 
 let state = {
-  editions: [],           // array de edições carregadas de edicoes.json
+  editions: [],           // array de edições carregadas de edicoes/index.json
   currentEditionId: null, // id da edição principal
   currentBookId: null,    // id do livro atual
+  currentBookDir: null,   // ex: 'edicoes/figueiredo/proverbios'
   currentChapter: 1,
-  loadedBooks: {},        // cache: chave = "editionId/bookFile", valor = dados do livro
+  loadedBookIndexes: {},  // cache de index.json por livro — chave: editionId + '/' + bookFile
+  loadedChapters: {},     // cache de capítulos — chave: bookDir + '/' + num
   compareMode: false,
   compareEditionId: null,
   compareBookData: null,
@@ -591,10 +621,10 @@ let activePopup = null;
 async function init() {
   try {
     const res = await fetch(BASE_URL);
-    if (!res.ok) throw new Error(`Não foi possível carregar edicoes.json (HTTP ${res.status})`);
+    if (!res.ok) throw new Error(`Não foi possível carregar edicoes/index.json (HTTP ${res.status})`);
     state.editions = await res.json();
   } catch (e) {
-    document.getElementById('content').innerHTML = `<p class="error-msg">Erro ao carregar edicoes.json: ${e.message}</p>`;
+    document.getElementById('content').innerHTML = `<p class="error-msg">Erro ao carregar edicoes/index.json: ${e.message}</p>`;
     return;
   }
 
@@ -603,7 +633,7 @@ async function init() {
   // seleciona primeira edição com pelo menos um livro
   const firstEdition = state.editions.find(e => e.livros && e.livros.length > 0);
   if (!firstEdition) {
-    document.getElementById('content').innerHTML = `<p class="error-msg">Nenhum livro disponível ainda. Adicione entradas em edicoes.json.</p>`;
+    document.getElementById('content').innerHTML = `<p class="error-msg">Nenhum livro disponível ainda. Adicione entradas em edicoes/index.json.</p>`;
     return;
   }
 
@@ -643,33 +673,65 @@ function onEditionChange(editionId) {
 }
 
 // ══════════════════════════════════════════════════════════════
-//  CARREGAMENTO DE LIVRO
+//  CARREGAMENTO DE LIVRO (dois níveis: index.json + N.json)
 // ══════════════════════════════════════════════════════════════
 
-async function fetchBook(editionId, bookFile) {
+/**
+ * Carrega o index.json de um livro.
+ * bookFile ex: "edicoes/figueiredo/proverbios/index.json"
+ * Retorna { id, titulo, capitulos: [1,2,3,...], ... }
+ */
+async function fetchBookIndex(editionId, bookFile) {
   const cacheKey = editionId + '/' + bookFile;
-  if (state.loadedBooks[cacheKey]) return state.loadedBooks[cacheKey];
-
+  if (state.loadedBookIndexes[cacheKey]) return state.loadedBookIndexes[cacheKey];
   const res = await fetch(bookFile);
   if (!res.ok) throw new Error(`HTTP ${res.status} ao carregar ${bookFile}`);
   const data = await res.json();
-  state.loadedBooks[cacheKey] = data;
+  state.loadedBookIndexes[cacheKey] = data;
   return data;
+}
+
+/**
+ * Carrega um capítulo individual.
+ * bookDir ex: "edicoes/figueiredo/proverbios"
+ * num ex: 8
+ * Retorna { num, sumario, versiculos, notas }
+ */
+async function fetchChapter(bookDir, num) {
+  const cacheKey = bookDir + '/' + num;
+  if (state.loadedChapters[cacheKey]) return state.loadedChapters[cacheKey];
+  const url = bookDir + '/' + num + '.json';
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status} ao carregar ${url}`);
+  const data = await res.json();
+  state.loadedChapters[cacheKey] = data;
+  return data;
+}
+
+/** Extrai o diretório de um bookFile. Ex: "edicoes/figueiredo/proverbios/index.json" → "edicoes/figueiredo/proverbios" */
+function bookDirFromFile(bookFile) {
+  return bookFile.substring(0, bookFile.lastIndexOf('/'));
 }
 
 async function loadBook(editionId, bookFile, chapter = 1) {
   document.getElementById('content').innerHTML = '<p class="loading-msg">Carregando…</p>';
   try {
-    const book = await fetchBook(editionId, bookFile);
-    state.currentBookId = book.id;
+    const bookIndex = await fetchBookIndex(editionId, bookFile);
+    const bookDir = bookDirFromFile(bookFile);
+
+    state.currentBookId = bookIndex.id;
+    state.currentBookDir = bookDir;
     state.currentChapter = chapter;
-    renderChapter(book, chapter, 'content');
-    updateNav(book);
-    document.getElementById('nav-book-title').textContent = book.titulo;
-    document.getElementById('bot-book-title').textContent = book.titulo;
+
+    const chNum = chapter;
+    const chData = await fetchChapter(bookDir, chNum);
+
+    renderChapter(chData, bookDir, 'content');
+    updateNav(bookIndex);
+    document.getElementById('nav-book-title').textContent = bookIndex.titulo;
+    document.getElementById('bot-book-title').textContent = bookIndex.titulo;
     buildBookSelector();
 
-    // atualiza coluna de comparação se ativa
     if (state.compareMode && state.compareEditionId) {
       await loadCompareChapter();
     }
@@ -682,10 +744,9 @@ async function loadBook(editionId, bookFile, chapter = 1) {
 //  RENDERIZAÇÃO
 // ══════════════════════════════════════════════════════════════
 
-function renderChapter(book, chNum, targetId) {
-  const ch = book.capitulos.find(c => c.num === chNum);
+function renderChapter(ch, bookDir, targetId) {
   if (!ch) {
-    document.getElementById(targetId).innerHTML = '<p class="error-msg">Capítulo não encontrado neste arquivo JSON.</p>';
+    document.getElementById(targetId).innerHTML = '<p class="error-msg">Capítulo não encontrado.</p>';
     return;
   }
 
@@ -710,9 +771,8 @@ function renderChapter(book, chNum, targetId) {
     return `<p class="verse" data-v="${item.n}"><span class="vnum"><a name="v${item.n}">${item.n}</a></span>${item.texto}${fnHtml}</p>`;
   }).join('\n');
 
-  const pdfBtn = ch.pdf
-    ? `<button class="ver-original-btn" onclick="openPdfPanel('${ch.pdf}')">&#128196; Ver original</button>`
-    : '';
+  const pdfUrl = bookDir + '/' + ch.num + '.pdf';
+  const pdfBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}')">&#128196; Ver original</button>`;
 
   document.getElementById(targetId).innerHTML = `
     <div class="chapter-header">
@@ -739,12 +799,9 @@ function renderVerseHtml(item, notas, notaKeys, prefix) {
   return `<span class="vnum"><a name="v${item.n}_${prefix}">${item.n}</a></span>${item.texto}${fnHtml}`;
 }
 
-function renderCompareGrid(primaryBook, compareBook, chNum) {
+function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
   const grid = document.getElementById('compare-grid');
   grid.innerHTML = '';
-
-  const ch1 = primaryBook.capitulos.find(c => c.num === chNum);
-  const ch2 = compareBook ? compareBook.capitulos.find(c => c.num === chNum) : null;
 
   if (!ch1) {
     grid.innerHTML = '<p class="error-msg" style="grid-column:1/-1">Capítulo não encontrado.</p>';
@@ -752,15 +809,14 @@ function renderCompareGrid(primaryBook, compareBook, chNum) {
   }
 
   const ed1 = state.editions.find(e => e.id === state.currentEditionId);
-  const ed2 = compareBook ? state.editions.find(e => e.id === state.compareEditionId) : null;
+  const ed2 = ch2 ? state.editions.find(e => e.id === state.compareEditionId) : null;
 
   // Cabeçalhos das edições
-  const makeHeaderCell = (ed, ch) => {
+  const makeHeaderCell = (ed, ch, bookDir) => {
     const div = document.createElement('div');
     div.className = 'cg-cell cg-header-cell';
-    const pdfBtn = ch.pdf
-      ? `<button class="ver-original-btn" onclick="openPdfPanel('${ch.pdf}')">&#128196; Ver original</button>`
-      : '';
+    const pdfUrl = bookDir + '/' + ch.num + '.pdf';
+    const pdfBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}')">&#128196; Ver original</button>`;
     div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
       + `<div class="cg-chapter-title">Capítulo ${ch.num}</div>`
       + `<div class="cg-summary-text">${ch.sumario}</div>`
@@ -768,9 +824,9 @@ function renderCompareGrid(primaryBook, compareBook, chNum) {
     return div;
   };
 
-  grid.appendChild(makeHeaderCell(ed1, ch1));
+  grid.appendChild(makeHeaderCell(ed1, ch1, bookDir1));
   if (ch2) {
-    grid.appendChild(makeHeaderCell(ed2, ch2));
+    grid.appendChild(makeHeaderCell(ed2, ch2, bookDir2));
   } else {
     grid.appendChild(document.createElement('div'));
   }
@@ -834,18 +890,21 @@ function renderCompareGrid(primaryBook, compareBook, chNum) {
 //  NAVEGAÇÃO
 // ══════════════════════════════════════════════════════════════
 
-function updateNav(book) {
-  const total = book.capitulos.length;
+function updateNav(bookIndex) {
+  const caps = bookIndex.capitulos; // array de números: [1, 2, 3, ...]
   const ch = state.currentChapter;
+  const firstCap = caps[0];
+  const lastCap = caps[caps.length - 1];
 
   document.getElementById('nav-ch-num').textContent = ch;
 
   // prev
   const prevEl = document.getElementById('nav-prev-ch');
   const botPrev = document.getElementById('bot-prev');
-  if (ch > 1) {
-    prevEl.outerHTML = `<a href="#" id="nav-prev-ch" onclick="goChapter(${ch - 1}); return false;">&lt; cap. ant.</a>`;
-    botPrev.outerHTML = `<a href="#" id="bot-prev" onclick="goChapter(${ch - 1}); return false;">&lt; cap. ant.</a>`;
+  const prevCap = caps[caps.indexOf(ch) - 1];
+  if (prevCap !== undefined) {
+    prevEl.outerHTML = `<a href="#" id="nav-prev-ch" onclick="goChapter(${prevCap}); return false;">&lt; cap. ant.</a>`;
+    botPrev.outerHTML = `<a href="#" id="bot-prev" onclick="goChapter(${prevCap}); return false;">&lt; cap. ant.</a>`;
   } else {
     prevEl.outerHTML = `<span class="dimmed" id="nav-prev-ch">&lt; cap. ant.</span>`;
     botPrev.outerHTML = `<span class="dimmed" id="bot-prev">&lt; cap. ant.</span>`;
@@ -854,9 +913,10 @@ function updateNav(book) {
   // next
   const nextEl = document.getElementById('nav-next-ch');
   const botNext = document.getElementById('bot-next');
-  if (ch < total) {
-    nextEl.outerHTML = `<a href="#" id="nav-next-ch" onclick="goChapter(${ch + 1}); return false;">próx. cap. &gt;</a>`;
-    botNext.outerHTML = `<a href="#" id="bot-next" onclick="goChapter(${ch + 1}); return false;">próx. cap. &gt;</a>`;
+  const nextCap = caps[caps.indexOf(ch) + 1];
+  if (nextCap !== undefined) {
+    nextEl.outerHTML = `<a href="#" id="nav-next-ch" onclick="goChapter(${nextCap}); return false;">próx. cap. &gt;</a>`;
+    botNext.outerHTML = `<a href="#" id="bot-next" onclick="goChapter(${nextCap}); return false;">próx. cap. &gt;</a>`;
   } else {
     nextEl.outerHTML = `<span class="dimmed" id="nav-next-ch">próx. cap. &gt;</span>`;
     botNext.outerHTML = `<span class="dimmed" id="bot-next">próx. cap. &gt;</span>`;
@@ -864,31 +924,31 @@ function updateNav(book) {
 
   // chapter links
   let links = '<span class="label">Capítulos:</span> ';
-  for (let i = 1; i <= total; i++) {
-    if (i === ch) links += `<a class="current" href="#">${i}</a> `;
-    else links += `<a href="#" onclick="goChapter(${i}); return false;">${i}</a> `;
-  }
+  caps.forEach(n => {
+    if (n === ch) links += `<a class="current" href="#">${n}</a> `;
+    else links += `<a href="#" onclick="goChapter(${n}); return false;">${n}</a> `;
+  });
   document.getElementById('chapter-links').innerHTML = links;
 }
 
 function goChapter(n) {
   if (activePopup) { activePopup.classList.remove('active'); activePopup = null; }
   const ed = state.editions.find(e => e.id === state.currentEditionId);
-  const bookFile = ed.livros.find(f => f.includes(state.currentBookId));
+  const bookFile = ed.livros.find(f => f.includes('/' + state.currentBookId + '/'));
   loadBook(state.currentEditionId, bookFile, n);
   window.scrollTo(0, 0);
 }
 
 async function prevBook() {
   const ed = state.editions.find(e => e.id === state.currentEditionId);
-  const idx = ed.livros.findIndex(f => f.includes(state.currentBookId));
+  const idx = ed.livros.findIndex(f => f.includes('/' + state.currentBookId + '/'));
   if (idx <= 0) return;
   await loadBook(state.currentEditionId, ed.livros[idx - 1], 1);
 }
 
 async function nextBook() {
   const ed = state.editions.find(e => e.id === state.currentEditionId);
-  const idx = ed.livros.findIndex(f => f.includes(state.currentBookId));
+  const idx = ed.livros.findIndex(f => f.includes('/' + state.currentBookId + '/'));
   if (idx < 0 || idx >= ed.livros.length - 1) return;
   await loadBook(state.currentEditionId, ed.livros[idx + 1], 1);
 }
@@ -947,7 +1007,7 @@ async function loadCompareChapter() {
     return;
   }
 
-  const bookFile2 = ed.livros.find(f => f.includes(state.currentBookId));
+  const bookFile2 = ed.livros.find(f => f.includes('/' + state.currentBookId + '/'));
   if (!bookFile2) {
     grid.innerHTML = '<p class="error-msg" style="grid-column:1/-1">O livro atual ainda não está disponível nesta edição.</p>';
     document.getElementById('compare-status').textContent = 'livro não disponível nesta edição';
@@ -957,11 +1017,10 @@ async function loadCompareChapter() {
   grid.innerHTML = '<p class="loading-msg" style="grid-column:1/-1">Carregando…</p>';
 
   try {
-    const ed1 = state.editions.find(e => e.id === state.currentEditionId);
-    const bookFile1 = ed1.livros.find(f => f.includes(state.currentBookId));
-    const primaryBook = await fetchBook(state.currentEditionId, bookFile1);
-    const compareBook = await fetchBook(state.compareEditionId, bookFile2);
-    renderCompareGrid(primaryBook, compareBook, state.currentChapter);
+    const bookDir2 = bookDirFromFile(bookFile2);
+    const ch2 = await fetchChapter(bookDir2, state.currentChapter);
+    const ch1 = state.loadedChapters[state.currentBookDir + '/' + state.currentChapter];
+    renderCompareGrid(ch1, ch2, state.currentBookDir, bookDir2);
   } catch (e) {
     grid.innerHTML = `<p class="error-msg" style="grid-column:1/-1">Erro: ${e.message}</p>`;
   }
@@ -981,14 +1040,14 @@ function buildBookSelector() {
 
   ed.livros.forEach(file => {
     const cacheKey = ed.id + '/' + file;
-    const book = state.loadedBooks[cacheKey];
-    if (!book) { unloaded.push(file); return; }
-    const testamento = book.testamento || 'Outros';
-    const grupo = book.grupo || 'Outros';
+    const bookIdx = state.loadedBookIndexes[cacheKey];
+    if (!bookIdx) { unloaded.push(file); return; }
+    const testamento = bookIdx.testamento || 'Outros';
+    const grupo = bookIdx.grupo || 'Outros';
     if (!testamentoMap.has(testamento)) testamentoMap.set(testamento, new Map());
     const grupoMap = testamentoMap.get(testamento);
     if (!grupoMap.has(grupo)) grupoMap.set(grupo, []);
-    grupoMap.get(grupo).push({ file, book });
+    grupoMap.get(grupo).push({ file, book: bookIdx });
   });
 
   // Ordem canônica dos testamentos
@@ -1016,7 +1075,7 @@ function buildBookSelector() {
   if (unloaded.length > 0) {
     html += `<div class="testament-section"><div class="book-group"><div class="group-label">Carregando…</div>`;
     unloaded.forEach(file => {
-      const label = file.split('/').pop().replace('.json', '');
+      const label = file.split('/').slice(-2, -1)[0] || file.split('/').pop().replace('.json', '');
       html += `<a href="#" onclick="selectBook('${file}'); return false;">${label}</a>`;
     });
     html += `</div></div>`;
@@ -1038,9 +1097,9 @@ async function openBooks() {
   // carrega metadados de todos os livros da edição em paralelo
   const ed = state.editions.find(e => e.id === state.currentEditionId);
   if (!ed) return;
-  const pending = ed.livros.filter(f => !state.loadedBooks[ed.id + '/' + f]);
+  const pending = ed.livros.filter(f => !state.loadedBookIndexes[ed.id + '/' + f]);
   if (pending.length > 0) {
-    await Promise.all(pending.map(f => fetchBook(ed.id, f).catch(() => null)));
+    await Promise.all(pending.map(f => fetchBookIndex(ed.id, f).catch(() => null)));
     buildBookSelector(); // re-renderiza com dados completos
   }
 }
@@ -1080,13 +1139,11 @@ function openPdfPanel(url) {
   const panel = document.getElementById('pdf-panel');
   frame.src = url;
   panel.classList.add('open');
-  document.body.style.overflow = 'hidden';
 }
 
 function closePdfPanel() {
   const panel = document.getElementById('pdf-panel');
   panel.classList.remove('open');
-  document.body.style.overflow = '';
   // limpa o src para interromper carregamento se ainda em progresso
   setTimeout(() => { document.getElementById('pdf-frame').src = ''; }, 300);
 }

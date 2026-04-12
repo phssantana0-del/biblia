@@ -1,0 +1,940 @@
+{
+  "id": "salmos",
+  "titulo": "Salmos",
+  "abreviacao": "Sl",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Poéticos",
+  "capitulos": [
+    {
+      "num": 1,
+      "sumario": "SALMO DOUTRINAL. OS JUSTOS SÃO DITOSOS; E OS MAUS SÃO INFELIZES",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Bem-aventurado o varão que não se deixou ir após o conselho dos ímpios, e que não se deteve no caminho dos pecadores, e que não se assentou na cadeira empestada pelo vício.",
+          "nota": "fn1_1"
+        },
+        {
+          "n": 2,
+          "texto": "Mas a sua vontade está posta na lei do Senhor, e na sua lei meditará de dia e de noite."
+        },
+        {
+          "n": 3,
+          "texto": "E será como a árvore, que está plantada junto à margem dum ribeiro ameno, que a seu tempo dará o seu fruto: E cuja folha não cairá: E todas as coisas que êle fizer, serão prósperas."
+        },
+        {
+          "n": 4,
+          "texto": "Não assim os ímpios, não assim: Senão como o pó que o vento espalha de cima da face da terra.",
+          "nota": "fn1_2"
+        },
+        {
+          "n": 5,
+          "texto": "Por isso os ímpios não ressurgirão no juízo; nem os pecadores na congregação dos justos.",
+          "nota": "fn1_3"
+        },
+        {
+          "n": 6,
+          "texto": "Porque o Senhor conhece o caminho dos justos: E o caminho dos ímpios perecerá."
+        }
+      ],
+      "notas": {
+        "fn1_1": {
+          "rotulo": "Bem-aventurado o varão",
+          "texto": "QUE NÃO SE DETEVE — Não disse \"Que não andou pelo caminho dos pecadores\", porque isso é impossível, visto que nenhum homem é sem pecado, mas disse \"Que não se deteve no caminho dos pecadores\", porque o justo não se demora nêle, não persevera no mal, mas procura logo meter-se no caminho do Senhor pela penitência. S. Jerônimo.<br><br>NA CADEIRA — A cadeira da pestilência (<em>Cathedra pestilentiæ</em>) é a cadeira da falsa doutrina ou do mau exemplo, que como peste corrompe os espíritos. — Bossuet (<em>Dissert. in Psalmos</em>)."
+        },
+        "fn1_2": {
+          "rotulo": "Não assim os ímpios",
+          "texto": "NÃO ASSIM — Esta repetição é própria da Vulgata, pois falta no hebreu. — Bossuet."
+        },
+        "fn1_3": {
+          "rotulo": "os ímpios não ressurgirão no juízo",
+          "texto": "NÃO RESSURGIRÃO NO JUÍZO — O hebreu tem: \"Não subsistirão, isto é, perderão a causa\" — Bossuet. Melhor fôra <em>stabunt</em> em vez de <em>ressurgent</em>, ressurgirão."
+        }
+      }
+    },
+    {
+      "num": 2,
+      "sumario": "SALMO PROFÉTICO EM QUE SE DESCREVE O ESTABELECIMENTO DO REINO DE JESUS CRISTO, CONTRA TODOS OS ESFORÇOS DOS HOMENS. A CRISTO REI DE TODAS AS NAÇÕES HÃO DE OBEDECER TODOS OS QUE DESEJAM A SALVAÇÃO.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "<span class='prophetic'>Por que se embraveceram as nações, e os povos meditaram coisas vãs?</span>",
+          "nota": "fn2_1"
+        },
+        {
+          "n": 2,
+          "texto": "<span class='prophetic'>Os reis da terra se sublevaram, e os príncipes se coligaram contra o Senhor, e contra o seu Cristo.</span>",
+          "nota": "fn2_2"
+        },
+        {
+          "n": 3,
+          "texto": "<span class='prophetic'>Rompamos as algemas com que nos prendem: E sacudamos de nós o seu jugo.</span>",
+          "nota": "fn2_3"
+        },
+        {
+          "n": 4,
+          "texto": "<span class='prophetic'>Aquele que habita no céu zombará deles, o Senhor os escarnecerá.</span>",
+          "nota": "fn2_4"
+        },
+        {
+          "n": 5,
+          "texto": "<span class='prophetic'>Êle lhes falará então na sua ira, e os encherá de turbação no seu furor.</span>"
+        },
+        {
+          "n": 6,
+          "texto": "<span class='prophetic'>Eu porém fui por êle constituído rei sôbre Sião, seu monte santo, para promulgar o seu decreto.</span>"
+        },
+        {
+          "n": 7,
+          "texto": "<span class='prophetic'>O Senhor disse para mim: Tu és meu Filho, eu te gerei hoje.</span>",
+          "nota": "fn2_5"
+        },
+        {
+          "n": 8,
+          "texto": "<span class='prophetic'>Pede-me, e eu te darei as nações em tua herança, e em tua possessão as extremidades da terra.</span>",
+          "nota": "fn2_6"
+        },
+        {
+          "n": 9,
+          "texto": "Tu as governarás com uma vara de ferro, e quebrá-la-ás como um vaso de frágil barro."
+        },
+        {
+          "n": 10,
+          "texto": "E agora, ó reis, entendei: Instruí-vos, os que julgais a terra.",
+          "nota": "fn2_7"
+        },
+        {
+          "n": 11,
+          "texto": "Servi ao Senhor em temor: E alegrai-vos nêle com tremor.",
+          "nota": "fn2_8"
+        },
+        {
+          "n": 12,
+          "texto": "Rendei-lhe homenagem para que não suceda que se ire o Senhor, e vos aparteis do caminho da justiça.",
+          "nota": "fn2_9"
+        },
+        {
+          "n": 13,
+          "texto": "Quando daqui a pouco se incender a sua ira, bem-aventurados todos os que confiam nêle."
+        }
+      ],
+      "notas": {
+        "fn2_1": {
+          "rotulo": "Por que se embraveceram as nações",
+          "texto": "POR QUE — Esta interrogação indica a sem razão da revolta e o seu insucesso."
+        },
+        "fn2_2": {
+          "rotulo": "contra o Senhor, e contra o seu Cristo",
+          "texto": "CONTRA O SEU CRISTO — Tem-se escrito muito por causa desta palavra. A quem se pode aplicar o têrmo Cristo, que quer dizer ungido? E' a questão. O têrmo hebraico <em>mashiah</em>, do verbo <em>mashah unxit</em>, aplica-se aos Patriarcas, Sl 55, 15; aos Profetas, 3 Rs 19, 16; aos Sumos Sacerdotes, aos reis, por exemplo, a Saul 1 Rs 12, 3, mas aplica-se antomàsticamente a Jesus Cristo, porque é o Ungido por excelência — Sacerdote e rei. — E como êste lugar não pode convir a Davi, como lhe não convém o v. 7, pois não há razão alguma que justifique tal interpretação, podemos concluir com Lapide (<em>Constat totum de una persona loqui; quam Christum esse docent. At 4, 26, nec vers. 7 ad Davidem accomodari potest</em>) que só ao Messias se devem referir estas palavras."
+        },
+        "fn2_3": {
+          "rotulo": "Rompamos as algemas",
+          "texto": "ROMPAMOS AS ALGEMAS — E' dito em nome e na pessoa dos ímpios, que pretendem sacudir o jugo dos mandamentos de Deus e do seu Cristo. — Pereira."
+        },
+        "fn2_4": {
+          "rotulo": "Aquele que habita no céu",
+          "texto": "AQUÊLE QUE HABITA — Quer dizer o que preside, como juiz que há de ditar a lei e proferir a sentença. Deus está em tôda a parte em ato e essencialmente."
+        },
+        "fn2_5": {
+          "rotulo": "Tu és meu Filho, eu te gerei hoje",
+          "texto": "TU ÉS MEU FILHO — Meu Filho, próprio e verdadeiro; que isso quer dizer aquêle <em>eu te gerei</em>; meu Filho gerado <em>ab æterno</em> e sempre gerado, que isso quer dizer aquêle <em>hoje</em>, que na frase da Escritura significa eternidade, a que tudo é presente, nada pretérito, nem futuro. Por isso dêste texto prova S. Paulo na epístola aos hebreus, 1, 5, a divindade e geração eterna de Jesus Cristo."
+        },
+        "fn2_6": {
+          "rotulo": "eu te darei as nações em tua herança",
+          "texto": "EU TE DAREI AS NAÇÕES EM TUA HERANÇA — Esta é aquela generalidade da extensão, que nos escritos de Santo Agostinho e dos teólogos polêmicos mostra a catolicidade da Igreja Cristã, e forma uma das suas notas mais caracteristicas. — Pereira."
+        },
+        "fn2_7": {
+          "rotulo": "os que julgais a terra",
+          "texto": "JULGAIS A TERRA — A Vulgata traduziu por <em>Judicare</em> o verbo hebraico <em>shaphat</em>, que significa também governar, porque uma das atribuições dos governantes é a administração da justiça."
+        },
+        "fn2_8": {
+          "rotulo": "Servi ao Senhor em temor",
+          "texto": "EM TEMOR — Isto é, temendo a justiça indefectível de Deus.<br><br>COM TREMOR — Quer dizer: Que se alegrem com santo júbilo, auxiliado pela graça divina, não confiando em si, e receando a queda na culpa, que lhes atraia a inimizade de Deus."
+        },
+        "fn2_9": {
+          "rotulo": "Rendei-lhe homenagem",
+          "texto": "RENDEI-LHE HOMENAGEM — Na Vulgata está <em>Apprehendite disciplinam</em>, que o padre Pereira traduziu: \"Tomai o ensino\"; mas o que está no original é: Beijai o Filho, o que com Vigouroux traduzimos — Rendei-lhe homenagem."
+        }
+      }
+    },
+    {
+      "num": 3,
+      "sumario": "SALMO HISTÓRICO. DAVI NESTE SALMO SE VOLTA A DEUS, E NÊLE ENCONTRA FORÇA CONTRA TODOS OS INSULTOS DOS SEUS INIMIGOS: SEGURO COM AS EXPERIÊNCIAS PASSADAS. IMPLORA O SEU AUXÍLIO, E PEDE-LHE QUE NOVAMENTE O DEFENDA.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Salmo de Davi quando fugia à vista de Absalão seu filho (2 Rs 15, 14).",
+          "nota": "fn3_1"
+        },
+        {
+          "n": 2,
+          "texto": "Senhor por que são em tão grande número os que me perseguem? muitos se levantam contra mim."
+        },
+        {
+          "n": 3,
+          "texto": "Muitos dizem à minha alma: Não há salvação para êle em seu Deus."
+        },
+        {
+          "n": 4,
+          "texto": "Porém tu, Senhor, és o meu protetor, a minha glória e o que exaltas a minha cabeça."
+        },
+        {
+          "n": 5,
+          "texto": "Com a minha voz clamei ao Senhor: E me ouviu desde o seu santo monte.",
+          "nota": "fn3_2"
+        },
+        {
+          "n": 6,
+          "texto": "Eu dormi e estive sepultado no sono: E levantei-me, porque o Senhor me amparou.",
+          "nota": "fn3_3"
+        },
+        {
+          "n": 7,
+          "texto": "Não temerei aqueles milhares de povo que me cercam: Levanta-te, Senhor, salva-me, Deus meu.",
+          "nota": "fn3_4"
+        },
+        {
+          "n": 8,
+          "texto": "Porque tu tens ferido a todos os que me perseguem sem causa: Quebraste os dentes dos pecadores."
+        },
+        {
+          "n": 9,
+          "texto": "Do Senhor é a salvação: E sôbre o teu povo a tua bênção.",
+          "nota": "fn3_5"
+        }
+      ],
+      "notas": {
+        "fn3_1": {
+          "rotulo": "Salmo de Davi quando fugia à vista de Absalão",
+          "texto": "SALMO — No hebreu <em>Mizmor</em>, que a Vulgata traduziu por <em>Psalmus</em>, composição rítmica destinada a ser cantada com acompanhamento de instrumento musical, especialmente de harpa. São 57 os Salmos que têm êste nome. Neste, Davi quer indicar que são numerosos os seus inimigos, mas que coisa alguma lhe abalará a confiança no Senhor; e certamente o que mais ressalta da leitura dêste Salmo é que, ainda nas maiores adversidades, devemos confiar sempre no auxílio de Deus. Compreende quatro estrofes, a saber: 1.ª (vv. 2-3). Multidão de inimigos de Davi. — 2.ª (4-5). Não se atemoriza, porque espera o auxílio de Deus. — 3.ª (6-7). Adormece e desperta tranquilo, porque Deus é o seu auxílio. — 4.ª (7-9). Que Deus o livre dos seus inimigos e que abençoe o seu povo. O título está indicado neste primeiro versículo — Salmo de Davi quando fugia à vista de seu filho Absalão. — E' histórico êste salmo; contudo, o seu sentido místico é verdadeiramente profético, e alusivo a Jesus Cristo e à sua paixão, assim como o sentido moral alude a todos os justos que na perseguição confiam em Deus."
+        },
+        "fn3_2": {
+          "rotulo": "desde o seu santo monte",
+          "texto": "SANTO MONTE — Quer dizer desde o Céu, onde estás em tua santidade e glória. <em>De Coelo sublimi, ubi in tua sanctitate et gloria insides.</em>"
+        },
+        "fn3_3": {
+          "rotulo": "E levantei-me, porque o Senhor me amparou",
+          "texto": "E LEVANTEI-ME — Isto é, acordei, como tem o hebreu, \"<em>evigilavi</em>\". A Igreja acomoda êste versículo a Jesus Cristo ressurgindo dos mortos. — Bossuet."
+        },
+        "fn3_4": {
+          "rotulo": "aqueles milhares de povo que me cercam",
+          "texto": "AQUELES MILHARES DE POVO — Alude Davi ao que lhe dissera um mensageiro: <em>Toto corde universus Israel sequitur Absalon.</em> \"Todo o povo de Israel segue de todo o coração o partido de Absalão contra ti\". 2 Rs 16, 13. — Bossuet."
+        },
+        "fn3_5": {
+          "rotulo": "Do Senhor é a salvação",
+          "texto": "DO SENHOR É A SALVAÇÃO — A salvação nos vem de Deus, e êle abençoa o seu povo, isto é, os predestinados pelos merecimentos de Jesus Cristo. Santo Agostinho observou que a primeira parte do verso era afirmativa, e a segunda deprecativa."
+        }
+      }
+    },
+    {
+      "num": 4,
+      "sumario": "SALMO HISTÓRICO. DAVI PERSEGUIDO DOS SEUS INIMIGOS PÕE A SUA CAUSA NAS MÃOS DE DEUS; E OS EXORTA A QUE VOLTEM SOBRE SI, E SE RECONHEÇAM, PROTESTANDO QUE SÓ NO SENHOR TEM POSTA TODA A SUA CONFIANÇA E GLÓRIA.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do côro, com acompanhamento de instrumentos de corda, salmo de Davi.",
+          "nota": "fn4_1"
+        },
+        {
+          "n": 2,
+          "texto": "Quando eu invoco o Senhor da minha Justiça, Êle me ouve, e na tribulação o seu auxílio expande a minha alma. Tem compaixão de mim, e ouve a minha oração.",
+          "nota": "fn4_2"
+        },
+        {
+          "n": 3,
+          "texto": "Filhos dos homens, até quando sereis de pesado coração? por que amais a vaidade, e buscais a mentira?",
+          "nota": "fn4_3"
+        },
+        {
+          "n": 4,
+          "texto": "Sabei pois que o Senhor exaltou ao seu santo, o Senhor me ouvirá quando eu clamar a Êle.",
+          "nota": "fn4_4"
+        },
+        {
+          "n": 5,
+          "texto": "Irai-vos e não queirais pecar: Do que dizeis nos vossos corações compungi-vos nos vossos leitos.",
+          "nota": "fn4_5"
+        },
+        {
+          "n": 6,
+          "texto": "Sacrificai sacrifício de justiça, e esperai no Senhor: Muitos dizem: Quem nos patenteará os bens?",
+          "nota": "fn4_6"
+        },
+        {
+          "n": 7,
+          "texto": "Gravado está, Senhor, sôbre nós o lume do teu rosto: Deste alegria no meu coração.",
+          "nota": "fn4_7"
+        },
+        {
+          "n": 8,
+          "texto": "Pelo produto do seu trigo, vinho e azeite se multiplicaram."
+        },
+        {
+          "n": 9,
+          "texto": "Em paz dormirei nêle mesmo, e repousarei.",
+          "nota": "fn4_8"
+        },
+        {
+          "n": 10,
+          "texto": "Porque tu, Senhor, de uma maneira singular me tens firmado na esperança."
+        }
+      ],
+      "notas": {
+        "fn4_1": {
+          "rotulo": "Ao regente do côro, com acompanhamento de instrumentos de corda",
+          "texto": "AO REGENTE DO CORO — A Vulgata traduziu êste título <em>in finem in carminibus</em>, e o padre Pereira desta maneira, não menos, senão mais confusa: \"Para o fim entre os cânticos\", o que não dava idéia do que era. O <em>in finem</em> da Vulgata, que assim traduziu dos Setenta, e o Para o fim, do padre Pereira, é a tradução errada do hebreu <em>lamnatreakh</em>, que significa ao regente do côro. E' uma espécie de advertência, significando que o Salmo deve ser remetido ao presidente do côro dos Levitas. E' provável que o autor da Vulgata traduzisse o grego dos Setenta por <em>in finem</em>, referindo estas palavras ao fim dos tempos, isto é, à época do Messias.<br><br>INSTRUMENTOS DE CORDA — A Vulgata traduziu <em>carminibus</em> e o padre Pereira <em>cânticos</em>, o têrmo hebraico <em>Neghinot</em>, que era um instrumento de corda. Giustiniani e Houbigaut querem que êste instrumento fôsse uma cítara de oito cordas. Davi compôs, ao que parece, êste Salmo no tempo em que era perseguido por seu filho Absalão, ou por Saul, seu sogro. O escopo dêste Salmo parece ser implorar a misericórdia do Senhor e excitar a constância nos que o acompanhavam. O sentido moral, segundo os mais abalizados críticos, é mostrar a fôrça e a ação da Providência, exortando os bons à resignação e à perseverança, e persuadindo os maus à penitência. Compreende cinco estrofes; a primeira e a última têm três versos, as restantes quatro, a saber: 1.ª estrofe (2). Deus ouve a oração quando todos o abandonam (seguindo Absalão). — 2.ª (3 e 4) Aos seus caluniadores diz que terminem as suas afrontas, porque o Senhor aceita a sua súplica. — 3.ª (5 e 6). Que confiem em Deus. — 4.ª (6 e 8). Os que ficaram fiéis procuram a felicidade; Deus faz brilhar sôbre nós o bem do seu rosto. — 5.ª (9 e 10). Tranquilidade de Davi e sua confiança ilimitada em Deus."
+        },
+        "fn4_2": {
+          "rotulo": "Quando eu invoco o Senhor da minha Justiça",
+          "texto": "QUANDO EU INVOCO — Traduz-se pelo presente, conforme se disse na introdução. Afastamo-nos um pouco da tradução do padre Pereira, para melhor inteligência do Salmo."
+        },
+        "fn4_3": {
+          "rotulo": "Filhos dos homens, até quando sereis de pesado coração",
+          "texto": "FILHOS DOS HOMENS — O hebreu diz: \"Filhos de varão até quando convertereis a minha glória em ignomínia?\" \"Filhos de varão\", isto é, conforme a frase hebraica: \"Filhos de homem ilustre, ou varões ilustres.\" E' uma apóstrofe aos oficiais e comandantes das onze tribos, os quais, depois da morte de Saul, recusaram por largo tempo reconhecer por seu rei a Davi, 2 Rs 2, 9; 3, 1. — P. Seio."
+        },
+        "fn4_4": {
+          "rotulo": "o Senhor exaltou ao seu santo",
+          "texto": "AO SEU SANTO — A mim seu Ungido. O hebreu: \"E sabei que o Senhor apartou para si ao pio; isto é, me apartou e me elegeu, dotando-me de verdadeira piedade, para que eu restabelecesse o seu culto\". — P. Seio."
+        },
+        "fn4_5": {
+          "rotulo": "Irai-vos e não queirais pecar",
+          "texto": "IRAI-VOS — E' uma forma hipotética, expressa por esto imperativo, e que corresponde a \"se vos irardes\", etc. <em>Hypothetica Hebraeorum formula per imperativum, pro si irascimini.</em> Cfr. <em>Synopsis criticorum S. Scripturæ.</em>"
+        },
+        "fn4_6": {
+          "rotulo": "Sacrificai sacrifício de justiça",
+          "texto": "SACRIFICAI SACRIFÍCIO DE JUSTIÇA — Quer dizer, oferecei sacrifício justo, isto é, oferecido por uma forma reta, com pureza de intenção, e oferecei-o pelos vossos pecados. Como se dissesse: Rebeldes! conhecei as vossas culpas, e arrependidos oferecei sacrifícios ao Senhor. <em>O conjurati peccatum vestrum agnoscite, et in illius expiationem offerte sacrificium Deo.</em> — Vatablo."
+        },
+        "fn4_7": {
+          "rotulo": "o lume do teu rosto: Deste alegria no meu coração",
+          "texto": "DESTE ALEGRIA NO MEU CORAÇÃO — No hebreu se lêem estas últimas palavras unidas com o verso seguinte desta maneira: \"Deste alegria no meu coração, ao tempo que o trigo dêles, e o mosto se multiplicou\". Pode também ser alusivo aos refrescos que foram levados às tropas de Davi, quando fugia de Absalão. Rs 17, 28. A Igreja em uma Antífona aplica êste verso ao sustento e multiplicação que recebem os fiéis pela Eucaristia. — P. Seio."
+        },
+        "fn4_8": {
+          "rotulo": "Em paz dormirei nêle mesmo, e repousarei",
+          "texto": "E REPOUSAREI — O hebreu diz: \"Em paz a um mesmo tempo me encostarei, e dormirei\". Outros: <em>Idipsum</em> e <em>simul</em> ou juntamente. — Pereira."
+        }
+      }
+    },
+    {
+      "num": 5,
+      "sumario": "SALMO IMPETRATIVO E DIDÁTICO. PEDE DAVI A DEUS QUE SE DIGNE DE OUVIR OS SEUS CONTÍNUOS ROGOS, E QUE POIS ABORRECE A INIQUIDADE, LHE DÊ ASILO NA SUA GRAÇA, E DESTRUA A SEUS INIMIGOS E PERSEGUIDORES, PARA QUE À VISTA DISTO SE ALEGRE A SUA IGREJA, E TOME MATÉRIA PARA LOUVÁ-LO.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do côro com acompanhamento de flauta. Salmo de Davi.",
+          "nota": "fn5_1"
+        },
+        {
+          "n": 2,
+          "texto": "Senhor, dá ouvidos às minhas palavras, escuta o meu clamor."
+        },
+        {
+          "n": 3,
+          "texto": "Atende à voz da minha súplica, rei meu e Deus meu."
+        },
+        {
+          "n": 4,
+          "texto": "Porque a ti orarei: De manhã, Senhor, ouvirás a minha voz."
+        },
+        {
+          "n": 5,
+          "texto": "Ao despontar do dia me coloco na tua presença e te verei: Porque tu, Deus, não queres a iniquidade."
+        },
+        {
+          "n": 6,
+          "texto": "Não habitará ao pé de ti o maligno: Nem os injustos permanecerão diante de teus olhos."
+        },
+        {
+          "n": 7,
+          "texto": "Aborreces a todos os que obram a iniquidade: Perderás a todos os que preferem a mentira. O Senhor abominará o varão sanguinário e doloso:"
+        },
+        {
+          "n": 8,
+          "texto": "Eu porém, confiado na multidão da tua misericórdia, entrarei na tua casa, e cheio de temor teu te adorarei no teu santo templo."
+        },
+        {
+          "n": 9,
+          "texto": "Senhor, guia-me na tua justiça: Dirige diante de teus olhos o meu caminho, por causa de meus inimigos."
+        },
+        {
+          "n": 10,
+          "texto": "Porque na bôca deles não há verdade: O seu coração é vão."
+        },
+        {
+          "n": 11,
+          "texto": "A sua garganta é um sepulcro aberto, com as suas línguas urdiram enganos, tu, Deus, os julgas. Caiam de seus pensamentos, lança-os segundo a multidão das suas impiedades, porque te irritaram, Senhor."
+        },
+        {
+          "n": 12,
+          "texto": "E alegrem-se todos aquêles que esperam em ti: exultarão eternamente: E tu habitarás neles, E em ti se gloriarão todos os que amam o teu nome,"
+        },
+        {
+          "n": 13,
+          "texto": "porque tu abençoarás o justo. Senhor, de tua boa vontade nos coroaste, como com escudo."
+        }
+      ],
+      "notas": {
+        "fn5_1": {
+          "rotulo": "Ao regente do côro com acompanhamento de flauta",
+          "texto": "COM ACOMPANHAMENTO DE FLAUTA — Assim traduzimos o hebreu <em>el-han-nekhiloth</em>, que a Vulgata traduziu por <em>quæ hereditatem consequitur</em>, e o padre Pereira \"que consegue a herança\". Estas palavras do título deram ocasião a comentários variados; hoje porém é assente que <em>nekhiloth</em> designa a flauta, e que êste título indica que o salmo devia ser acompanhado com êste instrumento. Os Setenta e depois a Vulgata entenderam esta frase relativa ao povo de Israel, que é a herança de Deus. E' evidentemente uma oração da manhã, que Davi recitaria antes de ir à casa de Deus por ocasião de algumas perseguições mencionadas no salmo antecedente. Tem quatro estrofes de seis versos. 1.ª estrofe (2 a 5). Davi invoca o Senhor desde o amanhecer, e roga a Deus ouça a sua prece. — 2.ª (5 a 7). Confia na bondade infinita de Deus. — 3.ª (8 a 11). Vai cheio de confiança ao Tabernáculo pedir socorro contra os maus. — 4.ª (11 a 13). Pede a condenação daqueles para alegria dos justos."
+        }
+      }
+    },
+    {
+      "num": 6,
+      "sumario": "SALMO IMPETRATÓRIO. DAVI ULTRAJADO POR SEUS INIMIGOS SE VOLTA A DEUS IMPLORANDO A SUA MISERICÓRDIA: CONTA COM A VITÓRIA CONFIANDO NA DIVINA PROTEÇÃO.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do côro, com acompanhamento de instrumentos de corda, salmo de Davi, com vozes graves.",
+          "nota": "fn6_1"
+        },
+        {
+          "n": 2,
+          "texto": "Senhor, não me arguas no teu furor, nem me castigues na tua ira."
+        },
+        {
+          "n": 3,
+          "texto": "Tem misericórdia de mim, Senhor, porque sou enfêrmo: Sara-me, Senhor, porque os meus ossos estão comovidos."
+        },
+        {
+          "n": 4,
+          "texto": "E a minha alma se turbou em extremo: Mas tu, Senhor, até quando?"
+        },
+        {
+          "n": 5,
+          "texto": "Volta-te, Senhor, e livra a minha alma: Salva-me pela tua misericórdia."
+        },
+        {
+          "n": 6,
+          "texto": "Porque na morte não há quem se lembre de ti: E no inferno quem te louvará?",
+          "nota": "fn6_2"
+        },
+        {
+          "n": 7,
+          "texto": "Trabalhado me vejo no meu gemido, lavarei todas as noites o meu leito: Regarei com minhas lágrimas o meu estrado."
+        },
+        {
+          "n": 8,
+          "texto": "O meu ôlho se turvou à vista do furor: Tenho envelhecido no meio de todos os meus inimigos.",
+          "nota": "fn6_3"
+        },
+        {
+          "n": 9,
+          "texto": "Apartai-vos de mim todos os que obrais iniquidade: Porque o Senhor ouviu a voz do meu pranto."
+        },
+        {
+          "n": 10,
+          "texto": "O Senhor ouviu o meu humilde rogo, o Senhor recebeu a minha oração."
+        },
+        {
+          "n": 11,
+          "texto": "Sejam confundidos, e em extremo conturbados todos os meus inimigos: Convertam-se, e sejam cobertos de ignomínia num instante.",
+          "nota": "fn6_4"
+        }
+      ],
+      "notas": {
+        "fn6_1": {
+          "rotulo": "com vozes graves",
+          "texto": "COM VOZES GRAVES — Voz do baixo, é o que quer dizer o têrmo hebraico <em>scheminith</em>, que a Vulgata traduziu <em>pro octava</em>. O objeto deste Salmo é pedir a Deus que abrande o rigor da sua justiça. Alguns expositores entendem que o Salmista dirigira êste cântico ao Senhor, sofrendo de alguma grave moléstia; outros pensam que foi composto quando sôbre êle pesava o castigo de adultério que tinha cometido, e da cruel morte de Urias. Como quer que seja, êle é a nobre expressão do coração aflito, que só do Senhor espera alívio ao seu padecimento. Tem 3 estrofes: a média mais extensa do que as outras. E' o primeiro dos Salmos Penitenciais, e o que nêle se encontra tanto pode ser repetido por um pecador arrependido das suas faltas, como por um justo vergado ao pêso do infortúnio. Na primeira estrofe (2-4) Davi apela para a Misericórdia Divina, para que o não castigue, rogando ao Senhor se compadeça dêle, fraco e cheio de temor e tremendo diante de Deus. Na segunda (5-8) reza ao Senhor que por piedade lhe anime o semivivo peito, e que ouça os seus gemidos durante a noite. A terceira (9-11) é a chamada estrofe do triunfo — Deus escutou a prece, e triunfa dos seus inimigos."
+        },
+        "fn6_2": {
+          "rotulo": "na morte não há quem se lembre de ti",
+          "texto": "NA MORTE NÃO HÁ QUEM SE LEMBRE DE TI — Esta expressão é frequente nos Salmos; encontra-se nos 113, 17; 114, 9; 145, 4; 29, 10; 87, 6.11.13; e daqui, sem razão, censuram alguns o salmista de ignorar a vida futura, e circunscrever as esperanças do homem à vida presente. A esta objeção responderemos com Vigouroux: 1.° Deus não revelou no Antigo Testamento, com a mesma precisão que se lê no Novo, o estado das almas depois da morte; 2.° que se servia das promessas e ameaças temporais para conter os judeus na observância da Lei; 3.° que as palavras do salmista não são uma negação da Imortalidade da alma ou da vida futura, mas sim a afirmação de que não podiam louvar a Deus no limbo. <em>Manuel Biblique.</em> Demais é também certo que antes da vinda de Jesus Cristo estavam privados da Bem-aventurança e da visão beatífica, e por consequência a morte tinha um horror particular. Bossuet, <em>Dissertatio in Psalmis</em>, 101, 10. Há porém muitos Salmos em que são evidentes as passagens que atestam a crença numa outra vida. Sl 15, 9-10; 61, 8-9; 83, 6; 72, 23-23; 16, 15; 47, 15; 36, 18.<br><br>E NO INFERNO — Inferno aqui, assim como noutros muitos lugares da Escritura, toma-se pelo sepulcro. — Bossuet e Duhamel."
+        },
+        "fn6_3": {
+          "rotulo": "O meu ôlho se turvou à vista do furor",
+          "texto": "A VISTA DO FUROR — Isto é, pelo furor dos meus inimigos. S. Jerônimo verte do hebreu: <em>Colignavit præ amaritudine</em>, o meu ôlho cegou por causa da amargura; isto é, pela cópia de lágrimas, que êles me faziam chorar. — Bossuet e Duhamel."
+        },
+        "fn6_4": {
+          "rotulo": "sejam cobertos de ignomínia num instante",
+          "texto": "NUM INSTANTE — A palavra hebraica significa logo logo e se declara bem exatamente com o <em>valdé velociter</em> da Vulgata. A palavra <em>convertantur</em> uns a entendem da \"conversão\" a Deus, que deseja Davi a seus inimigos, como figura daquele que disse desde a cruz: <em>Parce illis.</em> Outros pelo mesmo que voltar, pedindo que fujam logo os que combatiam o seu sossêgo espiritual e temporal. — P. Seio."
+        }
+      }
+    },
+    {
+      "num": 7,
+      "sumario": "SALMO DIDÁTICO. DAVI PATENTEANDO AO SENHOR AS INJÚRIAS QUE RECEBE DE SEUS PERSEGUIDORES, LHE PEDE O SEU SOCORRO, E ANUNCIA A SUA RUÍNA: COM O QUE SE PREPARA PARA MOSTRAR O SEU AGRADECIMENTO, E CANTAR-LHE OS DEVIDOS LOUVORES.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Salmo de Davi, que cantou ao Senhor, por causa das palavras de Cus o benjamita (2 Rs, 16.)",
+          "nota": "fn7_1"
+        },
+        {
+          "n": 2,
+          "texto": "Senhor, Deus meu, em ti esperei: Salva-me de todos os que me perseguem, e livra-me."
+        },
+        {
+          "n": 3,
+          "texto": "Para que como leão não arrebate ultimamente a minha alma, quando não haja quem me livre, nem quem me reduza a pó e me salve."
+        },
+        {
+          "n": 4,
+          "texto": "Senhor Deus meu, se eu fiz isso, se há iniquidade nas minhas mãos:",
+          "nota": "fn7_2"
+        },
+        {
+          "n": 5,
+          "texto": "Se paguei mal aos que mo faziam, caia eu com razão debaixo dos meus inimigos sem esperança."
+        },
+        {
+          "n": 6,
+          "texto": "Persiga o inimigo a minha alma, e apodere-se dela, e pise juntamente com a terra a minha vida, e reduza minha glória."
+        },
+        {
+          "n": 7,
+          "texto": "Levanta-te, Senhor, na tua ira: Mostra a tua grandeza no meio dos meus inimigos. E levanta-te, Senhor, Deus meu, segundo o preceito que tu ordenaste:",
+          "nota": "fn7_3"
+        },
+        {
+          "n": 8,
+          "texto": "E a multidão dos povos se unirá em roda de ti. E por amor desta remonta-te ao alto:"
+        },
+        {
+          "n": 9,
+          "texto": "O Senhor julga os povos. Julga-me, Senhor, segundo a minha justiça, e segundo a inocência que há em mim."
+        },
+        {
+          "n": 10,
+          "texto": "Será consumida a malícia dos pecadores, e caminharás ao justo, ó Deus, que sondas os corações e as entranhas.",
+          "nota": "fn7_4"
+        },
+        {
+          "n": 11,
+          "texto": "Justo é o meu auxílio que vem do Senhor, o qual salva os retos de coração."
+        },
+        {
+          "n": 12,
+          "texto": "Deus, Juiz justo, forte, e paciente: Ira-se acaso todos os dias?"
+        },
+        {
+          "n": 13,
+          "texto": "Se vós vos não converterdes, vibrará a sua espada: Armou o seu arco, e o tem pronto."
+        },
+        {
+          "n": 14,
+          "texto": "Já pôs nêle os instrumentos da morte; já preparou as suas setas ardentes.",
+          "nota": "fn7_5"
+        },
+        {
+          "n": 15,
+          "texto": "Olha como êle causou a injustiça: Concebeu dor e produziu a iniquidade."
+        },
+        {
+          "n": 16,
+          "texto": "O fôsso abriu, e o cavou: Mas precipitou-se na cova por si aberta."
+        },
+        {
+          "n": 17,
+          "texto": "A sua dor se voltará contra a sua cabeça: E sôbre a sua fronte recairá a sua iniquidade."
+        },
+        {
+          "n": 18,
+          "texto": "Glorificarei ao Senhor seguindo a sua justiça: E exaltarei o teu nome Santo, sôbre as altas nuvens, até ao Céu."
+        }
+      ],
+      "notas": {
+        "fn7_1": {
+          "rotulo": "Salmo de Davi... Cus o benjamita",
+          "texto": "SALMO — Assim traduziu a Vulgata o têrmo hebraico <em>Schiggyôn</em> o qual é diferente do <em>mizmor — psalmus</em>. Não se conhece perfeitamente a significação dêste têrmo, que parece designar uma ode irregular e ditirâmbica, em que o autor, arrastado pelo entusiasmo, não se prendeu com a ligação das idéias, nem com a uniformidade do ritmo. <em>Cantio errática</em> lhe chamaram.<br><br>CUS O BENJAMITA — Cus equivale a etiópico. E' desconhecido o personagem da tribo de Benjamim, a quem se refere o salmista, divergindo os antigos e modernos intérpretes. Mathei suspeita que fôsse algum cantor, mas sem razão: outros entendem que fôsse Semei; outros alguns dos partidários de Saul, que, como Doeg e os Zifeus, aproveitassem a ausência de Davi caluniando-o, e excitassem contra êle a cólera do rei. Ainda que os livros históricos não determinem êste personagem, os pormenores do 1 dos Rs esclarecem muitas passagens dêste salmo. Davi, e êste é o objeto do Salmo, pede a Deus que vingue as Injúrias do mau. Tem seis estrofes de número variado de versos. A primeira (2-3) é uma invocação a Deus para que o salve dos seus inimigos. A segunda (4-6) é um protesto, sob a forma duma imprecação, contra a falsa acusação que lhe imputa Cus. Terceira (7-9) Que Deus o julgue e lhe faça justiça. Quarta (10-11) Que Deus, seu socorro e salvador, ponha fim à injustiça. Quinta (12-14) Deus é justo, e castiga o pecador, que não pode subtrair-se aos rigores dos seus juízos. Sexta (15-18) O pecador tem a sorte que merece; cai no abismo que cavou. Deus louvado."
+        },
+        "fn7_2": {
+          "rotulo": "se eu fiz isso, se há iniquidade nas minhas mãos",
+          "texto": "SE EU FIZ ISSO — Isto que Saul suspeita de mim, que é que eu lhe procuro fazer mal. A qual suspeita o mesmo Davi remove de si. 1 Rs 24, 10-12. — Bossuet."
+        },
+        "fn7_3": {
+          "rotulo": "segundo o preceito que tu ordenaste",
+          "texto": "SEGUNDO O PRECEITO, ETC. — Segundo o decreto que tu ordenaste para que eu fôsse rei de todo o Israel. Vatablo. Ou também: esta oração de Davi nos representa a Ressurreição e triunfo de Jesus Cristo. Levanta-te, segundo o eterno decreto com que estabeleceste ressuscitar ao Filho, depois de morrer pela salvação de todos os homens. — Seio."
+        },
+        "fn7_4": {
+          "rotulo": "que sondas os corações e as entranhas",
+          "texto": "E AS ENTRANHAS — À letra: os \"rins\" ou já sejam os afetos e os movimentos da vontade. — Pereira."
+        },
+        "fn7_5": {
+          "rotulo": "as suas setas ardentes",
+          "texto": "AS SUAS SETAS ARDENTES — Quer dizer: os seus juízos."
+        }
+      }
+    },
+    {
+      "num": 8,
+      "sumario": "SALMO GRATULATÓRIO. DAVI NESTE SALMO ENGRANDECE A ADMIRÁVEL PROVIDÊNCIA, QUE DEUS USOU COM O HOMEM, TANTO NA SUA PRIMEIRA CRIAÇÃO COMO NA SUA RENOVAÇÃO POR MEIO DE JESUS CRISTO.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do côro. Com acompanhamento da cítara de Gèt, salmo de Davi.",
+          "nota": "fn8_1"
+        },
+        {
+          "n": 2,
+          "texto": "Senhor, nosso dominador soberano, quão admirável é o teu nome em tôda a terra! Porque a tua magnificência se elevou sôbre os céus."
+        },
+        {
+          "n": 3,
+          "texto": "Tu fizeste sair da bôca dos infantes e dos que mamam um louvor perfeito, por causa de teus inimigos, para destruíres ao inimigo e o vingativo.",
+          "nota": "fn8_2"
+        },
+        {
+          "n": 4,
+          "texto": "Porque eu hei de ver os teus céus, obra dos teus dedos: A lua e as estrelas que tu estabeleceste."
+        },
+        {
+          "n": 5,
+          "texto": "Que é o homem, para tu te lembrares dele? ou que é o filho do homem para tu o visitares?"
+        },
+        {
+          "n": 6,
+          "texto": "Pouco menor o fizeste que os anjos, de glória e de honra o coroaste:"
+        },
+        {
+          "n": 7,
+          "texto": "E tu o puseste sôbre as obras das tuas mãos."
+        },
+        {
+          "n": 8,
+          "texto": "Tôdas as coisas sujeitaste debaixo de seus pés, as ovelhas e as vacas tôdas: E além dêstes os outros animais do campo.",
+          "nota": "fn8_3"
+        },
+        {
+          "n": 9,
+          "texto": "As aves do Céu, e os peixes do mar, que discorrem pelas veredas do mar."
+        },
+        {
+          "n": 10,
+          "texto": "Senhor, nosso dominador soberano, quão admirável é o teu nome em tôda a terra!"
+        }
+      ],
+      "notas": {
+        "fn8_1": {
+          "rotulo": "cítara de Gèt",
+          "texto": "CÍTARA DE GET — Parece ser esta a significação da palavra <em>Githith</em>, que a Vulgata verteu por <em>torcularlbus</em> e o Pe. Pereira por <em>lagares</em>, o que evidentemente não faz sentido. E' verdade que se não pode julgar de todo o ponto certa esta tradução (Vigouroux, <em>Manuel Biblique</em>) porém é a que se aproxima mais da verdade. Cítara de Get, tanto pode ser a Cítara usada em Get, ou significar a música que se cantava naquela cidade dos filisteus, que Davi tinha habitado. Explicavam os comentadores a tradução da Vulgata, feita sôbre os Setenta, que êste Salmo tinha sido composto para ser cantado nas vindimas. Mas a êste propósito adverte judiciosa e engraçadamente o nosso Pe. Sousa Caídas, que traduziu em verso os Salmos de Davi, na nota a êste Salmo: \"No seu título lê-se salmo de Davi para os lagares. Não percebo a relação que tem êste título com o objeto do Salmo.\" Os modernos exegetas dão-nos a tradução que apresentamos, fundada em boas razões, e que torna inteligível o título do Salmo.<br><br>Começa e termina da mesma sorte, com dois versos, e além destas quatro estrofes de quatro versos. \"Êste poema, escreve Rems, tão despretensioso, não precisa de comentário algum. E' sublime pela sua simplicidade. Põe-se em relêvo a grandeza de Deus revelada pelo universo, obra das suas mãos, e manifestado pelas próprias criaturas o papel que o homem desempenha, rodeado de todos êstes sêres.\" — <em>Le Psautier</em>, p. 77."
+        },
+        "fn8_2": {
+          "rotulo": "Tu fizeste sair da bôca dos infantes",
+          "texto": "TU FIZESTE SAIR DA BOCA DOS INFANTES — Êste lugar acomodou Cristo a si, em ocasião em que com efeito o louvavam os meninos de Jerusalém. Mt 21, 16. — Bossuet."
+        },
+        "fn8_3": {
+          "rotulo": "Tôdas as coisas sujeitaste debaixo de seus pés",
+          "texto": "TODAS AS COISAS — S. Paulo, Hebr 2, 5, nos ensina que isto só a Cristo convém perfeitamente. — Bossuet."
+        }
+      }
+    },
+    {
+      "num": 9,
+      "sumario": "SALMO EUCARÍSTICO, EM QUE DAVI SE MOSTRA AGRADECIDO AO SENHOR PELO HAVÊ-LO LIVRADO POR UM MODO SINGULAR DOS SEUS INIMIGOS.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do côro, no tom de Mouih Labben (morte do filho?) salmo de Davi.",
+          "nota": "fn9_1"
+        },
+        {
+          "n": 2,
+          "texto": "Eu te glorificarei, Senhor, com todo o meu coração, cantarei tôdas as tuas maravilhas."
+        },
+        {
+          "n": 3,
+          "texto": "Alegrar-me-ei, e regozijar-me-ei em ti: Cantarei o teu nome, ó Altíssimo."
+        },
+        {
+          "n": 4,
+          "texto": "Porque fizeste pôr em fugida ao meu inimigo: Serão debilitados, e perecerão diante de ti."
+        },
+        {
+          "n": 5,
+          "texto": "Porque julgaste e defendeste a minha causa: Assentaste-te sôbre o trono tu que julgas segundo a justiça."
+        },
+        {
+          "n": 6,
+          "texto": "Tu repreendeste as nações, e o ímpio pereceu: Apagaste o nome dêle para sempre, e por todos os séculos dos séculos."
+        },
+        {
+          "n": 7,
+          "texto": "As espadas do inimigo perderam a sua fôrça para sempre: E destruíste as suas cidades. A memória deles pereceu com ruído:"
+        },
+        {
+          "n": 8,
+          "texto": "E o Senhor permaneceu eternamente. Êle preparou o seu trono para exercer o juízo:"
+        },
+        {
+          "n": 9,
+          "texto": "E êle mesmo julgará tôda a terra em equidade, êle julgará os povos em justiça."
+        },
+        {
+          "n": 10,
+          "texto": "O Senhor se fêz o refúgio para o pobre: Socorrendo-o oportunamente na angústia."
+        },
+        {
+          "n": 11,
+          "texto": "Em ti pois esperem os que conhecem o teu nome: Porque tu, Senhor, não desamparaste aos que te buscam."
+        },
+        {
+          "n": 12,
+          "texto": "Cantai ao Senhor, que habita em Sião: Anunciai entre as nações os seus conselhos:"
+        },
+        {
+          "n": 13,
+          "texto": "Porque demandando o sangue dêles os teve presentes: Não se esqueceu do clamor dos pobres.",
+          "nota": "fn9_2"
+        },
+        {
+          "n": 14,
+          "texto": "Tem compaixão de mim, Senhor: Vê a humilhação a que meus inimigos me reduziram."
+        },
+        {
+          "n": 15,
+          "texto": "Tu que me retiras das portas da morte, para que publique todos os teus louvores nas portas da filha de Sião."
+        },
+        {
+          "n": 16,
+          "texto": "Exultarei na tua salvação: Cravaram-se as gentes na ruína, que me haviam preparado. No mesmo laço que esconderam, ficou preso o pé dêles.",
+          "nota": "fn9_3"
+        },
+        {
+          "n": 17,
+          "texto": "Conhecido será o Senhor que faz justiça: Nas obras das suas mãos foi preso o pecador."
+        },
+        {
+          "n": 18,
+          "texto": "Sejam precipitados todos os pecadores no inferno, tôdas as nações que se esquecem de Deus.",
+          "nota": "fn9_4"
+        },
+        {
+          "n": 19,
+          "texto": "Porque nem para sempre haverá esquecimento do pobre: Nem a paciência dos pobres será para sempre frustrada."
+        },
+        {
+          "n": 20,
+          "texto": "Levanta-te, Senhor, não se fortifique o homem: Sejam julgadas as nações em tua presença."
+        },
+        {
+          "n": 21,
+          "texto": "Senhor, estabelece sôbre êles um legislador: Para que as nações conheçam que são homens."
+        }
+      ],
+      "notas": {
+        "fn9_1": {
+          "rotulo": "no tom de Mouih Labben",
+          "texto": "MOUTH LABBEN — Propositadamente mantivemos as palavras do original, e entre parênteses a tradução, embora duvidosa. A ser exata quererá dizer que êste Salmo deve ser cantado com a música conhecida por estas palavras. O Targume diz que êste Salmo se refere a triunfo alcançado sôbre Golias. Tem dez estrofes de quatro versos cada. 1.ª (2-3) Glorifica Davi ao Senhor. 2.ª (4-5) Porque alcançou vitória e justiça. 3.ª (6-8) Descreve a derrota dos inimigos. 4.ª (8-9) Grandeza e justiça de Deus vencedor. 5.ª (10-11) Deus é o refúgio de todos os oprimidos. 6.ª (12-13) Exorta ao agradecimento a Deus que vingou o seu povo. 7.ª (14-16) Oração de Davi para que o livre dos inimigos. 8.ª (16-17) Fruto desta oração. Queda das nações no abismo que cavaram. 9.ª (18-19) O futuro. Punição do mau e libertação do oprimido. 10.ª (20-21) Oração a Deus para que defenda o seu povo dos ataques dos gentios. Também os intérpretes consideram êste Salmo alusivo à vida e morte do nosso Redentor Jesus Cristo."
+        },
+        "fn9_2": {
+          "rotulo": "demandando o sangue dêles",
+          "texto": "PORQUE DEMANDANDO O SANGUE DÊLES, ETC. — Êste verso se pode explicar de duas maneiras; <em>requirens</em>, exercendo a sua justa vingança, <em>recordatus est sanguinem eorum</em>, ou <em>requirens sanguinem eorum, recordatus est, non est oblitus clamorem pauperum</em>, vingando o Sangue injustamente derramado dos que o buscam e esperam nêle; tem mui presentes e não se esquece dos clamores dos atribulados e oprimidos. — P. Seio."
+        },
+        "fn9_3": {
+          "rotulo": "Exultarei na tua salvação",
+          "texto": "EXULTAREI NA TUA SALVAÇÃO, ETC. — <em>In salutari tuo</em> é um hebraísmo; isto é, pela salvação que me hás de dar. — Pereira.<br><br>NA RUÍNA QUE ME HAVIAM PREPARADO — O hebreu lê: \"no fôsso que fizeram.\" Tôdas estas expressões são tomadas do que se costuma praticar na caça das feras e das aves. — P. Seio."
+        },
+        "fn9_4": {
+          "rotulo": "Sejam precipitados todos os pecadores no inferno",
+          "texto": "SEJAM PRECIPITADOS TODOS OS PECADORES, ETC. — O sentido dêste verso, segundo a Vulgata, parece ser o que damos na versão. O hebraico diz assim: \"Sejam condenados os Ímpios ao inferno: tôdas as nações esquecidas de Deus.\" O que unido com o que precede, pode expor-se dêste modo: Deus é conhecido quando faz resplandecer a sua justiça com algum castigo exemplar, e quando se vê que o pecador fica enredado nas mesmas rêdes, nos mesmos laços, que preparava para os outros. E fazendo depois uma apóstrofe a Deus, diz: Faze, pois, Deus meu, dêstes escarmentos: precipita no inferno aos Ímpios, pois do contrário vendo as nações que êles vivem e morrem impunemente, dirão que não há Deus que vingue os delitos. O que se há de tomar como profecia e não como imprecação. — P. Seio."
+        }
+      }
+    },
+    {
+      "num": 10,
+      "sumario": "SEGUNDO OS HEBREUS. Os Setenta e a Vulgata consideram êste Salmo como a continuação do anterior, ao passo que os hebreus o consideram como um outro, resultando daqui uma diferença na numeração.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Porque te apartaste, tu, Senhor, para longe, desamparas-nos nas necessidades, na tribulação?"
+        },
+        {
+          "n": 2,
+          "texto": "Entretanto que o ímpio se ensoberbece, é abrasado o pobre: Êles são apanhados nos pensamentos de que o seu espírito está ocupado."
+        },
+        {
+          "n": 3,
+          "texto": "Porque o pecador tira louvor nos desejos da sua alma: E o iníquo é abençoado."
+        },
+        {
+          "n": 4,
+          "texto": "O pecador irritou ao Senhor, não o buscará segundo a grandeza da sua indignação."
+        },
+        {
+          "n": 5,
+          "texto": "Não há Deus diante dêle: Os seus caminhos são maculados em todos os tempos. Os teus juízos estão tirados de diante dêle: Êle dominará a todos os seus inimigos."
+        },
+        {
+          "n": 6,
+          "texto": "Porque êle disse do seu coração: Não serei abalado de geração em geração, sem mal.",
+          "nota": "fn10_1"
+        },
+        {
+          "n": 7,
+          "texto": "A sua bôca está cheia de maledicência, e de amargura e de dolo: Debaixo da sua língua está o trabalho e a dor."
+        },
+        {
+          "n": 8,
+          "texto": "Está de assento em emboscada com os ricos em lugares ocultos, para matar ao inocente."
+        },
+        {
+          "n": 9,
+          "texto": "Os seus olhos estão voltados contra o pobre: Arma ciladas, em secreto, como o leão na sua cova. Arma ciladas para arrebatar ao pobre: Para arrebatar ao pobre atribuindo-o a si.",
+          "nota": "fn10_2"
+        },
+        {
+          "n": 10,
+          "texto": "Êle o abaterá no seu laço, se inclinará, e deixará cair, logo que se apoderar dos pobres."
+        },
+        {
+          "n": 11,
+          "texto": "Porque êle disse no seu coração: Deus se esqueceu, apartou o seu rosto para não ver jamais."
+        },
+        {
+          "n": 12,
+          "texto": "Levanta-te, Senhor Deus, eleve-se a tua mão: Não te esqueças dos pobres:"
+        },
+        {
+          "n": 13,
+          "texto": "Por que razão irritou o ímpio a Deus? Por que disse no seu coração? Êle não perguntará por isso."
+        },
+        {
+          "n": 14,
+          "texto": "Tu o vês, porque tu consideras o trabalho e a dor: Para os entregares às tuas mãos. Para ti se reservou o cuidado do pobre: Tu serás o que ajudes o órfão."
+        },
+        {
+          "n": 15,
+          "texto": "Quebra o braço do pecador e do maligno: O seu pecado buscar-se-á, e não se achará.",
+          "nota": "fn10_3"
+        },
+        {
+          "n": 16,
+          "texto": "O Senhor reinará eternamente, e por séculos de séculos: Vós, ó Nações, sereis exterminadas da sua terra."
+        },
+        {
+          "n": 17,
+          "texto": "O Senhor ouviu o desejo dos pobres: A tua orelha entendeu a disposição do seu coração."
+        },
+        {
+          "n": 18,
+          "texto": "Para julgares a favor do pupilo e do humilde, a fim de que o homem não empreenda mais engrandecer-se sôbre a terra."
+        }
+      ],
+      "notas": {
+        "fn10_1": {
+          "rotulo": "Não serei abalado de geração em geração, sem mal",
+          "texto": "PORQUE ELE DISSE NO SEU CORAÇÃO, ETC. — Todo êste verso vem assim na versão de S. Jerônimo: <em>Loquitur in corde suo. Non movebor: in generatione ero sine malo.</em> Da mesma sorte o lê e expõe segundo a versão dos Setenta S. João Crisóstomo. — Pereira."
+        },
+        "fn10_2": {
+          "rotulo": "Arma ciladas para arrebatar ao pobre",
+          "texto": "ARMA CILADAS, ETC. — E' uma bela descrição de um ladrão de estradas, que espera embuscado nos caminhos para cair sôbre os passageiros e roubá-los. Nesta imagem, se representam todos aquêles que por meio de violências, enganos e más artes, enganam aos outros. — P. Seio."
+        },
+        "fn10_3": {
+          "rotulo": "O seu pecado buscar-se-á, e não se achará",
+          "texto": "O SEU PECADO BUSCAR-SE-Á, E NÃO SE ACHARÁ — Pecado se toma aqui pelas coisas que se buscaram e alcançaram por meio dêle. — Bossuet."
+        }
+      }
+    },
+    {
+      "num": 11,
+      "sumario": "SALMO HISTÓRICO E DIDÁTICO. DAVI EXPONDO AO SENHOR AS MALDADES DE SEUS INIMIGOS PEDE A DEUS O LIVRE DELES A ELE E A TODOS OS QUE O SERVEM, O QUE ANUNCIA QUE O SENHOR SALVARIA, E ESTABELECERIA A SUA IGREJA, FAZENDO QUE OS SEUS MESMOS PERSEGUIDORES CONTRIBUÍSSEM PARA A SUA MAIOR EXALTAÇÃO, E GLÓRIA.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do coro, com vozes de baixo, salmo de Davi."
+        },
+        {
+          "n": 2,
+          "texto": "Salva-me, Senhor, porque faltou homem santo: Porque vieram a menos as verdades entre os filhos dos homens.",
+          "nota": "fn11_1"
+        },
+        {
+          "n": 3,
+          "texto": "Cada um deles falou coisas vãs ao seu próximo: Lábios dolosos com coração dobrado."
+        },
+        {
+          "n": 4,
+          "texto": "Destrua o Senhor todos os lábios dolosos, e a língua audaz."
+        },
+        {
+          "n": 5,
+          "texto": "Os que disseram: Queremos soltar livres a nossa língua, nossos lábios de nós são, quem é nosso Senhor?"
+        },
+        {
+          "n": 6,
+          "texto": "Pela miséria dos desvalidos, e o gemido dos pobres agora me levantarei, diz o Senhor. Eu os porei em salvo: Nisto eu obrarei confiadamente.",
+          "nota": "fn11_2"
+        },
+        {
+          "n": 7,
+          "texto": "As palavras do Senhor, palavras sinceras: Prata purificada ao fogo, acendrada em crisol, passada sete vezes por ardente prova."
+        },
+        {
+          "n": 8,
+          "texto": "Tu, Senhor, nos guardarás: E nos preservarás desta geração para sempre."
+        },
+        {
+          "n": 9,
+          "texto": "Os ímpios andam ao derredor: Segundo o teu altíssimo conselho, multiplicaste os filhos dos homens."
+        }
+      ],
+      "notas": {
+        "fn11_1": {
+          "rotulo": "Salva-me, Senhor, porque faltou homem santo",
+          "texto": "SALVA-ME -- Davi pede ao Senhor que o livre dos maus que o cercam. Compreende cinco estrofes. 1.ª (2-3) Davi invoca o Senhor no meio dos perigos que o cercam. 2.ª (4-5) Que Deus destrua os ímpios. 3.ª (6) Resposta de Deus que quer salvar os desvalidos e os miseráveis. 4.ª (7) O Salmista compara ao ouro mais puro as palavras de Deus. 5.ª (8-9) Pede ao Senhor que guarde os seus que estão no meio dos maus."
+        },
+        "fn11_2": {
+          "rotulo": "Pela miséria dos desvalidos",
+          "texto": "PELA MISÉRIA DOS DESVALIDOS -- Isto é, comovido pelas calamidades que os afligem."
+        }
+      }
+    },
+    {
+      "num": 12,
+      "sumario": "SALMO IMPETRATÓRIO. DAVI CHEIO DE CONSOLAÇÃO PELA FIRME ESPERANÇA QUE ACHA NA DIVINA MISERICÓRDIA, PEDE AO SENHOR QUE O LIVRE DA VIOLÊNCIA DE SEUS INIMIGOS, DOS QUAIS SE VÊ LARGA E PERTINAZMENTE PERSEGUIDO.",
+      "versiculos": [
+        {
+          "n": 1,
+          "texto": "Ao regente do coro, salmo de Davi. Até quando, Senhor, te esquecerás de mim para sempre? Até quando apartarás de mim a tua face?",
+          "nota": "fn12_1"
+        },
+        {
+          "n": 2,
+          "texto": "Até quando encherei a minha alma de desígnios, cada dia com dor no meu coração?",
+          "nota": "fn12_3"
+        },
+        {
+          "n": 3,
+          "texto": "Até quando será o meu inimigo exaltado sobre mim?"
+        },
+        {
+          "n": 4,
+          "texto": "Olha para mim, e ouve-me, Senhor Deus meu. Alumia os meus olhos para que eu não durma jamais na morte:",
+          "nota": "fn12_4"
+        },
+        {
+          "n": 5,
+          "texto": "Para que nunca o meu inimigo diga: Eu prevaleci contra ele. Os que me atribulam, exultarão se eu for abalado:"
+        },
+        {
+          "n": 6,
+          "texto": "Porém eu esperei na tua misericórdia. O meu coração exultará na salvação que me virá de ti: Cantarei ao Senhor que me deu bens: E entoarei salmos ao nome do Senhor altíssimo.",
+          "nota": "fn12_5"
+        }
+      ],
+      "notas": {
+        "fn12_1": {
+          "rotulo": "Ao regente do coro, salmo de Davi",
+          "texto": "SALMO DE DAVI -- Este Salmo exprime a situação de uma alma atribulada que, cheia de confiança no Senhor, lhe expõe o seu mal e O invoca num grande perigo. Tem três estrofes de três versos. 1.ª (1-3) Queixa-se Davi de se ver abandonado por Deus. 2.ª (4-5) Oração ao Senhor rogando o divino socorro. 3.ª (6) Esperança no Auxílio Celeste. É incerta a ocasião em que foi composto este Salmo; alguns crêem que ele se refere à perseguição de Saul; outros à rebelião de Absalão; e outros, que o seu objeto é expor os sentimentos dos justos que existiam cativos em Babilónia."
+        },
+        "fn12_2": {
+          "rotulo": "Até quando, Senhor, te esquecerás de mim para sempre",
+          "texto": "ATÉ QUANDO -- Em latim <em>usque quo</em>, é uma interrogação de queixa, <em>interrogatio lamentatio</em> (Caetano) mas que tem também força impetratória, equivalente a uma súplica."
+        },
+        "fn12_3": {
+          "rotulo": "Até quando encherei a minha alma de desígnios",
+          "texto": "ATÉ QUANDO ENCHEREI A MINHA ALMA DE DESÍGNIOS, ETC. -- <em>Ponere consilia in anima</em>, explica o estado de perplexidade em que se acha aquele que não está certo em alguma coisa. -- P. Seio."
+        },
+        "fn12_4": {
+          "rotulo": "não durma jamais na morte",
+          "texto": "NÃO DURMA JAMAIS NA MORTE -- Hebraísmo, que significa \"dormir na morte\" e morrer eternamente. -- S. Jerônimo."
+        },
+        "fn12_5": {
+          "rotulo": "que me deu bens",
+          "texto": "QUE ME DEU BENS, ETC. -- O hebraico tem: \"porque me retribuiu\" premiou a minha inocência nesta causa; me deu a recompensa do meu trabalho, paciência e esperança; e não se lê aqui: <em>Et psallam nomini tuo altissime</em>, como se lê no salmo 9, 2, -- P. Seio."
+        }
+      }
+    }
+  ]
+}
