@@ -44,9 +44,24 @@ Se o usuário escolher a **opção 2**:
 
 ---
 
-## PASSO 2 — Identificar o livro bíblico de destino
+## PASSO 2 — Definir o intervalo de capítulos a extrair
 
-### 2a. Listar livros existentes
+Após confirmar o PDF de trabalho, **antes de qualquer leitura ou extração**, pergunte ao usuário:
+
+> **Quais capítulos você quer extrair deste PDF?**
+> Informe o intervalo: de qual capítulo até qual capítulo (ex: "capítulo 3 ao 6").
+
+- Registre os valores como `capituloInicio` e `capituloFim`.
+- Durante o Passo 4, **ignore completamente** qualquer capítulo fora desse intervalo: não transcreva, não gere JSON e não inclua nas notas.
+- Informe ao usuário: *"Extraindo do capítulo X ao capítulo Y."* e siga para o Passo 3.
+
+> **Nota:** se o usuário responder "todos" ou equivalente, processe o PDF integralmente sem filtro.
+
+---
+
+## PASSO 3 — Identificar o livro bíblico de destino
+
+### 3a. Listar livros existentes
 Busque todos os arquivos `.json` dentro de `figueiredo/` (ex: `figueiredo/mateus.json`, `figueiredo/salmos.json`).
 
 Apresente ao usuário uma lista numerada com os livros já existentes, mais a opção de informar um livro novo:
@@ -60,14 +75,14 @@ Apresente ao usuário uma lista numerada com os livros já existentes, mais a op
 >
 > 0. **Novo livro** — informar o nome
 
-### 2b. Livro existente
+### 3b. Livro existente
 Se o usuário escolher um livro já existente:
 - Leia o JSON correspondente
 - Identifique o **maior número de capítulo** já presente em `capitulos`
 - Informe ao usuário: *"O livro já possui capítulos até o X. Os novos capítulos serão concatenados a partir do X+1."*
 - Confirme antes de prosseguir
 
-### 2c. Livro novo
+### 3c. Livro novo
 Se o usuário informar um nome de livro que não existe:
 - **Use seu conhecimento** para preencher automaticamente os metadados canônicos:
   - `id`: slug em minúsculas sem acentos (ex: `marcos`, `salmos`, `genesis`)
@@ -80,10 +95,13 @@ Se o usuário informar um nome de livro que não existe:
 
 ---
 
-## PASSO 3 — Extrair o conteúdo do PDF
+## PASSO 4 — Extrair o conteúdo do PDF
 
 ### Idioma e fidelidade
 Esta é uma edição **portuguesa antiga** (séc. XVIII–XIX). O texto usa ortografia arcaica: "êle", "tôda", "sôbre", "fêz", "pôsto", "bôca", etc. **Transcreva exatamente como está no PDF**, sem modernizar a grafia.
+
+### Escopo da extração
+Extaia **somente** os capítulos definidos no Passo 2 (`capituloInicio` a `capituloFim`). Ao encontrar um número de capítulo fora desse intervalo, pule todas as suas páginas sem transcrever nada.
 
 ### Leitura sequencial
 Leia o PDF **página por página, de forma rigorosa e sequencial**. Em cada página, identifique e classifique cada bloco antes de avançar:
@@ -101,6 +119,7 @@ Leia o PDF **página por página, de forma rigorosa e sequencial**. Em cada pág
 - Se um versículo contiver apenas a continuação de uma citação anterior (sem número próprio), mantenha-o no campo `"texto"` do versículo numerado anterior.
 - Notas de rodapé associadas ao mesmo capítulo ficam em `"notas"`, com chaves no padrão `fn<num_capítulo>_<sequencial>` (ex: `fn3_1`, `fn3_2`).
 - Revisão interna obrigatória antes de salvar: verifique que toda chave de `"nota"` em versículos tem correspondente em `"notas"`, e que nenhum versículo foi omitido.
+- Confirme ainda que **somente** capítulos dentro do intervalo definido no Passo 2 estão presentes no resultado.
 
 ---
 
@@ -164,7 +183,7 @@ Leia o PDF **página por página, de forma rigorosa e sequencial**. Em cada pág
 
 ---
 
-## PASSO 4 — Salvar o JSON
+## PASSO 5 — Salvar o JSON
 
 - **Livro existente**: leia o arquivo atual, acrescente os novos capítulos ao array `"capitulos"` (mantendo os capítulos anteriores intactos) e salve.
 - **Livro novo**: salve diretamente o novo arquivo em `figueiredo/<id>.json`.
@@ -172,7 +191,7 @@ Leia o PDF **página por página, de forma rigorosa e sequencial**. Em cada pág
 
 ---
 
-## PASSO 5 — Atualizar `edicoes.json`
+## PASSO 6 — Atualizar `edicoes.json`
 
 Leia o arquivo `edicoes.json` na raiz do projeto.
 
@@ -189,11 +208,11 @@ Mateus, Marcos, Lucas, João, Atos dos Apóstolos, Romanos, 1 Coríntios, 2 Cor�
 
 ---
 
-## PASSO 6 — Gerar o resumo da extração
+## PASSO 7 — Gerar o resumo da extração
 
 Ao final, produza:
 
-### 6a. Tabela de capítulos extraídos
+### 7a. Tabela de capítulos extraídos
 
 | Capítulo | Versículos | Notas | Itens biográficos |
 |----------|------------|-------|-------------------|
@@ -202,11 +221,11 @@ Ao final, produza:
 | ...      | ...        | ...   | ...               |
 | **Total**| **48**     | **12**| **1**             |
 
-### 6b. Lista de pontos que requerem revisão
+### 7b. Lista de pontos que requerem revisão
 
 Liste cada item que precisou de atenção especial (leitura ambígua, texto ilegível, estrutura incomum). Seja específico: informe o capítulo, versículo ou nota afetada.
 
-### 6c. Salvar o relatório em Markdown
+### 7c. Salvar o relatório em Markdown
 
 - Arquivo: `figueiredo/<id>.md` (ex: `figueiredo/marcos.md`)
 - Se o arquivo **não existir**: crie-o
@@ -217,7 +236,7 @@ Use o seguinte formato para cada sessão:
 ```markdown
 ---
 
-## Revisão — <Nome do Livro> | <Data: DD/MM/AAAA> | Entrada: <breve descrição do PDF/intervalo>
+## Revisão — <Nome do Livro> | <Data: DD/MM/AAAA> | Entrada: <breve descrição do PDF/intervalo> | Capítulos: X–Y
 
 ### Capítulos extraídos
 
