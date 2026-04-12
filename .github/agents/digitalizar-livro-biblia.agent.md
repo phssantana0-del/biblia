@@ -113,6 +113,18 @@ Leia o PDF **página por página, de forma rigorosa e sequencial**. Em cada pág
 5. **Nota de rodapé** → rodapé numerado ou com asterisco; associe ao versículo pelo número indicado
 6. **Item biográfico/temático** → caixa ou bloco com título em negrito inserido no fluxo; use `{ "tipo": "bio" }`
 
+### Rastreamento de páginas por capítulo
+Durante a leitura, mantenha uma tabela interna com o número de página do PDF (1-based) em que cada capítulo começa e termina:
+
+| Capítulo | Página início | Página fim |
+|----------|---------------|------------|
+| 1        | 3             | 5          |
+| 2        | 6             | 8          |
+
+- Quando detectar o início de um novo capítulo, registre a página atual como `inicio` desse capítulo e, ao mesmo tempo, feche o `fim` do capítulo anterior (página atual − 1).
+- Ao encerrar o último capítulo do intervalo, `fim` = número da última página lida.
+- Esta tabela será usada no Passo 4.5 para gerar os PDFs por capítulo.
+
 ### Regras críticas
 - **Nunca invente conteúdo.** Se um trecho for ilegível, registre `null` como texto e adicione o item à lista de revisões.
 - Não altere pontuação, capitalização ou grafia original.
@@ -120,6 +132,40 @@ Leia o PDF **página por página, de forma rigorosa e sequencial**. Em cada pág
 - Notas de rodapé associadas ao mesmo capítulo ficam em `"notas"`, com chaves no padrão `fn<num_capítulo>_<sequencial>` (ex: `fn3_1`, `fn3_2`).
 - Revisão interna obrigatória antes de salvar: verifique que toda chave de `"nota"` em versículos tem correspondente em `"notas"`, e que nenhum versículo foi omitido.
 - Confirme ainda que **somente** capítulos dentro do intervalo definido no Passo 2 estão presentes no resultado.
+
+---
+
+## PASSO 4.5 — Gerar PDFs por capítulo
+
+Com base na tabela de páginas montada no Passo 4, execute o script `extrair-capitulos.js` para gerar um PDF por capítulo.
+
+### 4.5a. Montar o comando
+Formate os dados da tabela como tokens `cap:inicio:fim` e construa o comando:
+
+```
+node extrair-capitulos.js <caminho-do-pdf-fonte> <livro-id> <cap1:inicio1:fim1> <cap2:inicio2:fim2> ...
+```
+
+Exemplo para os Salmos capítulos 1–3:
+```
+node extrair-capitulos.js .pdfs/salmos.pdf salmos 1:3:5 2:6:8 3:9:12
+```
+
+- `<caminho-do-pdf-fonte>` — caminho do PDF de trabalho definido no Passo 1 (relativo à raiz do projeto)
+- `<livro-id>` — o campo `id` do livro (ex: `salmos`, `mateus`)
+- Os tokens `cap:inicio:fim` usam os números de página **do PDF de entrada** (1-based, inclusivos)
+
+### 4.5b. Executar e confirmar
+- Execute o comando no terminal (pasta raiz do projeto)
+- Confirme que cada arquivo `.pdfs/<livro-id>/cap-N.pdf` foi criado com sucesso
+- Se o script reportar algum erro ou aviso (`!`), registre os capítulos afetados no relatório de revisão
+
+### 4.5c. Adicionar campo `"pdf"` ao JSON
+- Para cada capítulo gerado com sucesso, adicione o campo `"pdf"` no objeto do capítulo:
+  ```json
+  "pdf": ".pdfs/<livro-id>/cap-N.pdf"
+  ```
+- Se a extração de um capítulo falhar, **não adicione o campo `"pdf"`** nesse capítulo e registre no relatório — isso não deve bloquear o salvamento do JSON
 
 ---
 
@@ -142,10 +188,13 @@ Leia o PDF **página por página, de forma rigorosa e sequencial**. Em cada pág
 {
   "num": 1,
   "sumario": "Frase descritiva em itálico do início do capítulo.",
+  "pdf": ".pdfs/<livro-id>/cap-1.pdf",
   "versiculos": [],
   "notas": {}
 }
 ```
+
+O campo `"pdf"` é gerado automaticamente no Passo 4.5 e é **opcional** — sua ausência não quebra o visualizador.
 
 ### Tipos de versículo
 

@@ -318,6 +318,74 @@
     padding: 10px 0;
   }
 
+  /* ── Botão Ver original ── */
+  .ver-original-btn {
+    display: inline-block;
+    margin-top: 6px;
+    color: #00c;
+    background: none;
+    border: none;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 12.5px;
+    cursor: pointer;
+    padding: 0;
+    text-decoration: none;
+  }
+  .ver-original-btn:hover { text-decoration: underline; }
+
+  /* ── Drawer de PDF original ── */
+  #pdf-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: min(50vw, 720px);
+    min-width: 320px;
+    height: 100vh;
+    background: #fff;
+    border-left: 1px solid #888;
+    box-shadow: -4px 0 18px rgba(0,0,0,0.18);
+    z-index: 300;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(100%);
+    transition: transform 0.25s ease;
+  }
+
+  #pdf-panel.open { transform: translateX(0); }
+
+  #pdf-panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+    border-bottom: 1px solid #ccc;
+    font-size: 13px;
+    flex-shrink: 0;
+  }
+
+  #pdf-panel-header span { color: #555; font-style: italic; }
+
+  #pdf-panel-close {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: #555;
+    line-height: 1;
+    padding: 2px 4px;
+  }
+  #pdf-panel-close:hover { color: #000; }
+
+  #pdf-frame {
+    flex: 1;
+    border: none;
+    width: 100%;
+  }
+
+  @media (max-width: 700px) {
+    #pdf-panel { width: 100vw; min-width: unset; }
+  }
+
   /* ── Book selector overlay ── */
   #book-selector {
     display: none;
@@ -480,11 +548,20 @@
 <!-- ════════════════════════════════════════ BOOK SELECTOR -->
 <div id="book-selector" onclick="closeBooksOverlay(event)">
   <div id="book-panel">
-    <h2>Selecionar Livro <button class="close-btn" onclick="closeBooks()">✕</button></h2>
+    <h2>Selecionar Livro <button class="close-btn" onclick="closeBooks()">&#x2715;</button></h2>
     <div id="book-list-content">
       <p class="loading-msg">Carregando lista de livros…</p>
     </div>
   </div>
+</div>
+
+<!-- ════════════════════════════════════════════ DRAWER PDF ORIGINAL -->
+<div id="pdf-panel">
+  <div id="pdf-panel-header">
+    <span>&#128196; Original</span>
+    <button id="pdf-panel-close" onclick="closePdfPanel()" title="Fechar">&#x2715;</button>
+  </div>
+  <iframe id="pdf-frame" src="" title="PDF original"></iframe>
 </div>
 
 <script>
@@ -633,10 +710,15 @@ function renderChapter(book, chNum, targetId) {
     return `<p class="verse" data-v="${item.n}"><span class="vnum"><a name="v${item.n}">${item.n}</a></span>${item.texto}${fnHtml}</p>`;
   }).join('\n');
 
+  const pdfBtn = ch.pdf
+    ? `<button class="ver-original-btn" onclick="openPdfPanel('${ch.pdf}')">&#128196; Ver original</button>`
+    : '';
+
   document.getElementById(targetId).innerHTML = `
     <div class="chapter-header">
       <h1>Capítulo ${ch.num}</h1>
       <div class="summary">${ch.sumario}</div>
+      ${pdfBtn}
     </div>
     <hr class="section-rule">
     ${lines}
@@ -676,9 +758,13 @@ function renderCompareGrid(primaryBook, compareBook, chNum) {
   const makeHeaderCell = (ed, ch) => {
     const div = document.createElement('div');
     div.className = 'cg-cell cg-header-cell';
+    const pdfBtn = ch.pdf
+      ? `<button class="ver-original-btn" onclick="openPdfPanel('${ch.pdf}')">&#128196; Ver original</button>`
+      : '';
     div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
       + `<div class="cg-chapter-title">Capítulo ${ch.num}</div>`
-      + `<div class="cg-summary-text">${ch.sumario}</div>`;
+      + `<div class="cg-summary-text">${ch.sumario}</div>`
+      + pdfBtn;
     return div;
   };
 
@@ -983,6 +1069,30 @@ function closePopup(e) {
 
 document.addEventListener('click', () => {
   if (activePopup) { activePopup.classList.remove('active'); activePopup = null; }
+});
+
+// ══════════════════════════════════════════════════════════════
+//  DRAWER PDF ORIGINAL
+// ══════════════════════════════════════════════════════════════
+
+function openPdfPanel(url) {
+  const frame = document.getElementById('pdf-frame');
+  const panel = document.getElementById('pdf-panel');
+  frame.src = url;
+  panel.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closePdfPanel() {
+  const panel = document.getElementById('pdf-panel');
+  panel.classList.remove('open');
+  document.body.style.overflow = '';
+  // limpa o src para interromper carregamento se ainda em progresso
+  setTimeout(() => { document.getElementById('pdf-frame').src = ''; }, 300);
+}
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closePdfPanel();
 });
 
 // ══════════════════════════════════════════════════════════════
