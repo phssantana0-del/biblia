@@ -1,0 +1,58 @@
+{
+  "num": 6,
+  "sumario": "Como havemos de dar a esmola, e como havemos de orar. Do bom espírito do jejum. Que não devemos ajuntar tesouros, senão no Céu. Que o nosso ôlho deve ser simples. Que não podemos servir a dois senhores. Que não devemos inquietar-nos pelo que havemos de comer, ou vestir, ou pelo que há-de ser de nós.",
+  "versiculos": [
+    { "n": 1,  "texto": "Guardai-vos, não façais as vossas boas obras diante dos homens, com o fim de serdes vistos por êles: Doutra sorte não tereis a recompensa da mão de vosso Pai, que está nos Céus.", "nota": "fn6_1" },
+    { "n": 2,  "texto": "Quando pois dás a esmola, não faças tocar a trombeta diante de ti, como praticam os hipócritas nas Sinagogas, e nas ruas, para serem honrados dos homens: Em verdade vos digo, que êles já receberam a sua recompensa." },
+    { "n": 3,  "texto": "Mas quando dás a esmola, não saiba a tua esquerda o que faz a tua direita:" },
+    { "n": 4,  "texto": "Para que a tua esmola fique escondida, e teu Pai, que vê o que tu fazes em secreto, ta pagará." },
+    { "n": 5,  "texto": "E quando orais, não haveis de ser como os hipócritas, que gostam de orar em pé nas Sinagogas, e nos cantos das ruas, para serem vistos dos homens: Em verdade vos digo, que êles já receberam a sua recompensa." },
+    { "n": 6,  "texto": "Mas tu quando orares, entra no teu aposento, e, fechada a porta, ora a teu Pai em secreto: E teu Pai, que vê o que se passa em secreto, te dará a paga.", "nota": "fn6_2" },
+    { "n": 7,  "texto": "E quando orais não faleis muito, como os gentios: Pois cuidam que pelo seu muito falar serão ouvidos." },
+    { "n": 8,  "texto": "Não queirais portanto parecer-vos com êles: Porque vosso Pai sabe o que vos é necessário, primeiro que vós lh'o peçais." },
+    { "n": 9,  "texto": "Assim pois é que vós haveis de orar: Padre nosso que estais nos Céus: Santificado seja o vosso nome." },
+    { "n": 10, "texto": "Venha a nós o vosso reino. Seja feita a vossa vontade, assim na terra, como no céu." },
+    { "n": 11, "texto": "O pão nosso, necessário à nossa subsistência, nos dai hoje.", "nota": "fn6_3" },
+    { "n": 12, "texto": "E perdoai as nossas dívidas, assim como nós também perdoamos aos nossos devedores." },
+    { "n": 13, "texto": "E não nos deixeis cair em tentação. Mas livrai-nos do mal, amém." },
+    { "n": 14, "texto": "Porque se vós perdoardes aos homens as ofensas que tendes dêles: Também vosso Pai celestial, vos perdoará os vossos pecados." },
+    { "n": 15, "texto": "Mas se não perdoardes aos homens: Tampouco vosso Pai vos perdoará os vossos pecados." },
+    { "n": 16, "texto": "E quando jejuais, não vos ponhais tristes como os hipócritas: Porque êles desfiguram os seus rostos, para fazer ver aos homens, que jejuam. Na verdade vos digo, que já receberam a sua recompensa." },
+    { "n": 17, "texto": "Mas tu, quando jejuas, unge a tua cabeça, e lava o teu rosto." },
+    { "n": 18, "texto": "A fim de que não pareças aos homens que jejuas, mas somente a teu Pai que está presente a tudo o que há de mais secreto; E teu Pai que vê o que se passa em secreto te dará a paga." },
+    { "n": 19, "texto": "Não queirais entesourar para vós tesouros na terra: Onde a ferrugem, e a traça os consome: E onde os ladrões os desenterram, e roubam." },
+    { "n": 20, "texto": "Mas entesourai para vós tesouros no Céu: Onde não os consome a ferrugem, nem a traça, e onde os ladrões não os desenterram, nem roubam." },
+    { "n": 21, "texto": "Porque onde está o teu tesouro, aí está também o teu coração." },
+    { "n": 22, "texto": "E teu ôlho é a luz do teu corpo. Se o teu ôlho fôr simples: Todo o teu corpo será luminoso.", "nota": "fn6_4" },
+    { "n": 23, "texto": "Mas se o teu ôlho for mau: Todo o teu corpo estará em trevas. Se pois a luz, que em ti há, são trevas: Quão grandes não serão essas mesmas trevas?" },
+    { "n": 24, "texto": "Ninguém pode servir a dois senhores: ou há de aborrecer um, e amar outro: Ou há de acomodar-se a êste, e desprezar aquêle. Não podeis servir a Deus, e às riquezas." },
+    { "n": 25, "texto": "Portanto vos digo, não andeis cuidadosos da vossa vida, que comereis, nem para o vosso corpo, que vestireis. Não é mais a alma que a comida? E o corpo mais que o vestido?" },
+    { "n": 26, "texto": "Olhai para as aves do Céu, que não semeiam, nem segam, nem fazem provimentos nos celeiros: E contudo vosso Pai celestial as sustenta. Porventura não sois vós muito mais do que elas?" },
+    { "n": 27, "texto": "E qual de vós discorrendo pode acrescentar um côvado à sua estatura?" },
+    { "n": 28, "texto": "E por que andais vós solícitos pelo vestido? Considerai como crescem os lírios do campo: Êles não trabalham, nem fiam." },
+    { "n": 29, "texto": "Digo-vos mais, que nem Salomão em tôda a sua glória se cobriu jamais como um dêstes." },
+    { "n": 30, "texto": "Pois se ao feno do campo, que hoje é, e amanhã é lançado no forno, Deus veste assim: Quanto mais a vós, homens de pouca fé?" },
+    { "n": 31, "texto": "Não vos aflijais pois, dizendo: Que comeremos, ou que beberemos, ou com que nos cobriremos?" },
+    { "n": 32, "texto": "Porque os gentios é que se cansam por estas coisas. Porquanto vosso Pai sabe que tendes necessidade de todas elas." },
+    { "n": 33, "texto": "Buscai pois primeiramente o reino de Deus, e a sua justiça: E tôdas estas coisas se vos acrescentarão." },
+    { "n": 34, "texto": "E assim não andeis inquietos pelo dia de amanhã. Porque o dia de amanhã a si mesmo trará seu cuidado: Ao dia basta a sua própria aflição." }
+  ],
+  "notas": {
+    "fn6_1": {
+      "rotulo": "Guardai-vos",
+      "texto": "GUARDAI-VOS — Condena-se aqui a hipocrisia e a vaidade na prática das obras meritórias."
+    },
+    "fn6_2": {
+      "rotulo": "no teu aposento",
+      "texto": "ENTRA NO TEU APOSENTO — Jesus Cristo não proíbe as ações públicas, que se fazem nas assembléias dos fiéis, pois que êle mesmo diz que estará no meio de dois ou três que se reunam para orar em seu nome, mas quer que nas orações particulares e de simples devoção cada um se retire para rezar com mais recolhimento e evitar qualquer ostentação. Também não condena as longas súplicas, pois orou de dia e de noite; protesta unicamente contra o abuso que cometiam os judeus imitando os pagãos, que julgavam tornar os deuses propícios falando muito durante a oração."
+    },
+    "fn6_3": {
+      "rotulo": "necessário à nossa subsistência",
+      "texto": "NECESSÁRIO À NOSSA SUBSISTÊNCIA — Seguimos a tradução de Glaire: Donnez-nous aujourd'hui le pain nécessaire à notre subsistance, 19-2."
+    },
+    "fn6_4": {
+      "rotulo": "o teu ôlho",
+      "texto": "O TEU ÔLHO — Pelo ôlho entende Santo Agostinho, com êle Santo Izidoro, a intenção com que obramos; pelo corpo as obras que fazemos. E chama-se ôlho simples o que é de todo puro e limpo."
+    }
+  }
+}

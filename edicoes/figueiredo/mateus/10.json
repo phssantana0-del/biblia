@@ -1,0 +1,102 @@
+{
+  "num": 10,
+  "sumario": "Envia Jesus Cristo os doze discípulos a pregar, instrui-os. Descrevem-se os seus nomes. Exorta-os a padecer e sofrer. Diz-lhes que não viera ao mundo trazer paz, mas trazer guerra. Que é necessário confessá-lo diante dos homens, e prezar mais do que tudo o seu nome. Que o que honra aos seus servos, a êle honra e dêle terá a recompensa.",
+  "versiculos": [
+    { "n": 1,  "texto": "Então, convocados os seus doze discípulos, deu-lhes Jesus poder sôbre os espíritos imundos, para os expelir, e para curar tôdas as doenças, e tôdas as enfermidades." },
+    { "n": 2,  "texto": "Ora os nomes dos doze Apóstolos são êstes: O primeiro, Simão, que se chama Pedro, e André seu irmão." },
+    { "n": 3,  "texto": "Tiago, filho de Zebedeu, e João seu irmão, Filipe, e Bartolomeu, Tomé, e Mateus, o Publicano, Tiago, filho de Alfeu e Tadeu.", "nota": "fn10_1" },
+    { "n": 4,  "texto": "Simão Cananeu e Judas Iscariotes, que foi o que o entregou.", "nota": "fn10_2" },
+    { "n": 5,  "texto": "A êstes doze enviou Jesus, dando-lhes estas instruções, dizendo: Não ireis caminho de gentios, nem entrareis nas cidades dos samaritanos." },
+    { "n": 6,  "texto": "Mas ide antes às ovelhas, que pereceram da casa de Israel." },
+    { "n": 7,  "texto": "E pondo-vos a caminho pregai, dizendo: Que está próximo o reino dos Céus:" },
+    { "n": 8,  "texto": "Curai os enfermos, ressuscitai os mortos, limpai os leprosos, expeli os demônios: Dai de graça o que de graça recebestes." },
+    { "n": 9,  "texto": "Não possuais ouro, nem prata, nem tragais dinheiro nas vossas cintas:" },
+    { "n": 10, "texto": "Nem alforje para o caminho, nem duas túnicas, nem calçado, nem bordão; porque digno é o trabalhador do seu alimento.", "nota": "fn10_3" },
+    { "n": 11, "texto": "E em qualquer cidade, ou aldeia, em que entrardes, informai-vos de quem há nela digno: E ficai aí até que vos retireis.", "nota": "fn10_4" },
+    { "n": 12, "texto": "E ao entrardes na casa, saudai-a, dizendo: Paz seja nesta casa." },
+    { "n": 13, "texto": "E se aquela casa na realidade o merecer, virá sôbre ela a vossa paz: E se o não merecer, tornará para vós a vossa paz." },
+    { "n": 14, "texto": "Sucedendo não vos querer alguém em casa, nem ouvir o que dizeis: Ao sair para fora de casa, ou da cidade, sacudi o pó de vossos pés." },
+    { "n": 15, "texto": "Em verdade vos afirmo isto: Menos rigor experimentará no dia do Juízo a terra de Sodoma, e de Gomorra, do que aquela cidade." },
+    { "n": 16, "texto": "Vêde que eu vos mando como ovelhas no meio de lôbos. Sêde logo prudentes como as serpentes, e simples como as pombas." },
+    { "n": 17, "texto": "Mas guardai-vos dos homens; Porque êles vos farão comparecer nos seus juízos; e vos farão açoutar nas suas sinagogas:", "nota": "fn10_5" },
+    { "n": 18, "texto": "E vós sereis levados por meu respeito à presença dos governadores, e dos reis, para lhes servirdes a êles, e aos gentios de testemunho.", "nota": "fn10_6" },
+    { "n": 19, "texto": "E quando vos levarem, não cuideis como ou o que haveis de falar: Porque naquela hora vos será inspirado o que haveis de dizer:", "nota": "fn10_7" },
+    { "n": 20, "texto": "Porque não sois vós os que falais, mas o espírito de vosso Pai é o que falará em vós." },
+    { "n": 21, "texto": "E um irmão entregará à morte a outro irmão, e o pai ao filho: E os filhos se levantarão contra os pais, e lhes darão a morte:", "nota": "fn10_8" },
+    { "n": 22, "texto": "E vós por causa do meu nome sereis o ódio de todos: Aquele porém que perseverar até ao fim, êsse é o que será salvo." },
+    { "n": 23, "texto": "Quando porém vos perseguirem numa cidade, fugi para outra. Em verdade vos afirmo, que não acabareis de correr as cidades de Israel, sem que venha o Filho do homem." },
+    { "n": 24, "texto": "Não é o discípulo mais que seu mestre, nem o servo mais que seu senhor." },
+    { "n": 25, "texto": "Basta ao discípulo ser como seu mestre: E ao servo como seu senhor. Se êles chamaram Belzebu ao pai de família: Quanto mais aos seus domésticos?" },
+    { "n": 26, "texto": "Pois não os temais: Porque nada há encoberto, que se não venha a descobrir: Nem oculto, que se não venha a saber." },
+    { "n": 27, "texto": "O que eu vos digo às escuras, dizei-o às claras: E o que se vos diz ao ouvido, publicai-o dos telhados.", "nota": "fn10_9" },
+    { "n": 28, "texto": "E não temais aos que matam o corpo, e não podem matar a alma: Temei antes porém ao que pode lançar no inferno tanto a alma como o corpo." },
+    { "n": 29, "texto": "Porventura não se vendem dois passarinhos por um asse: E um dêles não cairá sôbre a terra sem vosso Pai?", "nota": "fn10_10" },
+    { "n": 30, "texto": "E até os mesmos cabelos da vossa cabeça todos êles estão contados." },
+    { "n": 31, "texto": "Não temais pois: Que mais valeis vós que muitos pássaros." },
+    { "n": 32, "texto": "Todo aquele pois que me confessar diante dos homens, também eu o confessarei diante do meu Pai que está nos Céus:" },
+    { "n": 33, "texto": "E o que me negar diante dos homens, também eu o negarei diante do meu Pai que está nos Céus." },
+    { "n": 34, "texto": "Não julgueis que vim trazer paz à terra: Não vim trazer-lhe paz mas espada:", "nota": "fn10_11" },
+    { "n": 35, "texto": "Porque vim a separar ao homem contra o seu pai, e a filha contra sua mãe, e a nora contra sua sogra:", "nota": "fn10_12" },
+    { "n": 36, "texto": "E os inimigos do homem serão os seus mesmos domésticos." },
+    { "n": 37, "texto": "O que ama o pai, ou a mãe mais do que a mim, não é digno de mim. E o que ama o filho ou a filha mais do que a mim, não é digno de mim." },
+    { "n": 38, "texto": "E o que não toma a sua cruz, e não me segue, não é digno de mim." },
+    { "n": 39, "texto": "O que acha a sua alma, perdê-la-á: E o que perder a sua alma por mim, achá-la-á.", "nota": "fn10_13" },
+    { "n": 40, "texto": "O que a vós vos recebe, a mim me recebe: E o que a mim me recebe, recebe aquêle que me enviou." },
+    { "n": 41, "texto": "O que recebe um profeta na qualidade de profeta, receberá a recompensa de profeta: E o que recebe um justo na qualidade de justo, receberá a recompensa de justo." },
+    { "n": 42, "texto": "E todo o que der a beber a um daqueles pequeninos um copo dágua fria, só pela razão de ser meu discípulo, na verdade vos digo, que não perderá a sua recompensa." }
+  ],
+  "notas": {
+    "fn10_1": {
+      "rotulo": "Tiago",
+      "texto": "TIAGO — Em latim Jacob: pelo princípio de menor esfôrço começou a pronunciar-se na península hispânica Iago, precedido do Sant, vindo daí Sant'Iago e por corrupção inaceitável e injustificável Tiago, ou Thiago, como vulgarmente se diz e escreve, formando uma palavra só da abreviatura de Sant e do Iago. Dever-se-ia escrever T'Iago. (Nota do editor: — Seguindo o critério ortográfico adotado nesta edição, estamos exatamente usando a grafia Tiago)."
+    },
+    "fn10_2": {
+      "rotulo": "Iscariotes",
+      "texto": "ISCARIOTES — Assim chamado, talvez por ser do lugar de Carioth, da tribo de Judá, de que se faz menção no livro de Jos 15, 25."
+    },
+    "fn10_3": {
+      "rotulo": "digno é o trabalhador",
+      "texto": "PORQUE DIGNO É O TRABALHADOR — Daqui se colhe, estarem os fiéis obrigados por Direito Divino a sustentar os ministros do evangelho, que são os seus pastores, devendo porém êstes ministrar os socorros espirituais, o ensino, e todos os deveres do seu Santo Ministério, tendo em vista o máximo desinterêsse e abnegação. Dêste texto também se deduz a Lei da Igreja que não permite aos curas de almas que capitalizem o que auferem da sua chamada côngua, cumprindo-lhes restituir aos pobres o que fôr desnecessário à sua decente sustentação."
+    },
+    "fn10_4": {
+      "rotulo": "digno",
+      "texto": "DIGNO — Isto é, de vos hospedar."
+    },
+    "fn10_5": {
+      "rotulo": "açoutar nas suas sinagogas",
+      "texto": "FARÃO AÇOUTAR NAS SUAS SINAGOGAS — Profetiza aqui Jesus Cristo as perseguições que sofreriam os Apóstolos e os que seguissem e pregassem a sua doutrina. A perseguição da Sinagoga começou bem depressa, sendo o protomártir S. Estêvão."
+    },
+    "fn10_6": {
+      "rotulo": "governadores, e dos reis",
+      "texto": "GOVERNADORES E REIS — Assim sucedeu dentro e fora do império romano, e ainda hoje sucede, pois as perseguições continuam, como por todos é sabido."
+    },
+    "fn10_7": {
+      "rotulo": "naquela hora vos será inspirado",
+      "texto": "PORQUE NAQUELA HORA VOS SERÁ INSPIRADO — Jesus Cristo promete aqui o dom de inspiração e assistência de auxílios e graças especiais, e só por estas se pode explicar a constância admirável, a firmeza heroica, a paciência sobrenatural que ostentavam os mártires do cristianismo, no meio das perseguições mais acerbas, e dos tormentos mais requintados."
+    },
+    "fn10_8": {
+      "rotulo": "um irmão entregará à morte",
+      "texto": "E UM IRMÃO ENTREGARÁ A MORTE A OUTRO IRMÃO — Foi frequente durante as perseguições ver os pais acusarem e martirizarem os filhos, os irmãos, as irmãs, etc., como sucedeu a Santa Bárbara, etc."
+    },
+    "fn10_9": {
+      "rotulo": "publicai-o dos telhados",
+      "texto": "PUBLICAI-O DOS TELHADOS — É um hebraísmo com que se queria significar que se devia dar publicidade aos ensinamentos ministrados por Jesus. Os tetos das casas dos judeus são em forma de terraço, para o qual dava acesso uma escada exterior. Neste terraço liam, isolavam-se, ensinavam, instruíam, recebiam os seus hóspedes, etc."
+    },
+    "fn10_10": {
+      "rotulo": "por um asse",
+      "texto": "UM ASSE — Moeda insignificante; parece mais ou menos os nossos dez réis.<br><br>SEM VOSSO PAI — Isto é, sem a vontade, sem a ordem do vosso Pai. Jesus Cristo quer fazer entender aos seus Apóstolos, que estão sob a proteção especial do Pai Celeste, e que, por consequência, não se deve arrecear dos homens."
+    },
+    "fn10_11": {
+      "rotulo": "trazer espada",
+      "texto": "MAS ESPADA — Espada contra o mal, contra a injustiça, contra o êrro, contra o pecado e contra o inferno; porque o Evangelho, que é a Luz, não transija com as trevas, porque é a liberdade, não transija com a tirania."
+    },
+    "fn10_12": {
+      "rotulo": "contra o seu pai",
+      "texto": "CONTRA O SEU PAI — É a explicação do versículo anterior; promulgando-se a intransigência contra o mal."
+    },
+    "fn10_13": {
+      "rotulo": "o que acha a sua alma",
+      "texto": "O QUE ACHA A SUA ALMA — Aquele que ao tempo da confissão do meu nome na presença dos perseguidores, me nega por salvar a sua vida, perderá a sua alma; e ao contrário salvará esta o que por aquela causa perder a vida. A expressão alma designa pessoa; a vida, ela; e os bens do mundo."
+    }
+  }
+}

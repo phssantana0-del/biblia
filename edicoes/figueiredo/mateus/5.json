@@ -1,0 +1,116 @@
+{
+  "num": 5,
+  "sumario": "Sermão das oito Bem-aventuranças, pregado no monte. Os Apóstolos, sal da terra, e luz do mundo. Jesus Cristo vindo ao mundo, não para destruir a Lei, mas para a aperfeiçoar. Que nos não devemos irar contra o próximo, mas ir buscá-lo quando êle está queixoso de nós. Que se não deve olhar para a mulher com olhos impúdicos. Que devemos cortar por tudo o que nos pode servir de ocasião de ruína espiritual. Que a troco de se não violar a caridade fraterna devemos estar feitos a tudo deixar, e a tudo sofrer. Que devemos amar, e fazer bem a nossos inimigos.",
+  "versiculos": [
+    { "n": 1,  "texto": "E vendo Jesus a grande multidão do povo, subiu a um monte, e depois de se ter sentado, se chegaram para o pé dêle os seus discípulos." },
+    { "n": 2,  "texto": "E êle abrindo a sua bôca os ensinava dizendo:", "nota": "fn5_1" },
+    { "n": 3,  "texto": "Bem-aventurados os pobres de espírito: Porque dêles é o reino dos Céus.", "nota": "fn5_2" },
+    { "n": 4,  "texto": "Bem-aventurados os mansos: Porque êles possuirão a terra.", "nota": "fn5_3" },
+    { "n": 5,  "texto": "Bem-aventurados os que choram: Porque êles serão consolados.", "nota": "fn5_4" },
+    { "n": 6,  "texto": "Bem-aventurados os que têm fome, e sêde de justiça: Porque êles serão fartos.", "nota": "fn5_5" },
+    { "n": 7,  "texto": "Bem-aventurados os misericordiosos: Porque êles alcançarão misericórdia.", "nota": "fn5_6" },
+    { "n": 8,  "texto": "Bem-aventurados os limpos de coração: Porque êles verão a Deus.", "nota": "fn5_7" },
+    { "n": 9,  "texto": "Bem-aventurados os pacíficos: Porque êles serão chamados filhos de Deus.", "nota": "fn5_8" },
+    { "n": 10, "texto": "Bem-aventurados os que padecem perseguição por amor da justiça: Porque dêles é o reino dos Céus.", "nota": "fn5_9" },
+    { "n": 11, "texto": "Bem-aventurados sois, quando vos injuriarem, e vos perseguirem, e disserem todo o mal contra vós, mentindo, por meu respeito:" },
+    { "n": 12, "texto": "Folgai, e exultai, porque o vosso galardão é copioso nos Céus: Pois assim também perseguiram os profetas que foram antes de vós." },
+    { "n": 13, "texto": "Vós sois o sal da terra. E se o sal perder a sua fôrça, com que outra coisa se há de salgar? para nenhuma coisa mais fica servindo, senão para se lançar fora e ser pisado dos homens.", "nota": "fn5_10" },
+    { "n": 14, "texto": "Vós sois a luz do mundo. Não pode esconder-se uma cidade que está situada sôbre um monte:", "nota": "fn5_11" },
+    { "n": 15, "texto": "Nem os que acendem uma luzerna a metem debaixo do alqueire, mas põem-na sôbre o candeleiro, a fim de que ela dê luz a todos os que estão na casa." },
+    { "n": 16, "texto": "Assim luza a vossa luz diante dos homens: Que êles vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos Céus.", "nota": "fn5_12" },
+    { "n": 17, "texto": "Não julgueis que vim destruir a lei, ou os profetas: Não vim a destruí-los, mas sim a dar-lhes cumprimento." },
+    { "n": 18, "texto": "Porque em verdade vos afirmo, que enquanto não passar o Céu e a terra, não passará da lei um só i, ou um til, sem que tudo seja cumprido." },
+    { "n": 19, "texto": "Aquêle pois que quebrar um dêstes mínimos mandamentos, e que ensinar assim aos homens, será chamado mui pequeno no reino dos Céus: Mas o que os guardar, e ensinar a guardá-los, êsse será reputado grande no reino dos Céus." },
+    { "n": 20, "texto": "Porque eu vos digo, que se a vossa justiça não for maior e mais perfeita do que a dos escribas, e a dos fariseus, não entrareis no reino dos Céus." },
+    { "n": 21, "texto": "Ouvistes que foi dito aos antigos: Não matarás: E quem matar será réu no Juízo.", "nota": "fn5_13" },
+    { "n": 22, "texto": "Pois eu digo-vos: Que todo o que se ira contra seu irmão, será réu no juízo. E o que disser a seu irmão: Raca, será réu no conselho: E o que lhe disser: És um tolo, será réu do fogo do inferno.", "nota": "fn5_14" },
+    { "n": 23, "texto": "Portanto, se tu estás fazendo a tua oferta diante do altar, e te lembrar aí que teu irmão tem contra ti alguma coisa:" },
+    { "n": 24, "texto": "Deixa ali a tua oferta diante do altar e vai-te reconciliar primeiro com teu irmão: E depois virás fazer a tua oferta." },
+    { "n": 25, "texto": "Concerta-te sem demora com o teu adversário, enquanto estás pôsto a caminho com êle: Para que não suceda que êle adversário te entregue ao juiz, e que o juiz te entregue ao seu ministro: E sejas mandado para a cadeia." },
+    { "n": 26, "texto": "Em verdade te digo, que não sairás de lá, até não pagares o último ceitil." },
+    { "n": 27, "texto": "Ouvistes que foi dito aos antigos: Não adulterarás." },
+    { "n": 28, "texto": "Eu porém digo-vos: Que todo o que olhar para uma mulher cobiçando-a, já no seu coração adulterou com ela." },
+    { "n": 29, "texto": "E se o teu ôlho direito te serve de escândalo, arranca-o, e lança-o fora de ti: Porque melhor te é que se perca um de teus membros, do que todo o teu corpo seja lançado no inferno." },
+    { "n": 30, "texto": "E se a tua mão direita te serve de escândalo, corta-a e lança-a fora de ti: Porque melhor te é que se perca um de teus membros, do que todo o teu corpo vá para o inferno." },
+    { "n": 31, "texto": "Também foi dito: Qualquer que se desquitar de sua mulher, dê-lhe carta de repúdio." },
+    { "n": 32, "texto": "Mas eu vos digo: Que todo o que repudiar a sua mulher, a não ser por causa de fornicação, a faz ser adúltera: E o que tomar repudiada, comete adultério." },
+    { "n": 33, "texto": "Igualmente ouvistes que foi dito aos antigos: Não jurarás falso: Mas cumprirás ao Senhor os teus juramentos." },
+    { "n": 34, "texto": "Eu porém vos digo, que absolutamente não jureis, nem pelo Céu, porque é o trono de Deus:" },
+    { "n": 35, "texto": "Nem pela terra, porque é o assento de seus pés: Nem por Jerusalém, porque é a cidade do grande rei:" },
+    { "n": 36, "texto": "Nem jurarás pela tua cabeça, pois não podes fazer que um cabelo teu seja branco ou negro." },
+    { "n": 37, "texto": "Mas seja o vosso falar, sim, sim: Não, não: Porque tudo o que daqui passa, procede do mal." },
+    { "n": 38, "texto": "Vós tendes ouvido o que se disse: Ôlho por ôlho, e dente por dente." },
+    { "n": 39, "texto": "Eu porém digo-vos, que não resistais ao que vos fizer mal: Mas se alguém te ferir na tua face direita oferece-lhe também a outra:" },
+    { "n": 40, "texto": "E ao que quer demandar-te em juízo, e tirar-te a tua túnica, larga-lhe também a capa:" },
+    { "n": 41, "texto": "E se qualquer te obrigar a ir carregado mil passos, vai com êle ainda mais outros dois mil." },
+    { "n": 42, "texto": "Dá a quem te pede, e não voltes as costas ao que deseja que lhe emprestes." },
+    { "n": 43, "texto": "Tendes ouvido que foi dito: Amarás ao teu próximo, e aborrecerás a teu inimigo." },
+    { "n": 44, "texto": "Mas eu vos digo: Amai a vossos inimigos, fazei bem aos que vos têm ódio: E orai pelos que vos perseguem e caluniam:" },
+    { "n": 45, "texto": "Para serdes filhos de vosso Pai, que está nos Céus, o qual faz nascer o seu sol sôbre bons e maus: E vir chuva sôbre justos e injustos." },
+    { "n": 46, "texto": "Porque se vós não amais senão os que vos amam, que recompensa haveis de ter? não fazem os publicanos também o mesmo?", "nota": "fn5_15" },
+    { "n": 47, "texto": "E se vós saudardes sômente aos vossos irmãos, que fazeis nisso de especial? não fazem também assim os gentios?" },
+    { "n": 48, "texto": "Sêde vós logo perfeitos, como também vosso Pai celestial é perfeito." }
+  ],
+  "notas": {
+    "fn5_1": {
+      "rotulo": "dizendo",
+      "texto": "DIZENDO — Começa aqui a pregação de Jesus Cristo, que durou três anos. O monte em que Jesus fala está situado ao nordeste da cidade de Tiberíades, e é hoje denominado Kurn-Battin, monte das Bem-aventuranças. Tem cinquenta metros acima da planície. Em dias claros, dêste monte avista-se o Tabor para sudoeste; a este o país de Galaad e o lago Tiberíades, e para nordeste o grande Hermon. Êste é de todos os discursos de Cristo que os evangelistas nos conservaram, o mais extenso de todos e o mais completo. Pelo seu objeto e pela sua importância merece de certo uma atenção e um estudo muito particular, pois que o Sermão do Monte — Oratio Montana, é propriamente o Código do Reino Messiânico, ou seja o código do povo cristão. Abrange os capítulos V-VI-VII, formando um todo único, um só discurso seguido, pronunciado numa e mesma ocasião, num e no mesmo lugar e perante os mesmos ouvintes. As partes maiores ou menores dêste discurso estão entre si tão íntima e logicamente ligadas, a sua conexão é tão estreita e natural, que ressalta logo à vista como impossível, que êle possa ser um conjunto, um arranjo arbitrário de sentenças variadas do Divino Mestre. Com os melhores exegetas admitimos que o Sermão do Monte é um só e mesmo discurso, pronunciado pelo Salvador no mesmo lugar, na mesma ocasião e perante as mesmas pessoas. Cfr. Dr. Bisping Exegetisches Handbuch zum Neuen Testament — Münster, 1867."
+    },
+    "fn5_2": {
+      "rotulo": "os pobres de espírito",
+      "texto": "BEM-AVENTURADOS OS POBRES DE ESPÍRITO — Começam aqui as condições ou requisitos dirigidos aos cidadãos do reino Messiânico, sob a forma de sentenças breves e curtas, cada uma das quais, em seu sentido profundo, tem o mesmo valor e significação. São as oito bem-aventuranças ou Macarismos. Na primeira parte de cada uma, ou prótase, enuncia uma virtude cristã, declarando-se bem-aventurado aquêle que possuir ou observar. Na segunda, ou apódose, contém-se o motivo duma bem-aventurança, motivo sempre idêntico — a posse do reino de Deus.<br><br>POBRES DE ESPÍRITO — Convém determinarmos bem o valor desta expressão. Segundo a fôrça do têrmo spiritus, vontade, a expressão pauperes spiritu designa o desprendimento do homem, não só de tudo o que é externo a êle, mas de si próprio; é a oposição formal contrária ao egoísmo. Por isso S. Hilário, S. João Crisóstomo, S. Ambrósio e tantos outros entendem que a pobreza de espírito vale o mesmo que a humildade. Os pobres de espírito são pois os pobres do coração e afeição. Se não têm riquezas e grandezas não as desejam, se as possuem não se prendem a elas. São os que deixam tudo pela vida eterna; são os que nada mais querem do que a graça de Deus, nihil habentes et omnia possidentes. Aqui há uma verdadeira igualdade, uma verdadeira democracia, a democracia da virtude e da santidade, da ordem e da justiça, norteada pela verdade, tendente a unir todos os homens entre si pelos mesmos afetos na terra e reuni-los depois no Céu."
+    },
+    "fn5_3": {
+      "rotulo": "os mansos",
+      "texto": "BEM-AVENTURADOS OS MANSOS — O pensamento enunciado neste versículo é uma dedução legítima da pobreza de espírito ou humildade enunciada no versículo antecedente. A humildade e a mansidão são precisamente a mesma virtude sob dois aspectos diferentes, ou, se se quiser, duas feições duma e da mesma virtude. O homem é humilde em relação a Deus, e é manso, mitis, para com o próximo. Quem reconhece a sua fraqueza perante Deus, é indulgente para com as fraquezas dos seus semelhantes, brando e manso na apreciação das faltas do próximo.<br><br>POSSUIRÃO A TERRA — Esta expressão é equivalente a do versículo antecedente — porque dêles é o reino dos Céus. A expressão grega Kleronomein ten gen corresponde à hebraica nachal iarach et haaretz, que era a fórmula constante por que no Antigo Testamento se designava a posse da terra da Canaã. E Canaã era a terra da promissão, a terra por excelência, o reino messiânico: desta maneira possuirão a terra vale o mesmo do que o reino dos Céus, do qual era tipo a terra de Canaã."
+    },
+    "fn5_4": {
+      "rotulo": "os que choram",
+      "texto": "BEM-AVENTURADOS OS QUE CHORAM — Uns intérpretes entendem os que choram os seus pecados; S. João Crisóstomo, S. Antônio, S. Cirilo; outros os que choram os alheios, como Cristo chorou sôbre Jerusalém; S. Agostinho e S. Gregório de Nissa. Ambas estas interpretações parecem restritas. Atendendo aos antecedentes, e concatenando com a doutrina antecedente, nós podemos explicar por aquêles que choram a fraqueza dos seus recursos, e se afligem com as suas e com as misérias alheias.<br><br>PORQUE ÊLES SERÃO CONSOLADOS — É uma nova forma de designar o reino dos Céus. Esta expressão vale o mesmo que dizer: porque êles serão concidadãos do reino de Deus, ou do reino dos Céus; pois que o reino de Deus é por essência a plenitude da consolação, da alegria e do júbilo."
+    },
+    "fn5_5": {
+      "rotulo": "têm fome, e sêde de justiça",
+      "texto": "BEM-AVENTURADOS OS QUE TÊM FOME E SEDE — Fome e sêde é uma fórmula metafórica muito usada na Sagrada Escritura para designar um desejo ardente, veemente e sincero de alguma coisa.<br><br>DE JUSTIÇA — Esta palavra (dikaiosyne no texto grego) significa a justiça intrínseca, a santidade pessoal, o estado de justo, o que propriamente chamamos justificação. Por isso os exegetas, como S. Ambrósio, S. Jerônimo, S. Bernardo, entendem êste versículo desta sorte: Bem-aventurados aquêles que desejam ardentemente com sinceridade ser santos e justos perante Deus, ou os que anseiam pela sua completa justificação.<br><br>SERÃO FARTOS — É o reino de Deus, onde só podem ter cabal satisfação as aspirações da alma humana, que se representa por esta expressão."
+    },
+    "fn5_6": {
+      "rotulo": "os misericordiosos",
+      "texto": "BEM-AVENTURADOS OS MISERICORDIOSOS — No texto grego está eleémones, os que dão a esmola; Jesus quer que os cidadãos do seu reino sejam dotados dos melhores sentimentos para com os outros, de sentimentos de amor recíproco; mas quer também que êsses sentimentos não sejam estéreis, e que se traduzam em atos de caridade — dêem esmola, e dando-a partilharão duma grande esmola, é a fôrça da expressão eleethésontai, que a Vulgata traduziu misericordiam consequentur — alcançarão misericórdia."
+    },
+    "fn5_7": {
+      "rotulo": "os limpos de coração",
+      "texto": "BEM-AVENTURADOS OS LIMPOS DE CORAÇÃO — A expressão grega katharoi te kardia, mundi corde, correspondente à hebraica 'iches lebi, quer dizer, retidão, pureza de intenções, candura, simplicidade de coração. Hoc est mundum cor, diz S. Agostinho, quod est simplex cor, et quem ad modum lumen hoc videri non potest nisi oculis mundis, ita nec Deus videtur, nisi mundum sit illud quod videri potest.<br><br>VERÃO A DEUS — Possuirão o reino dos Céus, a visão beatífica, a visão de Deus."
+    },
+    "fn5_8": {
+      "rotulo": "os pacíficos",
+      "texto": "BEM-AVENTURADOS OS PACÍFICOS — O têrmo grego eirenepoiós, pacificus, significa o que vive em paz consigo e com os seus semelhantes, o que é amigo da paz e que a promove ou restabelece onde ela não existe ou está quebrada.<br><br>SERÃO CHAMADOS FILHOS DE DEUS — Há aqui dois hebraísmos que é preciso bem entender. A expressão filhos de Deus, segundo o usus loquendi hebraico, significa em geral a semelhança ou conformidade com Deus, de sorte que equivale a imitadores de Deus. O outro hebraísmo está na expressão — serão chamados — vocabuntur: êste modo de dizer equivale a serão. Bisping diz que o têrmo klethesontai quer significar que os pacíficos não são sòmente filhos de Deus, mas como tais serão reconhecidos pelo mundo."
+    },
+    "fn5_9": {
+      "rotulo": "perseguição por amor da justiça",
+      "texto": "BEM-AVENTURADOS OS QUE PADECEM PERSEGUIÇÃO POR AMOR DA JUSTIÇA — O têrmo de justiça é o mesmo que já encontramos no v. 6 dikaíosyne. É a justiça intrínseca, a justificação e santidade íntima e pessoal. E como Jesus Cristo é propriamente a nossa justificação, por isso no versículo 11, que nada mais é que uma explicação dêste, o Salvador não diz — por amor de justiça, — mas sim — por meu respeito — propter me. Aqui diz só padecerem perseguição, nos versículos seguintes especifica três modos de perseguição: a) quando vos carregarem de injúrias; b) quando vos perseguirem; c) quando disserem contra vós falsamente tôda a espécie de mal. Singular reino, sem dúvida, que se firma na humildade, se fortalece na mansidão; avigora-se pela dor das culpas próprias e desgraças alheias; floresce por misericórdia, pela pureza do coração e pelo amor da paz; e robustece-se pelos tormentos e perseguições dêste mundo."
+    },
+    "fn5_10": {
+      "rotulo": "sal da terra",
+      "texto": "VÓS SOIS O SAL DA TERRA — Começa aqui a perícopa que vai até o v. 16, e onde se indicam as autoridades do reino messiânico e se discriminam as suas atribuições. Aqui há uma imagem cujo emprêgo constitui uma das propriedades características da dicção bíblica; esta é uma das mais belas do texto sagrado. Tem o sal duas propriedades por todos conhecidas; evita e destrói a corrupção, tempera os alimentos. Jesus Cristo faz destas propriedades físicas uma aplicação moral. Os Apóstolos devem evitar e destruir a corrupção. E ainda mais: assim como o sal tempera e torna agradáveis os alimentos de que o homem usa, do mesmo modo êles devem temperar as ações do homem por forma, que êste no seu proceder não deslise da lei e do caminho que dirige pela virtude e pelo bem, pela ordem, ao seu último fim, para que seja agradável a Deus. Esta imagem tem alguma relação com a praxe ritual nos sacrifícios do Antigo Testamento. Temperavam-se com sal as vítimas sacrificadas, para serem mais agradáveis a Deus; no reino messiânico, os Apóstolos, e os seus sucessores, Bispos e Presbíteros, devem ser para a humanidade o que o sal era para os alimentos, destruir e evitar a corrupção do pecado, temperar o procedimento dos homens, de modo que os seus atos sejam em tudo agradáveis a Deus e conforme a justiça."
+    },
+    "fn5_11": {
+      "rotulo": "a luz do mundo",
+      "texto": "VÓS SOIS A LUZ DO MUNDO — Depois de lhes ter chamado sal que preserva e depura, Jesus Cristo chama às autoridades de seu reino luz; mas a luz ilumina: também a êles cumpre iluminar os que estão imersos nas densas trevas."
+    },
+    "fn5_12": {
+      "rotulo": "luza a vossa luz",
+      "texto": "ASSIM LUZA A VOSSA LUZ — Compreende não só a luz da verdade evangélica, cuja pregação era a missão principal dos Apóstolos e seus sucessores, mas também o exemplo — o que com maior clareza se manifesta nos têrmos opera vestra bona (as vossas boas obras) ta kala erga. Portanto está aqui indicada a existência das autoridades, que devem preservar do mal, purificar, e ao mesmo tempo iluminar, dirigindo, esclarecendo, e edificando com as suas boas obras, pois são como luzerna colocada no alto do monte. Portanto estas autoridades têm de superintender na moralização da humanidade, por consequência da educação individual e social do homem: e todos os cristãos devem receber esta instrução dessas autoridades, a quem devem respeito e veneração."
+    },
+    "fn5_13": {
+      "rotulo": "réu no Juízo",
+      "texto": "NO JUÍZO — O juízo era provavelmente o tribunal que funcionava em cada cidade, composto por vinte e três juízes. Jesus Cristo quer significar que o ódio, a cólera, o desejo de vingança são tão criminosos aos olhos de Deus, como o homicídio, porque o que vota ódio ao seu irmão, se o não assassina é pelo temor da justiça da terra."
+    },
+    "fn5_14": {
+      "rotulo": "réu no conselho",
+      "texto": "RÉU NO CONSELHO — Era o tribunal soberano composto de setenta e dois membros, que julgava em suprema instância os crimes religiosos e políticos.<br><br>FOGO DO INFERNO — O que está na Vulgata é gehennae ignis, que Glaire traduz geena de fogo. O nosso geena vem de duas palavras hebraicas designando um vale onde outrora queimaram vítimas humanas."
+    },
+    "fn5_15": {
+      "rotulo": "os publicanos",
+      "texto": "OS PUBLICANOS — Eram os que tinham a seu cargo os tributos e impostos. Pompeu, havendo subjugado aos judeus, sessenta anos antes com pouca diferença da vinda de Cristo, os fez tributários. Os cavalheiros romanos, e outras pessoas consideráveis arrendavam êstes impostos nas províncias, e para cobrá-los nomeavam comissários dos mesmos do país. E êstes comissários nomeavam outros, que eram seus subalternos, e lhes estavam subordinados. Do número dos primeiros parece que foi Zaqueu. Lc 19, 2, e S. Mateus dos segundos. Mt 9, 9. Estavam em muita honra entre os romanos, como se vê na oração pro Lege Manilia de Cícero; porém eram tidos por infames entre os Judeus. — Pereira."
+    }
+  }
+}

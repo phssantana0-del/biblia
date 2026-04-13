@@ -1,0 +1,86 @@
+{
+  "num": 9,
+  "sumario": "Sara Jesus Cristo um paralítico. Declara o poder que tem de perdoar pecados. Chama a Mateus. Murmuração dos fariseus, por verem comer o Senhor com os pecadores. Cura uma mulher, que padecia um fluxo de sangue, e ressuscita uma menina. Dá vista a dois cegos, e fala a um endemoninhado mudo.",
+  "versiculos": [
+    { "n": 1,  "texto": "Entrando em uma barca, passou à outra banda, e foi à sua cidade.", "nota": "fn9_1" },
+    { "n": 2,  "texto": "E eis-que lhe apresentaram um paralítico, que jazia em um leito. E vendo Jesus a fé dêles, disse ao paralítico: Filho, tem confiança, perdoados te são teus pecados.", "nota": "fn9_2" },
+    { "n": 3,  "texto": "E logo alguns dos escribas disseram dentro de si: Êste blasfema." },
+    { "n": 4,  "texto": "E como visse Jesus os pensamentos dêles, disse: Por que cogitais mal nos vossos corações?" },
+    { "n": 5,  "texto": "Que coisa é mais fácil dizer: Perdoados te são teus pecados, ou dizer: Levanta-te, e anda?" },
+    { "n": 6,  "texto": "Pois para que saibais que o Filho do homem tem poder sôbre a terra de perdoar pecados, disse êle então ao paralítico: Levanta-te, toma o teu leito, e vai para tua casa." },
+    { "n": 7,  "texto": "E êle se levantou, e foi para sua casa." },
+    { "n": 8,  "texto": "E vendo isto as gentes, temeram, e glorificaram a Deus, que deu tal poder aos homens." },
+    { "n": 9,  "texto": "E passando Jesus dali, viu um homem que estava sentado no Telônio, chamado Mateus. E lhe disse: Segue-me. E levantando-se êle, o seguiu.", "nota": "fn9_3" },
+    { "n": 10, "texto": "E aconteceu que estando Jesus sentado à mesa numa casa, eis-que vindo muitos publicanos, e pecadores, se sentaram a comer com êle, e com os seus discípulos.", "nota": "fn9_4" },
+    { "n": 11, "texto": "E vendo isto os fariseus diziam aos seus discípulos: Por que come o vosso mestre com os publicanos, e pecadores?" },
+    { "n": 12, "texto": "Mas ouvindo-os Jesus, disse: Os sãos não têm necessidade de médico, mas sim os enfermos." },
+    { "n": 13, "texto": "Ide pois e aprendei o que quer dizer: Misericórdia quero, e não sacrifício. Porquanto eu não vim a chamar os justos, mas os pecadores." },
+    { "n": 14, "texto": "Então vieram ter com êle os discípulos de João, dizendo: Qual é a razão por que nós, e os fariseus jejuamos com frequência, e os teus discípulos não jejuam?" },
+    { "n": 15, "texto": "E Jesus lhes disse: Porventura podem estar tristes os filhos do espôso? mas virão dias em que lhes será tirado o espôso: E então êles jejuarão.", "nota": "fn9_5" },
+    { "n": 16, "texto": "E ninguém deita remendo de pano novo em vestido velho: Porque leva quanto alcança do vestido: E se faz maior a ruptura." },
+    { "n": 17, "texto": "Nem deitam vinho novo em odres velhos: De outra maneira rebentam os odres, e se vai o vinho, e se perdem os odres: Mas deitam vinho novo em odres novos: E assim ambas as coisas se conservam.", "nota": "fn9_6" },
+    { "n": 18, "texto": "Dizendo-lhes êle estas coisas, eis-que um príncipe se chegou a êle, e o adorou, dizendo: Senhor, agora acaba de expirar minha filha: Mas vem tu, põe a tua mão sôbre ela, e viverá.", "nota": "fn9_7" },
+    { "n": 19, "texto": "E Jesus levantando-se o foi seguindo com seus discípulos." },
+    { "n": 20, "texto": "E eis-que uma mulher, que havia doze anos padecia um fluxo de sangue, se chegou por detrás dêle, e lhe tocou a ourela do vestido.", "nota": "fn9_8" },
+    { "n": 21, "texto": "Porque ia dizendo dentro de si: Se eu tocar, ainda que seja sòmente o seu vestido, serei curada." },
+    { "n": 22, "texto": "E vultando-se Jesus, e vendo-a, disse: Tem confiança, filha, a tua fé te sarou. E ficou sã a mulher desde aquela hora." },
+    { "n": 23, "texto": "E depois que Jesus chegou à casa daquele príncipe, viu os tocadores de flautas, e uma multidão de gente, que fazia rebolição, disse:", "nota": "fn9_9" },
+    { "n": 24, "texto": "Retirai-vos: Porque a menina não está morta, mas dorme. E êles o escarneciam.", "nota": "fn9_10" },
+    { "n": 25, "texto": "E tendo saído a gente, entrou Jesus: E a tomou pela mão. E a menina se levantou." },
+    { "n": 26, "texto": "E correu esta fama por tôda aquela terra." },
+    { "n": 27, "texto": "Passando Jesus daquele lugar, o seguiram dois cegos, gritando, e dizendo: Tem misericórdia de nós, filho de Davi." },
+    { "n": 28, "texto": "E chegando à casa vieram a êle os cegos. E Jesus lhes disse: Credes que vos posso fazer isto a vós outros? Disseram êles: Sim, Senhor." },
+    { "n": 29, "texto": "Então lhes tocou os olhos, dizendo: Faça-se-vos segundo a vossa fé." },
+    { "n": 30, "texto": "Imediatamente foram abertos os seus olhos: E Jesus os ameaçou, dizendo: Vêde lá que o não saiba alguém." },
+    { "n": 31, "texto": "Mas êles, saindo dali, divulgaram por tôda aquela terra o seu nome." },
+    { "n": 32, "texto": "Depois que saíram, lhe apresentaram um homem mudo, possuído do demônio." },
+    { "n": 33, "texto": "E depois que foi expelido o demônio, falou o mudo, e se admiraram as gentes, dizendo: Nunca tal se viu em Israel." },
+    { "n": 34, "texto": "Porém os fariseus diziam: Êle em virtude do príncipe dos demônios lança fora os demônios." },
+    { "n": 35, "texto": "Entretanto ia Jesus dando volta por tôdas as cidades, e aldeias, ensinando nas sinagogas dêles, e pregando o evangelho do reino, e curando tôda a doença, e tôda a enfermidade." },
+    { "n": 36, "texto": "E olhando para aquelas gentes, se compadeceu delas: Porque estavam fatigadas, e quebrantadas como ovelhas que não têm pastor." },
+    { "n": 37, "texto": "Então, disse a seus discípulos: A seara verdadeiramente é grande, mas os obreiros poucos." },
+    { "n": 38, "texto": "Rogai pois ao Senhor da seara, que envie obreiros à sua seara." }
+  ],
+  "notas": {
+    "fn9_1": {
+      "rotulo": "à sua cidade",
+      "texto": "A CAFARNAUM, onde costumava habitar."
+    },
+    "fn9_2": {
+      "rotulo": "a fé dêles",
+      "texto": "A FÉ DÊLES — A do paralítico, e a dos que o traziam."
+    },
+    "fn9_3": {
+      "rotulo": "no Telônio",
+      "texto": "TELÔNIO — Telônio se chamava a mesa, e o lugar onde se cobravam as rendas públicas."
+    },
+    "fn9_4": {
+      "rotulo": "numa casa",
+      "texto": "NUMA CASA — Isto é, em casa do mesmo S. Mateus, como consta de Mac 2, 15, e de Lc 5, 29."
+    },
+    "fn9_5": {
+      "rotulo": "os filhos do espôso",
+      "texto": "OS FILHOS DO ESPOSO — S. Lucas, cap. 5, vers. 34, dá a entender que os fariseus fizeram esta nova tentativa, ou insulto a Jesus Cristo, por si mesmos. Mas no estilo da Escritura, e ainda no uso comum, costuma atribuir-se uma coisa àquele, por cujo mandado, conselho, ou instigação se faz. Confundidos pois os fariseus com as respostas do Salvador se valeram dos discípulos de João, para de novo o atacarem. E em vez de imitar a profunda humildade de seu Mestre, chegaram êstes a perguntar ao Senhor de um modo tão orgulhoso que merecia uma severa repreensão. Porém o Filho de Deus se contentou com instruí-los, usando a maior doçura e dizendo-lhes: 'Que os filhos do Espôso não podiam estar tristes, enquanto o Espôso estava na sua companhia'. Isto é um hebraísmo e assim os filhos do Espôso não querem dizer outra coisa mais, que os seus amigos, ou companheiros; havendo alusão ao costume que havia antigamente, de dar aos que se casavam alguns mancebos, que os acompanhassem em todas as cerimônias da sua boda, e estes eram os chamados 'filhos do Espôso'."
+    },
+    "fn9_6": {
+      "rotulo": "odres velhos",
+      "texto": "ODRES — Os orientais serviam-se vulgarmente de odres de pele de cabra e de camelo para conservar o vinho."
+    },
+    "fn9_7": {
+      "rotulo": "um príncipe",
+      "texto": "UM PRÍNCIPE — Da Sinagoga, por nome Jairo. Luc 8, 41. Chama-se pois príncipe da Sinagoga, porque presidia à Sinagoga."
+    },
+    "fn9_8": {
+      "rotulo": "uma mulher",
+      "texto": "EIS-QUE UMA MULHER — Eusébio de Cesaréia, na sua história, diz que esta mulher era de Panéias, cidade da Fenícia, chamada por fim Cesaréia Filipe. Diz que no seu tempo existiam diante da porta de sua casa duas estátuas de bronze, representando uma a mulher numa atitude suplicante, e a outra Jesus Cristo estendendo a sua destra. Acrescenta o célebre historiador, que junto desta última estátua crescia uma esquisita erva de singulares propriedades medicinais. Diz terminantemente que viu isto tudo. Hist. Eccl. 7, 14, 18. Tillemont, Mémoires, 7, 1. Fleury, Hist. Eccl. 15-20. Sozômeno confirma a narração de Eusébio. A arqueologia cristã fornece dados valiosos sôbre êste fato, que está representado pelas mais antigas pinturas das catacumbas. No cemitério de S. Pretextato vê-se a doente que se curava tocando a fímbria do manto do Salvador. Está de joelhos, e Jesus de pé, acompanhado de dois discípulos. Cfr. Garucci, Storia dell'arte cristiana, t. 2, pl. 38, n.° 2, text. p. 45. Martigny, Dict."
+    },
+    "fn9_9": {
+      "rotulo": "tocadores de flautas",
+      "texto": "TOCADORES DE FLAUTAS — Acompanhavam com as carpideiras os funerais. Cfr. Jer 9, 17."
+    },
+    "fn9_10": {
+      "rotulo": "mas dorme",
+      "texto": "MAS DORME — Jesus Cristo diz que a filha de Jairo dorme, no mesmo sentido em que mais tarde disse a Lázaro: Vai revocá-lo à vida, com a mesma facilidade com que desperta o que esteja dormindo. Desta expressão a simplicidade e a confiança do Evangelista. Se pretendessem enganar, acautelar-se-iam de empregar tais expressões, atribuindo-as ao Salvador. De resto S. Lucas acrescenta Et reversus est spiritus ejus, e o próprio S. Mateus no versículo seguinte: Correu esta fama por tôda aquela terra, o que denota a singularidade do acontecimento. Se fôra simplesmente um dorminte é fato tão vulgar e tão banal que não era apregoado por tôda a terra."
+    }
+  }
+}
