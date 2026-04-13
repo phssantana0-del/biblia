@@ -1,0 +1,49 @@
+{
+  "num": 11,
+  "sumario": "Entrada de Jesus Cristo em Jerusalém. Amaldiçoa uma figueira. Lança fora do Templo os negociantes. Nada é impossível à fé e à oração. Perdão dos inimigos. Confunde os doutores da Lei.",
+  "versiculos": [
+    { "n": 1, "texto": "E quando êles se iam aproximando a Jerusalém, e a Betânia, perto do monte das Oliveiras, enviou dois dos seus discípulos," },
+    { "n": 2, "texto": "e lhes disse: Ide a essa aldeia que está defronte de vós, e logo que entrardes nela, achareis prêso um asninho, em que ainda não montou homem algum: Soltai-o e trazei-o." },
+    { "n": 3, "texto": "E se alguém vos perguntar: Que é o que vós fazeis? dizei-lhe que o Senhor tem necessidade dêle: E logo o deixará vir aqui." },
+    { "n": 4, "texto": "E saindo êles acharam o jumentinho atado de fora da porta na encruzilhada, e desprenderam-no." },
+    { "n": 5, "texto": "E alguns dos que estavam ali lhes diziam: Que fazeis, desprendendo o jumentinho?" },
+    { "n": 6, "texto": "Êles responderam como Jesus lhes havia mandado, e os homens lho deixaram levar." },
+    { "n": 7, "texto": "E trouxeram o jumentinho a Jesus, e acobertaram-no com os seus vestidos, e Jesus montou em cima dêle." },
+    { "n": 8, "texto": "E muitos estenderam os seus vestidos pelo caminho: E outros cortavam ramos das árvores e juncavam com êles o caminho." },
+    { "n": 9, "texto": "E tanto os que iam adiante, como os que o seguiam atrás davam os vivas a Jesus, dizendo: Hosana." },
+    { "n": 10, "texto": "Bendito seja o que vem em nome do Senhor: bendito seja o reino que vemos chegar do nosso pai Davi: Hosana nas alturas." },
+    { "n": 11, "texto": "E entrou em Jerusalém no Templo: E depois de ter observado tudo quanto nêle havia, como fôsse já tarde, saiu a Betânia com os doze." },
+    { "n": 12, "texto": "E ao outro dia como saíssem de Betânia teve fome." },
+    { "n": 13, "texto": "E tendo visto ao longe uma figueira que tinha folhas, foi lá a ver se acharia nela alguma coisa: E quando chegou a ela, nada achou senão folhas: Porque não era tempo de figos." },
+    { "n": 14, "texto": "E falando lhe disse: Nunca jamais coma alguém fruto de ti para sempre. E ouviram-no os seus discípulos.", "nota": "fn11_1" },
+    { "n": 15, "texto": "Chegaram pois a Jerusalém. E havendo entrado no Templo, começou a lançar fora os que vendiam e compravam no Templo, e derribou as mesas dos banqueiros, e as cadeiras dos que vendiam pombas.", "nota": "fn11_2" },
+    { "n": 16, "texto": "E não consentia que qualquer transportasse móvel algum pelo Templo:" },
+    { "n": 17, "texto": "E êle os ensinava, dizendo-lhes: Porventura não está escrito: Que a minha Casa será chamada Casa de Oração entre tôdas as gentes? E vós tendes feito dela um covil de ladrões." },
+    { "n": 18, "texto": "O que ouvindo os príncipes dos sacerdotes e os escribas, andavam excogitando de que modo o haviam de perder, porque como todo o povo admirava a sua doutrina, tinham mêdo dêle." },
+    { "n": 19, "texto": "Quando era já pela tarde, saiu da cidade." },
+    { "n": 20, "texto": "E no outro dia pela manhã, ao passarem pela figueira, viram que ela estava sêca até às raízes." },
+    { "n": 21, "texto": "Então lembrado Pedro, disse para Jesus: Olha, Mestre, como se secou a figueira que tu amaldiçoaste." },
+    { "n": 22, "texto": "E respondendo, Jesus lhe disse: Tende a fé de Deus." },
+    { "n": 23, "texto": "Em verdade vos afirmo, que todo o que disser a êste monte: Tira-te, e lança-te no mar, e isto sem hesitar no seu coração, mas tendo fé de que tudo o que disser sucederá, êle o verá cumprir assim." },
+    { "n": 24, "texto": "Por isso vos digo, tôdas as coisas que vós pedirdes orando, crêde que as haveis de haver, e que assim vos sucederão." },
+    { "n": 25, "texto": "Mas quando vos puserdes em oração, se tendes alguma coisa contra alguém, perdoai-lha, para que também vosso Pai, que está nos Céus, vos perdoe vossos pecados." },
+    { "n": 26, "texto": "Porque se vós não perdoardes, também vosso Pai, que está nos Céus, vos não há de perdoar vossos pecados." },
+    { "n": 27, "texto": "E voltaram outra vez a Jerusalém. E andando Jesus pelo Templo, se chegaram a êle os príncipes dos sacerdotes, e os escribas, e os anciãos:" },
+    { "n": 28, "texto": "E lhe disseram: Com que autoridade fazes tu estas coisas? e quem te deu êste poder de fazer essas coisas?" },
+    { "n": 29, "texto": "E respondendo, Jesus lhes disse: Eu também vos farei uma pergunta, e respondei-me a ela: E eu então vos direi com que autoridade faço estas coisas." },
+    { "n": 30, "texto": "O batismo de João era do Céu, ou dos homens? Respondei-me." },
+    { "n": 31, "texto": "Mas êles faziam lá consigo êste juízo, discorrendo: Se nós dissermos que era do Céu, dir-nos-á êle: Por que razão logo não crestes nêle?" },
+    { "n": 32, "texto": "Se dissermos que dos homens, temos mêdo do povo: Porque todos tinham a João em conta de um profeta." },
+    { "n": 33, "texto": "E respondendo, disseram a Jesus: Não sabemos. E respondendo Jesus, lhes disse: Pois nem eu tampouco vos direi com que autoridade vos faço estas coisas." }
+  ],
+  "notas": {
+    "fn11_1": {
+      "rotulo": "Nunca jamais",
+      "texto": "Se não era tempo de figos, por que amaldiçoou Jesus a figueira? É porque na Palestina havia figueiras que davam fruto fora de tempo, em fevereiro, março e abril. E Jesus, querendo simbolizar nesta figueira a Sinagoga, amaldiçoou a figueira, que só achou com folhas, para significar que também amaldiçoava a Sinagoga, por não achar nela senão a folhagem dos seus ritos e tradições. — Calmet."
+    },
+    "fn11_2": {
+      "rotulo": "As mesas dos banqueiros",
+      "texto": "Que davam a câmbio o dinheiro miúdo, que lhes vinham pedir de tôda a parte, os que necessitavam dêle, ou para as contribuições e ofertas do Templo, ou para pagarem os impostos ao César. — Amelote e Calmet."
+    }
+  }
+}

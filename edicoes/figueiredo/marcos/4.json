@@ -1,0 +1,56 @@
+{
+  "num": 4,
+  "sumario": "A parábola do semeador explicada por Jesus Cristo aos Apóstolos. A lâmpada deve-se pôr sôbre o candeeiro. O reino dos Céus comparado a um grão de mostarda. A tormenta acalmada.",
+  "versiculos": [
+    { "n": 1, "texto": "E de novo se pôs a ensinar à beira do mar: E se ajuntaram à roda dêle tantas gentes que, entrando em uma barca, se assentou dentro no mar, e toda a gente estava em terra na ribeira:", "nota": "fn4_1" },
+    { "n": 2, "texto": "E lhes ensinava muitas coisas por parábolas, e lhes dizia segundo o seu modo de pregar:" },
+    { "n": 3, "texto": "Ouvi: Eis saiu o semeador a semear." },
+    { "n": 4, "texto": "E ao tempo de semear, uma parte caiu junto do caminho, e vieram as aves do Céu, e a comeram." },
+    { "n": 5, "texto": "E outra caiu sôbre pedregulho, onde não tinha muita terra: E nasceu logo, porque não havia profundidade de terra:" },
+    { "n": 6, "texto": "Mas logo que saiu o sol, se entrou a queimar: E como não tinha raiz se secou:" },
+    { "n": 7, "texto": "E outra caiu entre espinhos: E cresceram os espinhos, e a afogaram, e não deu fruto." },
+    { "n": 8, "texto": "E outra caiu em boa terra: E deu fruto, que vingou, e cresceu, e um grão deu a trinta, outro a sessenta, e outro a cento." },
+    { "n": 9, "texto": "E dizia: Quem tem ouvidos de ouvir, ouça." },
+    { "n": 10, "texto": "E quando se achou só, lhe perguntaram os doze, que estavam com êle, qual era o sentido da parábola." },
+    { "n": 11, "texto": "E lhes disse: A vós outros é concedido saber o mistério do reino de Deus: mas aos que são de fora tudo se lhes propõe em parábolas:" },
+    { "n": 12, "texto": "Para que vendo vejam, e não vejam: E ouvindo oiçam e não entendam: Para que não suceda que alguma vez se convertam, e lhes sejam perdoados os pecados." },
+    { "n": 13, "texto": "E lhes disse: Não entendeis esta parábola? pois como entendereis todas as parábolas?" },
+    { "n": 14, "texto": "O que semeia, semeia a palavra." },
+    { "n": 15, "texto": "E êstes são os que estão junto do caminho, nos quais a palavra é semeada, mas quando a têm ouvido, vem logo satanás e tira a palavra que foi semeada nos seus corações." },
+    { "n": 16, "texto": "E assim mesmo são aqueles que recebem a semente em pedregulho: Os quais, quando têm ouvido a palavra, logo a recebem com gôsto:" },
+    { "n": 17, "texto": "Mas não têm raiz em si, porquanto perseveram até certo tempo: Depois em se levantando a tribulação e a perseguição por amor da palavra, logo se escandalizam." },
+    { "n": 18, "texto": "E os outros são os que recebem a semente entre espinhos; êstes são os que ouvem a palavra." },
+    { "n": 19, "texto": "Mas as fadigas do século, e a ilusão das riquezas, e as outras paixões a que dão entrada, afogam a palavra e assim fica infrutuosa." },
+    { "n": 20, "texto": "E os que recebem a semente em boa terra, são os que ouvem a palavra, e a recebem, e dão fruto, um a trinta, outro a sessenta, e outro a cento." },
+    { "n": 21, "texto": "Dizia-lhes mais: Porventura vem a luzerna para a meterem debaixo do alqueire, ou debaixo da cama? não é assim que a trazem para a porem sôbre o candeeiro?" },
+    { "n": 22, "texto": "Porque não há coisa alguma escondida, que não venha a ser manifesta: Nem coisa alguma feita em oculto, que não venha a ser pública." },
+    { "n": 23, "texto": "Se algum tem ouvidos de ouvir, oiça." },
+    { "n": 24, "texto": "Também lhes dizia: Atendei ao que ides agora a ouvir. Com a medida com que medirdes aos mais, vos medirão a vós, ainda se vos acrescentará.", "nota": "fn4_2" },
+    { "n": 25, "texto": "Porque ao que já tem, dar-se-lhe-á: E ao que não tem, ainda o que tem se lhe tirará." },
+    { "n": 26, "texto": "Dizia também: Tal é o reino de Deus, como um homem que lança a semente sôbre a terra." },
+    { "n": 27, "texto": "E quer êle durma, quer se levante, de noite e de dia a semente vai lançando, e vai crescendo sem que êle o saiba." },
+    { "n": 28, "texto": "Porque a terra produz de si mesma, primeiro a erva, depois a espiga, e por último o grão cheio na espiga." },
+    { "n": 29, "texto": "E quando o fruto é já maduro, logo lhe mete a foice, porque é chegada a seara." },
+    { "n": 30, "texto": "Dizia mais: A que assemelharemos o reino de Deus? Ou com que parábola o compararemos?" },
+    { "n": 31, "texto": "É semelhante a um grão de mostarda, que quando se semeia na terra, é a menor de tôdas as sementes que há no mundo:" },
+    { "n": 32, "texto": "E depois de semeado, sobe, e faz-se maior do que tôdas as hortaliças, e lança uns ramos tão grandes, que as aves do Céu podem descansar debaixo de sua sombra." },
+    { "n": 33, "texto": "E por muitas parábolas semelhantes lhes falava desta sorte, conforme podiam entender." },
+    { "n": 34, "texto": "E sem parábola lhes não dizia coisa alguma; mas tudo explicava em particular a seus discípulos." },
+    { "n": 35, "texto": "Naquele mesmo dia, ao cair da tarde, lhes disse: Passemos à outra banda." },
+    { "n": 36, "texto": "E despedindo a gente, o levaram consigo assim mesmo como estava na barca: E outras embarcações, que com êle estavam, o seguiram." },
+    { "n": 37, "texto": "Então se levantou uma grande tormenta de vento que metia as ondas na barca, de sorte que ela se encheu dágua." },
+    { "n": 38, "texto": "Entretanto estava Jesus dormindo na pôpa sôbre um travesseiro: Então êles o acordam, e lhe dizem: Mestre, a ti não se te dá que pereçamos?" },
+    { "n": 39, "texto": "E levantando-se ameaçou o vento, e disse para o mar: Cala-te, emudece. E cessou o vento, e seguiu-se uma grande bonança." },
+    { "n": 40, "texto": "Então lhes disse Jesus: Por que sois vós assim tímidos? Ainda não tendes fé? Ficaram êles sobremaneira penetrados de temor, e uns para os outros diziam: Quem julgas que é êste, que até o vento, e o mar lhe obedecem?" }
+  ],
+  "notas": {
+    "fn4_1": {
+      "rotulo": "A beira do mar",
+      "texto": "Da Galiléia."
+    },
+    "fn4_2": {
+      "rotulo": "Ainda se vos acrescentará",
+      "texto": "Com a medida com que medirdes aos mais, vos medirão a vós, e ainda mais se vos acrescentará."
+    }
+  }
+}

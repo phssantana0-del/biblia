@@ -1,0 +1,52 @@
+{
+  "num": 2,
+  "sumario": "Apresentam a Jesus um paralítico. Prova, com a sua cura, que Êle tem poder de perdoar pecados. Chama a Mateus, e come em sua casa. Os que estão bons, não necessitam de médico. Dá a razão por que seus discípulos não jejuam. Desculpa-os de haverem colhido umas espigas em dia de sábado.",
+  "versiculos": [
+    { "n": 1, "texto": "E entrou Jesus outra vez em Cafarnaum, depois de alguns dias." },
+    { "n": 2, "texto": "E tanto que soou que estava ali em uma casa, acudiu logo um tão crescido número de gente, que não cabia, nem ainda à porta, e êle lhes pregava a palavra." },
+    { "n": 3, "texto": "E vieram a êle trazendo um paralítico, que o conduziam quatro às costas." },
+    { "n": 4, "texto": "E como não pudessem pôr-lho diante, por causa do tropel da gente, patentearam o telhado da casa onde estava: E tendo feito uma abertura, arriaram o leito em que jazia o paralítico.", "nota": "fn2_1" },
+    { "n": 5, "texto": "E quando Jesus viu a fé dêles, disse ao paralítico: Filho, perdoados te são os teus pecados." },
+    { "n": 6, "texto": "E estavam ali assentados alguns dos escribas, que lá nos seus corações estavam dizendo:" },
+    { "n": 7, "texto": "Como fala assim êste homem? êle diz uma blasfêmia. Quem pode perdoar pecados, senão só Deus?" },
+    { "n": 8, "texto": "Jesus conhecendo logo no seu espírito que êles pensavam desta maneira dentro de si, lhes disse: Por que estais vós pensando isso dentro de vossos corações?" },
+    { "n": 9, "texto": "Qual é mais fácil, dizer ao paralítico: Os teus pecados te são perdoados, ou dizer: Levanta-te, toma o teu leito e anda?" },
+    { "n": 10, "texto": "Ora para que saibais que o Filho do homem tem na terra poder de perdoar pecados (disse ao paralítico):" },
+    { "n": 11, "texto": "A ti te digo: Levanta-te, toma o teu leito, e vai para tua casa." },
+    { "n": 12, "texto": "E no mesmo ponto êle se levantou, e tomando o seu leito, se foi à vista de todos, de maneira que se admiraram todos, e louvaram a Deus, dizendo: Nunca tal vimos." },
+    { "n": 13, "texto": "E saiu outra vez para a parte do mar, e vinha a êle tôda a gente, e êle os ensinava." },
+    { "n": 14, "texto": "E indo passando, viu a Levi, filho de Alfeu, assentado no telônio, e lhe disse: Segue-me. E êle, levantando-se, o foi seguindo.", "nota": "fn2_2" },
+    { "n": 15, "texto": "E aconteceu que, estando Jesus assentado à mesa em casa dele, estavam também à mesa com Jesus, e com os seus discípulos, muitos publicanos, e pecadores, porque havia muitos que também o seguiam." },
+    { "n": 16, "texto": "E vendo os escribas, e os fariseus, que Jesus comia com os publicanos e pecadores, diziam a seus discípulos: Por que come e bebe vosso Mestre com os publicanos e pecadores?" },
+    { "n": 17, "texto": "Quando isto ouviu Jesus, lhes disse: Os sãos não têm necessidade de médico, senão os que estão enfermos: Porque eu não vim a chamar justos senão pecadores." },
+    { "n": 18, "texto": "Ora, os discípulos de João, e os fariseus jejuavam, e êles vão buscar a Jesus, e lhe dizem: Por que jejuam os discípulos de João, e os dos fariseus, e não jejuam os teus discípulos?" },
+    { "n": 19, "texto": "E Jesus lhes disse: Podem porventura jejuar os filhos das bodas, enquanto está com êles o Espôso? Todo o tempo que tem consigo ao Espôso, não podem jejuar.", "nota": "fn2_3" },
+    { "n": 20, "texto": "Mas lá virão os dias em que lhes será tirado o Espôso: E então naqueles dias êles jejuarão." },
+    { "n": 21, "texto": "Ninguém cose um remendo de pano novo num vestido velho; doutra sorte o mesmo remendo novo leva parte do velho, e fica maior a ruptura." },
+    { "n": 22, "texto": "E ninguém lança vinho novo em odres velhos: Doutra sorte fará o vinho arrebentar os odres, e entornar-se-á o vinho, e perder-se-ão os odres: Mas o vinho novo deve-se lançar em odres novos." },
+    { "n": 23, "texto": "E sucedeu outra vez que caminhando o Senhor por entre os pães, num dia de sábado, começaram então os seus discípulos a ir-se adiantando, e a apanhar espigas." },
+    { "n": 24, "texto": "E os fariseus lhe diziam: Olha, como fazem no sábado o que não é lícito?" },
+    { "n": 25, "texto": "E êle lhes respondeu: Nunca lestes o que fez Davi, quando se achou em necessidade, e teve fome êle e os que com êle estavam?" },
+    { "n": 26, "texto": "Como entrou na casa de Deus em tempo de Abiatar, príncipe dos sacerdotes, e comeu os Pães da Proposição, dos quais não era lícito comer, senão aos sacerdotes, e ainda deu aos que com êle estavam?", "nota": "fn2_4" },
+    { "n": 27, "texto": "E lhes dizia: O sábado foi feito em contemplação do homem, e não o homem em contemplação do sábado." },
+    { "n": 28, "texto": "Assim que o Filho do homem é senhor também do sábado." }
+  ],
+  "notas": {
+    "fn2_1": {
+      "rotulo": "O telhado",
+      "texto": "Já dissemos que os telhados das casas judaicas eram planos, subindo-se para êles por uma escada exterior. Ali recebiam as visitas, estudavam e até comiam."
+    },
+    "fn2_2": {
+      "rotulo": "Levi, filho de Alfeu",
+      "texto": "A identidade de S. Mateus e de Levi foi posta em dúvida por Grotius, <em>Annot in N.</em>, 1, Mt 9, 9, Michaelis <em>Einliet</em>, etc. Citam em favor da sua opinião Orígenes, mas sem fundamento, porque êste claramente diz em resposta a Celso, que no colégio apostólico havia só um publicano. Depois na evocação tomou o nome de Mateus, que quer dizer: dom de Deus."
+    },
+    "fn2_3": {
+      "rotulo": "Filhos das bodas",
+      "texto": "Ou do espôso."
+    },
+    "fn2_4": {
+      "rotulo": "Abiatar",
+      "texto": "O pontífice, a quem Davi nesta ocasião se encaminhou, diz o primeiro Livro dos Reis, Cap. 21, que era Aquimelec: Por onde creram alguns que o pontífice Aquimelec se chamava também Abiatar: outros discorrem que Cristo nomeara aqui a Abiatar em lugar de Aquimelec, ou por ser Abiatar muito mais conhecido em tempo de Davi, ou porque fazendo as vezes de Abiatar, é que Aquimelec deu os pães a Davi. — Calmet."
+    }
+  }
+}
