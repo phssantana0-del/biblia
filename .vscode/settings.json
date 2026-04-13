@@ -3,7 +3,8 @@
     "pdftotext": true,
     "pdfinfo": true,
     "node": true,
-    "python3": true
+    "python3": true,
+    "bash": true
   },
   "chat.tools.urls.autoApprove": {
     "*": true
