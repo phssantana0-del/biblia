@@ -832,7 +832,7 @@ function renderChapter(ch, bookDir, targetId) {
 
   const pdfUrl = bookDir + '/' + ch.num + '.pdf';
   const pdfBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'Original')">&#128196; Ver original</button>`;
-  const pdfOldBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${bookDir}/${ch.num}.old.pdf', 'Original antigo')" style="margin-left:12px;">&#128196; Ver original antigo</button>`;
+  const pdfOldBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${bookDir.replace('/figueiredo/', '/figueiredo-original/')}/${ch.num}.pdf', 'Original antigo')" style="margin-left:12px;">&#128196; Ver original antigo</button>`;
   const introBtn = state.currentBookIntroducao
     ? `<button class="ver-original-btn" onclick="openIntro()" style="margin-left:12px;">&#128214; Introdução</button>`
     : '';
@@ -880,7 +880,7 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
     div.className = 'cg-cell cg-header-cell';
     const pdfUrl = bookDir + '/' + ch.num + '.pdf';
     const pdfBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'Original')">&#128196; Ver original</button>`;
-    const pdfOldBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${bookDir}/${ch.num}.old.pdf', 'Original antigo')" style="margin-left:12px;">&#128196; Ver original antigo</button>`;
+    const pdfOldBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${bookDir.replace('/figueiredo/', '/figueiredo-original/')}/${ch.num}.pdf', 'Original antigo')" style="margin-left:12px;">&#128196; Ver original antigo</button>`;
     div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
       + `<div class="cg-chapter-title">Capítulo ${ch.num}</div>`
       + `<div class="cg-summary-text">${ch.sumario}</div>`

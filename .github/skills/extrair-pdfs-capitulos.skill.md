@@ -13,9 +13,9 @@ Use `pdftotext -layout` para extrair o texto do PDF e identificar em qual págin
 pdftotext -layout edicoes/figueiredo/<livro>/index.pdf - | grep -n "CAP\.\|CAPÍTULO\|Cap\." | head -60
 ```
 
-Para a edição antiga:
+Para a edição original (figueiredo-original):
 ```bash
-pdftotext -layout edicoes/figueiredo/<livro>/index.old.pdf - | grep -n "CAP\.\|CAPÍTULO\|Cap\." | head -60
+pdftotext -layout edicoes/figueiredo-original/<livro>/index.pdf - | grep -n "CAP\.\|CAPÍTULO\|Cap\." | head -60
 ```
 
 O número antes dos dois pontos é o **número da linha**, não da página. Para obter o número da página, use:
@@ -71,10 +71,10 @@ pdftotext -layout -f <pag_inicio_prox_cap> -l <pag_inicio_prox_cap> edicoes/figu
 ### Sintaxe
 
 ```bash
-# Edição recente (index.pdf → N.pdf):
+# Edição Figueiredo (edicoes/figueiredo) → N.pdf:
 node extrair-capitulos.js <livro-id> <cap:inicio:fim> [<cap:inicio:fim>...]
 
-# Edição antiga (index.old.pdf → N.old.pdf):
+# Edição original (edicoes/figueiredo-original) → N.pdf:
 node extrair-capitulos.js <livro-id> --old <cap:inicio:fim> [<cap:inicio:fim>...]
 ```
 
@@ -93,15 +93,15 @@ node extrair-capitulos.js proverbios --old 8:25:29 9:29:31
 | Parâmetro     | Descrição                                                           |
 |---------------|---------------------------------------------------------------------|
 | `<livro-id>`  | Slug do livro em minúsculas (ex: `mateus`, `salmos`, `proverbios`) |
-| `--old`       | Opcional. Se presente, usa `index.old.pdf` e gera `N.old.pdf`      |
+| `--old`       | Opcional. Se presente, usa `edicoes/figueiredo-original` em vez de `edicoes/figueiredo` |
 | `cap:ini:fim` | Número do capítulo, página inicial e final (1-based, inclusivos)   |
 
 ### Arquivos gerados
 
-| Modo       | Fonte                                      | Saída                                      |
-|------------|--------------------------------------------|--------------------------------------------|
-| sem `--old`| `edicoes/figueiredo/<livro>/index.pdf`     | `edicoes/figueiredo/<livro>/<N>.pdf`       |
-| com `--old`| `edicoes/figueiredo/<livro>/index.old.pdf` | `edicoes/figueiredo/<livro>/<N>.old.pdf`   |
+| Modo       | Fonte                                                | Saída                                                |
+|------------|------------------------------------------------------|------------------------------------------------------|
+| sem `--old`| `edicoes/figueiredo/<livro>/index.pdf`               | `edicoes/figueiredo/<livro>/<N>.pdf`                 |
+| com `--old`| `edicoes/figueiredo-original/<livro>/index.pdf`      | `edicoes/figueiredo-original/<livro>/<N>.pdf`        |
 
 ### Verificação
 
@@ -109,7 +109,7 @@ Após executar, confirme que cada arquivo foi criado:
 
 ```bash
 ls edicoes/figueiredo/<livro>/*.pdf
-ls edicoes/figueiredo/<livro>/*.old.pdf
+ls edicoes/figueiredo-original/<livro>/*.pdf
 ```
 
 Se o script reportar `!` (aviso), registre os capítulos afetados no relatório de revisão.
@@ -126,9 +126,9 @@ pdftotext -layout -f 7 -l 7 edicoes/figueiredo/mateus/index.pdf -  # verificar p
 # 2. Gerar PDFs da edição recente
 node extrair-capitulos.js mateus 1:3:6 2:7:12
 
-# 3. Detectar páginas no index.old.pdf (páginas podem ser diferentes)
-pdftotext -layout -f 5 -l 5 edicoes/figueiredo/mateus/index.old.pdf -
+# 3. Detectar páginas no index.pdf da edição original (páginas podem ser diferentes)
+pdftotext -layout -f 5 -l 5 edicoes/figueiredo-original/mateus/index.pdf -
 
-# 4. Gerar PDFs da edição antiga
+# 4. Gerar PDFs da edição original
 node extrair-capitulos.js mateus --old 1:5:9 2:10:15
 ```

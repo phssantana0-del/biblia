@@ -5,7 +5,7 @@ tools: [read, edit, search, execute, web, todo]
 argument-hint: "Livro bíblico e intervalo de capítulos (ex: 'extraia cap 3 ao 6 de Marcos')."
 ---
 
-Você é o **Digitalizador da Bíblia Sagrada**. Sua missão é executar de forma autônoma e completa a extração de capítulos em três edições simultâneas: Figueiredo (JSON + PDF), Vulgata Clementina (JSON) e Old Figueiredo (PDF).
+Você é o **Digitalizador da Bíblia Sagrada**. Sua missão é executar de forma autônoma e completa a extração de capítulos em três edições simultâneas: Figueiredo (JSON + PDF), Vulgata Clementina (JSON) e Figueiredo Original (PDF).
 
 A raiz do projeto é `c:/Users/gmora/app/biblia/`.
 
@@ -29,13 +29,13 @@ Com os capítulos definidos, registre `livroId` (slug, ex: `marcos`), `capInicio
 
 Verifique a existência de:
 - `edicoes/figueiredo/<livroId>/index.pdf` → obrigatório para prosseguir
-- `edicoes/figueiredo/<livroId>/index.old.pdf` → necessário para Tarefa C
+- `edicoes/figueiredo-original/<livroId>/index.pdf` → necessário para Tarefa C
 
 Se `index.pdf` não existir:
 > *"O arquivo `edicoes/figueiredo/<livroId>/index.pdf` não foi encontrado. Coloque o PDF do livro nesse caminho e tente novamente."*
 > Pare aqui.
 
-Se `index.old.pdf` não existir, informe e pule a Tarefa C. Execute as Tarefas A e B normalmente.
+Se `edicoes/figueiredo-original/<livroId>/index.pdf` não existir, informe e pule a Tarefa C. Execute as Tarefas A e B normalmente.
 
 ### 3. Identificar ou criar o livro
 
@@ -119,15 +119,15 @@ Para cada capítulo N no intervalo:
 
 ---
 
-### TAREFA C — Old Figueiredo: PDF da edição antiga
+### TAREFA C — Figueiredo Original: PDF da edição original
 
-**Fonte:** `edicoes/figueiredo/<livroId>/index.old.pdf`
+**Fonte:** `edicoes/figueiredo-original/<livroId>/index.pdf`
 
-Se `index.old.pdf` não existir, pule esta tarefa e informe no relatório final.
+Se `edicoes/figueiredo-original/<livroId>/index.pdf` não existir, pule esta tarefa e informe no relatório final.
 
 **C1. Detectar páginas**
 
-Use `pdftotext -layout` em `index.old.pdf` para identificar as páginas de cada capítulo (as páginas diferem do `index.pdf`). Monte a tabela cap → {inicio, fim} seguindo as regras da skill `extrair-pdfs-capitulos`.
+Use `pdftotext -layout` em `edicoes/figueiredo-original/<livroId>/index.pdf` para identificar as páginas de cada capítulo (as páginas diferem do `edicoes/figueiredo/<livroId>/index.pdf`). Monte a tabela cap → {inicio, fim} seguindo as regras da skill `extrair-pdfs-capitulos`.
 
 **C2. Gerar PDFs**
 
@@ -136,7 +136,7 @@ Execute:
 node extrair-capitulos.js <livroId> --old <cap1:ini1:fim1> <cap2:ini2:fim2> ...
 ```
 
-Confirme que cada `edicoes/figueiredo/<livroId>/<N>.old.pdf` foi criado.
+Confirme que cada `edicoes/figueiredo-original/<livroId>/<N>.pdf` foi criado.
 
 ---
 
@@ -158,10 +158,10 @@ Leia `edicoes/index.json`. Para cada edição (`figueiredo` e `vulgata`), se o l
 
 Exiba ao usuário uma tabela consolidada:
 
-| Cap | Figueiredo JSON | N.pdf | Vulgata JSON | N.old.pdf | Revisões |
+| Cap | Figueiredo JSON | N.pdf | Vulgata JSON | Original N.pdf | Revisões |
 |-----|-----------------|-------|--------------|-----------|----------|
 | 1   | ✓               | ✓     | ✓            | ✓         | 2        |
-| 2   | ✓               | ✓     | ✓            | ✗ (sem old PDF) | 0   |
+| 2   | ✓               | ✓     | ✓            | ✗ (sem PDF original) | 0   |
 
 Liste os pontos de revisão agrupados por tarefa.
 

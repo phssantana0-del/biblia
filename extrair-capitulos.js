@@ -12,8 +12,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // <livro-id>       — slug do livro (ex: salmos, proverbios)
 //                    Sem --old: PDF fonte = edicoes/figueiredo/<livro-id>/index.pdf
 //                               PDFs gerados = edicoes/figueiredo/<livro-id>/<N>.pdf
-//                    Com --old: PDF fonte = edicoes/figueiredo/<livro-id>/index.old.pdf
-//                               PDFs gerados = edicoes/figueiredo/<livro-id>/<N>.old.pdf
+//                    Com --old: PDF fonte = edicoes/figueiredo-original/<livro-id>/index.pdf
+//                               PDFs gerados = edicoes/figueiredo-original/<livro-id>/<N>.pdf
 // cap:inicio:fim   — número do capítulo, página inicial e página final no PDF fonte (1-based, inclusive)
 
 async function main() {
@@ -31,13 +31,13 @@ async function main() {
   const oldMode = rest[0] === '--old';
   const tokens = oldMode ? rest.slice(1) : rest;
 
-  const livroDir = path.join(__dirname, 'edicoes', 'figueiredo', livroId);
-  const fonteNome = oldMode ? 'index.old.pdf' : 'index.pdf';
-  const fontePath = path.join(livroDir, fonteNome);
+  const edicaoDir = oldMode ? 'figueiredo-original' : 'figueiredo';
+  const livroDir = path.join(__dirname, 'edicoes', edicaoDir, livroId);
+  const fontePath = path.join(livroDir, 'index.pdf');
 
   if (!fs.existsSync(fontePath)) {
     console.error(`PDF fonte não encontrado: ${fontePath}`);
-    console.error(`Certifique-se de que o arquivo ${fonteNome} existe em edicoes/figueiredo/${livroId}/`);
+    console.error(`Certifique-se de que o arquivo index.pdf existe em edicoes/${edicaoDir}/${livroId}/`);
     process.exit(1);
   }
 
@@ -64,7 +64,7 @@ async function main() {
   const srcBytes = fs.readFileSync(fontePath);
   const srcDoc = await PDFDocument.load(srcBytes);
   const totalPages = srcDoc.getPageCount();
-  const suffix = oldMode ? '.old.pdf' : '.pdf';
+  const suffix = '.pdf';
   console.log(`Total de páginas no PDF fonte: ${totalPages}\n`);
 
   const generated = [];
@@ -96,12 +96,12 @@ async function main() {
     const outputFile = path.join(livroDir, `${cap}${suffix}`);
     fs.writeFileSync(outputFile, pdfBytes);
 
-    const relativePath = `edicoes/figueiredo/${livroId}/${cap}${suffix}`;
+    const relativePath = `edicoes/${edicaoDir}/${livroId}/${cap}${suffix}`;
     console.log(`  ✓ Capítulo ${cap} (pág. ${clampedStart}–${clampedEnd}) → ${relativePath}`);
     generated.push({ cap, path: relativePath });
   }
 
-  console.log(`\nConcluído. ${generated.length} arquivo(s) gerado(s) em edicoes/figueiredo/${livroId}/`);
+  console.log(`\nConcluído. ${generated.length} arquivo(s) gerado(s) em edicoes/${edicaoDir}/${livroId}/`);
 }
 
 main().catch((err) => {
