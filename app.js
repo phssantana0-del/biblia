@@ -167,8 +167,9 @@ function renderChapter(ch, bookDir, targetId) {
   const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + ch.num + '.pdf';
   const compareLabel = state.compareMode ? '⇄ Descomparar' : '⇄ Comparar';
   const compareBtn = `<button class="ver-original-btn btn-compare" onclick="toggleCompare()">${compareLabel}</button>`;
-  const pdfBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>`;
-  const pdfOldBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>`;
+  const hasPdf = !bookDir.includes('/vulgata/');
+  const pdfBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>` : '';
+  const pdfOldBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>` : '';
 
   document.getElementById(targetId).innerHTML = `
     <div class="chapter-header">
