@@ -1,5 +1,11 @@
 {
   "chat.tools.terminal.autoApprove": {
-    "pdftotext": true
+    "pdftotext": true,
+    "pdfinfo": true,
+    "node": true,
+    "python3": true
+  },
+  "chat.tools.urls.autoApprove": {
+    "*": true
   }
 }
