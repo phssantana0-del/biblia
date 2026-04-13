@@ -1,0 +1,144 @@
+---
+name: vulgata-clementina
+description: "Regras para extração do texto da Vulgata Clementina do Wikisource e geração de JSON estruturado."
+---
+
+# Skill — Vulgata Clementina
+
+## Fonte obrigatória
+
+O texto deve ser sempre extraído de:
+
+> **https://la.wikisource.org/wiki/Vulgata_Clementina**
+
+**Nunca usar vulgate.org** (Nova Vulgata/Stuttgartiensis).
+
+---
+
+## URLs por livro
+
+| Livro       | URL                                                                          |
+|-------------|------------------------------------------------------------------------------|
+| Mateus      | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum` |
+| Marcos      | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Marcum`    |
+| Lucas       | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam`     |
+| João        | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Ioannem`   |
+| Gênesis     | `https://la.wikisource.org/wiki/Vulgata_Clementina/Genesis`                       |
+| Salmos      | `https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi`                        |
+| Outros      | Consultar o índice: `https://la.wikisource.org/wiki/Vulgata_Clementina`            |
+
+Para livros não listados: acesse o índice, localize o nome exato do subartigo e construa a URL.
+
+---
+
+## Grafia obrigatória — Clementina
+
+| Clementina              | Nova Vulgata (proibido) |
+|-------------------------|-------------------------|
+| `Jesu / Jesus`          | `Iesu / Iesus`          |
+| `Jacob`                 | `Iacob`                 |
+| `Joseph`                | `Ioseph`                |
+| `Rahab`                 | `Rachab`                |
+| `Emmanuel`              | `Emmanuhel`             |
+| `Jerosolyma`            | `Hierosolyma`           |
+| `Ægyptum / Ægypto`      | `Aegyptum / Aegypto`    |
+| `Israël`                | `Israhel`               |
+| `Judæus / Judæa`        | `Iudaeus / Iudaea`      |
+| espaço antes de `:` `?` | sem espaço antes        |
+
+Se o texto extraído usar a grafia da Nova Vulgata em algum ponto, corrija para a Clementina.
+
+---
+
+## Alerta de arquivo existente
+
+Antes de salvar qualquer capítulo, verifique se `edicoes/vulgata/<livro>/<N>.json` já existe.
+
+- Se existir → alerte: *"Cap. N da Vulgata já foi extraído. Deseja prosseguir e substituir?"*
+- Aguarde confirmação antes de sobrescrever.
+
+---
+
+## Estrutura JSON obrigatória
+
+### `index.json` do livro (`edicoes/vulgata/<livro>/index.json`)
+
+```json
+{
+  "id": "mateus",
+  "titulo": "Evangelium secundum Matthæum",
+  "abreviacao": "Mt",
+  "testamento": "Novum Testamentum",
+  "grupo": "Evangelia",
+  "capitulos": [1, 2, 3]
+}
+```
+
+- Títulos e campos em latim.
+- Grupos em latim (ex: `"Evangelia"`, `"Libri Poetici"`, `"Prophetæ Maiores"`, `"Pentateuchos"`).
+
+### `<N>.json` — capítulo individual (`edicoes/vulgata/<livro>/<N>.json`)
+
+```json
+{
+  "num": 1,
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum",
+  "sumario": "Genealogia Iesu Christi. Conceptio et Nativitas.",
+  "versiculos": [],
+  "notas": {}
+}
+```
+
+**O campo `"fonte"` é obrigatório** — contém a URL exata da página Wikisource de onde o capítulo foi extraído. Isso permite ao usuário clicar e conferir no site.
+
+### Tipos de versículo
+
+**Simples:**
+```json
+{ "n": 1, "texto": "Liber generationis Jesu Christi, filii David, filii Abraham." }
+```
+
+**Com citação profética:**
+```json
+{ "n": 23, "texto": "<span class='prophetic'>Ecce virgo in utero habebit, et pariet filium.</span>" }
+```
+
+Não há itens `"bio"` na Vulgata. Não há notas de rodapé a menos que o Wikisource as forneça explicitamente.
+
+---
+
+## Salvamento
+
+Para cada capítulo N extraído:
+
+1. Salve `edicoes/vulgata/<livro>/<N>.json`.
+2. Adicione N ao array `capitulos` do `index.json` (em ordem crescente, sem duplicar).
+3. Se o livro for novo, crie `edicoes/vulgata/<livro>/index.json` antes.
+
+---
+
+## Relatório de revisão (`<N>.md`)
+
+Salve em `edicoes/vulgata/<livro>/<N>.md`. Se o arquivo já existir, **acrescente** ao final.
+
+```markdown
+---
+
+## Revisão — <Título do Livro em Latim> Cap. N | DD/MM/AAAA
+
+### Fonte
+
+[Wikisource — <Título>](<URL>)
+
+### Estatísticas
+
+| Versículos | Notas |
+|------------|-------|
+| 25         | 0     |
+
+### Pontos para revisão manual
+
+- [ ] **v. 5** — Grafia verificada e corrigida de Nova Vulgata para Clementina.
+```
+
+Se não houver pontos, escreva: *"Nenhum ponto identificado para revisão manual."*

@@ -5,31 +5,39 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// Uso: node extrair-capitulos.js <livro-id> <cap:inicio:fim>...
+// Uso: node extrair-capitulos.js <livro-id> [--old] <cap:inicio:fim>...
 // Exemplo: node extrair-capitulos.js salmos 1:3:5 2:6:8 3:9:12
+//          node extrair-capitulos.js salmos --old 1:3:5 2:6:8
 //
 // <livro-id>       — slug do livro (ex: salmos, proverbios)
-//                    O PDF fonte é lido de: edicoes/figueiredo/<livro-id>/index.pdf
-//                    Os PDFs de capítulo são salvos em: edicoes/figueiredo/<livro-id>/<N>.pdf
+//                    Sem --old: PDF fonte = edicoes/figueiredo/<livro-id>/index.pdf
+//                               PDFs gerados = edicoes/figueiredo/<livro-id>/<N>.pdf
+//                    Com --old: PDF fonte = edicoes/figueiredo/<livro-id>/index.old.pdf
+//                               PDFs gerados = edicoes/figueiredo/<livro-id>/<N>.old.pdf
 // cap:inicio:fim   — número do capítulo, página inicial e página final no PDF fonte (1-based, inclusive)
 
 async function main() {
   const args = process.argv.slice(2);
 
   if (args.length < 2) {
-    console.error('Uso: node extrair-capitulos.js <livro-id> <cap:inicio:fim>...');
+    console.error('Uso: node extrair-capitulos.js <livro-id> [--old] <cap:inicio:fim>...');
     console.error('Exemplo: node extrair-capitulos.js salmos 1:3:5 2:6:8');
+    console.error('         node extrair-capitulos.js salmos --old 1:3:5 2:6:8');
     process.exit(1);
   }
 
-  const [livroId, ...tokens] = args;
+  const [livroId, ...rest] = args;
+
+  const oldMode = rest[0] === '--old';
+  const tokens = oldMode ? rest.slice(1) : rest;
 
   const livroDir = path.join(__dirname, 'edicoes', 'figueiredo', livroId);
-  const fontePath = path.join(livroDir, 'index.pdf');
+  const fonteNome = oldMode ? 'index.old.pdf' : 'index.pdf';
+  const fontePath = path.join(livroDir, fonteNome);
 
   if (!fs.existsSync(fontePath)) {
     console.error(`PDF fonte não encontrado: ${fontePath}`);
-    console.error(`Certifique-se de que o arquivo index.pdf existe em edicoes/figueiredo/${livroId}/`);
+    console.error(`Certifique-se de que o arquivo ${fonteNome} existe em edicoes/figueiredo/${livroId}/`);
     process.exit(1);
   }
 
@@ -56,6 +64,7 @@ async function main() {
   const srcBytes = fs.readFileSync(fontePath);
   const srcDoc = await PDFDocument.load(srcBytes);
   const totalPages = srcDoc.getPageCount();
+  const suffix = oldMode ? '.old.pdf' : '.pdf';
   console.log(`Total de páginas no PDF fonte: ${totalPages}\n`);
 
   const generated = [];
@@ -84,10 +93,10 @@ async function main() {
     copiedPages.forEach((page) => newDoc.addPage(page));
 
     const pdfBytes = await newDoc.save();
-    const outputFile = path.join(livroDir, `${cap}.pdf`);
+    const outputFile = path.join(livroDir, `${cap}${suffix}`);
     fs.writeFileSync(outputFile, pdfBytes);
 
-    const relativePath = `edicoes/figueiredo/${livroId}/${cap}.pdf`;
+    const relativePath = `edicoes/figueiredo/${livroId}/${cap}${suffix}`;
     console.log(`  ✓ Capítulo ${cap} (pág. ${clampedStart}–${clampedEnd}) → ${relativePath}`);
     generated.push({ cap, path: relativePath });
   }
