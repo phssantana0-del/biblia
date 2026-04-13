@@ -3,6 +3,8 @@
 // ══════════════════════════════════════════════════════════════
 
 const BASE_URL = 'edicoes/index.json';
+const NAV_STORAGE_KEY = 'biblia:last-navigation';
+const ROUTING_MODE = 'hash';
 
 let state = {
   editions: [],
@@ -10,6 +12,9 @@ let state = {
   currentBookId: null,
   currentBookDir: null,
   currentChapter: 1,
+  currentVerse: null,
+  appBasePath: '',
+  urlSyncEnabled: false,
   currentBookIntroducao: null,
   loadedBookIndexes: {},
   loadedChapters: {},
@@ -20,6 +25,320 @@ let state = {
 };
 
 let activePopup = null;
+
+function parsePositiveInt(value) {
+  if (!value) return null;
+  const n = Number.parseInt(value, 10);
+  return Number.isFinite(n) && n > 0 ? n : null;
+}
+
+function detectAppBasePath(editions) {
+  const segments = window.location.pathname.split('/').filter(Boolean);
+  const editionIds = new Set(editions.map(e => e.id));
+  const editionPos = segments.findIndex(s => editionIds.has(s));
+
+  if (editionPos >= 0) {
+    const prefix = segments.slice(0, editionPos);
+    return prefix.length ? '/' + prefix.join('/') : '';
+  }
+
+  let path = window.location.pathname;
+  if (path.endsWith('/index.html')) path = path.slice(0, -('/index.html'.length));
+  if (path.length > 1 && path.endsWith('/')) path = path.slice(0, -1);
+  return path === '/' ? '' : path;
+}
+
+function parseNavigationFromUrl() {
+  if (window.location.hash && window.location.hash.startsWith('#/')) {
+    const hashSegments = window.location.hash.slice(2).split('/').filter(Boolean);
+    const compareIndex = hashSegments.indexOf('compare');
+    const baseSegments = compareIndex >= 0 ? hashSegments.slice(0, compareIndex) : hashSegments;
+    const edicao = baseSegments[0] || null;
+    const livro = baseSegments[1] || null;
+    const capitulo = parsePositiveInt(baseSegments[2]);
+    const versiculo = parsePositiveInt(baseSegments[3]);
+    const compareEditionId = compareIndex >= 0 ? (hashSegments[compareIndex + 1] || null) : null;
+
+    if (!edicao || !livro || !capitulo) return null;
+    return {
+      editionId: edicao,
+      bookId: livro,
+      chapter: capitulo,
+      verse: versiculo,
+      compareEditionId,
+    };
+  }
+
+  const segments = window.location.pathname.split('/').filter(Boolean);
+  const editionIds = new Set(state.editions.map(e => e.id));
+  const editionPos = segments.findIndex(s => editionIds.has(s));
+  if (editionPos < 0) return null;
+
+  const edicao = segments[editionPos] || null;
+  const livro = segments[editionPos + 1] || null;
+  const capitulo = parsePositiveInt(segments[editionPos + 2]);
+  const versiculo = parsePositiveInt(segments[editionPos + 3]);
+  const comparePos = segments.indexOf('compare', editionPos + 3);
+  const compareEditionId = comparePos >= 0 ? (segments[comparePos + 1] || null) : null;
+
+  if (!edicao || !livro || !capitulo) return null;
+  return {
+    editionId: edicao || null,
+    bookId: livro || null,
+    chapter: capitulo,
+    verse: versiculo,
+    compareEditionId,
+  };
+}
+
+function loadNavigationFromStorage() {
+  try {
+    const raw = localStorage.getItem(NAV_STORAGE_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    return {
+      editionId: parsed.editionId || null,
+      bookId: parsed.bookId || null,
+      chapter: parsePositiveInt(parsed.chapter),
+      verse: parsePositiveInt(parsed.verse),
+    };
+  } catch (_) {
+    return null;
+  }
+}
+
+function saveNavigationToStorage() {
+  const payload = {
+    editionId: state.currentEditionId,
+    bookId: state.currentBookId,
+    chapter: state.currentChapter,
+    verse: state.currentVerse,
+  };
+  localStorage.setItem(NAV_STORAGE_KEY, JSON.stringify(payload));
+}
+
+function updateUrlFromState(historyMode = 'replace') {
+  if (!state.currentEditionId || !state.currentBookId || !state.currentChapter) return;
+
+  const route = `${state.currentEditionId}/${state.currentBookId}/${state.currentChapter}`;
+  let nextPath = `${state.appBasePath}/${route}`;
+  if (state.currentVerse) {
+    nextPath += `/${state.currentVerse}`;
+  }
+  if (state.compareMode && state.compareEditionId) {
+    nextPath += `/compare/${state.compareEditionId}`;
+  }
+
+  let hashRoute = route;
+  if (state.currentVerse) hashRoute += `/${state.currentVerse}`;
+  if (state.compareMode && state.compareEditionId) {
+    hashRoute += `/compare/${state.compareEditionId}`;
+  }
+
+  const next = ROUTING_MODE === 'hash'
+    ? `${window.location.pathname}${window.location.search}#/${hashRoute}`
+    : `${nextPath}`;
+
+  if (historyMode === 'push') {
+    window.history.pushState(null, '', next);
+  } else {
+    window.history.replaceState(null, '', next);
+  }
+}
+
+function findBookFileByBookId(editionId, bookId) {
+  const ed = state.editions.find(e => e.id === editionId);
+  if (!ed || !ed.livros || !bookId) return null;
+  return ed.livros.find(f => f.includes('/' + bookId + '/')) || null;
+}
+
+function scrollToVerse(verseNumber) {
+  if (!verseNumber) return false;
+  const selector = `#content .verse[data-v="${verseNumber}"]`;
+  const verseEl = document.querySelector(selector);
+  if (!verseEl) return false;
+
+  const absoluteTop = window.scrollY + verseEl.getBoundingClientRect().top;
+  const maxScrollTop = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+  const targetTop = Math.min(absoluteTop, maxScrollTop);
+
+  window.scrollTo({ top: targetTop, behavior: 'smooth' });
+  highlightSelectedVerses(verseNumber);
+  return true;
+}
+
+function highlightVerseElement(verseEl) {
+  if (!verseEl) return;
+  verseEl.classList.add('verse-marked');
+}
+
+function highlightSelectedVerses(verseNumber) {
+  document.querySelectorAll('.verse.verse-marked').forEach(el => el.classList.remove('verse-marked'));
+  if (!verseNumber) return;
+
+  const mainVerse = document.querySelector(`#content .verse[data-v="${verseNumber}"]`);
+  if (mainVerse) highlightVerseElement(mainVerse);
+
+  document.querySelectorAll(`#compare-grid .compare-verse[data-v="${verseNumber}"]`).forEach(el => {
+    highlightVerseElement(el);
+  });
+}
+
+function buildShareUrl() {
+  const route = `${state.currentEditionId}/${state.currentBookId}/${state.currentChapter}`
+    + (state.currentVerse ? `/${state.currentVerse}` : '');
+  const compareSegment = state.compareMode && state.compareEditionId
+    ? `/compare/${state.compareEditionId}`
+    : '';
+  return `${window.location.origin}${window.location.pathname}${window.location.search}#/${route}${compareSegment}`;
+}
+
+function getCurrentVerseText() {
+  const chapterKey = `${state.currentBookDir}/${state.currentChapter}`;
+  const chapterData = state.loadedChapters[chapterKey];
+  if (!chapterData || !chapterData.versiculos || !state.currentVerse) return null;
+
+  const verse = chapterData.versiculos.find(v => v && v.tipo !== 'bio' && Number(v.n) === state.currentVerse);
+  return verse && verse.texto ? verse.texto.trim() : null;
+}
+
+function getCompareVerseText() {
+  if (!state.compareMode || !state.compareEditionId || !state.currentVerse) return null;
+  const ed = state.editions.find(e => e.id === state.compareEditionId);
+  if (!ed || !ed.livros) return null;
+  const bookFile2 = ed.livros.find(f => f.includes('/' + state.currentBookId + '/'));
+  if (!bookFile2) return null;
+  const bookDir2 = bookDirFromFile(bookFile2);
+  const chapterData = state.loadedChapters[bookDir2 + '/' + state.currentChapter];
+  if (!chapterData || !chapterData.versiculos) return null;
+  const verse = chapterData.versiculos.find(v => v && v.tipo !== 'bio' && Number(v.n) === state.currentVerse);
+  return verse && verse.texto ? verse.texto.trim() : null;
+}
+
+function getShareLabel() {
+  const bookTitleEl = document.getElementById('nav-book-title');
+  const bookTitle = bookTitleEl && bookTitleEl.textContent
+    ? bookTitleEl.textContent.trim()
+    : state.currentBookId;
+
+  const verseText = getCurrentVerseText();
+  const ref = state.currentVerse
+    ? `${bookTitle} ${state.currentChapter}, ${state.currentVerse}`
+    : `${bookTitle} ${state.currentChapter}`;
+
+  const primaryLine = verseText ? `${ref} — ${verseText}` : ref;
+
+  if (state.compareMode && state.compareEditionId) {
+    const compareEdition = state.editions.find(e => e.id === state.compareEditionId);
+    const compareName = compareEdition ? compareEdition.edicao : state.compareEditionId;
+    const compareVerseText = getCompareVerseText();
+    const compareRef = state.currentVerse
+      ? `${bookTitle} (${compareName}), ${state.currentChapter}, ${state.currentVerse}`
+      : `${bookTitle} (${compareName}), ${state.currentChapter}`;
+    const compareLine = compareVerseText ? `Vulgata: ${compareVerseText}` : compareRef;
+    return `${primaryLine}\n\n${compareLine}`;
+  }
+
+  return primaryLine;
+}
+
+async function shareCurrentVerse() {
+  const shareUrl = buildShareUrl();
+  const shareLabel = getShareLabel();
+  const fullMessage = `${shareLabel}\n\n${shareUrl}`;
+
+  if (navigator.share) {
+    try {
+      await navigator.share({
+        title: 'Bíblia Sagrada',
+        text: shareLabel,
+        url: shareUrl,
+      });
+      return;
+    } catch (e) {
+      if (e && e.name === 'AbortError') return;
+    }
+  }
+
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    try {
+      await navigator.clipboard.writeText(fullMessage);
+      return;
+    } catch (_) {
+      // cai no prompt
+    }
+  }
+
+  window.prompt('Copie o versículo:', fullMessage);
+}
+
+function markUserNavigation() {
+  state.urlSyncEnabled = true;
+}
+
+function setCurrentVerse(verseNumber) {
+  const n = parsePositiveInt(verseNumber);
+  if (!n) return;
+  markUserNavigation();
+  state.currentVerse = n;
+  updateUrlFromState('replace');
+  saveNavigationToStorage();
+}
+
+async function onVerseNumberClick(e, verseNumber) {
+  if (e) e.preventDefault();
+  const n = parsePositiveInt(verseNumber);
+  if (!n) return;
+
+  setCurrentVerse(n);
+  highlightSelectedVerses(n);
+  await shareCurrentVerse();
+}
+
+async function restoreNavigationFromState(nav, options = {}) {
+  const firstEdition = state.editions.find(e => e.livros && e.livros.length > 0);
+  if (!firstEdition) {
+    document.getElementById('content').innerHTML = '<p class="error-msg">Nenhum livro disponível ainda. Adicione entradas em edicoes/index.json.</p>';
+    return;
+  }
+
+  const editionId = nav && nav.editionId && state.editions.some(e => e.id === nav.editionId && e.livros.length > 0)
+    ? nav.editionId
+    : firstEdition.id;
+
+  state.currentEditionId = editionId;
+  document.getElementById('sel-edition').value = editionId;
+
+  const selectedEdition = state.editions.find(e => e.id === editionId);
+  document.getElementById('topbar-edition-label').textContent = selectedEdition.edicao;
+
+  if (nav && nav.compareEditionId && nav.compareEditionId !== editionId) {
+    const compareEdition = state.editions.find(e => e.id === nav.compareEditionId && e.livros && e.livros.length > 0);
+    if (compareEdition) {
+      state.compareMode = true;
+      state.compareEditionId = compareEdition.id;
+      const area = document.getElementById('main-area');
+      area.classList.remove('single');
+      area.classList.add('compare');
+    }
+  }
+
+  const bookFile = nav && nav.bookId
+    ? (findBookFileByBookId(editionId, nav.bookId) || selectedEdition.livros[0])
+    : selectedEdition.livros[0];
+
+  await loadBook(
+    editionId,
+    bookFile,
+    nav && nav.chapter ? nav.chapter : 1,
+    nav && nav.verse ? nav.verse : null,
+    {
+      scrollToTop: false,
+      syncUrl: options.syncUrl,
+      historyMode: options.historyMode || 'replace',
+    }
+  );
+}
 
 // ══════════════════════════════════════════════════════════════
 //  BOOTSTRAP
@@ -36,18 +355,46 @@ async function init() {
   }
 
   buildEditionSelector();
+  state.appBasePath = detectAppBasePath(state.editions);
 
-  const firstEdition = state.editions.find(e => e.livros && e.livros.length > 0);
-  if (!firstEdition) {
-    document.getElementById('content').innerHTML = `<p class="error-msg">Nenhum livro disponível ainda. Adicione entradas em edicoes/index.json.</p>`;
-    return;
-  }
+  const navFromUrl = parseNavigationFromUrl();
+  const navFromStorage = loadNavigationFromStorage();
+  state.urlSyncEnabled = Boolean(navFromUrl);
+  await restoreNavigationFromState(navFromUrl || navFromStorage, {
+    syncUrl: Boolean(navFromUrl),
+    historyMode: 'replace',
+  });
 
-  state.currentEditionId = firstEdition.id;
-  document.getElementById('sel-edition').value = firstEdition.id;
-  document.getElementById('topbar-edition-label').textContent = firstEdition.edicao;
+  window.addEventListener('popstate', async () => {
+    const nav = parseNavigationFromUrl();
+    if (!nav) return;
 
-  await loadBook(firstEdition.id, firstEdition.livros[0]);
+    if (nav.compareEditionId && nav.compareEditionId !== (nav.editionId || state.currentEditionId)) {
+      const compareEdition = state.editions.find(e => e.id === nav.compareEditionId && e.livros && e.livros.length > 0);
+      if (compareEdition) {
+        state.compareMode = true;
+        state.compareEditionId = compareEdition.id;
+        const areaOn = document.getElementById('main-area');
+        areaOn.classList.remove('single');
+        areaOn.classList.add('compare');
+      }
+    } else {
+      state.compareMode = false;
+      state.compareEditionId = null;
+      const areaOff = document.getElementById('main-area');
+      areaOff.classList.remove('compare');
+      areaOff.classList.add('single');
+      document.getElementById('compare-grid').innerHTML = '';
+      document.getElementById('content-compare').innerHTML = '';
+    }
+
+    const editionId = nav.editionId && state.editions.some(e => e.id === nav.editionId)
+      ? nav.editionId
+      : state.currentEditionId;
+    const bookFile = findBookFileByBookId(editionId, nav.bookId) || findBookFileByBookId(editionId, state.currentBookId);
+    if (!bookFile) return;
+    await loadBook(editionId, bookFile, nav.chapter || 1, nav.verse || null, { scrollToTop: false, syncUrl: false });
+  });
 }
 
 // ══════════════════════════════════════════════════════════════
@@ -74,7 +421,8 @@ function onEditionChange(editionId) {
 
   const sameBook = ed.livros.find(f => f.includes(state.currentBookId));
   const bookFile = sameBook || ed.livros[0];
-  loadBook(editionId, bookFile);
+  markUserNavigation();
+  loadBook(editionId, bookFile, 1, null, { historyMode: 'push' });
 }
 
 // ══════════════════════════════════════════════════════════════
@@ -106,24 +454,41 @@ function bookDirFromFile(bookFile) {
   return bookFile.substring(0, bookFile.lastIndexOf('/'));
 }
 
-async function loadBook(editionId, bookFile, chapter = 1) {
+async function loadBook(editionId, bookFile, chapter = 1, verse = null, options = {}) {
   document.getElementById('content').innerHTML = '<p class="loading-msg">Carregando…</p>';
   try {
     const bookIndex = await fetchBookIndex(editionId, bookFile);
     const bookDir = bookDirFromFile(bookFile);
+    const chapterNumber = bookIndex.capitulos.includes(chapter) ? chapter : (bookIndex.capitulos[0] || 1);
+    const verseNumber = parsePositiveInt(verse);
 
     state.currentBookId = bookIndex.id;
     state.currentBookDir = bookDir;
-    state.currentChapter = chapter;
+    state.currentChapter = chapterNumber;
+    state.currentVerse = verseNumber;
     state.currentBookIntroducao = bookIndex.introducao || null;
 
-    const chData = await fetchChapter(bookDir, chapter);
+    const chData = await fetchChapter(bookDir, chapterNumber);
 
     renderChapter(chData, bookDir, 'content');
     updateNav(bookIndex);
     document.getElementById('nav-book-title').textContent = bookIndex.titulo;
     document.getElementById('bot-book-title').textContent = bookIndex.titulo;
     buildBookSelector();
+
+    const shouldSyncUrl = state.urlSyncEnabled && options.syncUrl !== false;
+    if (shouldSyncUrl) {
+      updateUrlFromState(options.historyMode || 'replace');
+    }
+    saveNavigationToStorage();
+
+    requestAnimationFrame(() => {
+      if (state.currentVerse) {
+        scrollToVerse(state.currentVerse);
+      } else if (options.scrollToTop) {
+        window.scrollTo(0, 0);
+      }
+    });
 
     if (state.compareMode && state.compareEditionId) {
       await loadCompareChapter();
@@ -160,7 +525,7 @@ function renderChapter(ch, bookDir, targetId) {
       const popupId = `popup_${targetId}_${item.nota}`;
       fnHtml = `<sup class="fnref" onclick="togglePopup(event,'${popupId}')">[${fnNum}]<span class="fn-popup" id="${popupId}"><button class="fn-close" onclick="closePopup(event)">✕</button><span class="fn-label">${nota.rotulo}</span> — <span>${nota.texto}</span></span></sup>`;
     }
-    return `<p class="verse" data-v="${item.n}"><span class="vnum"><a name="v${item.n}">${item.n}</a></span>${item.texto}${fnHtml}</p>`;
+    return `<p class="verse" id="v-${item.n}" data-v="${item.n}"><span class="vnum"><a href="#" onclick="onVerseNumberClick(event, ${item.n}); return false;" name="v${item.n}">${item.n}</a></span>${item.texto}${fnHtml}</p>`;
   }).join('\n');
 
   const pdfUrl = bookDir + '/' + ch.num + '.pdf';
@@ -203,7 +568,7 @@ function renderVerseHtml(item, notas, notaKeys, prefix) {
     const popupId = `popup_${prefix}_${item.nota}`;
     fnHtml = `<sup class="fnref" onclick="togglePopup(event,'${popupId}')">[${fnNum}]<span class="fn-popup" id="${popupId}"><button class="fn-close" onclick="closePopup(event)">✕</button><span class="fn-label">${nota.rotulo}</span> — <span>${nota.texto}</span></span></sup>`;
   }
-  return `<span class="vnum"><a name="v${item.n}_${prefix}">${item.n}</a></span>${item.texto}${fnHtml}`;
+  return `<span class="vnum"><a href="#" onclick="onVerseNumberClick(event, ${item.n}); return false;" name="v${item.n}_${prefix}">${item.n}</a></span>${item.texto}${fnHtml}`;
 }
 
 function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
@@ -263,12 +628,16 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
 
     const cell1 = document.createElement('div');
     cell1.className = 'cg-cell';
-    if (item1) cell1.innerHTML = renderVerseHtml(item1, ch1.notas || {}, notaKeys1, 'cg1');
+    if (item1) {
+      cell1.innerHTML = `<p class="verse compare-verse" data-v="${item1.n}">${renderVerseHtml(item1, ch1.notas || {}, notaKeys1, 'cg1')}</p>`;
+    }
     grid.appendChild(cell1);
 
     const cell2 = document.createElement('div');
     cell2.className = 'cg-cell';
-    if (item2) cell2.innerHTML = renderVerseHtml(item2, (ch2 && ch2.notas) || {}, notaKeys2, 'cg2');
+    if (item2) {
+      cell2.innerHTML = `<p class="verse compare-verse" data-v="${item2.n}">${renderVerseHtml(item2, (ch2 && ch2.notas) || {}, notaKeys2, 'cg2')}</p>`;
+    }
     grid.appendChild(cell2);
 
     const divider = document.createElement('div');
@@ -293,6 +662,10 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
     const bdivider = document.createElement('div');
     bdivider.className = 'cg-divider';
     grid.appendChild(bdivider);
+  }
+
+  if (state.currentVerse) {
+    highlightSelectedVerses(state.currentVerse);
   }
 }
 
@@ -343,22 +716,24 @@ function goChapter(n) {
   if (activePopup) { activePopup.classList.remove('active'); activePopup = null; }
   const ed = state.editions.find(e => e.id === state.currentEditionId);
   const bookFile = ed.livros.find(f => f.includes('/' + state.currentBookId + '/'));
-  loadBook(state.currentEditionId, bookFile, n);
-  window.scrollTo(0, 0);
+  markUserNavigation();
+  loadBook(state.currentEditionId, bookFile, n, null, { scrollToTop: true, historyMode: 'push' });
 }
 
 async function prevBook() {
   const ed = state.editions.find(e => e.id === state.currentEditionId);
   const idx = ed.livros.findIndex(f => f.includes('/' + state.currentBookId + '/'));
   if (idx <= 0) return;
-  await loadBook(state.currentEditionId, ed.livros[idx - 1], 1);
+  markUserNavigation();
+  await loadBook(state.currentEditionId, ed.livros[idx - 1], 1, null, { scrollToTop: true, historyMode: 'push' });
 }
 
 async function nextBook() {
   const ed = state.editions.find(e => e.id === state.currentEditionId);
   const idx = ed.livros.findIndex(f => f.includes('/' + state.currentBookId + '/'));
   if (idx < 0 || idx >= ed.livros.length - 1) return;
-  await loadBook(state.currentEditionId, ed.livros[idx + 1], 1);
+  markUserNavigation();
+  await loadBook(state.currentEditionId, ed.livros[idx + 1], 1, null, { scrollToTop: true, historyMode: 'push' });
 }
 
 // ══════════════════════════════════════════════════════════════
@@ -366,6 +741,7 @@ async function nextBook() {
 // ══════════════════════════════════════════════════════════════
 
 function toggleCompare() {
+  markUserNavigation();
   state.compareMode = !state.compareMode;
 
   // Atualiza texto de todos os botões Comparar visiveis
@@ -380,11 +756,13 @@ function toggleCompare() {
       state.compareEditionId = other.id;
       loadCompareChapter();
     }
+    updateUrlFromState('push');
   } else {
     area.classList.replace('compare', 'single');
     state.compareEditionId = null;
     document.getElementById('compare-grid').innerHTML = '';
     document.getElementById('content-compare').innerHTML = '';
+    updateUrlFromState('push');
   }
 }
 
@@ -403,8 +781,10 @@ function buildCompareEditionSelector() {
 
 function onCompareEditionChange(editionId) {
   if (!editionId) return;
+  markUserNavigation();
   state.compareEditionId = editionId;
   loadCompareChapter();
+  updateUrlFromState('push');
 }
 
 async function loadCompareChapter() {
@@ -495,7 +875,8 @@ function buildBookSelector() {
 
 async function selectBook(file) {
   closeBooks();
-  await loadBook(state.currentEditionId, file, 1);
+  markUserNavigation();
+  await loadBook(state.currentEditionId, file, 1, null, { scrollToTop: true, historyMode: 'push' });
 }
 
 async function openBooks() {
