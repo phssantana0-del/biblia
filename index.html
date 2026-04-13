@@ -831,17 +831,14 @@ function renderChapter(ch, bookDir, targetId) {
   }).join('\n');
 
   const pdfUrl = bookDir + '/' + ch.num + '.pdf';
-  const pdfBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'Original')">&#128196; Ver original</button>`;
-  const pdfOldBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${bookDir.replace('/figueiredo/', '/figueiredo-original/')}/${ch.num}.pdf', 'Original antigo')" style="margin-left:12px;">&#128196; Ver original antigo</button>`;
-  const introBtn = state.currentBookIntroducao
-    ? `<button class="ver-original-btn" onclick="openIntro()" style="margin-left:12px;">&#128214; Introdução</button>`
-    : '';
+  const pdfBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'Original')">&#128196; PDF recente</button>`;
+  const pdfOldBtn = `<button class="ver-original-btn" onclick="openPdfPanel('${bookDir.replace('/figueiredo/', '/figueiredo-original/')}/${ch.num}.pdf', 'Original antigo')" style="margin-left:12px;">&#128196; PDF original</button>`;
 
   document.getElementById(targetId).innerHTML = `
     <div class="chapter-header">
       <h1>Capítulo ${ch.num}</h1>
       <div class="summary">${ch.sumario}</div>
-      ${pdfBtn}${pdfOldBtn}${introBtn}
+      ${pdfBtn}${pdfOldBtn}
     </div>
     <hr class="section-rule">
     ${lines}
@@ -987,7 +984,10 @@ function updateNav(bookIndex) {
   }
 
   // chapter links
-  let links = '<span class="label">Capítulos:</span> ';
+  const introLink = state.currentBookIntroducao
+    ? `<a href="#" onclick="openIntro(); return false;">Introdução</a> `
+    : '';
+  let links = '<span class="label">Capítulos:</span> ' + introLink;
   caps.forEach(n => {
     if (n === ch) links += `<a class="current" href="#">${n}</a> `;
     else links += `<a href="#" onclick="goChapter(${n}); return false;">${n}</a> `;
