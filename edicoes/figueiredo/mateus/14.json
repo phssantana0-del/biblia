@@ -1,0 +1,80 @@
+{
+  "num": 14,
+  "sumario": "Morte de S. João Batista. Com cinco pães e dois peixes, satisfaz Jesus Cristo no deserto cinco mil homens. Caminha sôbre as ondas em ocasião de tormenta. O mesmo faz Pedro, enquanto lhe não falta a fé. Cura o Senhor diversas enfermidades ao contacto do seu vestido.",
+  "versiculos": [
+    { "n": 1,  "texto": "Naquele tempo Herodes tetrarca ouviu a fama de Jesus.", "nota": "fn14_1" },
+    { "n": 2,  "texto": "E disse aos seus criados: Êste é João Batista: Êle ressuscitou dentre os mortos, e por isso obram nele tantos milagres." },
+    { "n": 3,  "texto": "Porque Herodes tinha feito prender a João, ligar com cadeias: E assim o meteu no cárcere, por causa de Herodiades, mulher de seu irmão.", "nota": "fn14_2" },
+    { "n": 4,  "texto": "Porque João lhe dizia: Não te é lícito tê-la por mulher.", "nota": "fn14_3" },
+    { "n": 5,  "texto": "E querendo matá-lo, temia ao povo: Porque o reputavam como um profeta." },
+    { "n": 6,  "texto": "Mas no dia em que Herodes fazia anos, bailou a filha de Herodiades diante de todos e agradou a Herodes.", "nota": "fn14_4" },
+    { "n": 7,  "texto": "Por onde êle lhe prometeu com juramento, que lhe daria tudo o que lhe pedisse." },
+    { "n": 8,  "texto": "Mas ela, prevenida por sua mãe: Dá-me, disse, aqui em um prato a cabeça de João Batista." },
+    { "n": 9,  "texto": "E o rei se entristeceu: Mas pelo juramento e pelo que estavam com êle à mesa, lha mandou dar." },
+    { "n": 10, "texto": "E deu ordem para que fossem degolar a João no cárcere.", "nota": "fn14_5" },
+    { "n": 11, "texto": "E foi trazida a sua cabeça num prato, e dada à moça, e ela a levou a sua mãe." },
+    { "n": 12, "texto": "E chegando os seus discípulos, levaram o seu corpo, e o sepultaram: E foram dar a notícia a Jesus." },
+    { "n": 13, "texto": "E quando Jesus a ouviu, se retirou dali em uma barca a um lugar deserto: E tendo ouvido isto, as gentes foram saindo das cidades a pé em seu seguimento.", "nota": "fn14_6" },
+    { "n": 14, "texto": "E ao saltar em terra viu Jesus uma grande multidão de gente, e teve deles compaixão, e curou os seus enfermos." },
+    { "n": 15, "texto": "E vindo a tarde, se chegaram a êle os seus discípulos, dizendo: Deserto é êste lugar, e a hora é já passada: Deixa ir essa gente, para que, passando às aldeias, compre de comer." },
+    { "n": 16, "texto": "E Jesus lhes disse: Não têm necessidade de se ir: Dai-lhes vós outros de comer." },
+    { "n": 17, "texto": "Responderam-lhe: Não temos aqui senão cinco pães e dois peixes." },
+    { "n": 18, "texto": "Jesus lhes disse: Trazei-mos cá." },
+    { "n": 19, "texto": "E tendo mandado à gente que se recostasse sôbre o feno, tomando os cinco pães e os dois peixes, com os olhos no Céu abençoou e partiu os pães, e os deu aos discípulos, e os discípulos ao povo.", "nota": "fn14_7" },
+    { "n": 20, "texto": "E comeram todos, e se saciaram. E levantaram, do que sobejou, doze cestos cheios daqueles fragmentos." },
+    { "n": 21, "texto": "E o número dos que comeram foi de cinco mil homens, sem falar em mulheres e meninos." },
+    { "n": 22, "texto": "E obrigou logo Jesus a seus discípulos a que se embarcassem, e que passassem primeiro que êle à outra ribeira do lago, enquanto êle despedia a gente.", "nota": "fn14_8" },
+    { "n": 23, "texto": "E logo que a despediu, subiu só a um monte a orar. E quando veio a noite, achava-se ali só." },
+    { "n": 24, "texto": "E a barca no meio do mar era combatida das ondas: Porque o vento era contrário." },
+    { "n": 25, "texto": "Porém na quarta vigília da noite, veio Jesus ter com êles, andando sôbre o mar.", "nota": "fn14_9" },
+    { "n": 26, "texto": "E quando o viram andar sôbre o mar, se turbaram dizendo: É pois um fantasma, e de mêdo começaram a gritar." },
+    { "n": 27, "texto": "Mas Jesus lhes falou imediatamente, dizendo: Tende confiança, sou eu, não temais." },
+    { "n": 28, "texto": "E respondendo Pedro, lhe disse: Senhor, se tu és, manda-me que vá até onde tu estás por cima das águas." },
+    { "n": 29, "texto": "E êle lhe disse: Vem. E descendo Pedro da barca, ia caminhando sôbre a água para chegar a Jesus." },
+    { "n": 30, "texto": "Vendo, porém, que o vento era rijo, temeu, e quando se ia submergindo, gritou, dizendo: Senhor, põe-me a salvo." },
+    { "n": 31, "texto": "E no mesmo ponto Jesus estendendo a mão, o tomou por ela e lhe disse: Homem de pouca fé, por que duvidaste?" },
+    { "n": 32, "texto": "E depois que subiram à barca, cessou o vento." },
+    { "n": 33, "texto": "Então vieram os que estavam na barca, e o adoraram, dizendo: Verdadeiramente tu és Filho de Deus." },
+    { "n": 34, "texto": "E tendo passado à outra banda, vieram para a terra de Genesar." },
+    { "n": 35, "texto": "E depois de o terem reconhecido os naturais daquele lugar, mandaram por todo aquele país circunvizinho, e lhe apresentaram todos quantos padeciam algum mal:" },
+    { "n": 36, "texto": "E lhe rogavam que os deixasse tocar sequer a orla do seu vestido. E todos os que o tocaram, ficaram sãos." }
+  ],
+  "notas": {
+    "fn14_1": {
+      "rotulo": "Herodes tetrarca",
+      "texto": "Chamava-se também Antipas e era filho, como Arquelau, de Herodes o Grande e da Samaritana Maltácia. Depois da morte de seu pai tornou-se tetrarca da Galiléia e da Peréia. Casou em primeiras núpcias com uma filha do rei árabe Areta, mas pouco depois juntou-se com sua sobrinha Herodiades, mulher de seu irmão Herodes Filipe. Era um espírito fraco, pusilânime, sem vontade própria, supersticioso, astuto e sem convicções. Foi diante dêste Herodes que compareceu Jesus. Veio a morrer no exílio, indo primeiro para Leão e depois para a Espanha. O título de tetrarca era dado aos príncipes que governavam a quarta parte dum reino desmembrado."
+    },
+    "fn14_2": {
+      "rotulo": "Herodiades, mulher de seu irmão",
+      "texto": "Era filha de Aristóbulo, um dos filhos de Herodes Magno e de Mariame, e irmã de Herodes Agripa. Casou com seu tio Herodes Filipe, a quem abandonou para se juntar criminosamente com Herodes Antipas, que por sua vez cometeu adultério, abandonando sua mulher, a filha do rei da Arábia. Êste último, para vingar a afronta feita à sua filha, investiu contra o exército de Herodes que desbaratou. O povo, conta Flávio Josefa, tomou esta derrota à conta de castigo, pelo bárbaro assassinato de João Batista, mandado perpetrar por Antipas a instâncias de Herodiades e de sua filha Salomé. Esta Herodiades, vivendo em ambições, acabou por perder o seu cúmplice, obrigando-o a pedir a Roma o título de rei, o que foi aproveitado pelos inimigos, que lhe prepararam o exílio.<br><br>MULHER DE SEU IRMÃO — Filipe (como exprime o texto grego), filho do mesmo pai, mas não da mesma mãe. E ela era neta de Herodes, o Grande, e filha de Aristóbulo, irmão dos dois. — Duhamel."
+    },
+    "fn14_3": {
+      "rotulo": "Não te é lícito",
+      "texto": "Porque semelhantes núpcias estavam proibidas por Deus, no Lev 18. — Calmet."
+    },
+    "fn14_4": {
+      "rotulo": "A filha de Herodiades",
+      "texto": "Chamada Salomé, como consta da história de Josefa, no livro 18, cap. 7. — Duhamel."
+    },
+    "fn14_5": {
+      "rotulo": "No cárcere",
+      "texto": "Josefo ensina-nos que S. João Batista foi preso em Maqueronte (Machoerus, hoje M'Kaus) a este do Mar Morto. Era uma fortaleza construída por Alexandre, filho de Hircano I. Herodes Magno tinha-a tornado a fortaleza mais importante. Estava a 1158 metros acima do Mar Morto, e 764 acima do Mediterrâneo."
+    },
+    "fn14_6": {
+      "rotulo": "Lugar deserto — Foram saindo",
+      "texto": "LUGAR DESERTO — Ficava nas cercanias de Betsaida-Júlias, a nordeste do lago de Tiberíades, na tetrarquia de Filipe, príncipe dum caráter pacífico e bondoso.<br><br>FORAM SAINDO — Daqui se colhe que o Senhor não atravessou o mar à outra banda, mas sim alguma enseada, donde desembarcou para a mesma parte da terra, por onde foram ter com êle as turbas. — Duhamel."
+    },
+    "fn14_7": {
+      "rotulo": "Abençoou",
+      "texto": "Abençoar e dar graças são expressões sinônimas na Escritura. Jo 6, 11."
+    },
+    "fn14_8": {
+      "rotulo": "A outra ribeira do lago",
+      "texto": "De Genesar ou Tiberíades. Na margem ficava a terra de Genesar, a oeste provavelmente do lugar chamado hoje el Ghoulir, entre Khan Minych e Migjdel. Josefo diz que esta terra era muito fértil e duma grande beleza."
+    },
+    "fn14_9": {
+      "rotulo": "Na quarta vigília",
+      "texto": "Quase ao raiar da alva. Dividiam a noite em quatro partes, que chamavam vigílias, porque, segundo a disciplina militar, se mudavam as sentinelas quatro vêzes no decurso da noite. Estas eram maiores ou menores, segundo variava a estação do ano. A quarta vigília era a última, como se disséssemos ao amanhecer, ou ao raiar da alva. Mc 13, 35. Êste costume foi tomado dos romanos, porque antes de estarem debaixo do seu domínio dividiam a noite em três vigílias. Por isso nos Evangelhos se faz menção da quarta vigília da noite, expressão que não se acha em todo o Antigo Testamento."
+    }
+  }
+}

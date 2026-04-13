@@ -1,0 +1,74 @@
+{
+  "num": 25,
+  "sumario": "A parábola das dez virgens. A outra dos talentos repartidos. Cada um será recompensado segundo os seus merecimentos. Jesus Cristo reconhecerá como feito a Êle, o que se fizer aos seus.",
+  "versiculos": [
+    { "n": 1, "texto": "Então será semelhante o reino dos Céus a dez virgens: Que tomando as suas lâmpadas, saíram a receber o esposo e a esposa.", "nota": "fn25_1" },
+    { "n": 2, "texto": "Mas cinco delas eram loucas, e cinco prudentes." },
+    { "n": 3, "texto": "As cinco porém que eram loucas, tomando as suas lâmpadas, não levaram azeite consigo:" },
+    { "n": 4, "texto": "Mas as prudentes levaram azeite nas suas vasilhas juntamente com as lâmpadas.", "nota": "fn25_2" },
+    { "n": 5, "texto": "E tardando o esposo, começaram a tosquenejar tôdas, e assim vieram a dormir.", "nota": "fn25_3" },
+    { "n": 6, "texto": "Quando à meia-noite se ouviu gritar: Eis aí vem o esposo, saí a recebê-lo." },
+    { "n": 7, "texto": "Então se levantaram tôdas aquelas virgens, e prepararam as suas lâmpadas." },
+    { "n": 8, "texto": "E disseram as fátuas às prudentes: Dai-nos do vosso azeite, porque as nossas lâmpadas se apagam." },
+    { "n": 9, "texto": "Responderam as prudentes, dizendo: Para que não suceda talvez faltar-nos êle a nós, e a vós, ide antes aos que o vendem, e comprai o que haveis mister." },
+    { "n": 10, "texto": "E enquanto elas foram comprá-lo, veio o esposo, e as que estavam apercebidas entraram com êle a celebrar as bodas, e fechou-se a porta.", "nota": "fn25_4" },
+    { "n": 11, "texto": "E por fim vieram também as outras virgens, dizendo: Senhor, Senhor, abre-nos." },
+    { "n": 12, "texto": "Mas êle respondendo, lhes disse: Na verdade vos digo, que vos não conheço." },
+    { "n": 13, "texto": "Vigiai pois, porque não sabeis o dia, nem a hora." },
+    { "n": 14, "texto": "Porque assim é como um homem que, ao ausentar-se para longe, chamou aos seus servos, e lhes entregou os seus bens." },
+    { "n": 15, "texto": "E deu a um cinco talentos, e a outro dois, e a outro deu um, a cada um segundo a sua capacidade, e partiu logo.", "nota": "fn25_5" },
+    { "n": 16, "texto": "O que recebera pois cinco talentos, foi-se e entrou a negociar com êles, e ganhou outros cinco." },
+    { "n": 17, "texto": "Da mesma sorte também o que recebera dois, ganhou outros dois." },
+    { "n": 18, "texto": "Mas o que havia recebido um, indo-se com êle cavou na terra, e escondeu ali o dinheiro de seu senhor." },
+    { "n": 19, "texto": "E passando muito tempo veio o Senhor daqueles servos, e chamou-os a contas." },
+    { "n": 20, "texto": "E chegando-se a êle o que havia recebido os cinco talentos, apresentou-lhe outros cinco talentos, dizendo: Senhor, tu me entregaste cinco talentos, eis aqui tens outros cinco mais que lucrei." },
+    { "n": 21, "texto": "Seu senhor lhe disse: Muito bem, servo bom, e fiel, já que foste fiel nas cousas pequenas, dar-te-ei a intendência das grandes; entra no gôzo de teu Senhor." },
+    { "n": 22, "texto": "Da mesma sorte apresentou-se também o que havia recebido dois talentos, e disse: Senhor, tu me entregaste dois talentos, eis aqui outros dois, que ganhei com êles." },
+    { "n": 23, "texto": "Seu Senhor lhe disse: Bem está, servo bom, e fiel, já que foste fiel nas cousas pequenas, dar-te-ei a intendência das grandes; entra no gôzo de teu senhor." },
+    { "n": 24, "texto": "E chegando também o que havia recebido um talento, disse: Senhor, sei que és um homem de rija condição, segas onde não semeaste, e recolhes onde não espalhaste:" },
+    { "n": 25, "texto": "E temendo me fui, e escondi o teu talento na terra: Eis aqui tens o que é teu." },
+    { "n": 26, "texto": "E respondendo seu Senhor, lhe disse: Servo mau, e preguiçoso, sabias que sego onde não semeio, e que recolho onde não tenho espalhado:" },
+    { "n": 27, "texto": "Devias logo dar o meu dinheiro aos banqueiros, e vindo eu teria recebido certamente com juro o que era meu." },
+    { "n": 28, "texto": "Tirai-lhe pois o talento, e dai-o ao que tem dez talentos." },
+    { "n": 29, "texto": "Porque a todo o que já tem, dar-se-lhe-á, e terá em abundância: E ao que não tem, tirar-se-lhe-á até o que parece que tem." },
+    { "n": 30, "texto": "E ao servo inútil lançai-o nas trevas exteriores: Ali haverá chôro, e ranger de dentes." },
+    { "n": 31, "texto": "Mas quando vier o Filho do homem na sua majestade, e todos os anjos com êle, então se assentará sôbre o trono da sua majestade:" },
+    { "n": 32, "texto": "E serão tôdas as gentes congregadas diante dêle, e separará uns dos outros, como o pastor aparta dos cabritos as ovelhas:" },
+    { "n": 33, "texto": "E assim porá as ovelhas à direita, e os cabritos à esquerda." },
+    { "n": 34, "texto": "Então dirá o rei aos que hão de estar à sua direita: Vinde, benditos de meu Pai, possui o reino que vos está preparado desde o princípio do mundo:" },
+    { "n": 35, "texto": "Porque tive fome, e destes-me de comer: Tive sêde, e destes-me de beber: Era hóspede, e recolhestes-me:" },
+    { "n": 36, "texto": "Estava nu, e cobristes-me: Estava enfermo, e visitastes-me: Estava no cárcere, e viestes ver-me." },
+    { "n": 37, "texto": "Então lhe responderão os justos, dizendo: Senhor, quando é que nós te vimos faminto, e te demos de comer: Ou sequioso, e te demos de beber?" },
+    { "n": 38, "texto": "E quando te vimos hóspede, e te recolhemos: Ou nu, e te vestimos?" },
+    { "n": 39, "texto": "Ou quando te vimos enfermo: Ou no cárcere, e te fomos ver?" },
+    { "n": 40, "texto": "E respondendo o rei, lhes dirá: Na verdade vos digo, que quantas vêzes vós fizestes isto a um dêstes meus irmãos mais pequeninos, a mim é que o fizestes." },
+    { "n": 41, "texto": "Então dirá também aos que hão de estar à esquerda: Apartai-vos de mim, malditos, para o fogo eterno, que está preparado para o diabo, e para os seus anjos:" },
+    { "n": 42, "texto": "Porque tive fome, e não me destes de comer: Tive sêde, e não me destes de beber:" },
+    { "n": 43, "texto": "Era hóspede, e não me recolhestes; estava nu, e não me cobristes: Estava enfermo, e no cárcere, e não me visitastes." },
+    { "n": 44, "texto": "Então êles também lhe responderão, dizendo: Senhor, quando é que nós te vimos faminto, ou sequioso, ou hóspede, ou nu, ou enfermo, ou no cárcere, e deixamos de te assistir?" },
+    { "n": 45, "texto": "Então lhes responderá êle, dizendo: Na verdade vos digo: Que quantas vêzes o deixastes de fazer a um dêstes pequeninos, a mim o deixastes de fazer." },
+    { "n": 46, "texto": "E irão êstes para o suplício eterno, e os justos para a vida eterna." }
+  ],
+  "notas": {
+    "fn25_1": {
+      "rotulo": "1",
+      "texto": "A DEZ VIRGENS — Êste completo número compreende todos os fiéis cristãos, que se comparam às Virgens, por causa da pureza da sua fé, e da profissão que fazem de se abster de todos os deleites profanos. O espôso é Jesus Cristo; a espôsa a Igreja."
+    },
+    "fn25_2": {
+      "rotulo": "2",
+      "texto": "AZEITE — Êste azeite é a caridade que faz luzir, e que nutre a fé, para obrarmos bem."
+    },
+    "fn25_3": {
+      "rotulo": "3",
+      "texto": "E TARDANDO O ESPOSO — Esta tardança do espôso significa, segundo os santos Padres, o tempo que passará desde a primeira vinda do Filho de Deus até à segunda."
+    },
+    "fn25_4": {
+      "rotulo": "4",
+      "texto": "E ENQUANTO ELAS FORAM — S. Jerônimo o explica, dizendo: que depois do dia do juízo, está fechada a porta, e não fica lugar para as boas obras e justiça. Pelo nome de lâmpada se entende a Fé, e pelo de óleo a Caridade. — Bossuet.<br><br>A CELEBRAR AS BODAS — Entraram no banquete, e gôzo do Céu. O fim porém desta parábola é mostrar a necessidade que todos têm de trabalhar, cada um segundo o seu talento, e segundo o seu emprêgo. — Sacy."
+    },
+    "fn25_5": {
+      "rotulo": "5",
+      "texto": "TALENTOS — Cada talento valia quase dez tostões.<br><br>SEGUNDO A SUA CAPACIDADE — Segundo a medida da fé, e da graça, que cada um haja recebido; porque Deus não nos manda coisas impossíveis, nem nos põe uma carga que não possamos levar, ajudados da sua graça."
+    }
+  }
+}

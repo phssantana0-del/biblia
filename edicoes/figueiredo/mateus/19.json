@@ -1,0 +1,66 @@
+{
+  "num": 19,
+  "sumario": "O matrimônio indissolúvel. Louvor dos que por amor de Deus observam o celibato. Jesus impondo as mãos aos meninos. Aconselha a pobreza a um rico, e êste se entristece. Embaraço que as riquezas fazem à salvação. Prêmio dos que tudo deixam por Cristo.",
+  "versiculos": [
+    { "n": 1, "texto": "E aconteceu que tendo Jesus acabado êstes discursos, partiu de Galiléia, e veio para os confins da Judéia, além do Jordão." },
+    { "n": 2, "texto": "E seguiram-no muitas gentes, e curou ali os enfermos." },
+    { "n": 3, "texto": "E chegaram-se a êle os fariseus tentando-o, e dizendo: É porventura lícito a um homem repudiar a sua mulher, por qualquer coisa?" },
+    { "n": 4, "texto": "Êle respondendo, lhes disse: Não tendes lido que quem criou o homem desde o princípio, fê-los macho, e fêmea? e disse:", "nota": "fn19_1" },
+    { "n": 5, "texto": "Por isso deixará o homem pai e mãe, e ajuntar-se-á com sua mulher, e serão dois numa só carne:" },
+    { "n": 6, "texto": "Assim que já não são dois, mas uma só carne: Não separe logo o homem o que Deus ajuntou." },
+    { "n": 7, "texto": "Replicaram-lhe êles: Pois por que mandou Moisés dar o homem a sua mulher carta de desquite, e repudiá-la?" },
+    { "n": 8, "texto": "Respondeu-lhes: Porque Moisés, pela dureza de vossos corações, vos permitiu repudiar a vossas mulheres: Mas ao princípio não foi assim.", "nota": "fn19_2" },
+    { "n": 9, "texto": "Eu pois vos declaro que todo aquele que repudiar sua mulher, se não é por causa de adultério, e casar com outra, comete adultério: E o que se casar com a que outro repudiou, comete adultério.", "nota": "fn19_3" },
+    { "n": 10, "texto": "Disseram-lhe seus discípulos: Se tal é a condição de um homem a respeito de sua mulher, não convém casar-se." },
+    { "n": 11, "texto": "Ao que êle respondeu: Nem todos são capazes desta resolução, mas somente aqueles a quem isto foi dado." },
+    { "n": 12, "texto": "Porque há uns castrados, que nasceram assim do ventre de sua mãe; e há outros castrados, a quem outros homens fizeram tais: E há outros castrados que a si mesmos se castraram por amor do reino dos Céus. O que é capaz de compreender isto, compreenda-o.", "nota": "fn19_4" },
+    { "n": 13, "texto": "Então lhe foram apresentados vários meninos, para lhes impor as mãos e fazer oração por êles. E os discípulos os repeliam com palavras ásperas." },
+    { "n": 14, "texto": "Mas Jesus lhes disse: Deixai os meninos e não embaraceis que êles venham a mim, porque dêstes tais é o reino dos Céus." },
+    { "n": 15, "texto": "E depois que lhes impôs as mãos, partiu dali." },
+    { "n": 16, "texto": "E eis que chegando-se a êle um, lhe disse: Bom Mestre, que obras boas devo eu fazer para alcançar a vida eterna?" },
+    { "n": 17, "texto": "Jesus lhe respondeu: Porque me perguntas tu o que é bom? Bom só Deus o é. Porém se tu queres entrar na vida, guarda os mandamentos." },
+    { "n": 18, "texto": "Êle lhe perguntou: Quais? e Jesus lhe disse: Não cometerás homicídio: Não adulterarás: Não cometerás furto: Não dirás falso testemunho:" },
+    { "n": 19, "texto": "Honra teu pai e a tua mãe, e amarás ao teu próximo como a ti mesmo." },
+    { "n": 20, "texto": "O mancebo lhe disse: Eu tenho guardado tudo isso desde a minha mocidade; que é o que me falta ainda?" },
+    { "n": 21, "texto": "Jesus lhe respondeu: Se queres ser perfeito, vai, vende o que tens, e dá-o aos pobres, e terás um tesouro no Céu: Depois vem, e segue-me." },
+    { "n": 22, "texto": "O mancebo porém, como ouviu esta palavra, retirou-se triste, porque tinha muitos bens." },
+    { "n": 23, "texto": "E Jesus disse a seus discípulos: Em verdade vos digo, que um rico dificultosamente entrará no reino dos Céus." },
+    { "n": 24, "texto": "Ainda vos digo mais: Que mais fácil é passar um camelo pelo fundo duma agulha, do que entrar um rico no reino dos Céus.", "nota": "fn19_5" },
+    { "n": 25, "texto": "Ora, os discípulos, ouvidas estas palavras, conceberam grande espanto, dizendo: Quem poderá logo salvar-se?" },
+    { "n": 26, "texto": "Porém Jesus olhando para êles, disse: Aos homens é isto impossível: Mas a Deus tudo é possível." },
+    { "n": 27, "texto": "Então respondendo Pedro, lhe disse: Eis aqui estamos nós que deixamos tudo e te seguimos: Que galardão pois será o nosso?", "nota": "fn19_6" },
+    { "n": 28, "texto": "E Jesus lhes disse: Em verdade vos afirmo que vós, quando no dia da regeneração estiver o Filho do homem sentado no Trono da sua Glória, vós, torno a dizer, que me seguistes, também estareis sentados sôbre doze tronos, e julgareis as doze Tribos de Israel.", "nota": "fn19_7" },
+    { "n": 29, "texto": "E todo o que deixar por amor do meu Nome a casa, ou os irmãos, ou as irmãs, ou o pai, ou a mãe, ou a mulher, ou os filhos, ou as fazendas, receberá cento por um, e possuirá a vida eterna." },
+    { "n": 30, "texto": "Porém muitos primeiros virão a ser os últimos, e muitos últimos virão a ser os primeiros." }
+  ],
+  "notas": {
+    "fn19_1": {
+      "rotulo": "O HOMEM",
+      "texto": "Isto é, a criatura humana. Esta palavra refere-se à espécie, e não ao indivíduo. Êste é o sentido de hebreus donde Jesus Cristo fez a citação Gên 1, 27."
+    },
+    "fn19_2": {
+      "rotulo": "PERMITIU",
+      "texto": "Não vo-lo mandou Moisés, como vós dizeis, mas só o permitiu, à vista da vossa obstinação, e dureza, e prevendo maiores males, se vo-lo não permitia.<br><br>MAS AO PRINCÍPIO NÃO FOI ASSIM — Porque Adão e Eva foram de tal maneira criados um por causa do outro, e unidos tão estreitamente por disposição do seu Criador, que a sua união devia ser inseparável, e o modelo do laço indissolúvel dos matrimônios dos seus descendentes."
+    },
+    "fn19_3": {
+      "rotulo": "SE NÃO É POR CAUSA DE ADULTÉRIO",
+      "texto": "Jesus Cristo, visto os costumes e legislação então vigentes, permite ao marido, em caso de adultério, que se separe da mulher, mas proíbe-lhe expressamente que vá esposar outra, sendo a primeira viva: de maneira que, dado o adultério, permite-se a separação da pessoa e bens, quoad thorum et habitationem, condena-se, porém, o divórcio. Em Mc 10, 11, e principalmente em Lc 16, 18, confirma-se esta proposição, e teremos ocasião de voltar ao assunto."
+    },
+    "fn19_4": {
+      "rotulo": "O QUE É CAPAZ DE COMPREENDER",
+      "texto": "Não o foi Orígenes no terceiro século, que entendendo à letra êste texto, êle mesmo se castrou, cuidando que assim observava o Evangelho, como refere Eusébio na sua História Eclesiástica, Livro 6, cap. 8. Mas não foi antes de Orígenes outro cristão, de quem escreve S. Justino Mártir na Apologia 2, que pedira licença ao governador Félix para os cirurgiões o castrarem, não obstante a proibição das leis romanas. Porém a Igreja católica sempre entendeu esta castração, não no sentido material, mas sim no espiritual: que consiste em vivermos em carne, como se não fôssemos de carne, renunciando a todos os bens e prazeres terrenos."
+    },
+    "fn19_5": {
+      "rotulo": "DO QUE ENTRAR UM RICO NO REINO DOS CÉUS",
+      "texto": "Isto é um ditado, rifão vulgar entre os judeus e os árabes, para designar a dificuldade de conseguir qualquer coisa. Jesus Cristo quer exprimir a nímia dificuldade que tem o rico, que viva apegado às suas riquezas e prazeres, cuidando só destes, com menospêzo dos seus irmãos, de se salvar."
+    },
+    "fn19_6": {
+      "rotulo": "QUE DEIXAMOS TUDO",
+      "texto": "Não tendo Pedro deixado senão o seu barco, e as suas rêdes, diz resolutamente a Cristo, que deixará tudo: porque, como adverte Santo Agostinho escrevendo a Paulino, com efeito tudo despreza aquele que despreza a posse não só de tudo quanto podia ter, mas também de tudo o que queria ter. Duhamel."
+    },
+    "fn19_7": {
+      "rotulo": "NO DIA DA REGENERAÇÃO",
+      "texto": "No dia do Juízo. Pereira."
+    }
+  }
+}

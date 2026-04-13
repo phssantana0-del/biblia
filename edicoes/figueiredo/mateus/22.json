@@ -1,0 +1,98 @@
+{
+  "num": 22,
+  "sumario": "Parábola do festim das bodas. O que não trouxe vestido nupcial é expulso, e lançado em trevas. Deve-se pagar o tributo a César. Os saduceus confundidos. O preceito máximo é o de amar a Deus de todo o coração. Davi sendo pai do Messias, chama a êste seu Senhor.",
+  "versiculos": [
+    { "n": 1, "texto": "E respondendo Jesus, lhes tornou a falar segunda vez em parábolas, dizendo:" },
+    { "n": 2, "texto": "O reino dos Céus é semelhante a um homem rei que fez as bodas a seu filho." },
+    { "n": 3, "texto": "E mandou os seus servos a chamar os convidados para as bodas, mas êles recusaram ir." },
+    { "n": 4, "texto": "Enviou de novo outros servos, com êste recado: Dizei aos convidados: Eis aqui tenho preparado o meu banquete, os meus touros, e os animais cevados já mortos, e tudo pronto, vinde às bodas." },
+    { "n": 5, "texto": "Mas eles desprezaram o convite: E se foram, um para a sua casa de campo, e outro para o seu tráfico:" },
+    { "n": 6, "texto": "Outros porém lançaram mão dos servos que êle enviara; e depois de os haverem ultrajado, os mataram." },
+    { "n": 7, "texto": "Mas o rei tendo ouvido isto, se irou: E tendo feito marchar os seus exércitos, acabou com aqueles homicidas, e pôs fogo à sua cidade.", "nota": "fn22_1" },
+    { "n": 8, "texto": "Então disse aos seus servos: As bodas com efeito estão preparadas, mas os que estavam convidados não foram dignos de se acharem no banquete:" },
+    { "n": 9, "texto": "Ide pois às saídas das ruas, e a quantos achardes, convidai-os para as bodas.", "nota": "fn22_2" },
+    { "n": 10, "texto": "E tendo saído os seus servos pelas ruas, congregaram todos os que acharam, maus e bons: E ficou cheia de convidados a sala do banquete das bodas.", "nota": "fn22_3" },
+    { "n": 11, "texto": "Entrou depois o rei para ver os que estavam à mesa, e viu ali um homem que não estava vestido com veste nupcial.", "nota": "fn22_4" },
+    { "n": 12, "texto": "E disse-lhe: Amigo, como entraste aqui, não tendo vestido nupcial? Mas êle emudeceu." },
+    { "n": 13, "texto": "Então disse o rei aos seus ministros: Atai-o de pés e mãos, e lançai-o nas trevas exteriores: Aí haverá chôro e ranger dos dentes.", "nota": "fn22_5" },
+    { "n": 14, "texto": "Porque são muitos os chamados e poucos os escolhidos." },
+    { "n": 15, "texto": "Então retirando-se os fariseus, consultaram entre si como o surpreenderiam no que falasse." },
+    { "n": 16, "texto": "E enviaram-lhe seus discípulos juntamente com os herodianos, que lhe disseram: Mestre, nós sabemos que és verdadeiro, e que ensinas o caminho de Deus pela verdade, e não se te dá de ninguém: Porque não fazes acepção de pessoas:", "nota": "fn22_6" },
+    { "n": 17, "texto": "Dize-nos pois qual é o teu sentimento: É lícito dar o tributo a César, ou não?", "nota": "fn22_7" },
+    { "n": 18, "texto": "Porém Jesus conhecendo a sua malícia, disse-lhes: Por que me tentais, hipócritas?" },
+    { "n": 19, "texto": "Mostrai-me cá a moeda do censo. E êles lhe apresentaram um dinheiro." },
+    { "n": 20, "texto": "E Jesus lhes disse: De quem é esta imagem e inscrição?" },
+    { "n": 21, "texto": "Responderam-lhe êles: De César. Então lhes disse Jesus: Pois dai a César o que é de César, e a Deus o que é de Deus." },
+    { "n": 22, "texto": "E quando isto ouviram se admiraram, e deixando-o se retiraram." },
+    { "n": 23, "texto": "Naquele dia vieram a êle os saduceus, que dizem não haver ressurreição: E lhe fizeram esta pergunta," },
+    { "n": 24, "texto": "dizendo: Mestre, Moisés disse: Que se morrer algum que não tenha filho, seu irmão se case com sua mulher, e dê sucessão a seu irmão." },
+    { "n": 25, "texto": "Ora entre nós havia sete irmãos: Depois de casado faleceu o primeiro: E porque não teve filho, deixou sua mulher a seu irmão." },
+    { "n": 26, "texto": "O mesmo sucedeu ao segundo, ao terceiro, até ao sétimo." },
+    { "n": 27, "texto": "E ultimamente, depois de todos, faleceu também a mulher." },
+    { "n": 28, "texto": "A qual dos sete logo pertencerá a mulher na ressurreição? porque todos foram casados com ela." },
+    { "n": 29, "texto": "E respondendo Jesus, lhes disse: Errais não sabendo as Escrituras, nem o poder de Deus." },
+    { "n": 30, "texto": "Porque depois da ressurreição, nem as mulheres terão maridos, nem os maridos mulheres: Mas serão como os Anjos de Deus no Céu." },
+    { "n": 31, "texto": "E sôbre a ressurreição dos mortos, vós não tendes lido o que Deus disse, falando convosco:" },
+    { "n": 32, "texto": "Eu sou o Deus de Abraão, e o Deus de Isaac, e o Deus de Jacó? ora Deus não o é de mortos, mas de vivos.", "nota": "fn22_8" },
+    { "n": 33, "texto": "E a gente do povo ouvindo isto, estava admirada da sua doutrina." },
+    { "n": 34, "texto": "Mas os fariseus, quando ouviram que Jesus tinha feito calar a bôca aos saduceus, se ajuntaram em conselho:" },
+    { "n": 35, "texto": "E um dêles, que era doutor da lei, tentando-o, lhe perguntou:" },
+    { "n": 36, "texto": "Mestre, qual é o grande mandamento da lei?" },
+    { "n": 37, "texto": "Jesus lhe disse: Amarás ao Senhor teu Deus de todo o teu coração, e de tôda a tua alma, e de todo o teu entendimento," },
+    { "n": 38, "texto": "Êste é o máximo, e o primeiro mandamento." },
+    { "n": 39, "texto": "E o segundo semelhante a êste é: Amarás a teu próximo, como a ti mesmo." },
+    { "n": 40, "texto": "Dêstes dois mandamentos depende toda a lei e os profetas." },
+    { "n": 41, "texto": "E estando juntos os fariseus, lhes fez Jesus esta pergunta," },
+    { "n": 42, "texto": "dizendo: Que vos parece a vós do Cristo? de quem é êle filho? Responderam-lhe: De Davi.", "nota": "fn22_9" },
+    { "n": 43, "texto": "Jesus lhes replicou: Pois como lhe chama Davi em espírito, Senhor, dizendo:", "nota": "fn22_10" },
+    { "n": 44, "texto": "Disse o Senhor ao meu Senhor, senta-te à minha mão direita até que eu reduza os teus inimigos a servirem de escabêlo a teus pés?", "nota": "fn22_11" },
+    { "n": 45, "texto": "Se pois Davi o chama o seu Senhor, como é êle seu filho?" },
+    { "n": 46, "texto": "E não houve quem lhe pudesse responder uma só palavra: E daquele dia em diante ninguém mais ousou fazer-lhe perguntas." }
+  ],
+  "notas": {
+    "fn22_1": {
+      "rotulo": "E TENDO FEITO MARCHAR OS SEUS EXÉRCITOS",
+      "texto": "Alude em profecia ao sítio e destruição de Jerusalém em tempo de Vespasiano e de Tito, quarenta anos depois. — Duhamel."
+    },
+    "fn22_2": {
+      "rotulo": "IDE POIS ÀS SAÍDAS DAS RUAS",
+      "texto": "Estas ruas, ou estradas, e estas saídas representam os diferentes extravios, por onde as nações haviam andado, desde que começaram a apartar-se do direito, negando-se a admitir a verdade, e 'corrompendo cada um o seu caminho', Gên 6, 12. Todos os povos, sem distinção alguma, foram convidados à fé de Jesus Cristo ao banquete das suas bodas pela pregação do Evangelho, que se publicou, e anunciou até às extremidades da terra."
+    },
+    "fn22_3": {
+      "rotulo": "E FICOU CHEIA DE CONVIDADOS",
+      "texto": "E a Igreja, figurada nesta sala, se encheu de um grande número de povos e nações, que ocuparam o lugar dos judeus; 'cujo pecado', como diz S. Paulo, Rom 9, 12, passou a ser cousa de salvação para os gentios."
+    },
+    "fn22_4": {
+      "rotulo": "COM VESTE NUPCIAL",
+      "texto": "Êste homem representa os maus cristãos; que não tiveram cuidado de se vestir das obras da justiça, e da caridade, que são os frutos da fé, e por isso se perderam. — Sacy."
+    },
+    "fn22_5": {
+      "rotulo": "NAS TREVAS EXTERIORES",
+      "texto": "Que consistem em uma inteira privação da luz de Deus, como a dos condenados."
+    },
+    "fn22_6": {
+      "rotulo": "HERODIANOS",
+      "texto": "Uns entendem que eram os membros duma seita, outros os partidários e familiares de Herodes Antipas. Parece porém que constituíam um partido político, que considerava a família de Herodes como o melhor esteio dos judeus contra a absorção total do seu país no império romano, e que procurava aliar o judaísmo com o paganismo, não se importando com a estrita observância da lei mosaica."
+    },
+    "fn22_7": {
+      "rotulo": "É LÍCITO",
+      "texto": "Desde o tempo de Pompeu eram obrigados os judeus a pagar o tributo de duas dracmas aos imperadores romanos, que por isso costumavam bater moeda do valor do tributo ou de uma metade. E êste tributo era muito diverso do outro que os judeus pagavam para as obras do templo, como ouvimos no cap. 17, vers. 23. Porque o do cap. 17, era instituído por Moisés a favor do templo, não o pagavam senão os que tivessem vinte e cinco anos. Êste porém do cap. 22, era imposto pelos romanos: e segundo escreve Ulpiano na lei 3, De Censibus, pagavam-no todos os varões de quatorze anos, e todas as fêmeas de doze para acima."
+    },
+    "fn22_8": {
+      "rotulo": "ORA DEUS NÃO O É DE MORTOS",
+      "texto": "Argumento dos que os filósofos chamam ad hominem tirado do testemunho do Êxodo. Como se Cristo dissera: Se não há espírito, nem alma imortal, como vós dizeis; nem por consequência ressurreição, como podia Deus, falando com Moisés muitos anos depois da morte de Abraão, Isaac, e Jacó, chamar-se Deus deles? Logo êle se chama seu Deus, é isto prova de que ainda depois de mortos viviam aqueles Patriarcas. Porque Deus não é Deus do que não há; ou do que não existe. Logo é falso que as almas morrem com os corpos. — Saéy."
+    },
+    "fn22_9": {
+      "rotulo": "DE DAVI",
+      "texto": "Isto é: descendente de Davi."
+    },
+    "fn22_10": {
+      "rotulo": "EM ESPÍRITO",
+      "texto": "Isto é, falando pelo Espírito de Deus."
+    },
+    "fn22_11": {
+      "rotulo": "A SERVIREM DE ESCABÊLO",
+      "texto": "Estas palavras são do Salmo 109. Os vencedores tinham o costume de pôr os seus pés no colo dos vencidos em sinal de triunfo, de modo que esta expressão corresponde a submetê-los sob o seu poder."
+    }
+  }
+}

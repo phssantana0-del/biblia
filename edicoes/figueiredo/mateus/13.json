@@ -1,0 +1,94 @@
+{
+  "num": 13,
+  "sumario": "Jesus sentado em uma barca propõe ao povo várias parábolas, como a do semeador, e a do joio misturado no trigo, e êle as explica particularmente a seus discípulos. Ensinando em Nazaré, diz que um profeta só na sua pátria deixa de ter estimação.",
+  "versiculos": [
+    { "n": 1,  "texto": "Naquele dia saindo Jesus de casa, sentou-se à borda do mar." },
+    { "n": 2,  "texto": "E vieram para êle muitas gentes, de tal sorte que entrando em uma barca se assentou: E tôda a gente estava de pé na ribeira." },
+    { "n": 3,  "texto": "E lhe falou muitas coisas por parábolas, dizendo: Eis aí que saiu o que semeia, a semear.", "nota": "fn13_1" },
+    { "n": 4,  "texto": "E quando semeava, uma parte da semente caiu junto da estrada, e vieram as aves do Céu, e comeram-na.", "nota": "fn13_2" },
+    { "n": 5,  "texto": "Outra porém caiu em pedregulho, onde não tinha muita terra: E logo nasceu, porque não tinha altura de terra:" },
+    { "n": 6,  "texto": "Mas saindo o sol se queimou: E porque não tinha raiz se secou." },
+    { "n": 7,  "texto": "Outra igualmente caiu sôbre os espinhos: E cresceram os espinhos, e êstes a afogaram." },
+    { "n": 8,  "texto": "Outra, enfim, caiu em boa terra: E dava fruto, havendo grãos que rendiam a cento por um, outros a sessenta, outros a trinta.", "nota": "fn13_3" },
+    { "n": 9,  "texto": "O que tem ouvidos de ouvir, ouça." },
+    { "n": 10, "texto": "E chegando-se a êle os discípulos, lhe disseram: Por que razão lhes falas tu por parábolas?" },
+    { "n": 11, "texto": "Êle respondendo lhes disse: Porque a vós outros vos é dado saber os mistérios do reino dos Céus: Mas a êles não lhes é concedido." },
+    { "n": 12, "texto": "Porque ao que tem, se lhe dará, e terá em abundância: Mas ao que não tem, até o que tem lhe será tirado." },
+    { "n": 13, "texto": "Por isso é que eu lhes falo em parábolas: Porque êles vendo não vêem, e ouvindo não ouvem, nem entendem." },
+    { "n": 14, "texto": "De sorte que neles se cumpre a profecia de Isaías, que diz: Vós ouvireis com os ouvidos, e não entendereis: E vereis com os olhos, e não vereis." },
+    { "n": 15, "texto": "Porque o coração dêste povo se fêz pesado, e os seus ouvidos se fizeram tardos, e êles fecharam os seus olhos: Para não suceder que vejam com os olhos, e ouçam com os ouvidos, e entendam no coração, e se convertam, e eu os sare." },
+    { "n": 16, "texto": "Mas por vós, ditosos os vossos olhos, pelo que vêem, e ditosos os vossos ouvidos pelo que ouvem." },
+    { "n": 17, "texto": "Porque em verdade vos digo, que muitos profetas, e justos desejaram ver o que vêdes, e não o viram: E ouvir o que ouvis, e não o ouviram." },
+    { "n": 18, "texto": "Ouvi pois, vós outros, a parábola do semeador." },
+    { "n": 19, "texto": "Todo aquele que ouve a palavra do reino, e não a entende, vem o mau, e arrebata o que se semeou no seu coração: Êste é o que recebeu a semente junto da estrada." },
+    { "n": 20, "texto": "Mas o que recebeu a semente no pedregulho, êste é o que ouve a palavra, e logo a recebe com gôsto:" },
+    { "n": 21, "texto": "Porém êle não tem em si raiz, antes é de pouca duração: E quando lhe sobrevém tribulação e perseguição por amor da palavra, logo se escandaliza." },
+    { "n": 22, "texto": "E o que recebeu a semente entre espinhos êste é o que ouve a palavra, porém os cuidados dêste mundo e o engano das riquezas sufocam a palavra e fica infrutuosa." },
+    { "n": 23, "texto": "E o que recebeu a semente em boa terra, êste é o que ouve a palavra, e a entende, e dá fruto, e assim um dá a cento, e outro a sessenta, e outro a trinta por um." },
+    { "n": 24, "texto": "Outra parábola lhes propôs, dizendo: O reino dos Céus é semelhante a um homem, que semeou boa semente no seu campo:" },
+    { "n": 25, "texto": "E enquanto dormiam os homens, veio o seu inimigo, e semeou depois cizânia no meio do trigo, e foi-se.", "nota": "fn13_4" },
+    { "n": 26, "texto": "E tendo crescido a erva e dado fruto, apareceu também então a cizânia." },
+    { "n": 27, "texto": "E chegando os servos do pai de família, lhe disseram: Senhor, porventura não semeaste tu boa semente no teu campo? Pois donde lhe veio a cizânia?" },
+    { "n": 28, "texto": "E êle lhes disse: O homem inimigo é que fez isto. E os servos lhe tornaram: Queres tu que nós vamos e a arranquemos?" },
+    { "n": 29, "texto": "E respondeu-lhes: Não: Para que talvez não suceda que, arrancando a cizânia, arranqueis juntamente com ela também o trigo." },
+    { "n": 30, "texto": "Deixai crescer uma, e outra coisa até à ceifa, e no tempo da ceifa, direi aos segadores: Colhei primeiramente a cizânia, e atai-a em molhos para a queimar, mas o trigo recolhei-o no meu celeiro.", "nota": "fn13_5" },
+    { "n": 31, "texto": "Propôs-lhes mais outra parábola dizendo: O reino dos Céus é semelhante a um grão de mostarda, que um homem tomou, e semeou no seu campo:", "nota": "fn13_6" },
+    { "n": 32, "texto": "O qual grão é na verdade o mais pequeno de tôdas as sementes: Mas depois de ter crescido, é a maior de todas as plantas e se faz árvore, de sorte que as aves do Céu vêm a fazer ninhos nos seus ramos." },
+    { "n": 33, "texto": "Disse-lhes ainda outra parábola: O reino dos Céus é semelhante ao fermento, que uma mulher toma, e o esconde em três medidas de farinha, até que todo êle fica levedado." },
+    { "n": 34, "texto": "Tôdas estas coisas disse Jesus ao povo em parábolas: E não lhes falava sem parábolas:" },
+    { "n": 35, "texto": "A fim de que se cumprisse o que estava anunciado pelo profeta, que diz: Abrirei em parábolas a minha bôca, farei dela sair com ímpeto coisas escondidas desde a criação do mundo." },
+    { "n": 36, "texto": "Então, despedidas as gentes, veio à casa: E chegaram-se a êle os seus discípulos, dizendo: Explica-nos a parábola da cizânia do campo." },
+    { "n": 37, "texto": "Êle lhes respondeu, dizendo: O que semeia a boa semente, é o Filho do homem." },
+    { "n": 38, "texto": "E o campo é o mundo. A boa semente porém são os filhos do reino dos Céus. E a cizânia são os maus filhos." },
+    { "n": 39, "texto": "E o inimigo que a semeou, é o diabo. E o tempo da ceifa é o fim do mundo. E os segadores são os Anjos." },
+    { "n": 40, "texto": "De maneira que assim como é colhida a cizânia, e queimada no fogo: Assim acontecerá no fim do mundo:" },
+    { "n": 41, "texto": "Enviará o Filho do homem os seus Anjos, e tirarão do seu reino todos os escândalos, e os que obram a iniquidade:" },
+    { "n": 42, "texto": "E lançá-los-ão na fornalha do fogo. Ali será o chôro, e o ranger com os dentes." },
+    { "n": 43, "texto": "Então resplandecerão os justos, como o sol, no reino de seu pai. O que tem ouvidos de ouvir, ouça." },
+    { "n": 44, "texto": "O reino dos Céus é semelhante a um tesouro escondido no campo: Que quando um homem o acha, o esconde, e pelo gôsto que sente de o achar, vai, e vende tudo o que tem, e compra aquele campo." },
+    { "n": 45, "texto": "Assim mesmo é semelhante o reino dos Céus a um homem negociante, que busca boas pérolas." },
+    { "n": 46, "texto": "E tendo achado uma de grande preço, vai vender tudo o que tem, e a compra." },
+    { "n": 47, "texto": "Finalmente o reino dos Céus é semelhante a uma rêde lançada ao mar, que toda a casta de peixes colhe:" },
+    { "n": 48, "texto": "E depois de estar cheia, a tiram os homens para fora, e sentados na praia escolhem os bons para os vasos e deitam fora os maus." },
+    { "n": 49, "texto": "Assim será no fim do mundo: Sairão os Anjos, e separarão os maus dentre os justos." },
+    { "n": 50, "texto": "E lançá-los-ão na fornalha do fogo: Ali será o chôro, e o ranger com os dentes." },
+    { "n": 51, "texto": "Tendes vós compreendido bem tudo isto? Responderam êles: Sim." },
+    { "n": 52, "texto": "Êle lhes disse: Por isso todo o escriba instruído no reino dos Céus, é semelhante a um pai de família, que tira do seu tesouro coisas novas e velhas." },
+    { "n": 53, "texto": "E depois que acabou de dizer estas parábolas, aconteceu partir Jesus dali." },
+    { "n": 54, "texto": "E vindo para a sua pátria, êle os ensinava nas suas sinagogas de modo que se admiravam, e diziam: Donde lhe vem a êste uma sabedoria como esta, e tais maravilhas?" },
+    { "n": 55, "texto": "Porventura não é êste o filho do carpinteiro? Não se chamava sua mãe Maria, e seus irmãos Tiago, e José, e Simão, e Judas:", "nota": "fn13_7" },
+    { "n": 56, "texto": "E suas irmãs não vivem elas tôdas entre nós? Donde vêm logo a êste todas estas coisas?" },
+    { "n": 57, "texto": "E dêle tomavam ocasião para se escandalizarem. Mas Jesus lhes disse: Não há profeta sem honra senão na sua pátria e na sua casa." },
+    { "n": 58, "texto": "E não fêz ali muitos milagres, por causa da incredulidade de seus naturais." }
+  ],
+  "notas": {
+    "fn13_1": {
+      "rotulo": "Por parábolas",
+      "texto": "Foi esta a principal forma do ensino de Jesus. Etimologicamente, parábola significa semelhança, aproximação, analogia desenvolvida. No Antigo Testamento designa sentença, provérbio, máxima, etc. No Novo, designa uma forma especial, um gênero de apólogo determinado. É uma narração quase sempre fictícia, que exprime simbolicamente uma verdade religiosa e em que entram como principais agentes sêres naturais ou hábitos de vida humana. Quando nas parábolas entram sêres irracionais chamam-lhe apólogos. O ensino parabólico tem a vantagem de se acomodar fàcilmente à capacidade dos ouvintes, que assim podem chegar a conhecer e compreender verdades transcendentes. Despertam a atenção dos ouvintes, e servem para mais fàcilmente se dizerem verdades, cujo enunciado por outra forma seria estéril ou melindroso. Finalmente gravam-se profundamente na memória e com ela a doutrina que inculcam."
+    },
+    "fn13_2": {
+      "rotulo": "Uma parte da semente",
+      "texto": "Pela semente quer Jesus Cristo indicar a palavra de Deus, a boa pregação. Nesta parábola, que vai até ao versículo 24, quer Jesus Cristo ensinar duas coisas: 1.ª Que são poucos os que aproveitam a palavra de Deus. 2.ª As coisas que impedem que a pregação produza os seus bons frutos, que são a dissipação do espírito, a dureza do coração e o desregramento da conduta. A primeira, significada pela semente que caiu na estrada, e que é destruída pelas aves do Céu, pois da mesma sorte os maus conselhos que ouvimos, os maus exemplos a que nos expomos apagam nas almas o bom efeito da palavra divina. A segunda, pela semente caída entre pedregulhos que a não deixam frutificar, da mesma sorte que a tibieza e o enregelamento do coração tolhem a boa ação da pregação. E a terceira, pelos espinhos que a afogam, da mesma sorte que as afeições desordenadas aniquilam qualquer esfôrço para a emenda e para a regeneração. Aqueles porém que em recolhimento e com boas disposições escutam a palavra de Deus, logam que êle atue benfìcamente em sua alma e êsses receberão o prêmio."
+    },
+    "fn13_3": {
+      "rotulo": "Cento por um",
+      "texto": "Por estas boas obras que produzem trinta, sessenta e cem, entendem os Padres os que as enunciam com perfeição, os que progridem, os que a aproximam do grau mais elevado do aperfeiçoamento moral. A propósito escreveu S. Jerônimo: <em>Sicut in terra mala tres fuere diversitates, secus viam, et petrosa et spinosa loca sic in terra bona trina diversitas est centesimi, sexagesimi et tricesimi fructus.</em>"
+    },
+    "fn13_4": {
+      "rotulo": "Cizânia",
+      "texto": "É uma planta da família das gramíneas e da tribo das hordeáceas. Existem várias espécies. A desta parábola é o <em>Lolium temulentum</em>, muito comum nas searas da Palestina. Parece que Jesus Cristo não apresenta aqui uma narração fictícia mas alude a um fato conhecido. De fato êste atentado estava previsto na legislação romana, e um escritor moderno, Roberts, afirma que êste crime é frequente entre os povos orientais."
+    },
+    "fn13_5": {
+      "rotulo": "Atai-a em molhos para a queimar",
+      "texto": "Jesus pretende significar pela cizânia os maus que pervertem os bons, corrompendo-os com as suas máximas e péssimos exemplos, os quais serão eternamente condenados."
+    },
+    "fn13_6": {
+      "rotulo": "É semelhante a um grão de mostarda",
+      "texto": "Esta parábola exprime bem o progresso e eficácia da doutrina Evangélica, e como de uns humildes princípios chegou a Igreja ao estado da maior grandeza, dilatando-se maravilhosamente por todo o mundo. — Amelote."
+    },
+    "fn13_7": {
+      "rotulo": "Seus irmãos — Tiago — Judas",
+      "texto": "Está já dito o sentido desta expressão: primos e parentes.<br><br>TIAGO — É S. Tiago Menor, um dos doze Apóstolos.<br><br>JUDAS — É o apóstolo S. Judas, autor da Epístola Católica que tem o seu nome. Simão foi sucessor de seu irmão na Sé de Jerusalém; não é conhecido como filho de Maria Cleofas. Veja a nota ao v. 46 do cap. 12 de S. Mateus."
+    }
+  }
+}

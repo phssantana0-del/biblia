@@ -1,0 +1,202 @@
+{
+  "num": 27,
+  "sumario": "Segunda assembleia do sinédrio. Judas torna a entregar aos sacerdotes o dinheiro, que êles lhe tinham dado, e vai enforcar-se. Jesus acusado na presença de Pilatos não responde palavra. Sonho da mulher de Pilatos a respeito da inocência de Jesus. O povo lhe prefere Barrabás. Pilatos, depois de lavar as mãos, o manda açoitar, e o entrega aos judeus para ser crucificado. Os soldados o carregam de opróbrios. Caminha para o monte Calvário, levando a cruz aos ombros. Ali lhe dão a beber vinho misturado com fel. É crucificado entre dois ladrões. Dividem os soldados entre si os seus vestidos. É blasfemado. Trevas em toda a terra. Clama em alta voz, Eli. Dão-lhe a beber vinagre. Torna a dar outro brado, e expira. Prodígios que sucederam na sua morte. José de Arimateia pede o seu corpo, e o enterra. Põem-se guardas ao sepulcro.",
+  "versiculos": [
+    { "n": 1, "texto": "E chegada que foi a manhã, todos os príncipes dos sacerdotes, e os anciãos do povo entraram em conselho contra Jesus, para o entregarem à morte.", "nota": "fn27_1" },
+    { "n": 2, "texto": "E prêso o levaram, e entregaram ao governador Pôncio Pilatos.", "nota": "fn27_2" },
+    { "n": 3, "texto": "Então Judas, que havia sido o traidor, vendo que fôra condenado Jesus, tocado de arrependimento, tornou a levar as trinta moedas de prata aos príncipes dos sacerdotes, e anciãos," },
+    { "n": 4, "texto": "dizendo: Pequei, entregando o sangue inocente. Mas êles lhe responderam: A nós que se nos dá? viras tu lá o que fazias." },
+    { "n": 5, "texto": "E depois de lançar as moedas no templo retirou-se: E foi-se pendurar de um laço." },
+    { "n": 6, "texto": "Mas os príncipes dos sacerdotes, tomando o dinheiro, disseram: Não é lícito deitá-lo na arca das esmolas: Porque é preço de sangue.", "nota": "fn27_3" },
+    { "n": 7, "texto": "Tendo, pois, deliberado em conselho sôbre a matéria, compraram com êle o campo de um oleiro, e para servir de cemitério aos forasteiros.", "nota": "fn27_4" },
+    { "n": 8, "texto": "Por esta razão se ficou chamando aquele campo até o dia de hoje, Haceldamá, isto é, campo de sangue.", "nota": "fn27_5" },
+    { "n": 9, "texto": "Então se cumpriu o que foi anunciado ao profeta Jeremias, que diz: E tomaram as trinta moedas de prata, preço do que foi apreçado, a quem puseram em preço com os filhos de Israel:", "nota": "fn27_6" },
+    { "n": 10, "texto": "E deram-nas pelo campo de um oleiro, assim como me ordenou o Senhor." },
+    { "n": 11, "texto": "Foi apresentado, pois, Jesus ao governador, e o governador lhe fez esta pergunta, dizendo: Tu és o rei dos judeus? Respondeu-lhe Jesus: Tu o dizes." },
+    { "n": 12, "texto": "E sendo acusado pelos príncipes dos sacerdotes, e pelos anciãos, não respondeu coisa alguma." },
+    { "n": 13, "texto": "Então lhe disse Pilatos: Tu não ouves de quantos crimes te fazem cargo?" },
+    { "n": 14, "texto": "E não lhe respondeu a palavra alguma, de modo que se admirou o governador em grande maneira." },
+    { "n": 15, "texto": "Ora o governador tinha por costume, no dia da festa, soltar aquele preso que os do povo quisessem;", "nota": "fn27_7" },
+    { "n": 16, "texto": "E naquela ocasião tinha êle um preso afamado, que se chamava Barrabás." },
+    { "n": 17, "texto": "Estando pois êles todos juntos, disse-lhes Pilatos: Qual quereis vós que eu vos solte? Barrabás, ou Jesus, que se chama o Cristo?", "nota": "fn27_8" },
+    { "n": 18, "texto": "Porque sabia que por inveja é que lho haviam entregado." },
+    { "n": 19, "texto": "Entretanto, estando êle assentado no seu tribunal, mandou-lhe dizer sua mulher: Não te embaraces com a causa dêsse justo: Porque hoje em sonhos foi muito o que padeci por seu respeito.", "nota": "fn27_9" },
+    { "n": 20, "texto": "Mas os príncipes dos sacerdotes, e os anciãos persuadiram aos do povo que pedissem a Barrabás, e que fizessem morrer a Jesus." },
+    { "n": 21, "texto": "E fazendo o governador esta pergunta, lhes disse: Qual dos dois quereis vós que eu vos solte? e responderam êles: Barrabás." },
+    { "n": 22, "texto": "Disse-lhes Pilatos: Pois que hei de fazer de Jesus, que se chama o Cristo?" },
+    { "n": 23, "texto": "Responderam todos: Seja crucificado. O governador lhes disse: Pois que mal tem êle feito? e êles levantaram mais o grito dizendo: Seja crucificado." },
+    { "n": 24, "texto": "Então Pilatos vendo que nada aproveitava, mas que cada vez era maior o tumulto: Mandando vir água, lavou as mãos à vista do povo, dizendo: Eu sou inocente do sangue dêste justo: Vós lá vos avinde.", "nota": "fn27_10" },
+    { "n": 25, "texto": "E respondendo todo o povo, disse: O seu sangue caia sôbre nós, e sôbre nossos filhos.", "nota": "fn27_11" },
+    { "n": 26, "texto": "Então lhes soltou a Barrabás: E depois de fazer açoitar a Jesus, entregou-lho para ser crucificado.", "nota": "fn27_12" },
+    { "n": 27, "texto": "Então os soldados do governador, tomando a Jesus para o levarem ao Pretório, fizeram formar à roda dêle tôda a coorte:", "nota": "fn27_13" },
+    { "n": 28, "texto": "E despindo-o, lhe vestiram um manto carmezim.", "nota": "fn27_14" },
+    { "n": 29, "texto": "E tecendo uma coroa de espinhos, lha puseram sôbre a cabeça, e na sua mão direita uma cana. E ajoelhando diante dêle, o escarneciam, dizendo: Deus te salve, rei dos judeus.", "nota": "fn27_15" },
+    { "n": 30, "texto": "E cuspindo nêle, tomaram uma cana, e lhe davam com ela na cabeça." },
+    { "n": 31, "texto": "E depois que o escarneceram, despiram-no do manto, e vestiram-lhe os seus hábitos, e assim o levaram para o crucificarem." },
+    { "n": 32, "texto": "E ao sair da cidade acharam um homem de Cirene, por nome Simão: A êste constrangeram a que levasse a cruz dêle padecente.", "nota": "fn27_16" },
+    { "n": 33, "texto": "E vieram a um lugar que se chama Gólgota, que é o lugar do Calvário.", "nota": "fn27_17" },
+    { "n": 34, "texto": "E lhe deram a beber vinho misturado com fel. E tendo-o provado não o quis beber.", "nota": "fn27_18" },
+    { "n": 35, "texto": "E depois que o crucificaram, repartiram as suas vestiduras, lançando sortes: Porque se cumprisse o que tinha sido anunciado pelo profeta, que diz: Repartiram entre si as minhas vestiduras, e sôbre a minha túnica lançaram sortes.", "nota": "fn27_19" },
+    { "n": 36, "texto": "E assentados o guardavam." },
+    { "n": 37, "texto": "Puseram-lhe também sôbre a cabeça esta inscrição, que declarava a causa da sua morte: ÊSTE É JESUS, REI DOS JUDEUS.", "nota": "fn27_20" },
+    { "n": 38, "texto": "Ao mesmo tempo foram crucificados com êle dois ladrões: Um da parte direita, e outro da parte esquerda." },
+    { "n": 39, "texto": "E os que iam passando blasfemavam dêle, movendo as suas cabeças," },
+    { "n": 40, "texto": "e dizendo: Ah, tu o que destrói o templo de Deus, e o reedificas em três dias, salva-te a ti mesmo: Se és filho de Deus, desce da cruz." },
+    { "n": 41, "texto": "Da mesma sorte insultando-o também os príncipes dos sacerdotes com os escribas, e anciãos, diziam:" },
+    { "n": 42, "texto": "Êle salvou a outros, a si mesmo não se pode salvar: Se é rei de Israel, desça agora da cruz, e creremos nêle:" },
+    { "n": 43, "texto": "Confiou em Deus; livre-o lá agora, se é seu amigo, porque êle disse: Eu, pois, sou Filho de Deus." },
+    { "n": 44, "texto": "E os mesmos impropérios lhe diziam também os ladrões, que haviam sido crucificados com êle." },
+    { "n": 45, "texto": "Mas desde a hora sexta até à hora nona se difundiram trevas sôbre tôda a terra.", "nota": "fn27_21" },
+    { "n": 46, "texto": "E perto da hora nona deu Jesus um grande brado, dizendo: Eli, Eli, lamma sabachthani? isto é: Deus meu, Deus meu, por que me desamparaste?" },
+    { "n": 47, "texto": "Alguns porém dos que ali estavam, e que ouviram isto, diziam: Êste chama por Elias.", "nota": "fn27_22" },
+    { "n": 48, "texto": "E logo correndo um dêles, tendo tomado uma esponja, a ensopou em vinagre, e a pôs sôbre uma cana e lha dava a beber." },
+    { "n": 49, "texto": "Porém os mais diziam: Deixa, vejamos se vem Elias a livrá-lo." },
+    { "n": 50, "texto": "E Jesus tornando a dar outro grande brado, rendeu o espírito." },
+    { "n": 51, "texto": "E eis que se rasgou o véu do templo em duas partes de alto abaixo: E tremeu a terra, e partiram-se as pedras.", "nota": "fn27_23" },
+    { "n": 52, "texto": "E abriram-se as sepulturas: E muitos corpos de santos, que eram mortos, ressurgiram." },
+    { "n": 53, "texto": "E saindo das sepulturas depois da ressurreição de Jesus, vieram à cidade santa, e apareceram a muitos." },
+    { "n": 54, "texto": "Mas o centurião, e os que com êle estavam de guarda a Jesus, tendo presenciado o terremoto, e os sucessos que aconteciam, tiveram grande mêdo, e diziam: Na verdade, êste homem era filho de Deus.", "nota": "fn27_24" },
+    { "n": 55, "texto": "Achavam-se também ali, vindo de longe, muitas mulheres; que desde a Galileia tinham seguido a Jesus, subministrando-lhe o necessário:" },
+    { "n": 56, "texto": "Entre as quais estava Maria Madalena, e Maria, mãe de Tiago, e de José, e a mãe dos filhos de Zebedeu.", "nota": "fn27_25" },
+    { "n": 57, "texto": "E quando foi lá pela tarde, veio um homem rico de Arimateia, por nome José, que também era discípulo de Jesus:", "nota": "fn27_26" },
+    { "n": 58, "texto": "Êste chegou a Pilatos, e lhe pediu o corpo de Jesus. Pilatos mandou então que se lhe desse o corpo.", "nota": "fn27_27" },
+    { "n": 59, "texto": "Tomando, pois, o corpo, amortalhou-o José num asseado lenção.", "nota": "fn27_28" },
+    { "n": 60, "texto": "E depositou-o no seu sepulcro, que ainda não tinha servido, o qual êle tinha aberto numa rocha. E tapou a bôca do sepulcro com uma grande pedra que para ali revolveu, e retirou-se.", "nota": "fn27_29" },
+    { "n": 61, "texto": "E Maria Madalena, e outra Maria estavam ali sentadas defronte do sepulcro." },
+    { "n": 62, "texto": "E no outro dia, que é o seguinte ao Parasceve, os príncipes dos sacerdotes, e os fariseus acudiram juntos à casa de Pilatos,", "nota": "fn27_30" },
+    { "n": 63, "texto": "dizendo: Senhor, lembramo-nos de que aquele embusteiro, vivendo ainda, disse: Eu hei de ressurgir depois de três dias." },
+    { "n": 64, "texto": "Dá logo ordem que se guarde o sepulcro até ao dia terceiro: Por não suceder que venham seus discípulos, e o furtem, e digam à plebe: Ressurgiu dos mortos: E desta sorte virá o último embuste a ser pior do que o primeiro." },
+    { "n": 65, "texto": "Pilatos lhes respondeu: Vós aí tendes guardas; ide, guardai-o como entendeis.", "nota": "fn27_31" },
+    { "n": 66, "texto": "Êles, porém, retirando-se, trabalharam por ficar seguro o sepulcro, selando a campa, e pondo-lhe guardas.", "nota": "fn27_32" }
+  ],
+  "notas": {
+    "fn27_1": {
+      "rotulo": "1",
+      "texto": "ENTRARAM EM CONSELHO — Houve uma segunda reunião do sinédrio. Naturalmente a primeira tinha sido considerada ilegal, já por falta de convocação de todos os membros, já por ter funcionado de noite, e fora do local designado para as sessões. Esta segunda assembleia devia obedecer a todas as prescrições, guardadas todas as formalidades."
+    },
+    "fn27_2": {
+      "rotulo": "2",
+      "texto": "PÔNCIO PILATOS — Êste não era mais do que um procurador da Judeia. Assim chamavam os romanos aos que estavam encarregados de cobrar as rendas do Império. Os romanos tinham tirado aos judeus o poder de condenar algum réu à pena capital, e por esta razão, ainda que Caifás declarou a Jesus Cristo réu de morte, não deu contra êle a sentença, mas remeteu-o ao governador da província. Governou a província da Judeia desde 26 a 36, subordinado ao legado da Síria."
+    },
+    "fn27_3": {
+      "rotulo": "3",
+      "texto": "NA ARCA DAS ESMOLAS — Ou cofre Corbona, ou como lhe chama Mc 7, 11, Corban, é palavra hebraica, que significa oferenda feita a Deus, ou ao seu templo, do verbo Carab, ou Cerib, apresentar, oferecer: e quer dizer \"tesouro sagrado\". — S. Jerônimo."
+    },
+    "fn27_4": {
+      "rotulo": "4",
+      "texto": "O CAMPO DE UM OLEIRO — Onde se faziam panelas e vasilhas de barro.<br><br>PARA SERVIR DE CEMITÉRIO — Dos que não pertenciam ao povo de Deus, dos quais os judeus queriam estar separados ainda depois de mortos."
+    },
+    "fn27_5": {
+      "rotulo": "5",
+      "texto": "HACELDAMÁ — A voz \"haceldamá\" é siríaca, do hebreu dan ou para melhor dizer do caldeu dama, \"sangue\". Foi tão assinalado êste campo, que desde aquele tempo não foi conhecido por outro nome, permitindo-o Deus assim, para que fôsse uma prova e um monumento eterno da injustiça dos judeus. Fica ao sul de Jerusalém, sôbre a vertente meridional do vale Ben-Himon."
+    },
+    "fn27_6": {
+      "rotulo": "6",
+      "texto": "QUE DIZ — Parte dessa profecia se acha em Jer 32, 7-9, e parte em Zac 11, 12-13. A compra do campo está em Jeremias, e o preço das trinta moedas se lê em Zacarias. Davi Kimchi, na prefação a Jeremias, diz: que Jeremias antigamente ocupava o primeiro lugar no Livro dos profetas, e daqui a menção que faz Mt 16, 14, com referência aos outros profetas, parece ser porque era o primeiro cujo nome se lia no dito Livro."
+    },
+    "fn27_7": {
+      "rotulo": "7",
+      "texto": "NO DIA DA FESTA — Da Páscoa. Costume introduzido pelos judeus, em memória de haverem sido livres por Deus da escravidão do Egito, e que conservaram, segundo se vê neste lugar, os romanos senhores da Província."
+    },
+    "fn27_8": {
+      "rotulo": "8",
+      "texto": "QUE SE CHAMA O CRISTO — Causa verdadeiramente assombro, que costumando pedir os judeus, nesta solenidade da Páscoa, o livramento e soltura de um réu, fôsse Pilatos o que pediu pelo justo dos justos, e não pôde conseguir a sua liberdade. — S. João Crisóstomo. Pilatos escolheu expressamente a Barrabás para o pôr em comparação do Salvador, não duvidando que o povo o preferiria a um ladrão, assassino, e sedicioso. Barrabás era ladrão e assassino."
+    },
+    "fn27_9": {
+      "rotulo": "9",
+      "texto": "SUA MULHER — Era, segundo a tradição, Cláudia Prócula."
+    },
+    "fn27_10": {
+      "rotulo": "10",
+      "texto": "MANDANDO VIR ÁGUA — Os pagãos lavavam as mãos, quer nas alianças, quer para expiar um assassínio; julgam contudo alguns críticos que Pilatos quis apenas conformar-se com a usança dos judeus para lhes ser agradável."
+    },
+    "fn27_11": {
+      "rotulo": "11",
+      "texto": "E SÔBRE NOSSOS FILHOS — Terrível imprecação! O seu funesto efeito tem sido, é, e será sempre bem visível. O estado a que foi reduzida a nação dos judeus, chegando a ser o opróbrio de todos os povos, tem sido o complemento desta maldição, que pronunciaram contra si."
+    },
+    "fn27_12": {
+      "rotulo": "12",
+      "texto": "E DEPOIS DE FAZER AÇOITAR JESUS — Os romanos costumavam fazer açoitar aos que condenavam a serem crucificados, antes de os encravarem na cruz. — S. Jerônimo. Mas pelo Evangelho de S. João, 19, 1, se vê que Pilatos tinha feito açoitar Jesus, com desígnio de abrandar os corações de seus inimigos, crendo que movidos de compaixão, e satisfeito o seu furor, desistiriam de pedir a sua morte.<br><br>PARA SER CRUCIFICADO — O suplício da cruz era o castigo dos escravos, ladrões e sediciosos, segundo as leis romanas."
+    },
+    "fn27_13": {
+      "rotulo": "13",
+      "texto": "PRETÓRIO — O pretório ficava no lugar onde hoje se vê uma caserna turca. Ainda se descobrem as antigas pedras que pertenceram ao edifício. Era a habitação de Pilatos. A escada que ligava o andar inferior com o superior, foi transportada para Roma, em 326, pela imperatriz Helena, e venera-se hoje perto de S. João de Latrão, sob o nome de Scala Santa."
+    },
+    "fn27_14": {
+      "rotulo": "14",
+      "texto": "UM MANTO CARMEZIM — Em grego chlamyde, nome que a Vulgata conservou: É um manto de lã, aberto, passando no sovaco esquerdo para deixar o braço completamente desembaraçado, prendendo-se com um colchete. Era a veste militar do soldado romano."
+    },
+    "fn27_15": {
+      "rotulo": "15",
+      "texto": "UMA COROA DE ESPINHOS — Esta coroa era feita de juncos entrelaçados de espinhos, de Ziziphus. A coroa propriamente dita guarda-se, como é sabido, em Notre-Dame de Paris. Compõe-se dum anel de feixes de juncos, sendo o diâmetro interior de 10 milímetros, e a espessura de 15 milímetros de diâmetro. Os espinhos são de rhamus, nome genérico, a cuja classe pertence a ziziphus spini Christi. Êstes espinhos são perfurantes, cada um é mais cortante do que a garra do leão, fazendo brotar sangue em abundância."
+    },
+    "fn27_16": {
+      "rotulo": "16",
+      "texto": "A CRUZ — Os autores têm apresentado opiniões diversas sôbre a forma e matéria da Cruz. Segundo o uso dos romanos os condenados levavam êles próprios a cruz ao lugar do suplício, atravessando as principais ruas da cidade. Na crucificação de Cristo intervém Simão o Cireneu, certamente para ajudar Jesus, que teve de atravessar tôda a cidade de Jerusalém, desde o Pretório até ao Calvário, percorrendo um trajeto não inferior a 500 ou 600 metros."
+    },
+    "fn27_17": {
+      "rotulo": "17",
+      "texto": "CALVÁRIO — Em hebreu Gulgolet, em aramaico Gulgota, nomes que querem dizer crânio, caveira. S. Lucas o traduziu por kranion, e os demais evangelistas kranion topos calvariae locus. Isso indica a forma do lugar da crucificação; não era monte, nem colina, mas somente o lugar parecido com um crânio, um pequeno montículo, pequeno e acessível cabeço, vizinho às muralhas de Jerusalém."
+    },
+    "fn27_18": {
+      "rotulo": "18",
+      "texto": "E LHE DERAM A BEBER VINHO — Os tormentos da crucificação causavam uma sêde ardente; daqui o uso de dar aos supliciados uma beberagem própria para lhes acalmar a sêde e entorpecer a sensibilidade."
+    },
+    "fn27_19": {
+      "rotulo": "19",
+      "texto": "O CRUCIFICARAM — Divergem os autores sôbre o número de cravos empregados na crucificação; uns querem que fôssem quatro, um para cada mão e para cada pé, outros que fôssem três, um para cada mão e um para os dois pés. Plauto, Mostellaria, 2, 1, 12, 10, supõe formalmente quatro cravos, bis pedes, bis brachia; do mesmo parecer é a maioria dos autores que se ocupam da crucificação."
+    },
+    "fn27_20": {
+      "rotulo": "20",
+      "texto": "ESTA INSCRIÇÃO — Era costume de escrever-se os motivos da condenação. O único Evangelista que o reproduz textualmente é Jo 19, 19-20."
+    },
+    "fn27_21": {
+      "rotulo": "21",
+      "texto": "DESDE A HORA SEXTA — Três horas depois do meio-dia."
+    },
+    "fn27_22": {
+      "rotulo": "22",
+      "texto": "ELIAS — Êste mal entendido prova que entre os peregrinos que afluíam a Jerusalém por ocasião da Páscoa, estavam gregos ou romanos que não entendiam nem o hebreu, nem o aramaico, nem o sirocaldaico."
+    },
+    "fn27_23": {
+      "rotulo": "23",
+      "texto": "VÉU DO TEMPLO — Em grego naos. Havia no templo de Jerusalém dois véus; um separava o pórtico do Santo, outro o Santo do Santo dos Santos. Foi êste último que se rasgou em dois no momento da morte de Jesus Cristo. Estava destruído o velho templo, estava patente o Santo dos Santos. A vítima que acabava de expirar introduzir-nos-á, à custa do seu sangue, no verdadeiro santo dos Santos, do qual o da lei velha era apenas pálida figura."
+    },
+    "fn27_24": {
+      "rotulo": "24",
+      "texto": "O CENTURIÃO — Os corpos dos crucificados eram guardados à vista. Petrônio, numa sátira, diz que se tomavam estas precauções para que não tirassem da cruz o crucificado."
+    },
+    "fn27_25": {
+      "rotulo": "25",
+      "texto": "MARIA MADALENA — É célebre no Evangelho pelos seus sentimentos de caridade ardente para com Jesus Cristo, e na tradição eclesiástica pelas suas lágrimas de penitência. Êste sobrenome de Madalena vem-lhe da sua casa de Magdala, na Galileia, perto do lago de Tiberíades. Foi desde então que ela, renunciando a tudo quanto fôsse vaidade, se entregou à mais áspera penitência."
+    },
+    "fn27_26": {
+      "rotulo": "26",
+      "texto": "ARIMATEIA — Segundo Eusébio, é a Ramathan-sophim; no entender de S. Jerônimo, é a atual Ramlet, a quatro quilômetros de Lídia."
+    },
+    "fn27_27": {
+      "rotulo": "27",
+      "texto": "PEDIU O CORPO — Porque as leis romanas não permitiam dar sepultura aos criminosos sem permissão dos juízes."
+    },
+    "fn27_28": {
+      "rotulo": "28",
+      "texto": "AMORTALHOU-O — Os judeus lavavam os cadáveres, e quando eram de pessoas ricas, e de qualidade, os embalsamavam; não lhes tirando as entranhas, como faziam os egípcios, mas ensopando-os em um licor espêsso de mirra, aloés, e outras drogas aromáticas; depois os envolviam desde a cabeça até aos pés com faixas largas de linho, ensopadas também no mesmo licor."
+    },
+    "fn27_29": {
+      "rotulo": "29",
+      "texto": "SEPULCRO — Êste túmulo pertencente a José de Arimateia era, segundo o uso do país, cavado na rocha. Era composto de duas câmaras, das quais a primeira forma o vestíbulo da segunda. É nesta última que foi colocado o Sagrado Corpo do Divino Crucificado. Vê-se pela descrição Evangélica como foi simples o enterramento de Jesus."
+    },
+    "fn27_30": {
+      "rotulo": "30",
+      "texto": "AO PARASCEVE — Êste dia de Parasceve, ou preparação era, segundo Lc 23, 54, o que precedia ao sábado, isto é, a sexta-feira em que morreu Jesus Cristo. Chamava-se dia de preparação, porque nêle se preparava tudo o que era necessário para o mesmo sábado, segundo a lei do Ex 16, 5, ainda que fôsse acender lume, ou cozinhar, porquanto êste era dia de descanso, e do Senhor, e não se podia trabalhar nêle."
+    },
+    "fn27_31": {
+      "rotulo": "31",
+      "texto": "GUARDAI-O COMO ENTENDEIS — Tinham os judeus uma companhia de soldados para a guarda do templo, e Deus permitiu, segundo a reflexão de S. João Crisóstomo, que Pilatos não quisesse que fôssem os seus soldados os que guardassem o sepulcro; porque neste caso os judeus diriam, que se haviam concertado com os discípulos do Salvador, e que lhes haviam entregado o seu corpo."
+    },
+    "fn27_32": {
+      "rotulo": "32",
+      "texto": "SELANDO A CAMPA — Jesus permitiu que o seu túmulo fôsse selado pelo seu inimigo, e guardado pelos soldados romanos, que eram quatorze, revezando-se de três em três horas, para que mais estupendo fôsse o milagre de sua ressurreição."
+    }
+  }
+}
