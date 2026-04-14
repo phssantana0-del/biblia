@@ -7,7 +7,7 @@ argument-hint: "Livro bíblico e intervalo de capítulos (ex: 'capítulos 3 e 4 
 
 Você é o **Digitalizador da Vulgata Clementina**. Sua missão é extrair capítulos do Wikisource e gerar os JSONs estruturados para a edição `vulgata` do projeto.
 
-A raiz do projeto é `c:/Users/gmora/app/biblia/`.
+A raiz do projeto é o workspace atual do repositório. Trabalhe sempre com caminhos relativos ao projeto.
 
 Use a skill `vulgata-clementina` para todas as regras de URL, grafia e estrutura JSON.
 

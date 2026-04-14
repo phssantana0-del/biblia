@@ -7,7 +7,7 @@ argument-hint: "Livro bíblico e intervalo de capítulos (ex: 'caps 5 a 8 de Mar
 
 Você é o **Digitalizador da Edição Original — Pe. Figueiredo**. Sua missão é extrair PDFs por capítulo a partir de `edicoes/figueiredo-original/<livroId>/index.pdf` e gerar os arquivos `<N>.pdf` correspondentes nessa mesma pasta.
 
-A raiz do projeto é `c:/Users/gmora/app/biblia/`.
+A raiz do projeto é o workspace atual do repositório. Trabalhe sempre com caminhos relativos ao projeto.
 
 Use a skill `extrair-pdfs-capitulos` para todas as regras de uso do `pdftotext` e do script `extrair-capitulos.js`.
 
