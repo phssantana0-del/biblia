@@ -508,6 +508,8 @@ function renderChapter(ch, bookDir, targetId) {
     return;
   }
 
+  const chapterSummary = typeof ch.sumario === 'string' ? ch.sumario : '';
+
   const notaKeys = ch.notas ? Object.keys(ch.notas) : [];
 
   const verses = ch.versiculos.filter(i => i.tipo !== 'bio');
@@ -539,7 +541,7 @@ function renderChapter(ch, bookDir, targetId) {
   document.getElementById(targetId).innerHTML = `
     <div class="chapter-header">
       <h1>Capítulo ${ch.num}</h1>
-      <div class="summary">${ch.sumario}</div>
+      <div class="summary">${chapterSummary}</div>
       ${compareBtn}${pdfBtn}${pdfOldBtn}
     </div>
     <hr class="section-rule">
@@ -586,6 +588,7 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
   const makeHeaderCell = (ed, ch, bookDir, showButtons) => {
     const div = document.createElement('div');
     div.className = 'cg-cell cg-header-cell';
+    const chapterSummary = typeof ch.sumario === 'string' ? ch.sumario : '';
     let buttonsHtml = '';
     if (showButtons) {
       const pdfUrl = bookDir + '/' + ch.num + '.pdf';
@@ -597,7 +600,7 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
     }
     div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
       + `<div class="cg-chapter-title">Capítulo ${ch.num}</div>`
-      + `<div class="cg-summary-text">${ch.sumario}</div>`
+      + `<div class="cg-summary-text">${chapterSummary}</div>`
       + buttonsHtml;
     return div;
   };
