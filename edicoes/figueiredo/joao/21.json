@@ -1,0 +1,43 @@
+{
+  "num": 21,
+  "sumario": "Aparece Jesus terceira vez aos Apóstolos, e faz-lhes apanhar grande quantidade de peixes. Come com êles na praia. Pedro confessa três vezes o seu amor. Jesus lhe confia as suas ovelhas. Prediz a Pedro o gênero da sua morte. Prediz de João.",
+  "versiculos": [
+    { "n": 1, "texto": "Depois disto apareceu Jesus outra vez aos seus discípulos junto do mar de Tiberíades. E apareceu desta maneira:", "nota": "fn21_1" },
+    { "n": 2, "texto": "Achavam-se juntos Simão Pedro, e Tomé chamado Dídimo, e Natanael que era de Caná de Galiléia, e os filhos de Zebedeu, e outros dois dos seus discípulos." },
+    { "n": 3, "texto": "Disse-lhes Simão Pedro: Eu vou pescar. Disseram-lhe êles: Nós também vamos contigo. E saíram, e entraram na barca: E naquela noite não pescaram nada." },
+    { "n": 4, "texto": "Sendo já manhã, apareceu Jesus na praia: Os discípulos porém não conheceram que era Jesus." },
+    { "n": 5, "texto": "Disse-lhes então Jesus: Rapazes, tendes alguma coisa de comer? Responderam-lhe: Não." },
+    { "n": 6, "texto": "Disse-lhes êle: Lançai a rêde à banda direita da barca, e achareis. Lançaram-na pois: E já não a podiam tirar, pela grande quantidade de peixes.", "nota": "fn21_2" },
+    { "n": 7, "texto": "Disse então a Pedro aquêle discípulo a quem Jesus amava: É o Senhor. Simão Pedro, quando ouviu dizer que era o Senhor, vestiu a sua túnica (porque estava nu), e lançou-se ao mar.", "nota": "fn21_3" },
+    { "n": 8, "texto": "Os outros discípulos porém vieram na barca (porque não estavam longe da terra, mas como duzentos côvados), trazendo a rêde dos peixes." },
+    { "n": 9, "texto": "Saltando pois em terra, viram ali umas brasas postas, e um peixe pôsto em cima, e pão." },
+    { "n": 10, "texto": "Disse-lhes Jesus: Trazei dos peixes que apanhastes agora." },
+    { "n": 11, "texto": "Subiu Simão Pedro, e puxou a rêde à terra, cheia de cento e cinquenta e três peixes grandes: E com ser tantos, não se rompeu a rêde.", "nota": "fn21_4" },
+    { "n": 12, "texto": "Disse-lhes Jesus: Vinde, comei. E nenhum dos que estavam comendo ousava perguntar-lhe: Quem és tu? sabendo que era o Senhor." },
+    { "n": 13, "texto": "E chegou Jesus, e tomou o pão, e deu-lho, e da mesma sorte o peixe." },
+    { "n": 14, "texto": "Era esta já a terceira vez que Jesus aparecia aos seus discípulos, depois de ter ressurgido dos mortos." },
+    { "n": 15, "texto": "Tendo pois comido, disse Jesus a Simão Pedro: Simão, filho de João, tu me amas mais do que êstes? Êle lhe respondeu: Sim, Senhor, tu sabes que eu te amo. Disse-lhe Jesus: Apascenta os meus cordeiros.", "nota": "fn21_5" },
+    { "n": 16, "texto": "Disse-lhe segunda vez: Simão, filho de João, tu me amas? Respondeu-lhe: Sim, Senhor, tu sabes que eu te amo. Disse-lhe: Apascenta os meus cordeiros." },
+    { "n": 17, "texto": "Disse-lhe terceira vez: Simão, filho de João, tu me amas? Pedro se entristeceu de que por terceira vez lhe perguntasse: Tu me amas? E respondeu-lhe: Senhor, tu sabes tudo: Tu bem sabes que eu te amo. Disse-lhe Jesus: Apascenta as minhas ovelhas." },
+    { "n": 18, "texto": "Em verdade, em verdade te digo: Quando eras moço, tu te cingias, e andavas para onde querias: Porém quando fôres velho, estenderás as tuas mãos, e outro te cingirá, e te levará para onde tu não queiras.", "nota": "fn21_6" },
+    { "n": 19, "texto": "E disse isto significando por que gênero de morte havia de glorificar a Deus. E dito isto, disse-lhe: Segue-me." },
+    { "n": 20, "texto": "Voltando-se Pedro, viu que o seguia também aquêle discípulo, que Jesus amava, e que na ceia se recostara sôbre o peito de Jesus, e lhe perguntara: Senhor, quem é o que te há de entregar?", "nota": "fn21_7" },
+    { "n": 21, "texto": "Pedro pois, vendo-o, disse a Jesus: Senhor, e êste que fará?" },
+    { "n": 22, "texto": "Respondeu-lhe Jesus: Se eu quero que êle fique até que eu venha, que te importa a ti? Tu segue-me.", "nota": "fn21_8" },
+    { "n": 23, "texto": "Espalhou-se pois entre os irmãos o dito de que aquêle discípulo não morreria. Jesus porém não lhe disse: Não morrerá; mas: Se eu quero que êle fique até que eu venha, que te importa a ti?" },
+    { "n": 24, "texto": "Êste é o discípulo que dá testemunho destas coisas, e que as escreveu: E nós sabemos que o seu testemunho é verdadeiro.", "nota": "fn21_9" },
+    { "n": 25, "texto": "Muitas outras coisas porém há ainda, que fêz Jesus: As quais se se escrevessem uma por uma, cuido eu que nem no mundo inteiro poderiam caber os livros que se houvessem de escrever.", "nota": "fn21_10" }
+  ],
+  "notas": {
+    "fn21_1": { "rotulo": "Mar de Tiberíades", "texto": "É o mesmo mar (ou lago) de Galiléia, assim chamado da cidade de Tiberíades." },
+    "fn21_2": { "rotulo": "Lançai a rêde à banda direita", "texto": "A pesca milagrosa recorda a primeira pesca milagrosa narrada por S. Lucas (5, 4-7)." },
+    "fn21_3": { "rotulo": "É o Senhor", "texto": "S. João, com a penetração do amor, foi o primeiro a reconhecer Jesus. Pedro, com o ardor do seu temperamento, lançou-se logo ao mar para ir ao encontro do Mestre." },
+    "fn21_4": { "rotulo": "Cento e cinquenta e três peixes", "texto": "S. Jerônimo e outros Padres viram neste número um simbolismo: segundo os naturalistas antigos, 153 era o número de tôdas as espécies de peixes, significando a universalidade da Igreja que acolhe homens de tôdas as nações." },
+    "fn21_5": { "rotulo": "Apascenta os meus cordeiros", "texto": "Jesus confia a Pedro o governo de tôda a Igreja: cordeiros e ovelhas, isto é, fiéis e pastores. É o fundamento do primado de Pedro e dos seus sucessores." },
+    "fn21_6": { "rotulo": "Estenderás as tuas mãos", "texto": "Profecia do martírio de Pedro, que segundo a tradição foi crucificado em Roma, de cabeça para baixo, sob o imperador Nero." },
+    "fn21_7": { "rotulo": "Aquêle discípulo que Jesus amava", "texto": "S. João Evangelista." },
+    "fn21_8": { "rotulo": "Que fique até que eu venha", "texto": "Jesus não diz que João não morrerá, mas apenas propõe uma hipótese: 'Se eu quiser que êle fique.' Na realidade, João viveu até muito velho." },
+    "fn21_9": { "rotulo": "Êste é o discípulo que dá testemunho", "texto": "Atestação da autenticidade do Evangelho: o autor é testemunha ocular dos factos narrados." },
+    "fn21_10": { "rotulo": "Nem no mundo inteiro poderiam caber", "texto": "Hipérbole oriental para exprimir a riqueza inesgotável da vida e obras de Jesus Cristo." }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "num": 2,
+  "sumario": "Assiste Jesus com sua Mãe a umas bodas em Caná de Galiléia. Converte a água em vinho. Vai a Jerusalém celebrar a Páscoa. Lança fora do Templo os negociantes. Perguntam-lhe os judeus com que autoridade o fazia. Creem muitos nêle.",
+  "versiculos": [
+    { "n": 1, "texto": "E dali a três dias se celebraram umas bodas em Caná de Galiléia: E achava-se lá a mãe de Jesus.", "nota": "fn2_1" },
+    { "n": 2, "texto": "E foi também convidado Jesus com os seus discípulos para as bodas." },
+    { "n": 3, "texto": "E faltando o vinho, a mãe de Jesus lhe disse: Êles não têm vinho." },
+    { "n": 4, "texto": "E Jesus lhe disse: Mulher, que me importa a mim, e a ti isso? Ainda não é chegada a minha hora.", "nota": "fn2_2" },
+    { "n": 5, "texto": "Disse a mãe de Jesus aos que serviam: Fazei tudo o que êle vos disser." },
+    { "n": 6, "texto": "Ora, estavam ali postas seis talhas de pedra, para servirem às purificações, de que usavam os judeus, em cada uma das quais cabiam duas ou três medidas.", "nota": "fn2_3" },
+    { "n": 7, "texto": "Disse-lhes Jesus: Enchei as talhas de água. E encheram-nas até em cima." },
+    { "n": 8, "texto": "Então Jesus lhes disse: Tirai agora, e levai ao mordomo da mesa. E levaram." },
+    { "n": 9, "texto": "E tanto que o mordomo provou a água feita vinho, como não sabia donde aquilo vinha, ainda que os serventes, que tinham tirado a água, o sabiam; chamou o mordomo ao espôso." },
+    { "n": 10, "texto": "E disse-lhe: Todo homem costuma pôr primeiro à mesa o bom vinho; e depois que se tem bebido bem, tira então o que não é tão bom: Porém tu guardaste o bom vinho até agora." },
+    { "n": 11, "texto": "Assim deu Jesus princípio aos seus milagres em Caná de Galiléia: E manifestou a sua glória, e creram nêle os seus discípulos." },
+    { "n": 12, "texto": "Depois disto desceu a Cafarnaum, com sua mãe, e os seus irmãos, e os seus discípulos: E ficaram ali não muitos dias.", "nota": "fn2_4" },
+    { "n": 13, "texto": "E estava próxima a Páscoa dos judeus, e subiu Jesus a Jerusalém." },
+    { "n": 14, "texto": "E achou no Templo aos que vendiam bois, e ovelhas, e pombas, e os cambistas assentados.", "nota": "fn2_5" },
+    { "n": 15, "texto": "E tendo feito como uns açoites de cordas, lançou-os a todos fora do Templo, como também as ovelhas e os bois: E espalhou pelo chão o dinheiro dos cambistas, e derribou-lhes as mesas.", "nota": "fn2_6" },
+    { "n": 16, "texto": "E disse aos que vendiam pombas: Tirai daqui estas coisas, e não façais da casa de meu Pai casa de comércio.", "nota": "fn2_7" },
+    { "n": 17, "texto": "E lembraram-se então os seus discípulos de que está escrito: O zêlo da tua casa me devora." },
+    { "n": 18, "texto": "Pelo que tomaram os judeus a palavra, e lhe disseram: Que sinal nos mostras, para fazeres estas coisas?" },
+    { "n": 19, "texto": "Respondeu Jesus, e disse-lhes: Destruí vós êste Templo, e eu em três dias o levantarei." },
+    { "n": 20, "texto": "Replicaram logo os judeus: Em se edificar êste Templo gastaram-se quarenta e seis anos, e tu hás de levantá-lo em três dias?", "nota": "fn2_8" },
+    { "n": 21, "texto": "Mas êle falava do Templo do seu corpo." },
+    { "n": 22, "texto": "Assim que depois que êle ressurgiu dos mortos, se lembraram seus discípulos do que êle dissera, e creram na Escritura, e nas palavras que Jesus tinha dito:" },
+    { "n": 23, "texto": "E estando em Jerusalém pela Páscoa, no dia da festa, muitos creram no seu nome, vendo os milagres que êle fazia." },
+    { "n": 24, "texto": "Mas o mesmo Jesus não se fiava dêles, porque a todos os conhecia:" },
+    { "n": 25, "texto": "E porque não necessitava de que lhe dessem testemunho de homem algum: Pois êle bem sabia o que havia no homem." }
+  ],
+  "notas": {
+    "fn2_1": { "rotulo": "Caná de Galiléia", "texto": "É célebre não só pelo milagre da transformação da água em vinho, como pelo outro milagre narrado no capítulo 4, da cura do filho do régulo." },
+    "fn2_2": { "rotulo": "Mulher", "texto": "O têrmo <em>mulher</em> em lugar de <em>mãe</em> era uma forma de tratamento corrente e respeitosa entre os orientais e os próprios romanos. Jesus Cristo usou-o outras vezes referindo-se a sua Mãe Santíssima." },
+    "fn2_3": { "rotulo": "Seis talhas de pedra", "texto": "As talhas serviam para as purificações legais dos judeus, que lavavam as mãos antes de comer." },
+    "fn2_4": { "rotulo": "Irmãos", "texto": "Seus parentes. Cfr. <em>Mt</em> 12, 46." },
+    "fn2_5": { "rotulo": "No Templo", "texto": "No átrio do Templo, onde se vendia tudo o que era necessário para os sacrifícios." },
+    "fn2_6": { "rotulo": "Tendo feito como uns açoites", "texto": "Fêz uns como açoites de cordas ou juncos, que ali houvesse, com que mostrou a sua autoridade e zêlo pela honra da casa de seu Pai." },
+    "fn2_7": { "rotulo": "Casa de meu Pai", "texto": "Chamando ao Templo casa de seu Pai, declara-se verdadeiro e natural Filho de Deus." },
+    "fn2_8": { "rotulo": "Quarenta e seis anos", "texto": "O Templo, reconstruído por Herodes o Grande, estava em obras havia quarenta e seis anos, e ainda não se tinha acabado." }
+  }
+}
