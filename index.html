@@ -18,7 +18,6 @@
 <!-- ════════════════════════════════════════════════════ TOP BAR -->
 <div id="topbar">
   <button class="link-btn" onclick="openBooks()">📖 Todos os Livros</button>
-  <span>|</span>
   <span id="topbar-edition-label">Bíblia Sagrada</span>
   <div id="edition-selector">
     <label for="sel-edition">Edição:</label>
@@ -30,11 +29,9 @@
 
 <!-- ════════════════════════════════════════ COMPARE BAR -->
 <div id="compare-bar">
-  <label>Comparar com:</label>
   <select id="sel-compare-edition" onchange="onCompareEditionChange(this.value)">
     <!-- preenchido quando compare ativo -->
   </select>
-  <span id="compare-status" style="color:#888;font-style:italic;"></span>
 </div>
 
 <!-- ════════════════════════════════════════ NAV: livro + capítulo -->
@@ -51,6 +48,10 @@
   </div>
   <div class="chapter-links" id="chapter-links">
     <span class="label">Capítulos:</span>
+  </div>
+  <div id="chapter-actions">
+    <button id="compare-toggle-btn" class="compare-toggle-btn" onclick="toggleCompare()">Comparar com Vulgata</button>
+    <span id="compare-status" class="compare-status"></span>
   </div>
 </div>
 

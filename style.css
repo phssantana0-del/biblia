@@ -39,6 +39,7 @@ body {
   cursor: pointer;
   font-family: inherit;
   padding: 0;
+  margin-bottom: 5px;
 }
 #topbar a:hover, #topbar button.link-btn:hover { text-decoration: underline; }
 #topbar span { color: #555; }
@@ -110,6 +111,44 @@ select {
 
 .chapter-links .label { color: #555; }
 .chapter-links a.current { font-weight: bold; color: #111; text-decoration: none; cursor: default; }
+
+#chapter-actions {
+  margin: 8px 0 2px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.compare-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px;
+  border: 1px solid #1c00b9;
+  border-radius: 1px;
+  background: #d6e6f8;
+  color: #1c00b9;
+  font-family: 'David Libre', Georgia, serif;
+  font-size: 13px;
+  line-height: normal;
+  cursor: pointer;
+}
+
+.compare-toggle-btn:hover {
+  background: rgb(176, 213, 255);
+}
+
+.compare-toggle-btn.active {
+  background: #d6e6f8;
+  border-color: #1c00b9;
+  color: #1c00b9;
+}
+
+.compare-status {
+  color: #888;
+  font-style: italic;
+  font-size: 13px;
+}
 
 /* ── Main content area ── */
 #main-area { display: block; }

@@ -413,11 +413,42 @@ function buildEditionSelector() {
   });
 }
 
+function getVulgataEdition() {
+  return state.editions.find(e => e.id === 'vulgata' && e.livros && e.livros.length > 0)
+    || state.editions.find(e => /vulgata/i.test(`${e.edicao || ''} ${e.id || ''}`) && e.livros && e.livros.length > 0)
+    || null;
+}
+
+function updateCompareButton() {
+  const btn = document.getElementById('compare-toggle-btn');
+  if (!btn) return;
+
+  const vulgata = getVulgataEdition();
+  const shouldHide = !vulgata || state.currentEditionId === vulgata.id;
+
+  btn.style.display = shouldHide ? 'none' : 'inline-flex';
+  btn.textContent = state.compareMode
+    ? 'Desfazer comparação com Vulgata'
+    : 'Comparar com Vulgata';
+  btn.classList.toggle('active', state.compareMode);
+}
+
 function onEditionChange(editionId) {
   const ed = state.editions.find(e => e.id === editionId);
   if (!ed || !ed.livros.length) return;
   state.currentEditionId = editionId;
   document.getElementById('topbar-edition-label').textContent = ed.edicao;
+
+  const vulgata = getVulgataEdition();
+  if (!vulgata || editionId === vulgata.id) {
+    state.compareMode = false;
+    state.compareEditionId = null;
+    const area = document.getElementById('main-area');
+    area.classList.remove('compare');
+    area.classList.add('single');
+    document.getElementById('compare-grid').innerHTML = '';
+    document.getElementById('content-compare').innerHTML = '';
+  }
 
   const sameBook = ed.livros.find(f => f.includes(state.currentBookId));
   const bookFile = sameBook || ed.livros[0];
@@ -468,10 +499,24 @@ async function loadBook(editionId, bookFile, chapter = 1, verse = null, options 
     state.currentVerse = verseNumber;
     state.currentBookIntroducao = bookIndex.introducao || null;
 
+    const vulgata = getVulgataEdition();
+    const area = document.getElementById('main-area');
+    if (!vulgata || editionId === vulgata.id) {
+      state.compareMode = false;
+      state.compareEditionId = null;
+      area.classList.remove('compare');
+      area.classList.add('single');
+    } else if (state.compareMode) {
+      state.compareEditionId = vulgata.id;
+      area.classList.remove('single');
+      area.classList.add('compare');
+    }
+
     const chData = await fetchChapter(bookDir, chapterNumber);
 
     renderChapter(chData, bookDir, 'content');
     updateNav(bookIndex);
+    updateCompareButton();
     document.getElementById('nav-book-title').textContent = bookIndex.titulo;
     document.getElementById('bot-book-title').textContent = bookIndex.titulo;
     buildBookSelector();
@@ -532,8 +577,6 @@ function renderChapter(ch, bookDir, targetId) {
 
   const pdfUrl = bookDir + '/' + ch.num + '.pdf';
   const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + ch.num + '.pdf';
-  const compareLabel = state.compareMode ? '⇄ Descomparar' : '⇄ Comparar';
-  const compareBtn = `<button class="ver-original-btn btn-compare" onclick="toggleCompare()">${compareLabel}</button>`;
   const hasPdf = !bookDir.includes('/vulgata/');
   const pdfBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>` : '';
   const pdfOldBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>` : '';
@@ -542,7 +585,7 @@ function renderChapter(ch, bookDir, targetId) {
     <div class="chapter-header">
       <h1>Capítulo ${ch.num}</h1>
       <div class="summary">${chapterSummary}</div>
-      ${compareBtn}${pdfBtn}${pdfOldBtn}
+      ${pdfBtn}${pdfOldBtn}
     </div>
     <hr class="section-rule">
     ${lines}
@@ -593,9 +636,7 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
     if (showButtons) {
       const pdfUrl = bookDir + '/' + ch.num + '.pdf';
       const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + ch.num + '.pdf';
-      const compareLabel = state.compareMode ? '⇄ Descomparar' : '⇄ Comparar';
-      buttonsHtml = `<button class="ver-original-btn btn-compare" onclick="toggleCompare()">${compareLabel}</button>`
-        + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>`
+      buttonsHtml = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>`
         + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>`;
     }
     div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
@@ -745,28 +786,34 @@ async function nextBook() {
 
 function toggleCompare() {
   markUserNavigation();
-  state.compareMode = !state.compareMode;
-
-  // Atualiza texto de todos os botões Comparar visiveis
-  const label = state.compareMode ? '⇄ Descomparar' : '⇄ Comparar';
-  document.querySelectorAll('.btn-compare').forEach(b => b.textContent = label);
 
   const area = document.getElementById('main-area');
+  const vulgata = getVulgataEdition();
+
+  if (!vulgata || state.currentEditionId === vulgata.id) {
+    state.compareMode = false;
+    state.compareEditionId = null;
+    area.classList.remove('compare');
+    area.classList.add('single');
+    updateCompareButton();
+    return;
+  }
+
+  state.compareMode = !state.compareMode;
+
   if (state.compareMode) {
     area.classList.replace('single', 'compare');
-    const other = state.editions.find(e => e.id !== state.currentEditionId && e.livros.length > 0);
-    if (other) {
-      state.compareEditionId = other.id;
-      loadCompareChapter();
-    }
-    updateUrlFromState('push');
+    state.compareEditionId = vulgata.id;
+    loadCompareChapter();
   } else {
     area.classList.replace('compare', 'single');
     state.compareEditionId = null;
     document.getElementById('compare-grid').innerHTML = '';
     document.getElementById('content-compare').innerHTML = '';
-    updateUrlFromState('push');
   }
+
+  updateCompareButton();
+  updateUrlFromState('push');
 }
 
 function buildCompareEditionSelector() {
