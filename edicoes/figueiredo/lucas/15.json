@@ -1,0 +1,64 @@
+{
+  "num": 15,
+  "sumario": "Murmuração dos fariseus por verem que Jesus recebe os pecadores. Parábolas da ovelha, e dracma perdida. O filho pródigo. A alegria do Céu pela conversão de um pecador.",
+  "versiculos": [
+    {"n": 1, "texto": "Chegavam-se pois a Jesus os publicanos, e os pecadores para o ouvirem."},
+    {"n": 2, "texto": "E os fariseus, e os escribas murmuravam, dizendo: Êste recebe os pecadores, e come com êles."},
+    {"n": 3, "texto": "E êle lhes propôs esta parábola, dizendo:"},
+    {"n": 4, "texto": "Qual de vós outros é o homem que tem cem ovelhas: E se perde uma delas, não é assim que deixa as noventa e nove no deserto, e vai a buscar a que se havia perdido, até que a ache?"},
+    {"n": 5, "texto": "E que depois de a achar, a põe sôbre seus ombros cheio de gôsto:"},
+    {"n": 6, "texto": "E vindo à casa chama a seus amigos, e vizinhos, dizendo-lhes: Congratulai-vos comigo, porque achei a minha ovelha, que se havia perdido?"},
+    {"n": 7, "texto": "Digo-vos que assim haverá maior júbilo no Céu, sôbre um pecador que fizer penitência, que sôbre noventa e nove justos, que não hão mister de penitência."},
+    {"n": 8, "texto": "Ou que mulher há que, tendo dez dracmas, e perdendo uma, não acende a candeia, não varra a casa, e não a busque com muito sentido, até que a ache?", "nota": "fn15_1"},
+    {"n": 9, "texto": "E que, depois de a achar, não convoque as suas amigas, e vizinhas, para lhes dizer: Congratulai-vos comigo, porque achei a dracma que tinha perdido?"},
+    {"n": 10, "texto": "Assim vos digo eu, que haverá júbilo entre os anjos de Deus por um pecador que faz penitência."},
+    {"n": 11, "texto": "Disse-lhes mais: Um homem teve dois filhos:"},
+    {"n": 12, "texto": "E disse o mais moço dêles a seu pai: Pai, dá-me a parte da fazenda que me toca. E êle repartiu entre ambos a fazenda."},
+    {"n": 13, "texto": "E passados não muitos dias, entrouxando tudo o que era seu, partiu o filho mais moço para uma terra muito distante num país estranho, e lá dissipou tôda a sua fazenda vivendo dissolutamente."},
+    {"n": 14, "texto": "E depois de ter consumido tudo, sucedeu haver naquele país uma grande fome, e êle começou a necessitar."},
+    {"n": 15, "texto": "Retirou-se pois dali, e acomodou-se com um dos cidadãos da tal terra. Êste porém o mandou para um casal seu a guardar os porcos."},
+    {"n": 16, "texto": "Aqui desejava êle encher a sua barriga de landes, das que comiam os porcos: Mas ninguém lhas dava."},
+    {"n": 17, "texto": "Até que tendo entrado em si, disse: Quantos jornaleiros há em casa de meu pai, que têm pão em abundância, eu aqui pereço à fome!"},
+    {"n": 18, "texto": "Levantar-me-ei, e irei buscar a meu pai, e dir-lhe-ei: Pai, pequei contra o Céu, e diante de ti:"},
+    {"n": 19, "texto": "Já não sou digno de ser chamado teu filho: Faze de mim como de um dos teus jornaleiros."},
+    {"n": 20, "texto": "Levantou-se pois, e foi buscar a seu pai. E quando êle ainda vinha longe, viu o seu pai, que ficou movido de compaixão, e correndo lhe lançou os braços ao pescoço para o abraçar, e o beijou.", "nota": "fn15_2"},
+    {"n": 21, "texto": "E o filho lhe disse: Pai, pequei contra o Céu, e diante de ti; já não sou digno de ser chamado teu filho."},
+    {"n": 22, "texto": "Então disse o pai aos seus servos: Tirai depressa o seu primeiro vestido, e vesti-lho, e metei-lhe um anel no dedo, e os sapatos nos pés:", "nota": "fn15_3"},
+    {"n": 23, "texto": "Trazei também um vitelo bem gordo, matai-o, para comermos e para nos regalarmos:", "nota": "fn15_4"},
+    {"n": 24, "texto": "Porque êste meu filho era morto, e reviveu: Tinha-se perdido, e achou-se. E começaram a banquetear-se."},
+    {"n": 25, "texto": "E o seu filho mais velho estava no campo e quando veio, e foi chegando a casa, ouviu a sinfonia, e o côro:"},
+    {"n": 26, "texto": "E chamou um dos servos, e perguntou-lhe que era aquilo."},
+    {"n": 27, "texto": "E êste lhe disse: É chegado teu irmão, e teu pai mandou matar um novilho cevado, porque veio com saúde."},
+    {"n": 28, "texto": "Êle então se indignou, e não queria entrar. Mas, saindo o pai, começou a rogá-lo que entrasse.", "nota": "fn15_5"},
+    {"n": 29, "texto": "Êle porém deu esta resposta a seu pai: Há tantos anos que te sirvo, sem nunca transgredir mandamento algum teu, e tu nunca me deste um cabrito, para me regalar com os meus amigos:"},
+    {"n": 30, "texto": "Mas tanto que veio êste teu filho, que gastou tudo quanto tinha com prostitutas, logo lhe mandaste matar o novilho gordo."},
+    {"n": 31, "texto": "Então lhe disse o pai: Filho, tu sempre estás comigo, e tudo o que é meu é teu:"},
+    {"n": 32, "texto": "Era porém necessário que houvesse banquete, e festim, pois que êste teu irmão era morto, e reviveu: Tinha-se perdido, e achou-se.", "nota": "fn15_6"}
+  ],
+  "notas": {
+    "fn15_1": {
+      "rotulo": "Dez dracmas",
+      "texto": "Dinheiro, que só não era vilíssimo, para quem não tinha senão dez. E sendo cada um de nós a respeito de Deus muito menos do que é uma dracma a respeito de um homem rico, Deus, contudo, estima tanto a conversão de uma alma, como esta pobre mulher estimava uma dracma."
+    },
+    "fn15_2": {
+      "rotulo": "Que ficou movido de compaixão",
+      "texto": "Tudo isto representa os diversos graus de conversão do pecador. Volta sôbre si, conhece a sua miséria, e a grande felicidade que há em servir a Deus; resolve-se a deixar o pecado, e a apartar-se de tudo aquilo que lhe pode servir de ocasião de pecar, e volta-se para Deus, a quem olha sempre como para seu pai; pede-lhe, como uma singular graça, que o ponha na sorte dos últimos da sua casa; e por último executa sem dilação o em que tem assentado."
+    },
+    "fn15_3": {
+      "rotulo": "O seu primeiro vestido",
+      "texto": "O primeiro, não no tempo, mas na estimação; o vestido (mais precioso), como verteu o siríaco, (e mais roçagante) como verteu o Bispo de Chalons. O texto original diz <em>stole</em>, palavra que designa as vestes usadas pelas pessoas de elevada hierarquia, reis, sacerdotes, etc., que chegam até aos pés."
+    },
+    "fn15_4": {
+      "rotulo": "Vitelo",
+      "texto": "Costume oriental para festejar um personagem."
+    },
+    "fn15_5": {
+      "rotulo": "E não queria entrar",
+      "texto": "A misericórdia de Deus com os pecadores é tão grande, que poderá dar zêlo aos mesmos justos, se êstes fôssem capazes de os ter. Êste filho maior, desgostado desta maneira, representa aos fariseus, que tendo-se por justos, não podiam sofrer que Jesus Cristo conversasse e se familiarizasse tanto com os pecadores, dando-lhes tão particulares mostras do seu amor e benevolência."
+    },
+    "fn15_6": {
+      "rotulo": "Êste pai",
+      "texto": "É Deus; os dois filhos, as almas inocentes, e os pecadores convertidos. Os bens, de que o pai fez repartição ao mais moço, são os dons da graça, entregues na mão do livre alvedrio. A terra muito distante, é o esquecimento de Deus, e da virtude. A dissipação da fazenda, é a perda da graça. A fome, e a servidão, é a miséria de uma alma, que se sujeita ao demônio. Os mercenários são os que servem a Deus com a esperança dos bens temporais. O pai abraçando a seu filho, é Deus todo misericordioso para com o pecador. O primeiro vestido é a graça santificante. O anel, a imagem de Deus, e o sêlo do Espírito Santo. O novilho cevado, a participação da Eucaristia. Todo o restabelecimento do filho é a restituição da graça, e dos dons de Deus depois da conversão. A alegria, e o banquete, o concêrto, e o côro, é a festa, que se faz no Céu, quando um pecador se converte."
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "num": 7,
+  "sumario": "Grande fé do centurião. Cura Jesus o seu criado. Ressuscita o filho de uma viúva de Naim. Envia o Batista seus discípulos a Jesus. Obra Jesus muitos milagres em sua presença. Faz grandes elogios ao Batista, e compara os judeus aos meninos, que jogam no terreiro. Uma mulher pecadora banha com as suas lágrimas os pés a Jesus. Êle a defende, e lhe perdoa seus pecados.",
+  "versiculos": [
+    {"n": 1, "texto": "E depois que Jesus acabou de fazer soar todos êstes discursos aos ouvidos do povo, entrou em Cafarnaum."},
+    {"n": 2, "texto": "E achava-se ali gravemente enfêrmo, já quase às portas da morte, o criado de um centurião, que era muito estimado dêle."},
+    {"n": 3, "texto": "E quando ouviu falar de Jesus, enviou a êle uns anciãos dos judeus, rogando-lhe que viesse a sarar o seu criado.", "nota": "fn7_1"},
+    {"n": 4, "texto": "E êles logo que chegaram a Jesus, lhe faziam grandes instâncias, dizendo-lhe: É pessoa que merece que tu lhe faças êste favor:"},
+    {"n": 5, "texto": "Porque é amigo da nossa gente: E êle mesmo nos fundou uma Sinagoga."},
+    {"n": 6, "texto": "Ia pois Jesus com êles. E quando se achava já perto da casa, lhe mandou o centurião dizer por seus amigos êste recado: Senhor, não te fatigues: Porque eu não sou digno de que tu entres em minha casa:"},
+    {"n": 7, "texto": "Por essa razão nem eu me achei digno de te ir buscar: Mas dize tu uma só palavra, e o meu criado será salvo:"},
+    {"n": 8, "texto": "Porque também eu sou oficial subalterno, que tenho soldados às minhas ordens: E digo a um, vai acolá, e êle vai: E a outro, vem cá, e êle vem: E ao meu servo, faze isto, e êle o faz.", "nota": "fn7_2"},
+    {"n": 9, "texto": "O que ouvindo Jesus, ficou admirado: E voltando-se para o povo que ia seguindo, disse: Em verdade vos afirmo, que nem em Israel tenho achado fé tamanha."},
+    {"n": 10, "texto": "E voltando para casa os que haviam sido enviados, acharam que estava são o criado que estivera doente."},
+    {"n": 11, "texto": "E aconteceu isto: No dia seguinte caminhava Jesus para uma cidade chamada Naim: E iam com êle seus discípulos, e muito povo.", "nota": "fn7_3"},
+    {"n": 12, "texto": "E quando chegou perto da porta da cidade, eis que levavam um defunto a sepultar, filho único de sua mãe, que já era viúva: E vinha com ela muita gente da cidade."},
+    {"n": 13, "texto": "Tendo-a visto o Senhor, movido de compaixão para com ela, disse-lhe: Não chores."},
+    {"n": 14, "texto": "E chegou-se, e tocou no esquife. (Pararam logo os que o levavam). Então disse êle: Moço, eu te mando, levanta-te."},
+    {"n": 15, "texto": "E se sentou o que havia estado morto, e começou a falar. E Jesus o entregou a sua mãe."},
+    {"n": 16, "texto": "Pelo que se apoderou de todos o temor: E glorificavam a Deus, dizendo: Um grande profeta se levantou entre nós: E visitou Deus o seu povo."},
+    {"n": 17, "texto": "E a fama dêste milagre correu por tôda a Judéia, e por tôda a comarca."},
+    {"n": 18, "texto": "E referiram a João os seus discípulos tôdas estas coisas."},
+    {"n": 19, "texto": "E João chamou a dois de seus discípulos, e os enviou a Jesus, dizendo: És tu o que hás de vir, ou é outro o que esperamos?"},
+    {"n": 20, "texto": "E como viessem êstes homens a êle, lhe disseram: João Batista nos enviou a ti, para te perguntar: És tu o que hás de vir, ou é outro o que esperamos?"},
+    {"n": 21, "texto": "(E naquela mesma hora curou Jesus a muitos de enfermidades, e de chagas, e de espíritos malignos, e deu vista a muitos cegos.)"},
+    {"n": 22, "texto": "Depois, dando a sua resposta, lhes disse: Ide referir a João, o que tendes ouvido, e visto: <span class='prophetic'>Que os cegos vêem, os coxos andam, os leprosos ficam limpos, os surdos ouvem, os mortos ressuscitam, aos pobres é anunciado o Evangelho:</span>"},
+    {"n": 23, "texto": "E que é bem-aventurado todo aquêle que se não escandalizar a meu respeito."},
+    {"n": 24, "texto": "E partidos que foram os mensageiros de João, começou Jesus a falar dêle ao povo, dizendo: Que fostes vós ver ao deserto? uma cana sacudida do vento?"},
+    {"n": 25, "texto": "Mas que fostes vós ver? um homem vestido de roupas delicadas? Bem vêdes que os que vestem roupas preciosas, e vivem em delícias, são os que vivem nos palácios dos reis."},
+    {"n": 26, "texto": "Mas que fostes vós ver? um profeta? Na verdade vos digo, é mais que profeta:"},
+    {"n": 27, "texto": "Êste é aquêle de quem está escrito: <span class='prophetic'>Eis aí envio eu o meu anjo diante da tua face, que preparará o teu caminho diante de ti.</span>"},
+    {"n": 28, "texto": "Porque eu vos declaro: Que entre os nascidos de mulheres não há maior profeta que João Batista: Mas o que é menor no reino de Deus é maior do que êle."},
+    {"n": 29, "texto": "E todo o povo, e os publicanos, que tinham sido batizados com o batismo de João, deram glória a Deus, ouvindo êste discurso."},
+    {"n": 30, "texto": "Porém os fariseus, e os doutores da lei desprezaram os desígnios de Deus, acharam dano de si mesmos, em não se terem feito batizar por êle."},
+    {"n": 31, "texto": "Então disse o Senhor: Pois a quem direi que se assemelham os homens desta geração? e a quem se parecem êles?"},
+    {"n": 32, "texto": "São semelhantes aos meninos que estão sentados no terreiro, e que falam uns para os outros, e dizem: Nós temos cantado ao som da gaita para vos divertir, e vós não bailastes; temos cantado em ar de lamentação, e vós não chorastes."},
+    {"n": 33, "texto": "Porque veio João Batista, que nem comia pão, nem bebia vinho, e dizeis: Êle está possesso do demônio."},
+    {"n": 34, "texto": "Veio o Filho do homem, que come e bebe; e vós dizeis: Vejam o homem glutão, e amigo de vinho, que acompanha com publicanos e pecadores."},
+    {"n": 35, "texto": "Mas a sabedoria foi justificada por todos os seus filhos."},
+    {"n": 36, "texto": "E lhe rogava um fariseu que fôsse a comer com êle. E havendo entrado em casa do fariseu se assentou à mesa."},
+    {"n": 37, "texto": "E no mesmo tempo uma mulher pecadora, que havia na cidade, quando soube que estava à mesa em casa do fariseu, levou uma redoma de alabastro cheia de bálsamo."},
+    {"n": 38, "texto": "E pondo-se a seus pés por detrás dêle, começou a regar-lhe com lágrimas os pés, e os enxugava com os cabelos da sua cabeça, e lhe beijava os pés, e os ungia com o bálsamo.", "nota": "fn7_4"},
+    {"n": 39, "texto": "E quando isto viu o fariseu, que o tinha convidado, disse lá consigo, fazendo êste discurso: Se êste homem fôra profeta, bem saberia quem, e qual é a mulher que o toca, porque é pecadora."},
+    {"n": 40, "texto": "Então respondendo Jesus, lhe disse: Simão, tenho que te dizer uma coisa. E êle respondeu: Mestre, dize-a."},
+    {"n": 41, "texto": "Um credor tinha dois devedores: Um lhe devia quinhentos dinheiros e outro cinqüenta."},
+    {"n": 42, "texto": "Porém não tendo os tais com que pagarem, remiu-lhes êle a ambos a dívida. Qual pois o ama mais?"},
+    {"n": 43, "texto": "Respondendo Simão, disse: Creio que aquêle a quem o credor perdoou maior quantia. E Jesus lhe disse: Julgaste bem."},
+    {"n": 44, "texto": "E voltando para a mulher, disse a Simão: Vês essa mulher? Entrei em tua casa, não me deste água para os pés: Mas esta, com as suas lágrimas regou os meus pés, e os enxugou com os seus cabelos."},
+    {"n": 45, "texto": "Não me deste ósculo: Mas esta, desde que entrou não cessou de me beijar os pés."},
+    {"n": 46, "texto": "Não ungiste a minha cabeça com bálsamo: E esta com bálsamo ungiu os meus pés."},
+    {"n": 47, "texto": "Pelo que te digo: Que perdoados lhe são seus muitos pecados, porque amou muito. Mas ao que menos se perdoa, menos ama."},
+    {"n": 48, "texto": "E disse-lhe a ela: Perdoados te são teus pecados."},
+    {"n": 49, "texto": "E os que comiam ali começaram a dizer entre si: Quem é êste que até perdoa pecados?"},
+    {"n": 50, "texto": "E Jesus disse para a mulher: A tua fé te salvou: Vai-te em paz.", "nota": "fn7_5"}
+  ],
+  "notas": {
+    "fn7_1": {
+      "rotulo": "Uns anciãos",
+      "texto": "Os que estavam à frente da administração da cidade. Única passagem em que o título de ancião não designa os membros do sanedrim."
+    },
+    "fn7_2": {
+      "rotulo": "E êle o faz",
+      "texto": "Êste exemplo que o centurião pôs deixa para suprir o que se segue: Com quanta maior razão logo poderá Jesus Cristo, que tudo pode ainda sem se mover, curar com uma só palavra o meu criado? — Sacy."
+    },
+    "fn7_3": {
+      "rotulo": "Naim",
+      "texto": "Fica a nordeste do pequeno Hermon (Djebel-el-Duhy) excelente ponto de vista; era fortificada e tinha uma porta aberta nos muros que defendiam a cidade das investidas dos beduínos."
+    },
+    "fn7_4": {
+      "rotulo": "Começou a regar-lhe com lágrimas os pés e os enxugava, etc.",
+      "texto": "O costume dos Judeus era descalçarem-se para comer, e ter os pés levantados. — Duhamel."
+    },
+    "fn7_5": {
+      "rotulo": "A tua fé",
+      "texto": "Aqui se atribui à fé a remissão dos pecados, porque a fé em Jesus Cristo é o princípio da salvação, e o primeiro passo que dá o pecador para a justiça. A fé conduziu esta mulher aos pés de Jesus Cristo, porém o seu arrependimento foi o que a reconciliou com Deus; de maneira que, arrependendo-se e começando a amar, bastou para que o Senhor lhe perdoasse; esta mesma graça e perdão do Senhor incendeu no seu coração novas e maiores chamas de amor. A paz da consciência é um fruto da fé."
+    }
+  }
+}

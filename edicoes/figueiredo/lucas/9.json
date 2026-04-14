@@ -1,0 +1,94 @@
+{
+  "num": 9,
+  "sumario": "Envia Jesus os seus Apóstolos, dando-lhes as instruções que deviam observar. Deseja Herodes vê-lo movido da fama que dêle corria. Multiplicação dos cinco pães. Pedro o reconhece por Messias. Prediz Jesus a sua Paixão. Cada um deve segui-lo, levando a sua cruz. A Transfiguração do Senhor. Livra um menino possesso. Disputam os Apóstolos entre si qual era o maior. Zêlo mal entendido dos filhos de Zebedeu. Não admite Jesus a um certo homem, que o queria seguir, e chama a outro, sem lhe dar tempo para ir enterrar seu pai.",
+  "versiculos": [
+    {"n": 1, "texto": "Tendo porém Jesus convocado os doze Apóstolos, deu-lhes poder e autoridade sôbre todos os demônios; e virtude de curar enfermidades.", "nota": "fn9_1"},
+    {"n": 2, "texto": "Depois enviou-os a pregar o Reino de Deus, e a curar os enfermos."},
+    {"n": 3, "texto": "E disse-lhes: Não leveis coisa alguma pelo caminho, nem bordão, nem alforge, nem pão, nem dinheiro, nem tenhais duas túnicas."},
+    {"n": 4, "texto": "E em qualquer casa, em que entrardes, ficai aí, e não saiais dela."},
+    {"n": 5, "texto": "E quando quaisquer vos não queiram receber: Ao sair dessa cidade, sacudi até o pó dos vossos pés, para servir de testemunho contra êles."},
+    {"n": 6, "texto": "Tendo êles pois saído, andavam de aldeia em aldeia pregando o Evangelho, e fazendo curas em todo o lugar."},
+    {"n": 7, "texto": "E chegou à notícia de Herodes tetrarca tudo o que Jesus obrava, e ficou como suspenso, porque diziam"},
+    {"n": 8, "texto": "uns: É João que ressurgiu dos mortos; e outros: É Elias que apareceu; e outros: É um dos antigos profetas que ressuscitou."},
+    {"n": 9, "texto": "Então lhes disse Herodes: Eu mandei degolar a João: Quem é pois êste, de quem eu ouço semelhantes coisas? E buscava ocasião de o ver."},
+    {"n": 10, "texto": "E tendo voltado os Apóstolos, lhe contaram tudo quanto haviam feito, e Jesus, tomando-os consigo à parte, foi a um lugar deserto, que é do território de Betsaidá."},
+    {"n": 11, "texto": "O que ouvindo os povos, o foram seguindo, e Jesus os recebeu, e falava-lhes do Reino de Deus, e sarava os que necessitavam de cura."},
+    {"n": 12, "texto": "Ora, o dia tinha começado já a declinar, quando chegando a êle os doze, lhe disseram: Despede estas gentes, para que indo êles por essas aldeias, e granjas da comarca, se alberguem, e achem que comer: Porque aqui estamos em lugar deserto."},
+    {"n": 13, "texto": "Mas Jesus lhes respondeu: Dai-lhes vós de comer. E replicaram êles: Nós não temos mais do que cinco pães e dois peixes, senão é que devemos ir comprar mantimento para todo êste povo."},
+    {"n": 14, "texto": "Porque eram quase cinco mil homens. Então disse Jesus a seus discípulos: Fazei-os sentar para comer, divididos em ranchos de cinqüenta em cinqüenta."},
+    {"n": 15, "texto": "E êles assim o executaram. E os fizeram sentar a todos."},
+    {"n": 16, "texto": "E tendo tomado Jesus os cinco pães e dois peixes, levantou os olhos ao Céu, e os abençoou, e partiu e deu aos seus discípulos, para que os pusessem diante das gentes."},
+    {"n": 17, "texto": "E comeram todos, e ficaram fartos. E levantaram, do que lhes sobejou, doze cestos de fragmentos."},
+    {"n": 18, "texto": "E aconteceu que estando só orando, se achavam com êle também os seus discípulos: E Jesus lhes perguntou, dizendo: Quem dizem as gentes que sou eu?", "nota": "fn9_2"},
+    {"n": 19, "texto": "E êles responderam, e disseram: Uns dizem que João Batista, outros que Elias, e outros, que ressuscitou algum dos antigos profetas."},
+    {"n": 20, "texto": "Então lhes disse Jesus: E vós quem dizeis que sou eu? Respondendo Simão Pedro, disse: O Cristo de Deus."},
+    {"n": 21, "texto": "Êle então ameaçando-os mandou que o não dissessem a ninguém,"},
+    {"n": 22, "texto": "dizendo: É necessário que o Filho do homem padeça muitas coisas, e que seja rejeitado dos anciãos e dos príncipes dos sacerdotes, dos escribas, e que seja entregue à morte, e que ressuscite ao terceiro dia."},
+    {"n": 23, "texto": "E dizia a todos: Se alguém quer vir após de mim, negue-se a si mesmo, e tome a sua cruz cada dia, e siga-me:"},
+    {"n": 24, "texto": "Porque o que quiser salvar a sua alma, virá a perdê-la: E quem perder a sua alma por amor de mim salva-la-á:"},
+    {"n": 25, "texto": "Porque, que aproveita um homem, se grangear todo o mundo, quando se perde a si mesmo, e se faz dano a si?"},
+    {"n": 26, "texto": "Porque se alguém se envergonhar de mim, e das minhas palavras: Também o Filho do homem se envergonhará dêle, quando vier na sua majestade e na de seu Pai, e santos Anjos."},
+    {"n": 27, "texto": "E digo-vos na verdade: Que dos que aqui se acham, alguns há que não hão de gostar a morte, até não verem o reino de Deus."},
+    {"n": 28, "texto": "E aconteceu que passados quase oito dias depois que disse estas palavras, tomou Jesus consigo não só a Pedro, mas a Tiago, e a João e subiu a um monte a orar."},
+    {"n": 29, "texto": "E enquanto orava, pareceu todo outro o seu rosto: E fez-se o seu vestido alvo e brilhante."},
+    {"n": 30, "texto": "E eis que falavam com êle dois varões. E êstes eram Moisés e Elias."},
+    {"n": 31, "texto": "Que apareceram cheios de majestade: E falavam da sua saída dêste mundo, que havia de cumprir em Jerusalém."},
+    {"n": 32, "texto": "Entretanto Pedro, e os que com êle estavam, se tinham deixado oprimir do sono. E despertando viram a glória de Jesus, e aos dois varões, que com êle estavam."},
+    {"n": 33, "texto": "E aconteceu que ao tempo que se apartaram dêle, disse Pedro a Jesus: Mestre, bom é que nós aqui estejamos: E façamos três tendas, uma para ti, e outra para Moisés, e outra para Elias: Não sabendo o que dizia."},
+    {"n": 34, "texto": "E quando êle estava ainda dizendo isto, veio uma nuvem, e os cobriu: E tiveram mêdo, entrando êles na nuvem."},
+    {"n": 35, "texto": "E saiu uma voz da nuvem, dizendo: Êste é aquêle meu Filho especialmente amado, ouvi-o."},
+    {"n": 36, "texto": "E ao sair esta voz, acharam só a Jesus. E êles se calaram, e a ninguém disseram naqueles dias coisa alguma das que tinham visto."},
+    {"n": 37, "texto": "E sucedeu no dia seguinte que descendo êles do monte, lhes veio sair ao encontro uma grande multidão de gente."},
+    {"n": 38, "texto": "E eis que um homem da turba clamou, dizendo: Mestre, rogo-te que ponhas os olhos em meu filho, porque é o único que tenho:"},
+    {"n": 39, "texto": "E eis que um espírito se apodera dêle, sùbitamente dá gritos, e o lança por terra, e o agita com violência, fazendo-o escumar, e apenas o larga deixando-o feito em pedaços:"},
+    {"n": 40, "texto": "E pedi a teus discípulos que o expelissem, e êles não puderam."},
+    {"n": 41, "texto": "E respondendo Jesus, disse: Ó geração infiel, e perversa, até quando estarei eu convosco, e vos sofrerei? Traze cá o teu filho."},
+    {"n": 42, "texto": "E quando êste ia chegando, o lançou o demônio por terra, e o agitou com violentas convulsões."},
+    {"n": 43, "texto": "Mas Jesus ameaçou ao espírito imundo, sarou o menino, e o restituiu a seu pai."},
+    {"n": 44, "texto": "E pasmavam todos do grande poder de Deus: E admirando-se todos de tôdas as coisas que fazia, disse Jesus aos seus discípulos: Ponde vós nos vossos corações estas palavras: O Filho do homem há de vir a ser entregue nas mãos dos homens."},
+    {"n": 45, "texto": "Mas êles não entendiam esta palavra, e lhes era tão obscura, que não a compreendiam: E tinham mêdo de lhe perguntar acêrca dela."},
+    {"n": 46, "texto": "Veio-lhes então ao pensamento qual dêles era o maior."},
+    {"n": 47, "texto": "Mas Jesus vendo o que êles cuidavam nos seus corações, tomou um menino, e o pôs junto de si,"},
+    {"n": 48, "texto": "e lhes disse: Todo o que receber êste menino em meu nome, a mim me recebe: E todo o que me receber a mim, recebe àquele que me enviou. Porque quem dentre vós todos é o menor, êsse é o maior."},
+    {"n": 49, "texto": "Então respondendo João, disse: Mestre, nós vimos a um que expelia os demônios em teu nome, e lho vedamos: Porque não te segue conosco."},
+    {"n": 50, "texto": "E Jesus lhes disse: Não lho proibais; Porque o que não é contra vós, é por vós."},
+    {"n": 51, "texto": "E aconteceu que sendo chegado o tempo da sua Assunção, mostrou êle um semblante intrépido e resoluto para ir para Jerusalém.", "nota": "fn9_3"},
+    {"n": 52, "texto": "E enviou adiante de si mensageiros: E indo êles entraram em uma cidade dos samaritanos para lhe prevenirem pousada.", "nota": "fn9_4"},
+    {"n": 53, "texto": "E não o receberam, por êle dar mostras de que ia para Jerusalém."},
+    {"n": 54, "texto": "O que porém tendo visto seus discípulos Tiago e João, disseram: Senhor, queres tu que digamos que desça fogo do Céu, e que os consuma?"},
+    {"n": 55, "texto": "Porém Jesus voltando-se para êles, os repreendeu, dizendo: Vós não sabeis qual é o espírito da vossa vocação."},
+    {"n": 56, "texto": "O Filho do homem não veio a perder as almas, mas a salvá-las. E foram para outra povoação."},
+    {"n": 57, "texto": "E aconteceu isto: Indo êle pelo caminho, veio um homem, e disse a Jesus: Eu seguir-te-ei para onde quer que tu fôres."},
+    {"n": 58, "texto": "Respondeu-lhe Jesus: As raposas têm suas covas, e as aves do Céu têm seus ninhos: Mas o Filho do homem não tem onde reclinar a cabeça.", "nota": "fn9_5"},
+    {"n": 59, "texto": "E a outro disse Jesus: Segue-me: E êle lhe disse: Senhor, permite-me que vá eu primeiro enterrar a meu pai.", "nota": "fn9_6"},
+    {"n": 60, "texto": "E Jesus lhe respondeu: Deixa que os mortos enterrem os seus mortos: E tu vai, e anuncia o Reino de Deus."},
+    {"n": 61, "texto": "E disse-lhe outro: Eu, Senhor, seguir-te-ei, mas dá-me licença que eu vá primeiro dispor dos bens que tenho em minha casa."},
+    {"n": 62, "texto": "Respondeu-lhe Jesus: Nenhum que mete a sua mão no arado, e olha para trás, é apto para o Reino de Deus."}
+  ],
+  "notas": {
+    "fn9_1": {
+      "rotulo": "Tendo porém",
+      "texto": "Cfr. <em>Mt</em> 10, 1; <em>Mc</em> 3, 15."
+    },
+    "fn9_2": {
+      "rotulo": "Só orando",
+      "texto": "Em Cesaréia de Filipe. Cfr. <em>Mt</em> 16, 13."
+    },
+    "fn9_3": {
+      "rotulo": "Assunção",
+      "texto": "Esta palavra do texto, segundo os intérpretes, significa aquêle tempo em que Jesus Cristo se havia de ausentar dêste mundo para o seio de seu Pai ou o da sua morte."
+    },
+    "fn9_4": {
+      "rotulo": "E indo êles",
+      "texto": "Para darem notícia de que êle vinha. Porque, como os samaritanos viviam em cisma com os judeus em matéria de religião, e conseqüentemente se abstinham de todo o comércio com êles, justamente se podia recear que o não quisessem admitir."
+    },
+    "fn9_5": {
+      "rotulo": "Mas o Filho",
+      "texto": "Vale-se o Senhor destas comparações para denotar a extrema pobreza com que vivia entre nós. E se quer chamar o \"Filho do homem\", isto é, da Virgem Maria, não obstante que o anjo lhe havia chamado \"Salvador\", ainda antes de nascer, e os profetas o haviam anunciado com os títulos de \"Messias, Sacerdote Eterno, Anjo do grande conselho, Deus, Senhor, Príncipe de Paz\", e outros, <em>Is</em> 9, 6, para abater o nosso orgulho, e confundir a nossa soberba, ensinando-nos o amor da humildade e da pobreza."
+    },
+    "fn9_6": {
+      "rotulo": "Segue-me",
+      "texto": "Oferecendo-se um para o seguir, Jesus o não admite. E quando outro se queria retirar, Jesus o detém em seu serviço."
+    }
+  }
+}

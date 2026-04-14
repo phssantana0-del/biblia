@@ -1,0 +1,88 @@
+{
+  "num": 4,
+  "sumario": "Jejum e tentação de Jesus Cristo no deserto. Lê e explica as Escrituras na sinagoga de Nazaré. Só na sua pátria não tem o profeta estimação. Livra um endemoninhado em Cafarnaum. Cura de uma febre a sogra de Pedro, e obra outras maravilhas em doentes e possessos.",
+  "versiculos": [
+    { "n": 1, "texto": "Cheio pois do Espírito Santo voltou Jesus do Jordão, e foi levado pelo Espírito ao deserto." },
+    { "n": 2, "texto": "Onde esteve quarenta dias, e foi tentado pelo diabo. E não comeu nada nestes dias, e passados êles teve fome." },
+    { "n": 3, "texto": "Disse-lhe então o demônio: Se és Filho de Deus, dize a esta pedra que se converta em pão." },
+    { "n": 4, "texto": "E Jesus lhe respondeu: Está escrito que o homem não vive somente de pão, mas de tôda a palavra de Deus." },
+    { "n": 5, "texto": "E o demônio o levou a um alto monte, e lhe mostrou todos os reinos da redondeza da terra em um momento de tempo." },
+    { "n": 6, "texto": "E lhe disse: Dar-te-ei todo êste poder, e a glória dêstes reinos, porque êles me foram dados, e eu os dou a quem bem me parece." },
+    { "n": 7, "texto": "Portanto, se tu na minha presença prostrado me adorares, todos êles serão teus." },
+    { "n": 8, "texto": "E respondendo Jesus, lhe disse: Escrito está: Ao Senhor teu Deus adorarás, e a êle só servirás." },
+    { "n": 9, "texto": "Levou-o ainda a Jerusalém, e pô-lo sôbre o pináculo do Templo, e disse-lhe: Se és Filho de Deus lança-te daqui abaixo." },
+    { "n": 10, "texto": "Porque está escrito que Deus mandou aos seus Anjos que tivessem cuidado de ti, e que te guardassem." },
+    { "n": 11, "texto": "E que te sustivessem em seus braços, para não magoares talvez o teu pé em alguma pedra." },
+    { "n": 12, "texto": "E respondendo Jesus, lhe disse: Dito está: Não tentarás ao Senhor teu Deus." },
+    { "n": 13, "texto": "E, acabada tôda a tentação, se retirou dêle o demônio, até certo tempo.", "nota": "fn4_1" },
+    { "n": 14, "texto": "E voltou Jesus em virtude do Espírito para Galiléia, e a fama dêle se divulgou por todo aquêle país." },
+    { "n": 15, "texto": "E êle ensinava nas Sinagogas dêles, e era aclamado grande por todos." },
+    { "n": 16, "texto": "E veio a Nazaré, onde se havia criado, e entrou na Sinagoga segundo o seu costume em dia de sábado, e levantou-se para ler.", "nota": "fn4_2" },
+    { "n": 17, "texto": "E foi-lhe dado o livro do profeta Isaías. E quando desenrolou o livro, achou o lugar onde estava escrito:" },
+    { "n": 18, "texto": "<span class='prophetic'>O Espírito do Senhor repousou sôbre mim, pelo que êle me consagrou com a sua unção, e enviou-me a pregar o Evangelho aos pobres, a sarar aos quebrantados de coração.</span>" },
+    { "n": 19, "texto": "<span class='prophetic'>A anunciar aos cativos redenção, e aos cegos vistas, a pôr em liberdade aos quebrantados para seu resgate, a publicar o ano favorável do Senhor, e o dia da retribuição.</span>" },
+    { "n": 20, "texto": "E havendo enrolado o livro, o deu ao ministro, e se assentou. E quantos havia na Sinagoga tinham os olhos fixos nêle:", "nota": "fn4_3" },
+    { "n": 21, "texto": "E começou êle a dizer-lhes: Hoje se cumpriu esta Escritura nos vossos ouvidos." },
+    { "n": 22, "texto": "E todos lhe davam testemunho, e se admiravam da graça das palavras que saíam da sua bôca, e diziam: Não é êste o filho de José?" },
+    { "n": 23, "texto": "Então lhes disse Jesus: Sem dúvida que vós me aplicareis êste provérbio: Médico, cura-te a ti mesmo: tôdas aquelas grandes coisas que ouvimos dizer, que fizeste em Cafarnaum, faze-as também aqui na tua pátria.", "nota": "fn4_4" },
+    { "n": 24, "texto": "E prosseguiu: Na verdade vos digo, que nenhum profeta é bem aceito na sua pátria:", "nota": "fn4_5" },
+    { "n": 25, "texto": "Na verdade vos digo, que muitas viúvas havia em Israel nos dias de Elias, quando foi fechado o Céu por três anos e seis meses, quando houve uma grande fome por tôda a terra:" },
+    { "n": 26, "texto": "E a nenhuma delas foi mandado Elias, senão a uma mulher viúva de Sarepta de Sidónia." },
+    { "n": 27, "texto": "E muitos leprosos havia em Israel em tempo do profeta Eliseu, mas nenhum deles foi limpo senão Naamã, da Síria.", "nota": "fn4_6" },
+    { "n": 28, "texto": "E todos os que estavam na Sinagoga, ouvindo isto, se encheram de ira." },
+    { "n": 29, "texto": "E levantaram-se, e o lançaram fora da cidade: E o conduziram até ao cume do monte, sôbre o qual a sua cidade estava fundada, para o precipitarem.", "nota": "fn4_7" },
+    { "n": 30, "texto": "Mas êle, passando pelo meio dêles, se retirou.", "nota": "fn4_8" },
+    { "n": 31, "texto": "E desceu a Cafarnaum, cidade de Galiléia, e ali os ensinava nos sábados." },
+    { "n": 32, "texto": "E êles se espantavam da sua doutrina, porque a sua palavra era com autoridade." },
+    { "n": 33, "texto": "E estava na Sinagoga um homem possesso do espírito imundo, e exclamou em voz alta," },
+    { "n": 34, "texto": "dizendo: Deixa-nos, que tens tu conosco, Jesus Nazareno? Vieste a perder-nos? Bem sei quem és: És o Santo Deus.", "nota": "fn4_9" },
+    { "n": 35, "texto": "Mas Jesus o repreendeu, dizendo: Cala-te, e sai dêsse homem. E o demônio depois de o ter lançado em terra no meio de todos, saiu dêle, sem lhe fazer algum mal." },
+    { "n": 36, "texto": "E ficaram todos cheios de pavor, e falavam uns com os outros, dizendo: Que coisa é esta, porque êle com poder, e com virtude manda aos espíritos imundos, e êstes saem?" },
+    { "n": 37, "texto": "E por todos os lugares do país corria a fama do seu nome." },
+    { "n": 38, "texto": "E saindo Jesus da Sinagoga, entrou em casa de Simão. Ora a sogra de Simão padecia grandes febres: E pediram-lhe que se compadecesse dela." },
+    { "n": 39, "texto": "E inclinando-se em pé sôbre ela, pôs preceito à febre: E a febre a deixou. E ela levantando-se logo, se pôs a serví-los." },
+    { "n": 40, "texto": "E quando foi sol pôsto, todos os que tinham enfermos de diversas moléstias lhos traziam. E êle, pondo as mãos sôbre cada um dêles, os sarava." },
+    { "n": 41, "texto": "E de muitos saíam os demônios, gritando, e dizendo: Tu és o Filho de Deus. Mas êle, repreendendo-os, não permitia que êles tal dissessem: Que sabiam que êle mesmo era o Cristo." },
+    { "n": 42, "texto": "E depois que foi dia, tendo saído, se retirou para um lugar deserto, e as gentes o buscavam, e foram até onde êle estava: E o detinham para que se não apartasse dêles." },
+    { "n": 43, "texto": "Êle lhes disse: Às outras cidades é necessário também que eu anuncie o reino de Deus: Que para isso é que fui enviado." },
+    { "n": 44, "texto": "E andava pregando nas Sinagogas de Galiléia." }
+  ],
+  "notas": {
+    "fn4_1": {
+      "rotulo": "Até certo tempo",
+      "texto": "Isto é, até ao tempo da Paixão de Jesus Cristo, no qual não tanto veio a tentá-lo, como combatê-lo abertamente. O cristão não se deve contentar com resistir a satanás duas ou três vezes, mas deve estar em contínua vigia temendo os seus assaltos."
+    },
+    "fn4_2": {
+      "rotulo": "Sinagoga",
+      "texto": "De Nazaré, onde Jesus Cristo ensinou a Lei. Ficava no local onde, segundo a tradição, fica atualmente a Igreja dos gregos unidos, pouco mais ou menos no centro da cidade moderna, perto do mercado. Todos os judeus podiam ler e falar nas sinagogas."
+    },
+    "fn4_3": {
+      "rotulo": "Ao ministro",
+      "texto": "Aquêle a quem os rabinos chamam <em>Khasan</em>, espécie de acólito encarregado de abrir as portas da sinagoga, preparar os manuscritos da Escritura e acondicionar tudo quanto era necessário para os ofícios."
+    },
+    "fn4_4": {
+      "rotulo": "Vós me aplicareis",
+      "texto": "Declara-lhes a objeção que êle estava lendo nos seus corações. — Amelote."
+    },
+    "fn4_5": {
+      "rotulo": "Que nenhum profeta",
+      "texto": "Com outro provérbio lhes dá a entender que a sua incredulidade os fazia indignos de que êle obrasse ali os milagres, que em outras partes obrava. E a incredulidade dos compatriotas do profeta costuma nascer da inveja e da soberba, que não sofre ver-se excedida pelo que é seu igual. — Amelote."
+    },
+    "fn4_6": {
+      "rotulo": "Senão Naamã da Síria",
+      "texto": "O grego tem <em>Neeman</em>. Com êstes exemplos de pessoas estranhas em quem Deus empregou a sua misericórdia lhes deu a entender que o seu orgulho os fazia indignos de receber as graças, que concedia abundantemente aos outros povos. — Santo Ambrósio."
+    },
+    "fn4_7": {
+      "rotulo": "Monte",
+      "texto": "É o chamado monte de precipitação, isto é, a montanha para a qual os nazarenos conduziram Jesus Cristo para precipitá-lo. Não está perfeitamente identificado. O sítio tradicional é ao sul da cidade, a uma hora de caminho."
+    },
+    "fn4_8": {
+      "rotulo": "Se retirou",
+      "texto": "Ou fazendo-se invisível, como crêem alguns, ou deixando-os suspensos e imóveis, dando com isto a entender que o haver-se entregado depois à morte, não foi por necessidade, senão por um efeito da sua vontade. — Santo Ambrósio."
+    },
+    "fn4_9": {
+      "rotulo": "És o Santo Deus",
+      "texto": "O texto grego tem com a maior energia <em>aquêle Santo de Deus</em>. E deve-se advertir com os santos Padres, que o que os demónios mostravam conhecer da pessoa e dignidade de Jesus Cristo, não passava de um conhecimento conjectural; não que o Senhor era verdadeiro Deus, mas que era o Messias prometido pelos profetas. — Calmet."
+    }
+  }
+}

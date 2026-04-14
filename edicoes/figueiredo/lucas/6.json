@@ -1,0 +1,85 @@
+{
+  "num": 6,
+  "sumario": "Os Apóstolos colhendo espigas em dia de sábado. Jesus os desculpa. No seguinte sábado cura o homem da mão ressecada. Passa a noite em oração por escolher os Apóstolos. Prega no meio do campo as bem-aventuranças. Diversos conselhos e preceitos da Lei Nova. A aresta e a trave no ôlho. A boa e a má árvore. O que ouve e pratica. O que ouve, levanta edifício sólido.",
+  "versiculos": [
+    { "n": 1, "texto": "E aconteceu um dia de sábado, chamado segundo primeiro, que como passasse pelas searas, os seus discípulos cortavam espigas, e machucando-as nas mãos as comiam.", "nota": "fn6_1" },
+    { "n": 2, "texto": "E alguns dos fariseus lhes diziam: Por que fazeis o que não é lícito nos sábados?" },
+    { "n": 3, "texto": "E respondendo-lhes Jesus, disse: Vós não tendes lido o que fez Davi, quando teve fome êle, e os que com êle estavam?" },
+    { "n": 4, "texto": "Como entrou na casa de Deus, e tomou os pães da proposição, e comeu dêles, e deu aos que vinham com êle: Sendo assim que não podiam comer dêles, senão só os sacerdotes?" },
+    { "n": 5, "texto": "Disse-lhes mais: O Filho do homem é Senhor também do sábado mesmo." },
+    { "n": 6, "texto": "E aconteceu que também outro sábado entrou Jesus na Sinagoga, e ensinava. E achava-se ali um homem que tinha ressecada a mão direita.", "nota": "fn6_2" },
+    { "n": 7, "texto": "E os escribas, e os fariseus o estavam observando, para ver se curava em sábado: A fim de terem de que o acusar." },
+    { "n": 8, "texto": "Mas Jesus sabia os pensamentos dêles: E disse para o homem que tinha a mão ressecada: Levanta-te e põe-te em pé no meio. E levantando-se êle, ficou em pé." },
+    { "n": 9, "texto": "E Jesus lhes disse: Pergunto-vos, se é lícito nos sábados fazer bem, ou mal: Salvar a vida, ou tirá-la?" },
+    { "n": 10, "texto": "Depois correndo a todos com os olhos, disse ao homem: Estende a tua mão. E estendeu-a êle, e foi-lhe restituída a mão." },
+    { "n": 11, "texto": "E êles se encheram de furor e falavam uns com os outros, para ver que fariam de Jesus." },
+    { "n": 12, "texto": "E aconteceu naqueles dias, que saiu ao monte a orar, e passou tôda a noite em oração a Deus.", "nota": "fn6_3" },
+    { "n": 13, "texto": "E quando foi dia, chamou os seus discípulos: E escolheu dentre êles doze que chamou Apóstolos,", "nota": "fn6_4" },
+    { "n": 14, "texto": "a saber: Simão, a quem deu o sobrenome de Pedro, e André seu irmão, Tiago, e João, Filipe, e Bartolomeu," },
+    { "n": 15, "texto": "Mateus, e Tomé, Tiago, filho de Alfeu, e Simão, chamado o Zelador." },
+    { "n": 16, "texto": "E Judas, irmão de Tiago, e Judas Iscariotes, que foi o traidor." },
+    { "n": 17, "texto": "Descendo depois com êles, parou numa planície, acompanhado da comitiva de seus discípulos e de grande multidão de povo de tôda a Judéia e de Jerusalém e das terras marítimas, assim de Tiro, como de Sidónia." },
+    { "n": 18, "texto": "Que tinham concorrido a ouví-lo e para que os sarasse das suas enfermidades. E os que eram vexados dos espíritos imundos ficavam sãos." },
+    { "n": 19, "texto": "E todo o povo fazia diligência por tocá-lo: Pois saía dêle uma virtude, que os curava a todos." },
+    { "n": 20, "texto": "E levantando êle os olhos para seus discípulos, dizia: Bem-aventurados vós os pobres: Porque vosso é o reino de Deus." },
+    { "n": 21, "texto": "Bem-aventurados os que agora tendes fome: Porque vós sereis fartos. Bem-aventurados os que agora chorais: Porque vós vos rireis." },
+    { "n": 22, "texto": "Bem-aventurados sereis quando os homens vos aborrecerem, e quando vos separarem, e carregarem de injúrias, e rejeitarem o vosso nome como mau, por causa do Filho do homem." },
+    { "n": 23, "texto": "Folgai naquele dia, e exultai: Porque olhai, grande é o vosso galardão no Céu: Porque desta maneira tratavam aos profetas os pais dêles." },
+    { "n": 24, "texto": "Mas ai de vós os que sois ricos, porque tendes a vossa consolação.", "nota": "fn6_5" },
+    { "n": 25, "texto": "Ai de vós os que estais fartos: Porque vireis a ter fome. Ai de vós os que agora rides: Porque gemereis e chorareis.", "nota": "fn6_6" },
+    { "n": 26, "texto": "Ai de vós, quando vos louvarem os homens: Porque assim faziam os falsos profetas aos pais dêles." },
+    { "n": 27, "texto": "Mas digo-vos a vós outros, que me ouvis: Amai a vossos inimigos, fazei bem aos que vos têm ódio." },
+    { "n": 28, "texto": "Dizei bem dos que dizem mal de vós, e orai pelos que vos caluniam." },
+    { "n": 29, "texto": "E ao que te ferir numa face, oferece-lhe também a outra. E ao que te tirar a capa, não defendas levar também a túnica." },
+    { "n": 30, "texto": "E dá a todo aquêle que te pedir: E ao que tomar o que é teu, não lho tornes a pedir." },
+    { "n": 31, "texto": "E o que quereis que vos façam a vós os homens, isso mesmo fazei vós a êles." },
+    { "n": 32, "texto": "E se vós amais aos que vos amam, que merecimento é o que vós tereis? porque os pecadores também amam aos que os amam a êles." },
+    { "n": 33, "texto": "E se fizerdes bem aos que vos fazem bem, que merecimento é o que vós tereis? porque isto mesmo fazem os pecadores." },
+    { "n": 34, "texto": "E se vós emprestardes àqueles, de quem esperais receber, que merecimento é o que vós tereis? porque também os pecadores emprestam uns aos outros, para que se lhes faça outrotanto." },
+    { "n": 35, "texto": "Amai pois a vossos inimigos: Fazei bem e emprestai, sem daí esperardes nada: E tereis muito avultada recompensa, e sereis filhos do Altíssimo, que faz bem aos mesmos que lhe são ingratos e maus." },
+    { "n": 36, "texto": "Sêde pois misericordiosos, como também vosso Pai é misericordioso." },
+    { "n": 37, "texto": "Não julgueis, e não sereis julgados: Não condeneis, e não sereis condenados. Perdoai, e sereis perdoados." },
+    { "n": 38, "texto": "Dai, e dar-se-vos-á: No seio vos meterão uma boa medida, e bem cheia, e bem acalcada, e bem acogulada. Porque qual fôr a medida de que vós usardes para os outros, tal será a que se use para vós.", "nota": "fn6_7" },
+    { "n": 39, "texto": "E pôs-lhe também esta comparação: Pode acaso um cego guiar outro cego? não é assim que um e outro cairão no barranco?" },
+    { "n": 40, "texto": "Não é o discípulo sôbre o mestre: Mas todo o discípulo será perfeito, se o fôr como seu mestre." },
+    { "n": 41, "texto": "E por que vês tu uma aresta no ôlho de teu irmão, e não reparas na trave, que tens no teu ôlho?" },
+    { "n": 42, "texto": "Ou como podes tu dizer a teu irmão: Deixa-me, irmão, tirar-te do teu ôlho uma aresta. Quando tu não vês que tens no teu uma trave? Hipócrita, tira primeiro a trave do teu ôlho: E depois verás para tirar a aresta do ôlho de teu irmão." },
+    { "n": 43, "texto": "Porque não é boa árvore, a que dá frutos maus: Nem má árvore, a que dá bons frutos." },
+    { "n": 44, "texto": "Porquanto cada árvore é conhecida pelo seu fruto. Porque nem os homens colhem figos dos espinheiros: Nem dos abrolhos vindimam uvas." },
+    { "n": 45, "texto": "O homem bom, do bom tesouro do seu coração tira o bem: E o homem mau, do mau tesouro tira o mal. Porque do que está cheio o coração, disso é que fala a bôca." },
+    { "n": 46, "texto": "Mas por que me chamais vós, Senhor, Senhor: E não fazeis o que eu vos digo?" },
+    { "n": 47, "texto": "Todo o que vem a mim, e ouve as minhas palavras e as põe por obra: Eu vos mostrarei a quem êle é semelhante." },
+    { "n": 48, "texto": "É semelhante a um homem que edifica uma casa, que cavou bem fundo, e pôs os alicerces sôbre pedra: E quando veio a inundação, bateu o rio naquela casa, e a não pôde abalar: Porque estava fundada sôbre pedra." },
+    { "n": 49, "texto": "Mas o que ouve, e não pratica, é semelhante a um homem que edificou sôbre terra a sua casa sem alicerces: Na qual bateu o rio, e ela imediatamente caiu, e foi grande a ruína daquela casa." }
+  ],
+  "notas": {
+    "fn6_1": {
+      "rotulo": "Chamado segundo primeiro",
+      "texto": "O primeiro sábado depois do segundo dia da Páscoa."
+    },
+    "fn6_2": {
+      "rotulo": "Que também outro sábado",
+      "texto": "Que se chamava \"sábado segundo\", pela mesma razão que há pouco explicamos."
+    },
+    "fn6_3": {
+      "rotulo": "Em oração a Deus",
+      "texto": "Jesus Cristo ensinou com êste exemplo à sua Igreja, que devia preceder uma oração perseverante e fervorosíssima à eleição dos que deviam ocupar os primeiros postos do seu reino sôbre a terra."
+    },
+    "fn6_4": {
+      "rotulo": "Que chamou Apóstolos",
+      "texto": "Nome que significa \"Enviados\", para entendermos ser tão necessária a missão em que há de exercer o ministério evangélico, que sem ela não pode haver na igreja autoridade legítima. — Duhamel."
+    },
+    "fn6_5": {
+      "rotulo": "Tendes a vossa consolação",
+      "texto": "Neste mundo. Isto foi o que respondeu Abraão ao rico avarento, que lhe pedia lhe enviasse a Lázaro, para que lhe moderasse e refrigerasse a ardente sêde que o atormentava: \"Filho, recebeste bens na tua vida\". <em>Sl</em> 61, 11."
+    },
+    "fn6_6": {
+      "rotulo": "Ai de vós os que estais fartos",
+      "texto": "Cfr. <em>Is</em> 65, 13."
+    },
+    "fn6_7": {
+      "rotulo": "No seio",
+      "texto": "Cavidade na parte superior e interior da túnica."
+    }
+  }
+}

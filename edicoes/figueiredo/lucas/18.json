@@ -1,0 +1,75 @@
+{
+  "num": 18,
+  "sumario": "A parábola do juiz iníquo. Importa ser perseverante em orar. Parábola do fariseu, e do publicano. Acolhe Jesus os meninos. Só Deus é bom. O que guarda os seus mandamentos, salva-se. Entristece-se um rico, por lhe aconselhar o Senhor que deixe tudo. Quão dificultoso seja entrar um rico no Céu. Prémio dos que tudo deixam por amor de Deus. Prediz o Senhor a sua morte. Cura um cego perto de Jericó.",
+  "versiculos": [
+    {"n": 1, "texto": "E propôs-lhes também Jesus esta parábola, para mostrar que importa orar sempre, e não cessar de o fazer,"},
+    {"n": 2, "texto": "dizendo: Havia em certa cidade um juiz que não temia a Deus, nem respeitava os homens."},
+    {"n": 3, "texto": "Havia também na mesma cidade uma viúva, que costumava vir buscá-lo, dizendo: Sustenta o meu direito contra o que contende comigo."},
+    {"n": 4, "texto": "E êle por muito tempo lhe não quis deferir. Mas por último disse lá consigo: Ainda que eu não temo a Deus, nem respeito os homens,"},
+    {"n": 5, "texto": "todavia como esta viúva me importuna, far-lhe-ei justiça, para que por fim não suceda que vindo ela muitas vezes me carregue de afrontas.", "nota": "fn18_1"},
+    {"n": 6, "texto": "Então disse o Senhor: Ouvi o que diz êste juiz iníquo:"},
+    {"n": 7, "texto": "E Deus não fará justiça aos seus escolhidos, que estão clamando a êle de dia e de noite, e sofrerá êle que os oprimam?"},
+    {"n": 8, "texto": "Digo-vos que êle os vingará bem depressa. Mas quando vier o Filho do homem, julgais vós que achará êle alguma fé na terra?", "nota": "fn18_2"},
+    {"n": 9, "texto": "E propôs também esta parábola a uns, que confiavam em si mesmos, como se fôssem justos, e desprezavam aos outros:"},
+    {"n": 10, "texto": "Subiram dois homens ao templo a fazer oração: Um fariseu, e outro publicano."},
+    {"n": 11, "texto": "O fariseu pôsto em pé, orava lá no seu interior desta forma: Graças te dou, meu Deus, porque não sou como os mais homens: Que são ladrões, uns injustos, uns adúlteros: Como é também êste publicano.", "nota": "fn18_3"},
+    {"n": 12, "texto": "Jejuo duas vezes na semana: Pago o dízimo de tudo o que tenho.", "nota": "fn18_4"},
+    {"n": 13, "texto": "O publicano, pelo contrário, pôsto lá de longe, não ousava nem ainda levantar os olhos ao Céu: Mas batia nos peitos, dizendo: Meu Deus, sê propício a mim pecador.", "nota": "fn18_5"},
+    {"n": 14, "texto": "Digo-vos que êste voltou justificado para sua casa, e não o outro: Porque todo o que se exalta, será humilhado: E todo o que se humilha, será exaltado."},
+    {"n": 15, "texto": "E algumas pessoas lhe traziam também os seus meninos, para êle os tocar; o que vendo os discípulos, repeliram-nos com palavras desabridas."},
+    {"n": 16, "texto": "Porém Jesus, chamando a si os meninos, disse: Deixai vir a mim os meninos, e não lho embaraceis: Porque dos tais é o reino de Deus."},
+    {"n": 17, "texto": "Em verdade vos digo: Todo o que não receber o Reino de Deus, como um menino, não entrará nêle."},
+    {"n": 18, "texto": "Então lhe fez esta pergunta um homem de qualidade, dizendo: Bom Mestre, que devo eu fazer para possuir a vida eterna?"},
+    {"n": 19, "texto": "E Jesus lhe respondeu: Por que me chamas tu bom? ninguém é bom, senão só Deus."},
+    {"n": 20, "texto": "Tu sabes os mandamentos: Não matarás: Não cometerás adultério: Não furtarás: Não dirás falso testemunho: Honrarás a teu pai e a tua mãe."},
+    {"n": 21, "texto": "Disse o homem: Todos êstes mandamentos tenho eu guardado desde a minha mocidade."},
+    {"n": 22, "texto": "O que tendo ouvido Jesus, disse-lhe: Ainda te falta uma coisa: Vende tudo quanto tens, e dá-o aos pobres, e terás um tesouro no Céu, e depois vem, e segue-me."},
+    {"n": 23, "texto": "Quando êle ouviu isto, se entristeceu, porque era mui rico."},
+    {"n": 24, "texto": "E Jesus vendo que êle ficara triste, disse: Que dificultosa coisa é entrarem no Reino de Deus os que têm cabedais.", "nota": "fn18_6"},
+    {"n": 25, "texto": "Porque é mais fácil entrar um camelo pelo fundo de uma agulha, do que entrar um rico no Reino de Deus."},
+    {"n": 26, "texto": "E disseram os que o ouviam: Visto isso, quem é que pode salvar-se?"},
+    {"n": 27, "texto": "Respondeu-lhes Jesus: O que é impossível aos homens, é possível a Deus."},
+    {"n": 28, "texto": "Então disse Pedro: Eis aqui estamos nós, que deixamos tudo, e te seguimos."},
+    {"n": 29, "texto": "Jesus lhes respondeu: Em verdade vos digo: Que ninguém há que, uma vez que deixou pelo reino de Deus a casa, ou os pais, ou os irmãos, ou a mulher, ou os filhos,"},
+    {"n": 30, "texto": "logo neste mundo não receba muito mais, e no século futuro a vida eterna."},
+    {"n": 31, "texto": "Depois tomou Jesus à parte os doze Apóstolos, e lhes disse: Eis aqui vamos para Jerusalém, e tudo o que está escrito pelos profetas tocante ao Filho do homem será cumprido:"},
+    {"n": 32, "texto": "Porque êle será entregue aos gentios, e será escarnecido, e açoitado, e cuspido:"},
+    {"n": 33, "texto": "E depois de o açoitarem, tirar-lhe-ão a vida, e êle ressurgirá ao terceiro dia."},
+    {"n": 34, "texto": "Mas os Apóstolos nada disto compreenderam, e era para êles êste discurso um segrêdo, e não penetravam coisa alguma do que se lhes dizia."},
+    {"n": 35, "texto": "Sucedeu, porém, que quando Jesus ia chegando a Jericó, estava sentado à borda da estrada um cego pedindo esmola."},
+    {"n": 36, "texto": "E ouvindo o tropel da gente que passava, perguntou que era aquilo."},
+    {"n": 37, "texto": "E responderam-lhe que era Jesus Nazareno que passava."},
+    {"n": 38, "texto": "No mesmo tempo se pôs êle a bradar, dizendo: Jesus, filho de Davi, tem de mim piedade."},
+    {"n": 39, "texto": "E os que iam adiante repreendiam-no para que se calasse. Porém êle cada vez gritava mais: Filho de Davi, tem de mim piedade."},
+    {"n": 40, "texto": "Então Jesus, parando, mandou que lho trouxessem. E quando êle chegou, fez-lhe esta pergunta,"},
+    {"n": 41, "texto": "dizendo: Que queres que te faça? E êle respondeu: Senhor, que eu veja."},
+    {"n": 42, "texto": "Jesus lhe disse: Vê, a tua fé te salvou."},
+    {"n": 43, "texto": "E logo imediatamente viu, e o foi seguindo, engrandecendo a Deus. E todo o povo, assim que isto presenciou, deu louvor a Deus."}
+  ],
+  "notas": {
+    "fn18_1": {
+      "rotulo": "Me carregue de afrontas",
+      "texto": "O verbo, que o texto grego aqui põe, significa propriamente, dar na cara. E esta era a afronta, que o juiz temia. — Sacy e Duhamel."
+    },
+    "fn18_2": {
+      "rotulo": "Que achará êle alguma fé na terra?",
+      "texto": "A saber, entre os judeus incrédulos. Santo Agostinho e o Venerável Beda."
+    },
+    "fn18_3": {
+      "rotulo": "Como é também êste publicano",
+      "texto": "Esta lição de praxes vai acompanhada de uma muito refinada soberba: porque olhando a todos os outros como pecadores, parece que só a si se tem pelo mais justo de todos os homens. — Santo Agostinho."
+    },
+    "fn18_4": {
+      "rotulo": "Jejuo",
+      "texto": "Isto é, segundas e quintas-feiras, como atesta Santo Epifânio. Êstes jejuns se praticam ainda hoje pelos judeus mais observantes. Os rabinos tinham ordenado êste jejum por três razões: pela ruína do Templo; por haver sido queimada a Lei; e pelas injúrias que se faziam ao nome Santo de Deus. — Pereira."
+    },
+    "fn18_5": {
+      "rotulo": "O publicano",
+      "texto": "No publicano se vê um caráter todo diferente: metido em um canto do Templo, cheio de confusão, de sentimentos da sua própria indignidade, e longe do lugar Santo, onde habitava Deus entre os homens, sem atrever-se a levantar os olhos ao Céu, a quem considerava ofendido, e ferindo o seu peito com mostras de grande dor, arrependimento, e compunção, se contentava com dizer a Deus: Senhor, tende misericórdia de um pecador, tal como eu sou. Vejamos, diz Santo Agostinho, como êsses dois homens representam a sua causa ante o Juiz Soberano das consciências. Um se louva como justo, e acusa com orgulho a todos os outros pecadores; o outro se reconhece réu, e confessa com uma profunda humildade a sua miséria. Ouçamos agora a sentença que se pronuncia: Declaro-vos, diz Jesus Cristo, que o publicano voltou justificado para sua casa, e ao contrário o fariseu, e daqui aprendamos a merecer ser justificados aos olhos de Deus por uma humilde confissão dos nossos pecados.<br><br><em>Pôsto lá de longe</em> — Em algum canto do primeiro átrio do Templo, onde tôda a sorte de pessoas, ainda que fôssem profanas, podiam entrar. 3 <em>Rs</em> 8, 41. E isto por verdadeira humildade, e sentimento da sua indignidade."
+    },
+    "fn18_6": {
+      "rotulo": "Os que têm cabedais",
+      "texto": "Tendo nas riquezas todo o seu coração, e tôda a sua confiança. A regra pois que devemos todos observar, para que os bens temporais nos não sirvam de embaraço para a vida eterna, é a que aponta Santo Agostinho, quando no Livro dos Costumes da Igreja Católica, cap. 21, diz assim: \"A regra de usar bem das coisas dêste mundo, que um e outro Testamento nos ensina, consiste em que o homem não ame, nem apeteça algumas delas, pelo que é em si; mas em que as desfrute precisamente, quanto basta para acudir às necessidades e obrigações da vida, e que as desfrute com a parcimônia de quem usa, e não com afeto de quem ama\"."
+    }
+  }
+}

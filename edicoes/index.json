@@ -5,7 +5,8 @@
     "idioma": "pt-BR",
     "livros": [
       "edicoes/figueiredo/mateus/index.json",
-      "edicoes/figueiredo/marcos/index.json"
+      "edicoes/figueiredo/marcos/index.json",
+      "edicoes/figueiredo/lucas/index.json"
     ]
   },
   {
@@ -14,7 +15,8 @@
     "idioma": "la",
     "livros": [
       "edicoes/vulgata/mateus/index.json",
-      "edicoes/vulgata/marcos/index.json"
+      "edicoes/vulgata/marcos/index.json",
+      "edicoes/vulgata/lucas/index.json"
     ]
   }
 ]

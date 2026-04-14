@@ -1,0 +1,67 @@
+{
+  "num": 14,
+  "sumario": "Cura Jesus Cristo um hidrópico em dia de sábado. Defende o que fizera. Deve-se escolher o último lugar, e devem-se convidar para a mesa antes os pobres, do que os ricos. Parábola dos que se escusaram de ir às bodas. É necessário dar de mão a tudo, por seguir a Jesus Cristo. O sal que perdeu a fôrça.",
+  "versiculos": [
+    {"n": 1, "texto": "E aconteceu que entrando Jesus um sábado em casa de um dos príncipes fariseus a tomar a sua refeição, ainda êles o estavam ali observando."},
+    {"n": 2, "texto": "E eis que diante dêle estava um homem hidrópico."},
+    {"n": 3, "texto": "E Jesus dirigindo a sua palavra aos doutores da lei, e aos fariseus, lhes disse, fazendo esta pergunta: É permitido fazer curas nos dias de sábado?"},
+    {"n": 4, "texto": "Mas êles ficaram calados. Então Jesus pegando no homem o curou, e mandou-o embora."},
+    {"n": 5, "texto": "E dirigindo a êles o discurso, lhes disse: Quem há dentre vós que se o seu jumento, ou o seu boi cair num poço em dia de sábado, o não tire logo no mesmo dia?", "nota": "fn14_1"},
+    {"n": 6, "texto": "E êles não lhe podiam replicar a isto."},
+    {"n": 7, "texto": "E observando também como os convidados escolhiam os primeiros assentos na mesa, propondo-lhes uma parábola, lhes disse:"},
+    {"n": 8, "texto": "Quando fôres convidado a algumas bodas, não te assentes no primeiro lugar, porque pode ser que esteja ali outra pessoa mais autorizada do que tu convidada pelo dono da casa,"},
+    {"n": 9, "texto": "e que vindo êste, que te convidou a ti e a êle, te diga: Dá o teu lugar a êste, e tu envergonhado vás buscar o último lugar:"},
+    {"n": 10, "texto": "Mas quando fôres convidado, vai tomar o último lugar, para que quando vier o que te convidou, te diga: Amigo, senta-te mais para cima. Servir-te-á isto então de glória na presença dos que estiverem juntamente sentados à mesa:"},
+    {"n": 11, "texto": "Porque todo o que se exalta, será humilhado, e todo o que se humilha, será exaltado."},
+    {"n": 12, "texto": "Dizia mais ainda ao que o tinha convidado: Quando deres algum jantar, ou alguma ceia, não chames nem teus amigos, nem teus irmãos, nem teus parentes, nem teus vizinhos que forem ricos: Para que não aconteça que também êles te convidem a sua vez e te paguem com isso:", "nota": "fn14_2"},
+    {"n": 13, "texto": "Mas quando deres algum banquete, convida os pobres, os aleijados, os coxos, e os cegos:"},
+    {"n": 14, "texto": "E serás bem-aventurado, porque êsses não têm com que te retribuir: Mas ser-te-á isso retribuído na ressurreição dos justos."},
+    {"n": 15, "texto": "Tendo ouvido estas coisas um dos que estavam à mesa, disse para Jesus: Bem-aventurado o que comer o pão no Reino de Deus.", "nota": "fn14_3"},
+    {"n": 16, "texto": "Então lhes disse Jesus: Um homem fez uma grande ceia, para a qual convidou a muitos."},
+    {"n": 17, "texto": "E quando foi a hora da ceia, enviou um dos seus servos a dizer aos convidados, que viessem, porque tudo estava já aparelhado."},
+    {"n": 18, "texto": "Porém todos à uma começaram a escusar-se. Disse-lhe o primeiro: Eu comprei uma quinta, e é-me necessário ir vê-la: Rogo-te que me dês por escusado."},
+    {"n": 19, "texto": "E disse outro: Eu comprei cinco juntas de bois, e vou fazer prova dêles: Rogo-te que me dês por escusado."},
+    {"n": 20, "texto": "Disse também outro: Eu casei, e por isso não posso ir lá."},
+    {"n": 21, "texto": "E voltando o servo deu conta a seu Senhor de tudo isto. Então irado o pai de família, disse ao seu servo: Sai logo às praças, e às ruas da cidade: E traze-me cá quantos pobres, e aleijados, e cegos, e coxos achares."},
+    {"n": 22, "texto": "E disse o servo: Senhor, feito está, como o mandaste, e ainda há lugar para outros mais."},
+    {"n": 23, "texto": "E respondeu o Senhor ao servo: Sai por êsses caminhos, e cercos: E fôrça-os a entrar, para que fique cheia a minha casa.", "nota": "fn14_4"},
+    {"n": 24, "texto": "Porque eu vos declaro que nenhum daqueles homens, que foram convidados, provará a minha ceia."},
+    {"n": 25, "texto": "E muitas gentes iam com êle: E voltando Jesus para todos lhes disse:"},
+    {"n": 26, "texto": "Se algum vem a mim, e não aborrece a seu pai, e mãe, e mulher, e filhos, e irmãos, e irmãs, e ainda a sua mesma vida, não pode ser meu discípulo.", "nota": "fn14_5"},
+    {"n": 27, "texto": "E o que não leva a sua cruz, e vem em meu seguimento, não pode ser meu discípulo."},
+    {"n": 28, "texto": "Porque qual de vós, querendo edificar uma tôrre, não se põe primeiro muito de seu vagar a fazer contas dos gastos que são necessários, para ver se tem com que a acabar."},
+    {"n": 29, "texto": "Para se não expor a que, depois que tiver assentado o fundamento, e não a puder acabar, todos os que a virem, comecem a fazer zombaria dêle,"},
+    {"n": 30, "texto": "dizendo: Êste homem principiou o edifício, e não o pôde acabar?"},
+    {"n": 31, "texto": "Ou que rei há que, estando para ir para a campanha contra outro rei, não tome primeiro muito de assento as suas medidas, a ver se com dez mil homens poderá ir a encontrar-se com o que traz contra êle vinte mil?"},
+    {"n": 32, "texto": "Doutra maneira, ainda quando o outro está longe, enviando sua embaixada, lhe pede tratados de paz."},
+    {"n": 33, "texto": "Assim pois qualquer de vós que não dá de mão a tudo o que possui, não pode ser meu discípulo."},
+    {"n": 34, "texto": "O sal é bom. Porém se o sal perder a fôrça, com que outra coisa se há de temperar?"},
+    {"n": 35, "texto": "Ficará sem servir nem para a terra, nem para o monturo, mas lançar-se-á fora. O que tem ouvidos de ouvir, ouça.", "nota": "fn14_6"}
+  ],
+  "notas": {
+    "fn14_1": {
+      "rotulo": "O seu boi cair",
+      "texto": "Os poços na Palestina eram abertos à superfície da terra, tapando-se o orifício com uma pedra. Quando por descuido se deixava descoberto, era fatal a queda de animais e de homens."
+    },
+    "fn14_2": {
+      "rotulo": "Não chames nem teus amigos",
+      "texto": "Não reprova com isto o Senhor a liberalidade e civilidade com os amigos e parentes, mas quer dizer, que se queremos ser remunerados mais no Céu do que na terra, o melhor modo de segurarmos a nossa retribuição é gastando com os pobres, porque dos ricos poderemos talvez esperar que êles nos façam o mesmo que nós lhes fazemos. Dos pobres, porém, nada podemos esperar, e assim tôda a remuneração fica da parte de Deus. — Amelote."
+    },
+    "fn14_3": {
+      "rotulo": "Bem-aventurado",
+      "texto": "Ditoso aquêle que merecer ser admitido no Banquete Celestial, onde Deus alimentará a seus santos duma maneira inefável, enchê-los-á de bens incompreensíveis, e fá-los-á beber na torrente dos prazeres espirituais e Divinos, que tem reservados na sua casa para os seus escolhidos."
+    },
+    "fn14_4": {
+      "rotulo": "E fôrça-os a entrar",
+      "texto": "Êste verbo dá bem a conhecer não só a eficácia da Divina Graça, mas também o vivo desejo que teve Deus, representado neste pai de família, de que, pressuposta a incivilidade e rebeldia dos judeus, acudissem à sua vocação, abraçando a fé e recolhendo-se à Igreja os povos idólatras. — Amelote."
+    },
+    "fn14_5": {
+      "rotulo": "E não aborrece a seu pai",
+      "texto": "Não quer dizer Jesus Cristo que aborreçamos em si mesmo umas pessoas que nos são tão próximas e tão amáveis, como o pai e mãe; mas que quando estas mesmas pessoas nos queiram apartar de Jesus Cristo, mandando ou aconselhando alguma coisa contrária à nossa salvação e à vontade de Deus, então as devemos considerar não só como estranhas, mas também como inimigas, para lhes resistirmos e desobedecermos. — Bossuet, na primeira Instrução sôbre a versão de Trevoux, com S. Gregório e com o Venerável Beda."
+    },
+    "fn14_6": {
+      "rotulo": "Nem para a terra",
+      "texto": "Êste dito de Jesus Cristo faz ver que é um êrro cuidar (como muitos cuidam) que todo sal esteriliza as terras.<br><br><em>O que tem ouvidos de ouvir, ouça</em> — Tôdas as vezes que Jesus Cristo usa desta expressão, é sempre para denotar ser de uma grandíssima importância o que disse, ou vai a dizer. — Sacy."
+    }
+  }
+}
