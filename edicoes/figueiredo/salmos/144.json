@@ -1,0 +1,49 @@
+{
+  "num": 144,
+  "sumario": "Salmo gratulatório. Louva-se neste salmo a bondade, e misericórdia do Senhor, que como rei soberano governa, e conserva tôdas as coisas.",
+  "versiculos": [
+    { "n": 1, "texto": "Louvor do mesmo Davi.<br>Eu te exaltarei, ó Deus, rei meu: E bendirei o teu nome pelo século e pelo século do século.", "nota": "fn144_1" },
+    { "n": 2, "texto": "Cada dia te bendirei: E louvarei o teu nome pelo século, e pelo século do século." },
+    { "n": 3, "texto": "Grande é o Senhor, e muito digno de louvor: E a sua grandeza não tem limites." },
+    { "n": 4, "texto": "A geração e geração louvarão as tuas obras: E publicarão o teu poder.", "nota": "fn144_4" },
+    { "n": 5, "texto": "Falarão da magnificência da glória da tua santidade: E contarão as tuas maravilhas." },
+    { "n": 6, "texto": "E dirão as virtudes das tuas coisas terríveis: E contarão a tua grandeza." },
+    { "n": 7, "texto": "Farão larguíssima memória da abundância da tua suavidade: E exultarão com a tua justiça." },
+    { "n": 8, "texto": "Clemente e misericordioso é o Senhor: Sofrido, e muito misericordioso." },
+    { "n": 9, "texto": "Suave é o Senhor para com todos: E as suas misericórdias são sôbre tôdas as suas obras.", "nota": "fn144_9" },
+    { "n": 10, "texto": "Dêem-te glória a ti, Senhor, tôdas as tuas obras: E os teus santos te bendigam." },
+    { "n": 11, "texto": "A glória do teu reino publicarão: E o teu poder celebrarão." },
+    { "n": 12, "texto": "Para fazerem conhecer aos filhos dos homens o teu poder: E a glória da magnificência do teu reino." },
+    { "n": 13, "texto": "O teu reino que se estende a todos os séculos: E o teu império a tôda a geração e geração.<br>Fiel é o Senhor em tôdas as suas palavras: E santo em tôdas as suas obras." },
+    { "n": 14, "texto": "O Senhor sustém a todos os que estão para cair: E levanta a todos os oprimidos." },
+    { "n": 15, "texto": "Os olhos de todos esperam em ti, Senhor: E tu lhe dás o sustento em tempo oportuno.", "nota": "fn144_15" },
+    { "n": 16, "texto": "Tu abres a tua mão: E enches a todo o animal de bênção." },
+    { "n": 17, "texto": "Justo é o Senhor em todos os seus caminhos: E santo em tôdas as suas obras." },
+    { "n": 18, "texto": "Perto está o Senhor de todos os que o invocam: De todos os que o invocam em verdade.", "nota": "fn144_18" },
+    { "n": 19, "texto": "Êle cumprirá a vontade dos que o temem, e atenderá a sua oração: E os salvará." },
+    { "n": 20, "texto": "O Senhor guarda a todos que o amam: E exterminará a todos os pecadores." },
+    { "n": 21, "texto": "A minha bôca publicará o louvor do Senhor: E bendiga tôda a carne o seu santo nome, pelo século, e pelo século do século." }
+  ],
+  "notas": {
+    "fn144_1": {
+      "rotulo": "Louvor do mesmo Davi",
+      "texto": "LOUVOR DO MESMO DAVI — É alfabético, e assim cada um dos versos começa por uma letra; seguindo a ordem do alfabeto hebreu, sòmente falta o versículo Nun, que devia ser o 14; porém parece certo que o houve, pois se acha nos Setenta Intérpretes, e começa fidelis Dominus, o que no hebreu corresponde ao Jahvéh. Era tão célebre, e de tanto uso êste salmo, que nos primeiros tempos da Igreja o cantavam os neófitos em ação de graças, quando eram admitidos à participação do corpo e sangue de Jesus Cristo. S. João Crisóstomo In Sl 144. O Benedicite da refeição é extraído dêste salmo."
+    },
+    "fn144_4": {
+      "rotulo": "A geração e geração",
+      "texto": "A GERAÇÃO E GERAÇÃO — É hebraísmo. Tôdas as gerações: a da lei velha, a da lei nova: a da vida presente, e a da vida vindoura, que não terá fim. — Pereira."
+    },
+    "fn144_9": {
+      "rotulo": "E as suas misericórdias",
+      "texto": "E AS SUAS MISERICÓRDIAS — Pode também expor-se: e as suas misericórdias excedem a tôdas as suas obras, quanto aos efeitos; porque debaixo de outro respeito todos os atributos de Deus são igualmente grandes. — S. Gregório Nazianzeno."
+    },
+    "fn144_15": {
+      "rotulo": "Os olhos de todos",
+      "texto": "OS OLHOS DE TODOS — A palavra omnium se estende a todos os gêneros; porque Deus não sòmente provê a seu tempo de alimento ao homem, senão também aos animais, plantas... A Igreja aplica esta palavra àquela celestial comida própria dos fiéis, porque é a divina Eucaristia. — Pereira."
+    },
+    "fn144_18": {
+      "rotulo": "O invocam em verdade",
+      "texto": "O INVOCAM EM VERDADE — Invocam-no em verdade os que o buscam a êle, e não se buscam a si mesmos. Porém se tu és ditoso porque Deus te tem dado tantas coisas, quanto mais ditoso serás, visto que a si mesmo se tem dado? — Santo Agostinho."
+    }
+  }
+}

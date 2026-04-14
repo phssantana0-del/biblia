@@ -1,0 +1,20 @@
+{
+  "num": 100,
+  "sumario": "Salmo didático. Davi na sua pessoa põe diante de todos os príncipes um espelho, em que devem ver-se para o govêrno dos seus estados.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo do mesmo Davi.<br>Eu te cantarei, a ti, Senhor, a tua misericórdia, e a tua justiça.<br>Direi salmos.", "nota": "fn100_1" },
+    { "n": 2, "texto": "E me aplicarei a conhecer o caminho da inocência, quando vieres a mim.<br>Caminhava eu na inocência do meu coração, no meio da minha casa." },
+    { "n": 3, "texto": "Não punha diante dos meus olhos causa injusta: Aborrecia aos que faziam prevaricações.<br>Não se unia a mim." },
+    { "n": 4, "texto": "Coração depravado: Ao malicioso que se afastava de mim não o conhecia." },
+    { "n": 5, "texto": "Ao que secretamente dizia mal do seu próximo a êste perseguia.<br>Com homem de olhos soberbos, e de coração insaciável, com êsse não comia." },
+    { "n": 6, "texto": "Os meus olhos só olhavam para os fiéis do país para que se assentassem comigo: O que andava em caminho de inocência, êsse me servia." },
+    { "n": 7, "texto": "Não habitará no meio da minha casa o que obra com soberba: O que fala coisas iníquas não entrou direito na vista dos meus olhos." },
+    { "n": 8, "texto": "Pela manhã entregava à morte todos os pecadores da terra: A fim de exterminar da cidade do Senhor a todos os que obravam maldade." }
+  ],
+  "notas": {
+    "fn100_1": {
+      "rotulo": "Deveres dum rei",
+      "texto": "Estão exarados neste salmo os deveres dum rei, sob a forma de promessas. Parece que êste salmo foi composto no momento em que o Santo Rei concebeu o projeto de transportar a arca da casa de Obededom para Jerusalém. 2 Rs 6, 2 ss. Êste salmo é composto de dísticos."
+    }
+  }
+}

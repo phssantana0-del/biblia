@@ -1,0 +1,23 @@
+{
+  "num": 5,
+  "sumario": "Salmo impetrativo e didático. Pede Davi a Deus que se digne de ouvir os seus contínuos rogos, e que pois aborrece a iniquidade, lhe dê asilo na sua graça, e destrua a seus inimigos e perseguidores, para que à vista disto se alegre a sua Igreja, e tome matéria para louvá-lo.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro com acompanhamento de flauta. Salmo de Davi.", "nota": "fn5_1" },
+    { "n": 2, "texto": "Senhor, dá ouvidos às minhas palavras, escuta o meu clamor." },
+    { "n": 3, "texto": "Atende à voz da minha súplica, rei meu e Deus meu." },
+    { "n": 4, "texto": "Porque a ti orarei: De manhã, Senhor, ouvirás a minha voz." },
+    { "n": 5, "texto": "Ao despontar do dia me coloco na tua presença e te verei: Porque tu, Deus, não queres a iniquidade." },
+    { "n": 6, "texto": "Não habitará ao pé de ti o maligno: Nem os injustos permanecerão diante de teus olhos." },
+    { "n": 7, "texto": "Aborreces a todos os que obram a iniquidade: Perderás a todos os que preferem a mentira. O Senhor abominará o varão sanguinário e doloso:" },
+    { "n": 8, "texto": "Eu porém, confiado na multidão da tua misericórdia, entrarei na tua casa, e cheio de temor teu te adorarei no teu santo templo." },
+    { "n": 9, "texto": "Senhor, guia-me na tua justiça: Dirige diante de teus olhos o meu caminho, por causa de meus inimigos." },
+    { "n": 10, "texto": "Porque na bôca deles não há verdade: O seu coração é vão." },
+    { "n": 11, "texto": "A sua garganta é um sepulcro aberto, com as suas línguas urdiram enganos, tu, Deus, os julgas. Caiam de seus pensamentos, lança-os segundo a multidão das suas impiedades, porque te irritaram, Senhor." },
+    { "n": 12, "texto": "E alegrem-se todos aquêles que esperam em ti: exultarão eternamente: E tu habitarás neles, E em ti se gloriarão todos os que amam o teu nome," },
+    { "n": 13, "texto": "porque tu abençoarás o justo. Senhor, de tua boa vontade nos coroaste, como com escudo." }
+  ],
+  "notas": {
+    "fn5_0": { "rotulo": "Sobre êste Salmo", "texto": "Assim traduzimos o hebreu <em>el-han-nekhiloth</em>, que a Vulgata traduziu por <em>quæ hereditatem consequitur</em>, e o padre Pereira 'que consegue a herança'. Estas palavras do título deram ocasião a comentários variados; hoje porém é assente que <em>nekhiloth</em> designa a flauta, e que êste título indica que o salmo devia ser acompanhado com êste instrumento. É evidentemente uma oração da manhã, que Davi recitaria antes de ir à casa de Deus. Tem quatro estrofes de seis versos. 1.ª estrofe (2 a 5). Davi invoca o Senhor desde o amanhecer, e roga a Deus ouça a sua prece. — 2.ª (5 a 7). Confia na bondade infinita de Deus. — 3.ª (8 a 11). Vai cheio de confiança ao Tabernáculo pedir socorro contra os maus. — 4.ª (11 a 13). Pede a condenação daqueles para alegria dos justos." },
+    "fn5_1": { "rotulo": "Com acompanhamento de flauta", "texto": "Assim traduzimos o hebreu <em>el-han-nekhiloth</em>, que a Vulgata traduziu por <em>quæ hereditatem consequitur</em>, e o padre Pereira 'que consegue a herança'. Hoje porém é assente que <em>nekhiloth</em> designa a flauta, e que êste título indica que o salmo devia ser acompanhado com êste instrumento. Os Setenta e depois a Vulgata entenderam esta frase relativa ao povo de Israel, que é a herança de Deus." }
+  }
+}

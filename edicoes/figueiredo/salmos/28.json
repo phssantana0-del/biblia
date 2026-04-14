@@ -1,0 +1,43 @@
+{
+  "num": 28,
+  "sumario": "Salmo gratulatório. Davi descreve neste Salmo os maravilhosos efeitos da Onipotência do Senhor, manifestada pela voz do trovão.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi. Na consumação do Tabernáculo. Trazei ao Senhor, ó filhos de Deus: Trazei ao Senhor tenros cordeiros.", "nota": "fn28_1" },
+    { "n": 2, "texto": "Rendei ao Senhor glória e honra. Rendei ao Senhor a glória devida ao Senhor: Adorai ao Senhor, no átrio do seu Santuário.", "nota": "fn28_2" },
+    { "n": 3, "texto": "Voz do Senhor sôbre as águas, o Deus da majestade trovejou: O Senhor sôbre muitas águas.", "nota": "fn28_3" },
+    { "n": 4, "texto": "Voz do Senhor em poder: Voz do Senhor em magnificência." },
+    { "n": 5, "texto": "Voz do Senhor que quebra os cedros: E o Senhor quebrará os cedros do Líbano:" },
+    { "n": 6, "texto": "E os fará em pequenos pedaços como a um bezerro do Líbano: E ao filho amado do unicórnio.", "nota": "fn28_6" },
+    { "n": 7, "texto": "Voz do Senhor que divide a chama do fogo:" },
+    { "n": 8, "texto": "Voz do Senhor que abala o deserto: Porque o Senhor fará tremer o deserto de Cades." },
+    { "n": 9, "texto": "Voz do Senhor que prepara os veados, e descobrirá as espessuras: E no seu templo todos anunciarão a sua glória.", "nota": "fn28_9" },
+    { "n": 10, "texto": "O Senhor faz habitar no dilúvio: E o Senhor sentar-se-á como rei para sempre.", "nota": "fn28_10" },
+    { "n": 11, "texto": "O Senhor dará fortaleza ao seu povo: O Senhor bendirá ao seu povo em paz." }
+  ],
+  "notas": {
+    "fn28_1": {
+      "rotulo": "Na consumação do Tabernáculo",
+      "texto": "Estas palavras não estão no original, mas referem-se ao momento da trasladação da arca, em que se ouviu um enorme trovão, por isso a êste Salmo chamam alguns críticos o Salmo dos trovões. É um poema descritivo de grande valor. No original admira-se a harmonia imitativa do estilo, em virtude de onomatopéias de grande merecimento, o que não pode ser reprodução pela tradução. Tem cinco estrofes."
+    },
+    "fn28_2": {
+      "rotulo": "No átrio do seu Santuário",
+      "texto": "O átrio do Santuário, ou Tabernáculo, era o lugar onde se congregava o povo para assistir ao culto e aos sacrifícios, e representava a Igreja Cristã, na qual os fiéis dão a Deus o verdadeiro culto e oferecem o sacrifício do cordeiro imaculado. — P. Seio."
+    },
+    "fn28_3": {
+      "rotulo": "Voz do Senhor sôbre as águas",
+      "texto": "O trovão se chama a cada passo na Escritura a Voz de Deus. Com esta linguagem sublime se simboliza a palavra do Evangelho, anunciada pelos apóstolos a tôda a terra, cuja soada se ouviu como um trovão. — Calmet."
+    },
+    "fn28_6": {
+      "rotulo": "E os fará em pequenos pedaços",
+      "texto": "O hebreu diz: \"E os fará saltar como ao bezerro, ao Líbano e ao Sarion, como filhos de unicórnios. Isto é, esmagará os cedros com os seus raios e com violentos furacões os arrancará; e desencaixando-se os penhascos do Líbano e do Sarion com terremotos, saltarão pelo ar, como saltam os bezerrinhos e os filhos dos unicórnios. — P. Seio."
+    },
+    "fn28_9": {
+      "rotulo": "Que prepara os veados",
+      "texto": "Assim diz o hebreu, o que comumente se explica desta maneira: O ruído espantoso do trovão prepara as corças e as dispõe para que se descarreguem das suas crias antes de tempo, porque, segundo o curso ordinário da natureza, experimentam para isto maior trabalho e dificuldade que a maior parte dos outros animais. Veja-se Jó 39, 1."
+    },
+    "fn28_10": {
+      "rotulo": "O Senhor faz habitar no dilúvio",
+      "texto": "Lugar escuríssimo, como mostram as várias traduções que dêle se encontram nos autores. Porque De Carrières traduz: \"O Senhor faz demorar sôbre a terra um dilúvio de água\". Sacy: \"O Senhor é o que suspende no ar um dilúvio\". Berthier: \"O Senhor faz habitar os homens no lugar mesmo do dilúvio\". Eu segui à letra a Vulgata, deixando ao juízo de cada um a escolha. — Pereira."
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "num": 59,
+  "sumario": "Davi pede vitória sobre os idumeus e confia no auxílio divino.",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "Ao regente do côro."
+    },
+    {
+      "n": 1,
+      "texto": "Sôbre Schouscham'edouth. Miktham Davi,",
+      "nota": "fn59_1"
+    },
+    {
+      "n": 2,
+      "texto": "quando destruiu a Mesopotâmia da Síria, e a Sobal, e voltando Joab, derrotou a Iduméia no vale das Salinas com o destroço de doze mil homens. (2 Rs 8, 1; 10, 1, e 1 Paral 18, 1.)",
+      "nota": "fn59_2"
+    },
+    {
+      "n": 3,
+      "texto": "Ó Deus, desamparaste-nos, e destruíste-nos: Tu te iraste, e tiveste piedade de nós.",
+      "nota": "fn59_3"
+    },
+    {
+      "n": 4,
+      "texto": "Fizeste estremecer a terra, e a turbaste: Sara as suas fendas, porque está abalada."
+    },
+    {
+      "n": 5,
+      "texto": "Mostraste ao teu povo coisas duras: Deste-nos a beber vinho de compunção.",
+      "nota": "fn59_5"
+    },
+    {
+      "n": 6,
+      "texto": "Deste aos que te temem um sinal: Para que fugissem da face do arco: E que se livrassem os teus amados:",
+      "nota": "fn59_6"
+    },
+    {
+      "n": 7,
+      "texto": "Salva-me com a tua destra, e ouve-me."
+    },
+    {
+      "n": 8,
+      "texto": "Deus falou no seu santuário. Alegrar-me-ei, e partirei para Siquém, e medirei o vale dos tabernáculos.",
+      "nota": "fn59_8"
+    },
+    {
+      "n": 9,
+      "texto": "Meu é Galaad, e meu é Manassés: E Efraim fortaleza da minha cabeça. Judá meu rei:",
+      "notas": ["fn59_9a", "fn59_9b"]
+    },
+    {
+      "n": 10,
+      "texto": "Moab vaso da minha esperança. Sôbre a Iduméia estenderei o meu calçado: Submetidos me estão os estrangeiros.",
+      "notas": ["fn59_10a", "fn59_10b"]
+    },
+    {
+      "n": 11,
+      "texto": "Quem me conduzirá à cidade fortificada? Quem me conduzirá até à Iduméia?"
+    },
+    {
+      "n": 12,
+      "texto": "Quem senão tu, ó Deus, que nos desamparaste? E não sairás tu, ó Deus, em nossos exércitos?"
+    },
+    {
+      "n": 13,
+      "texto": "Dá-nos socorro na tribulação: Porque vã é a salvação da parte do homem."
+    },
+    {
+      "n": 14,
+      "texto": "Em Deus faremos proezas: E êle mesmo reduzirá a nada aos que nos afligem.",
+      "nota": "fn59_14"
+    }
+  ],
+  "notas": {
+    "fn59_1": {
+      "rotulo": "SCHOUSCHAM'EDOUTH",
+      "texto": "Estas palavras, de sentido obscuro, foram traduzidas pela Vulgata Pro his qui immutabuntur. Para aquêles que hão de ser mudados, o que é incompreensível. A primeira já nos referimos, dizendo que significa o lírio, certamente uma ária conhecida por êste nome, de algum instrumento agora desconhecido. A segunda palavra não foi traduzida pela Vulgata neste salmo, talvez pelo seu sentido demasiado obscuro. Talvez se possa traduzir — Ao regente do côro; com a música de lírio de testemunho. Os antigos intérpretes seguindo a Vulgata entendiam que estas palavras se deviam referir aos homens que deveriam ser mudados nos seus costumes e pensamentos pela vinda do Messias."
+    },
+    "fn59_2": {
+      "rotulo": "QUANDO DESTRUIU",
+      "texto": "Estas palavras indicam duma maneira geral a época da composição do salmo. Devia ter sido antes da vitória do vale das Salinas, no momento em que os idumeus assolavam a Palestina do sul, aos quais o rei não podia opor resistência eficaz. Tem três estrofes. A primeira (3-7) Queixas e orações de Israel, sob o jugo dos idumeus. Segunda (8-10) Discurso de Deus anunciando o desbarato das fôrças opressoras. Terceira (11-14) Suplica ao Senhor para alcançar a vitória sôbre os idumeus."
+    },
+    "fn59_3": {
+      "rotulo": "DESAMPARASTE-NOS",
+      "texto": "Isto deve entender-se das grandes calamidades, que sofreu o povo no govêrno dos juízes, e do reinado de Saul, dêste modo: Em outro tempo irado, Deus meu, conosco como indignos da tua proteção, nos desamparaste e permitiste que os nossos inimigos nos vexassem; mas por fim de tudo isto, aplacado misericordiosamente nos salvaste. — Pereira."
+    },
+    "fn59_5": {
+      "rotulo": "VINHO DE COMPUNÇÃO",
+      "texto": "O hebreu diz: \"vinho de perturbação,\" deixando-nos como aturdidos, e sem saber que fazer, à semelhança dos que perdem o sentido, pelo excesso do vinho que beberam. Veja-se a ameaça do Dt 28, 34. — P. Seio."
+    },
+    "fn59_6": {
+      "rotulo": "DESTE AOS QUE TE TEMEM",
+      "texto": "Alude ao costume de levantar uma bandeira em um lugar elevado, para que soubessem aonde se haviam de refugiar os que fugiam, vendo-se perseguidos. Is 11, 12, ou talvez ao que sucedeu, quando Moisés por ordem de Deus fêz rociar as portas dos israelitas com o sangue do Cordeiro, que devia de servir de sinal ao anjo exterminador, para que não lhes fizesse algum dano, ao mesmo tempo que matava a todos os primogénitos do Egito. — Êx 12. — P. Seio."
+    },
+    "fn59_8": {
+      "rotulo": "SIQUÉM",
+      "texto": "Veja-se em 19, 6."
+    },
+    "fn59_9a": {
+      "rotulo": "E EFRAIM",
+      "texto": "Em cuja tribo, pelo seu grande número, e pelo seu valor das armas consiste a fôrça principal de meu reino, Dt 33, 17. Sl 77, 9. Porém aqui se entendem comumente as dez tribos. — P. Seio."
+    },
+    "fn59_9b": {
+      "rotulo": "JUDÁ MEU REI",
+      "texto": "Veja-se o Gén 49, 10, que pode servir de exposição a êste lugar. O hebreu tem: \"Judá, meu legislador;\" em Jerusalém, cidade principal do Judá, e de todo Israel está o grande conselho dos setenta juízes Núm 11, 16, e a minha côrte soberana de justiça. Sl 121, 5. — P. Seio."
+    },
+    "fn59_10a": {
+      "rotulo": "VASO DA MINHA ESPERANÇA",
+      "texto": "Uns querem que esta região se chame assim por ser mui fértil e abundante: outros, seguindo o hebreu, onde se lê \"Vaso do meu Lavatório,\" crêem que se significa nesta expressão: que aquêle povo foi reduzido a uma vilíssima escravidão, e a todos os exercícios próprios dos escravos, dos quais era um o de lavar os pés a seus senhores. Pode também ser alusivo ao grande destrôço, que nêles fêz Davi matando dois terços dêles: 2 Rs 8, 2. E por isto aquêle território foi como uma grande tina ou caldeira de sangue. — P. Seio."
+    },
+    "fn59_10b": {
+      "rotulo": "ESTENDEREI O MEU CALÇADO",
+      "texto": "Tomarei posse. Os jurisconsultos para denotar isto usam da fórmula, pedem ponere; e entre os latinos pedem proferre significa dilatar o império. Rut 4, 7. — Pereira."
+    },
+    "fn59_14": {
+      "rotulo": "EM DEUS FAREMOS PROEZAS",
+      "texto": "Com a sua ajuda, e socorro: com o seu poder. Sl 65, 5-11."
+    }
+  }
+}

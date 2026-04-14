@@ -1,0 +1,31 @@
+{
+  "num": 119,
+  "sumario": "Salmo deprecatório. Reconhece o socorro dispensado por Deus, a quem roga o livre das fraudes, calúnias e crueldades de seus inimigos.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual.<br>Quando me via atribulado clamei ao Senhor:<br>E êle me atendeu.", "nota": "fn119_1" },
+    { "n": 2, "texto": "Senhor, livra a minha alma de lábios iníquos, e de língua enganadora." },
+    { "n": 3, "texto": "Que te será dado, ou que te será acrescentado pela tua língua enganadora?", "nota": "fn119_3" },
+    { "n": 4, "texto": "Setas de valoroso agudas como carvões devoradores.", "nota": "fn119_4" },
+    { "n": 5, "texto": "Ai de mim, que o meu desterro se prolongou:<br>Habitei com os moradores de Cedar:", "nota": "fn119_5" },
+    { "n": 6, "texto": "Muito tempo foi peregrina a minha alma." },
+    { "n": 7, "texto": "Com os que aborreciam a paz era pacífico:<br>Quando lhes falava êles me contradiziam sem razão." }
+  ],
+  "notas": {
+    "fn119_1": {
+      "rotulo": "Cântico gradual",
+      "texto": "CÂNTICO GRADUAL — Êstes quinze salmos, que se seguem, costumam-se chamar Graduais, porque todos no título se chamam Cântico gradual. A dificuldade está em descobrir a razão dêste título. A opinião comum tem que êstes salmos se chamam Graduais, porque se cantavam ao subir os degraus do templo, que se crê que eram com efeito quinze, segundo se colige de José. Êste é o sentir de Bossuet e do padre Houbigant. Quanto ao autor, ou autores dêstes salmos, S. João Crisóstomo e Teodoreto não duvidam atribui-los todos, ou quase todos a Davi, que com espírito profético predissesse nêles o que dali a quatrocentos e mais anos havia de acontecer ao povo israelítico, cativo primeiro em Babilónia, e depois restituído gloriosamente à pátria. E com efeito o hebreu nomeia a Davi por autor dos salmos 121, 123, 131. A Vulgata atribui a Salomão o salmo 126, e a Davi os salmos 130, e 132. Isto não obstante, Calmet sustenta que todos êles foram compostos pelos Judeus, cativos em Babilónia, porque assim o está persuadindo o assunto, e mais circunstâncias dos mesmos salmos. Vigouroux parece inclinar-se a que o autor fôsse contemporâneo de Esdras. O estilo dêstes salmos, nota o mesmo Calmet, é vivo e elegante, cheio de belas figuras, ou imagens e duma brevidade como de epigramas sagrados. Tem três estrofes."
+    },
+    "fn119_3": {
+      "rotulo": "Pela tua língua",
+      "texto": "PELA TUA LÍNGUA — Entre muitas exposições e sentidos que se dão a êstes dois versículos, escolhemos o que nos pareceu mais conforme ao que nos diz S. Tiago 3, 6. O hebreu diz: \"Que te dará a ti, ou que te acrescentará a língua enganadora?\" apóstrofe ao caluniador."
+    },
+    "fn119_4": {
+      "rotulo": "Setas",
+      "texto": "SETAS — É resposta à pergunta: Sabe que a tua língua é mentirosa e semelhante às flechas, etc. — Pereira. COMO CARVÕES — Em lugar do que lemos na Vulgata, cum carbonibus desolatoriis, traz o hebreu cum carbonibus juniperorum, com carvões de juníperos; os quais, como nota S. Jerônimo na carta a Fabíola, por serem de uma matéria mui resinosa, fazem um fogo ardentíssimo."
+    },
+    "fn119_5": {
+      "rotulo": "Com os moradores de Cedar",
+      "texto": "COM OS MORADORES DE CEDAR — O hebreu diz aqui, \"eu vivi como estrangeiro em Mesec, e habitei nas tendas de Cedar.\" O caldeu entende por Mesec os asiáticos, e por Cedar os árabes. Calmet julga que Mesec é o mesmo país a que Moisés chama Mosoc, Gên 10, 2, que são os montes que separam a Ibéria da Arménia e uma e outra da Cólchida; e todos convêm que por Mesec e Cedar, denota o salmista dois confins do Império babilónico de Nabucodonosor. Êste nome veio de Cedar, filho de Ismael (Gên 25, 13), mais tarde foi conhecido por países sarracenos."
+    }
+  }
+}

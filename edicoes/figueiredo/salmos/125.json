@@ -1,0 +1,16 @@
+{
+  "num": 125,
+  "sumario": "Votos dos cativos de Babilónia suspirando pela liberdade, e em figura dêles a Igreja pede a sua liberdade por Jesus Cristo.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual. Quando o Senhor fizer voltar os cativos de Sião: Seremos como cheios de consolação:", "nota": "fn125_1" },
+    { "n": 2, "texto": "Então se encherá de gôzo a nossa bôca: E a nossa língua de alegria. Então dirão entre as nações: Grandes coisas fêz o Senhor a favor dêles." },
+    { "n": 3, "texto": "Grandes coisas fêz o Senhor por nós: Seremos cheios de júbilo." },
+    { "n": 4, "texto": "Faze, Senhor, voltar os nossos cativos, como uma torrente no Meio-dia.", "nota": "fn125_4" },
+    { "n": 5, "texto": "Os que semeiam em lágrimas, com regozijo ceifarão." },
+    { "n": 6, "texto": "Andando iam e choravam, semeando suas sementes. Mas vindo virão com regozijo, trazendo os seus feixes." }
+  ],
+  "notas": {
+    "fn125_1": { "rotulo": "Cântico gradual", "texto": "Tem duas estrofes: uma ocupa-se do passado, a outra do presente; naquela relembra o salmista a alegria da volta do cativeiro, nesta as tristezas do presente." },
+    "fn125_4": { "rotulo": "Torrente no Meio-dia", "texto": "Alguns querem que seja tôda e qualquer torrente, mas a opinião mais geral entende o Nilo, rio do Egito, que estava ao sul da Palestina. O sentido é êste: Permiti que voltem os nossos cativos, como ordenais que o Nilo volte para regar e fecundar a terra que ficou estéril durante o verão." }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "num": 116,
+  "sumario": "Os Padres e intérpretes entendem comumente êste salmo da vocação dos gentios, e da união de todos os povos da terra para formar um só corpo, que é o da Igreja. Aleluia.",
+  "versiculos": [
+    { "n": 1, "texto": "Louvai tôdas as gentes ao Senhor:<br>Louvai-o todos os povos.", "nota": "fn116_1" },
+    { "n": 2, "texto": "Porque sôbre nós foi confirmada a sua misericórdia:<br>E a verdade do Senhor permanece eternamente.", "nota": "fn116_2" }
+  ],
+  "notas": {
+    "fn116_1": {
+      "rotulo": "Louvai",
+      "texto": "LOUVAI — É claro que se não louva senão o que se conhece. O salmista convida tôdas as nações a louvarem a Deus: logo espera que tôdas o conheçam. Êste raciocínio nos conduz a reconhecer com S. Paulo, Rom 15, 21, que neste salmo se contém uma manifesta profecia da conversão dos gentios."
+    },
+    "fn116_2": {
+      "rotulo": "Foi confirmada",
+      "texto": "FOI CONFIRMADA — Aquela misericórdia da promessa que Deus fizera a Abraão, de que por um seu descendente, isto é, como expõe S. Paulo, Gal 3, 16, por Jesus Cristo, seriam benditas tôdas as nações. Gên 12, 3; 17, 18; 22, 18. — Pereira."
+    }
+  }
+}

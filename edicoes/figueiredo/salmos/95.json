@@ -1,0 +1,29 @@
+{
+  "num": 95,
+  "sumario": "Salmo gratulatório. Exorta o profeta a todos para que louvem a Deus pela sua grandeza, e singularmente pela vinda do Messias a reformar o mundo. Cântico do mesmo Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Quando se edificava a casa depois do cativeiro. (1 Par 15.)<br>Cantai ao Senhor um cântico novo: Cantai ao Senhor, habitantes de tôda a terra.", "nota": "fn95_1" },
+    { "n": 2, "texto": "Cantai ao Senhor, bendizei o seu nome: Anunciai de dia a sua salvação." },
+    { "n": 3, "texto": "Anunciai entre as gentes a sua glória, em todos os povos as suas maravilhas." },
+    { "n": 4, "texto": "Porque o Senhor é grande, e mui digno de ser louvado: Terrível é sôbre todos os deuses." },
+    { "n": 5, "texto": "Porque todos os deuses das gentes são demónios: Mas o Senhor fêz os céus." },
+    { "n": 6, "texto": "Louvor, e formosura diante dêle: Santidade, e grandeza no seu santuário." },
+    { "n": 7, "texto": "Tributai ao Senhor, ó famílias das gentes, tributai ao Senhor glória e honra:", "nota": "fn95_7" },
+    { "n": 8, "texto": "Tributai ao Senhor a glória devida ao seu nome.<br>Tomai vítimas, e entrai nos seus átrios:" },
+    { "n": 9, "texto": "Adorai ao Senhor no átrio do santo tabernáculo.<br>Trema tôda a terra à sua presença:" },
+    { "n": 10, "texto": "Dizei entre as gentes que o Senhor reinou.<br>Porque firmou a redondeza da terra, que não será comovida: Julgará os povos com equidade." },
+    { "n": 11, "texto": "Alegrem-se os céus, e regozije-se a terra, comova-se o mar, e o que êle contém:" },
+    { "n": 12, "texto": "Alegrar-se-ão os campos, e tôdas as coisas, que dêles há.<br>Então se regozijarão tôdas as árvores das selvas." },
+    { "n": 13, "texto": "Ante a face do Senhor porque veio: Porque veio a julgar a terra.<br>Julgará a redondeza da terra com equidade, e os povos segundo a sua verdade." }
+  ],
+  "notas": {
+    "fn95_1": {
+      "rotulo": "Cântico de Davi",
+      "texto": "Cântico de Davi, quando construiu a sua casa depois do cativeiro. Foi cantado na festa da trasladação da arca, no tempo de Davi. Tem cinco estrofes."
+    },
+    "fn95_7": {
+      "rotulo": "Ó famílias",
+      "texto": "Ó FAMÍLIAS — Na Vulgata se conserva a palavra grega, que significa famílias, tribos, e aqui, em significação mais extensa, os povos, ou nações que não eram do povo de Deus, no que se insinua o Mistério da conversão dos gentios, tantas vêzes anunciada. — P. Seio."
+    }
+  }
+}

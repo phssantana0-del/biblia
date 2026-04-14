@@ -1,0 +1,22 @@
+{
+  "num": 69,
+  "sumario": "Salmo deprecatório. Davi oprimido de uma grande calamidade se volta a Deus pedindo-lhe pronto socorro contra os seus inimigos. Ao regente do côro, salmo de Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Em memória do que o Senhor o havia salvado.", "nota": "fn69_1" },
+    { "n": 2, "texto": "Ó Deus, atende ao meu socorro: Senhor, vinde logo para ajudar-me." },
+    { "n": 3, "texto": "Confundidos sejam, e envergonhados, os que buscam a minha alma.", "nota": "fn69_3" },
+    { "n": 4, "texto": "Voltem-se atrás, e sejam envergonhados os que me desejam males:<br>Voltem-se logo cheios de confusão os que me dizem: Bem, bem." },
+    { "n": 5, "texto": "Regozijem-se, e alegrem-se em ti todos os que te buscam, e os que amam a tua salvação digam sempre: Engrandecido seja o Senhor." },
+    { "n": 6, "texto": "Mas eu sou necessitado e pobre: Ó Deus, socorre-me. O meu favorecedor, e o meu libertador és tu: Senhor, não te demores." }
+  ],
+  "notas": {
+    "fn69_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "SALMO DE DAVI — Êste salmo é um fragmento do salmo 39. DO QUE O SENHOR — No hebreu faltam estas últimas palavras, e só se diz: \"Salmo de Davi para memória,\" ou para lembrar-se, dado \"ao mestre dos músicos.\" — Sacy."
+    },
+    "fn69_3": {
+      "rotulo": "Confundidos sejam",
+      "texto": "CONFUNDIDOS SEJAM — No salmo 34, desde o verso 18 por diante, se contém com pouca diferença quanto há no presente."
+    }
+  }
+}

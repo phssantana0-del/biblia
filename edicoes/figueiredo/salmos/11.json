@@ -1,0 +1,25 @@
+{
+  "num": 11,
+  "sumario": "Salmo histórico e didático. Davi expondo ao Senhor as maldades de seus inimigos pede a Deus o livre dêles a êle e a todos os que o servem, o que anuncia que o Senhor salvaria, e estabeleceria a sua Igreja, fazendo que os seus mesmos perseguidores contribuíssem para a sua maior exaltação, e glória.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, com vozes de baixo, salmo de Davi." },
+    { "n": 2, "texto": "Salva-me, Senhor, porque faltou homem santo: Porque vieram a menos as verdades entre os filhos dos homens.", "nota": "fn11_2" },
+    { "n": 3, "texto": "Cada um deles falou coisas vãs ao seu próximo: Lábios dolosos com coração dobrado." },
+    { "n": 4, "texto": "Destrua o Senhor todos os lábios dolosos, e a língua audaz." },
+    { "n": 5, "texto": "Os que disseram: Queremos soltar livres a nossa língua, nossos lábios de nós são, quem é nosso Senhor?" },
+    { "n": 6, "texto": "Pela miséria dos desvalidos, e o gemido dos pobres agora me levantarei, diz o Senhor. Eu os porei em salvo: Nisto eu obrarei confiadamente.", "nota": "fn11_6" },
+    { "n": 7, "texto": "As palavras do Senhor, palavras sinceras: Prata purificada ao fogo, acendrada em crisol, passada sete vêzes por ardente prova." },
+    { "n": 8, "texto": "Tu, Senhor, nos guardarás: E nos preservarás desta geração para sempre." },
+    { "n": 9, "texto": "Os ímpios andam ao derredor: Segundo o teu altíssimo conselho, multiplicaste os filhos dos homens." }
+  ],
+  "notas": {
+    "fn11_2": {
+      "rotulo": "Salva-me",
+      "texto": "Davi pede ao Senhor que o livre dos maus que o cercam. Compreende cinco estrofes. 1.ª (2-3) Davi invoca o Senhor no meio dos perigos que o cercam. 2.ª (4-5) Que Deus destrua os ímpios. 3.ª (6) Resposta de Deus que quer salvar os desvalidos e os miseráveis. 4.ª (7) O Salmista compara ao ouro mais puro as palavras de Deus. 5.ª (8-9) Pede ao Senhor que guarde os seus que estão no meio dos maus."
+    },
+    "fn11_6": {
+      "rotulo": "Pela miséria dos desvalidos",
+      "texto": "Isto é, comovido pelas calamidades que os afligem."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "num": 127,
+  "sumario": "Salmo didático. Frutos do temor de Deus. Pode aplicar-se a ambos os Testamentos.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual. Bem-aventurados todos os que temem ao Senhor, os que andam nos seus caminhos.", "nota": "fn127_1" },
+    { "n": 2, "texto": "Porque comerás dos trabalhos das tuas mãos: Bem-aventurado és, e te irá bem." },
+    { "n": 3, "texto": "Tua mulher será no retiro de tua casa, como vide abundante. Teus filhos, como rebentos de oliveiras, estarão ao redor da tua mesa.", "nota": "fn127_3" },
+    { "n": 4, "texto": "Eis-aqui como será abençoado o homem que teme ao Senhor." },
+    { "n": 5, "texto": "Abençoe-te o Senhor desde Sião: E vejas os bens de Jerusalém todos os dias da tua vida.", "nota": "fn127_5" },
+    { "n": 6, "texto": "E vejas os filhos de teus filhos, e a paz sôbre Israel." }
+  ],
+  "notas": {
+    "fn127_1": { "rotulo": "Cântico gradual", "texto": "O salmista canta a felicidade do justo no meio de sua família. Tem três estrofes. Primeira (1-2). Feliz o que guarda a lei. Segunda (3). E terá uma numerosa família. Terceira (4-6). Será abençoado e verá prosperar Jerusalém." },
+    "fn127_3": { "rotulo": "No retiro de tua casa / Como rebentos", "texto": "NO RETIRO DE TUA CASA — A êste sentido nos conduz S. Jerônimo, que onde a Vulgata diz in lateribus domus tuae, tem êle, in penetralibus domus tuae. — COMO REBENTOS — Terás o gôsto de ver teus filhos à maneira de formosos renovos de oliveiras sentados junto de ti e coroando a tua mesa. — Santo Hilário." },
+    "fn127_5": { "rotulo": "Desde Sião", "texto": "Onde estava a arca, ou desde o Céu, figurado pelo monte Silo. — Pereira." }
+  }
+}

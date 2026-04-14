@@ -1,0 +1,77 @@
+{
+  "num": 104,
+  "sumario": "Salmo de ação de graças, pelos benefícios feitos por Deus ao povo de Israel, desde Abraão até Moisés. Aleluia. (1 Par 16, 18.)",
+  "versiculos": [
+    { "n": 1, "texto": "Louvai ao Senhor, e invocai o seu nome: Anunciai entre as gentes as suas obras.", "nota": "fn104_1" },
+    { "n": 2, "texto": "Cantai-lhe, e dizei-lhe salmos: Narrai tôdas as suas maravilhas." },
+    { "n": 3, "texto": "Gloriai-vos em seu santo Nome: Alegre-se o coração dos que buscam ao Senhor." },
+    { "n": 4, "texto": "Buscai ao Senhor, e fortificai-vos: Buscai sempre a sua face." },
+    { "n": 5, "texto": "Lembrai-vos das suas maravilhas, que fêz: De seus prodígios, e dos juízos que pronunciou com a sua bôca.", "nota": "fn104_5" },
+    { "n": 6, "texto": "Vós, ó descendentes de Abraão, que sois seus servos: Vós, ó filhos de Jacó, seus escolhidos." },
+    { "n": 7, "texto": "Êle é o Senhor nosso Deus: Os seus juízos se executarão em tôda a terra." },
+    { "n": 8, "texto": "Êle se lembrou para sempre da sua aliança: E da palavra, que enviou para mil gerações:", "nota": "fn104_8" },
+    { "n": 9, "texto": "Daquela que deu a Abraão: E do juramento que fêz a Isaac: (Gên 22, 16)." },
+    { "n": 10, "texto": "E o confirmou a Jacó por estatuto: E a Israel para que fôsse uma aliança eterna:" },
+    { "n": 11, "texto": "Dizendo: A ti te darei a terra de Canaã, repartimento da vossa herança." },
+    { "n": 12, "texto": "Quando eram em curto número, mui poucos e estrangeiros nesta terra:", "nota": "fn104_12" },
+    { "n": 13, "texto": "E passaram de gente em gente, e de um reino a outro povo." },
+    { "n": 14, "texto": "Não permitiu que alguém os ofendesse: E castigou por causa dêles aos reis." },
+    { "n": 15, "texto": "Não toqueis os meus ungidos: E não maltrateis aos meus profetas.", "nota": "fn104_15" },
+    { "n": 16, "texto": "E chamou a fome sôbre a terra: E quebrantou tôda a fôrça do pão." },
+    { "n": 17, "texto": "Enviou diante dêles um varão: A José que foi vendido por escravo. (Gên 37, 36.)" },
+    { "n": 18, "texto": "Apertaram com grilhões seus pés, o êrro traspassou a sua alma (Gên 39, 20)" },
+    { "n": 19, "texto": "até que foi cumprida a profecia dêle.<br>A palavra do Senhor o havia inflamado:" },
+    { "n": 20, "texto": "Enviou o rei, e o soltou; o príncipe dos povos, e lhe deu a liberdade. (Gên 41, 14)." },
+    { "n": 21, "texto": "Constituiu-o senhor da sua casa: E por príncipe de tudo o que possuía." },
+    { "n": 22, "texto": "Para que desse luz aos grandes como a si mesmo: E ensinasse a prudência aos seus Anciãos." },
+    { "n": 23, "texto": "E entrou Israel no Egito: E foi Israel estrangeiro em a terra de Cam. (Gên 46, 6).", "nota": "fn104_23" },
+    { "n": 24, "texto": "E aumentou o seu povo em grande maneira: E o fêz forte sôbre os seus inimigos. (Êx 1, 7; At 7, 17)." },
+    { "n": 25, "texto": "Transtornou o coração dos egípcios para que aborrecessem o seu povo: E usassem de enganos com os seus servos." },
+    { "n": 26, "texto": "Enviou a Moisés seu servo: A Aarão, o mesmo que êle escolheu. (Êx 3, 10; 4, 29)." },
+    { "n": 27, "texto": "Pôs nêles as palavras de seus sinais, e prodígios na terra de Cam. (Êx 7, 10)." },
+    { "n": 28, "texto": "Enviou trevas, e difundiu escuridade: E não tornou vãs as suas palavras. (Êx 10, 21)." },
+    { "n": 29, "texto": "Converteu-lhes as águas em sangue: E matou os seus peixes. (Êx 7, 20)." },
+    { "n": 30, "texto": "A sua terra produziu rãs até nas câmaras dos mesmos reis. (Êx 8, 6)." },
+    { "n": 31, "texto": "Disse, e vieram moscas de tôdas as castas: E mosquitos em todos os seus limites. (Êx 8, 16-24)." },
+    { "n": 32, "texto": "Mudou as suas chuvas em granizo: Lançou um fogo abrasador na terra dêles." },
+    { "n": 33, "texto": "E feriu as suas vinhas, e os seus figueirais: E quebrou as árvores que havia nos seus limites." },
+    { "n": 34, "texto": "Disse, e vieram gafanhotos, e alfôrra, em tanta cópia que não tinha número: (Êx 10, 12)." },
+    { "n": 35, "texto": "E comeu tôda a erva na terra dêles. E comeu todo o fruto na terra dêles." },
+    { "n": 36, "texto": "E feriu a todos os primogénitos na terra dêles: As primícias de todo o seu trabalho. (Êx 12, 29)." },
+    { "n": 37, "texto": "E conduziu-os com prata e com ouro: E não havia enfêrmo nas tribos dêles. (Êx 12, 35)." },
+    { "n": 38, "texto": "Alegrou-se o Egito na partida dêles: Porque estava preocupado do temor que lhes tinha." },
+    { "n": 39, "texto": "Estendeu uma nuvem que os cobrisse, e fogo que os alumiasse de noite. (Êx 13, 21)." },
+    { "n": 40, "texto": "Pediram, e vieram codornízes: E do pão do Céu os saciou. (Êx 16, 13)." },
+    { "n": 41, "texto": "Fendeu a pedra, e manaram águas: Correram rios em lugar sêco: (Núm 20, 11)." },
+    { "n": 42, "texto": "Porque teve em memória a sua santa palavra, a qual êle havia dado a Abraão seu servo. (Gên 17, 7)." },
+    { "n": 43, "texto": "E tirou o seu povo com regozijo, e aos seus escolhidos com alegria." },
+    { "n": 44, "texto": "E deu-lhes as terras das nações: E desfrutaram o trabalho de outros povos:" },
+    { "n": 45, "texto": "Para que guardassem os seus mandamentos, e buscassem a sua lei." }
+  ],
+  "notas": {
+    "fn104_1": {
+      "rotulo": "Aleluia",
+      "texto": "ALELUIA — Êste têrmo, que daqui em diante se encontra na Vulgata à testa de outros muitos salmos, vale o mesmo que \"Louvai ao Senhor.\" Quanto aos primeiros quinze versículos, é êste salmo indubitàvelmente de Davi, e composto na trasladação da arca para Sião, porque assim consta do livro 1 Par 16, 8 ss, onde se referem os ditos primeiros quinze versículos dêle. Quanto aos mais que se seguem, é Calmet de parecer que êles foram acrescentados depois, quando o povo judaico voltou do cativeiro de Babilónia para Jerusalém. De Carrières o dá todo por obra de Davi. Resume a história de Israel e por isso se citam entre parênteses os lugares que narram os fatos a que o salmo alude, e tem nove estrofes."
+    },
+    "fn104_5": {
+      "rotulo": "Que pronunciou",
+      "texto": "QUE PRONUNCIOU — As leis que o Senhor deu ao seu povo, ou também as ameaças que pronunciaram os seus lábios contra os prevaricadores da sua lei. — Pereira."
+    },
+    "fn104_8": {
+      "rotulo": "Para mil gerações",
+      "texto": "PARA MIL GERAÇÕES — Êle mesmo é o que não se esquece, nem jamais se esquecerá do tratado que concertou, e da promessa que fêz para todos os séculos vindouros. — P. Seio."
+    },
+    "fn104_12": {
+      "rotulo": "E estrangeiros nesta terra",
+      "texto": "E ESTRANGEIROS NESTA TERRA — São chamados estrangeiros, porque eram oriundos da Caldéia e da Mesopotâmia."
+    },
+    "fn104_15": {
+      "rotulo": "Não toqueis os meus ungidos",
+      "texto": "NÃO TOQUEIS OS MEUS UNGIDOS — Fala Deus aqui dos três patriarcas Abraão, Isaac e Jacó, aos quais chama Ungidos seus, na qualidade de sacerdotes e profetas, que eram do mesmo Senhor. Os nossos padres godos do quarto concílio de Toledo o entenderam dos Reis, os quais noutras Escrituras também se acham chamados Ungidos e Cristos. Gregório XVI aplicou êste versículo na Alocução pronunciada no consistório de 8 de outubro de 1883."
+    },
+    "fn104_23": {
+      "rotulo": "A terra de Cam",
+      "texto": "A TERRA DE CAM — É o Egito assim chamado, porque Cam, filho de Noé, habitou nessa região povoada depois pelo seu segundo filho Mesraim. Os egípcios chamam também ao seu país Chemi."
+    }
+  }
+}

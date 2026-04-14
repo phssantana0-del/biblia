@@ -1,0 +1,18 @@
+{
+  "num": 115,
+  "sumario": "Alleluia.",
+  "versiculos": [
+    { "n": 1, "texto": "Credidi, propter quod locutus sum: ego autem humiliatus sum nimis." },
+    { "n": 2, "texto": "Ego dixi in excessu meo: Omnis homo mendax." },
+    { "n": 3, "texto": "Quid retribuam Domino, pro omnibus quæ retribuit mihi?" },
+    { "n": 4, "texto": "Calicem salutaris accipiam: et nomen Domini invocabo." },
+    { "n": 5, "texto": "Vota mea Domino reddam coram omni populo ejus:" },
+    { "n": 6, "texto": "pretiosa in conspectu Domini mors sanctorum ejus." },
+    { "n": 7, "texto": "O Domine, quia ego servus tuus: ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:" },
+    { "n": 8, "texto": "tibi sacrificabo hostiam laudis, et nomen Domini invocabo." },
+    { "n": 9, "texto": "Vota mea Domino reddam in conspectu omnis populi ejus:" },
+    { "n": 10, "texto": "in atriis domus Domini, in medio tui, Jerusalem." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

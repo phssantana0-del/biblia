@@ -1,0 +1,51 @@
+{
+  "num": 16,
+  "sumario": "Salmo moral em que Davi pede a Deus o livre das traições, crueldades de seus inimigos: recomenda a bondade, e paciência de Deus.",
+  "versiculos": [
+    { "n": 1, "texto": "Oração de Davi. Ouve, Senhor, a minha justiça: Atende ao meu humilde rogo. Chegue aos teus ouvidos a oração que te faço, não com lábios enganosos.", "nota": "fn16_1" },
+    { "n": 2, "texto": "Do teu rosto saia o meu juízo: Vejam teus olhos a equidade." },
+    { "n": 3, "texto": "Provaste o meu coração, e o visitaste de noite: No fogo me examinaste, e não se achou em mim a iniquidade.", "nota": "fn16_3" },
+    { "n": 4, "texto": "Para que a minha boca não fale as obras dos homens: Por amor às palavras de teus lábios tenho guardado caminhos penosos.", "nota": "fn16_4" },
+    { "n": 5, "texto": "Firma os meus passos nas tuas veredas: Para que os meus pés não vacilem.", "nota": "fn16_5" },
+    { "n": 6, "texto": "Eu clamei, porque tu me tens ouvido, ó Deus: Inclina para mim a tua orelha, e ouve as minhas palavras." },
+    { "n": 7, "texto": "Faze que sejam maravilhosas as tuas misericórdias tu que salvas aos que esperam em ti." },
+    { "n": 8, "texto": "Guarda-me dos que resistem à tua direita, como à menina do ôlho. Debaixo da sombra das tuas asas defende-me" },
+    { "n": 9, "texto": "da face dos ímpios que me afligiram. Os meus inimigos cercaram a minha alma," },
+    { "n": 10, "texto": "cerraram as suas entranhas: A sua bôca falou com soberba." },
+    { "n": 11, "texto": "Depois de me terem lançado fora me cercam agora: E resolveram abaixar os seus olhos para a terra." },
+    { "n": 12, "texto": "Êles me receberam como leão preparado à presa: E como um cachorro do leão, que habita nos lugares ocultos." },
+    { "n": 13, "texto": "Levanta-te, Senhor, vem antes dêle, e prostra-o: Livra a minha alma do ímpio, tua espada,", "nota": "fn16_13" },
+    { "n": 14, "texto": "dos inimigos da tua destra. Separa-os, Senhor, em vida dêles, dos que são poucos sôbre a terra: De tuas coisas escondidas se tem repleto o seu ventre. Fartaram-se de filhos: Deixaram suas sobras aos seus pequeninos.", "nota": "fn16_14" },
+    { "n": 15, "texto": "Mas eu com justiça comparecerei na tua presença: Saciar-me-ei quando aparecer a tua glória." }
+  ],
+  "notas": {
+    "fn16_1": {
+      "rotulo": "Oração de Davi",
+      "texto": "Assim se traduz o hebreu Th'fillah, e na verdade é uma verdadeira oração, muito fervorosa, que o profeta rei dirige ao Senhor, pedindo-lhe que o socorra e ampare contra a injusta perseguição de Saul, quando Davi se ocultava no deserto de Maon, que ficava a três horas de Hebron (1 Rs 23, 25 ss). Compreende seis estrofes. 1.ª (1-2) Suplica ao Deus da justiça para que faça triunfar a sua causa; 2.ª (3-5) Protesta a sua inocência; 3.ª (6-7) Que Deus se digne de o escutar; 4.ª (8-9) Que o guarde com a pupila dos olhos, do ataque dos inimigos; 5.ª (10-12) Imagem dos seus inimigos, semelhantes ao leão que devora a sua prêsa. 6.ª (13-15) Que Deus o salve mostrando-lhe a sua proteção."
+    },
+    "fn16_1b": {
+      "rotulo": "A minha justiça",
+      "texto": "Expressão equivalente \"a mim que sou justo\"."
+    },
+    "fn16_3": {
+      "rotulo": "No fogo me examinaste",
+      "texto": "Expressão metafórica, que quer dizer que o Senhor o tinha purificado com muitas tribulações."
+    },
+    "fn16_4": {
+      "rotulo": "Tenho guardado caminhos penosos",
+      "texto": "Bossuet interpreta os caminhos estreitos, que são os que guiam para a vida eterna. (Mt 7, 14), para a consecução da qual é preciso o sofrimento."
+    },
+    "fn16_5": {
+      "rotulo": "Para que os meus pés não vacilem",
+      "texto": "Palavras de um homem que sabe, que não pode fazer o bem, nem perseverar nêle sem o socorro da divina graça."
+    },
+    "fn16_13": {
+      "rotulo": "Livra a minha alma do ímpio",
+      "texto": "Do ímpio que é a tua espada, acrescenta na sua versão S. Jerônimo. Ab impio qui est gladius tuus. Porque do ímpio usa Deus como de instrumento para castigar. — Bossuet."
+    },
+    "fn16_14": {
+      "rotulo": "Separa-os, Senhor",
+      "texto": "A Igreja quer, segundo a parábola, que ainda nesta vida se separe o joio do trigo, os maus dos bons, ou dos escolhidos, que são poucos. Mas debalde o quer: porque eis-aqui a divina resposta que lemos no mesmo c. 13, v. 30. Sinite utrosque crescere usque ad messem. Deixai que cresçam uns e outros até o tempo da messe. — S. Jerônimo. Aos seus pequeninos — Em lugar do que a Vulgata diz, parvulis suis, aos seus pequeninos, tem S. Jerônimo parvulis eorum, aos pequeninos dêles, isto é, aos netos. — Bossuet."
+    }
+  }
+}

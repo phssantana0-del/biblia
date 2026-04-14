@@ -1,0 +1,38 @@
+{
+  "num": 140,
+  "sumario": "Salmo deprecatório. Pede Davi a Deus que lhe dê paciência nos trabalhos e que o defenda de seus inimigos.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi.<br>Senhor, a ti clamei, escuta-me: Atende à minha voz, quando clamar a ti.", "nota": "fn140_1" },
+    { "n": 2, "texto": "Suba direita a minha oração como incenso na tua presença: Seja a elevação das minhas mãos sacrifício da tarde." },
+    { "n": 3, "texto": "Põe, Senhor, uma guarda à minha bôca: E aos meus lábios uma porta que os feche." },
+    { "n": 4, "texto": "Não torças o meu coração a palavras de malícia para buscar escusas nos pecados.<br>Como fazem os homens que obram iniquidade: E não terei parte nas coisas que êles estimam.", "nota": "fn140_4" },
+    { "n": 5, "texto": "O justo me corrigirá, e me increpará com misericórdia: Mas o azeite do pecador não chegue a ungir a minha cabeça.<br>Porque ainda até a minha oração será contra o que lhes apraz a êles:", "nota": "fn140_5" },
+    { "n": 6, "texto": "Têm perecido os seus juízes lançados à pedra.<br>Ouviram que as minhas palavras foram eficazes:" },
+    { "n": 7, "texto": "Bem como grossa gleba se desfez sempre sôbre a terra.<br>Assim têm sido espalhados os nossos ossos perto da sepultura:", "nota": "fn140_7" },
+    { "n": 8, "texto": "Porque os meus olhos a ti, Senhor, ó Senhor, se levantaram: Em ti tenho esperado, não me tires a vida." },
+    { "n": 9, "texto": "Guarda-me do laço, que têm preparado contra mim: E dos precipícios dos que obram iniquidade." },
+    { "n": 10, "texto": "Cairão na sua rêde os pecadores: Só estou eu até que seja o meu trânsito.", "nota": "fn140_10" }
+  ],
+  "notas": {
+    "fn140_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "Êste salmo é muito obscuro, e os versículos 5, 6 e 7 são talvez os mais difíceis de entender de todo o saltério. Boulleret, ob. cit. Parece ter sido composto depois da morte de Saul, quando Davi mandou matar o portador da notícia, e quando estava ainda rodeado de perigos. Tem quatro estrofes. Primeira (1-2). Invocação a Deus. Segunda (3-4). Oração para obter a graça de evitar o pecado. Terceira (5-7). Recebe como um bem os maus tratos dos maus. Quarta (8-10). Oração a Deus para ser livre dos seus inimigos. Êste salmo foi usado nos tempos primitivos da Igreja como oração da tarde. Cor Apost 8, 35. O versículo 2.° é recitado na missa solene na incensação da oblata."
+    },
+    "fn140_4": {
+      "rotulo": "E não terei parte",
+      "texto": "O hebreu diz: \"E não comerei de suas delícias; e não assistirei aos seus delicados e suntuosos banquetes.\" E neste sentido se pode também explicar a Vulgata: Et non communicabo cum electis, cibis, eorum; ou também considerando a electis como neutro. — P. Seio."
+    },
+    "fn140_5": {
+      "rotulo": "Me corrigirá, e me increpará",
+      "texto": "Como fêz S. Paulo aos Gálatas, que depois de os chamar insensatos, os apelidou filhinhos seus: O insensati Galatae, quis vos fascinavit? Gál 3, 1. Filioli mei, quos iterum parturio. Ibid. 4, 19. — Bossuet."
+    },
+    "fn140_7": {
+      "rotulo": "Bem como grossa gleba",
+      "texto": "Esta estrofe é de tão grande dificuldade, que não é fácil atinar no verdadeiro sentido. Boulleret escolheu o que é mais conforme com a versão dos Setenta: Sicut durities terrae dirumpitur super terram / Dissipantur ossa nostra super terram. Glaire entendeu assim: \"Como uma terra compacta cortada pelo arado se espalha sôbre a terra, os nossos ossos serão dispersos no inferno.\" Deve-se atender a que a expressão \"terra compacta\" é um hebraísmo para significar a dureza da terra."
+    },
+    "fn140_10": {
+      "rotulo": "Só estou eu",
+      "texto": "Nos Setenta se lê solitarie, solus, e a êste sentido reduzimos o singulariter da Vulgata. O hebreu mais claramente: Separatus ab impiis, eorum ruina non involvar. Eu, como separado dos ímpios, não serei envolvido na sua ruína, isto é, passarei indene. — Bossuet."
+    }
+  }
+}

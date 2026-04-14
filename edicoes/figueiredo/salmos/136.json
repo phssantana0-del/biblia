@@ -1,0 +1,33 @@
+{
+  "num": 136,
+  "sumario": "Salmo deprecatório. Os prisioneiros choram a sua perdida liberdade. Profecia da queda de Babilónia e da ruína do império. Salmo de Davi, para Jeremias.",
+  "versiculos": [
+    { "n": 1, "texto": "Junto dos rios de Babilónia, ali nos assentamos e pusemos a chorar: Lembrando-nos de Sião:", "nota": "fn136_1" },
+    { "n": 2, "texto": "Nos salgueiros que há no meio dela, penduramos nossas harpas.", "nota": "fn136_2" },
+    { "n": 3, "texto": "Porque ali nos pediram os que nos levaram cativos, palavras de canções:<br>E os que por fôrça nos levaram, disseram: Cantai-nos um hino dos cânticos de Sião." },
+    { "n": 4, "texto": "Como cantaremos o cântico do Senhor em terra alheia?" },
+    { "n": 5, "texto": "Se me esquecer de ti, Jerusalém, a esquecimento seja entregue a minha direita." },
+    { "n": 6, "texto": "Fique pegada a minha língua às minhas fauces, se eu me não lembrar de ti:<br>Se não me propuser a Jerusalém, como principal objeto da minha alegria." },
+    { "n": 7, "texto": "Lembra-te, Senhor, dos filhos de Edom no dia de Jerusalém:<br>Os que dizem: Arruinai, arruinai nela até os fundamentos.", "nota": "fn136_7" },
+    { "n": 8, "texto": "Filha desastrada de Babilónia: Bem-aventurado o que te der o pago que tu deste a nós outros.", "nota": "fn136_8" },
+    { "n": 9, "texto": "Bem-aventurado o que apanhar às mãos e fizer em pedaços numa pedra teus tenros filhos." }
+  ],
+  "notas": {
+    "fn136_1": {
+      "rotulo": "Salmo de Davi, para Jeremias / Junto dos rios",
+      "texto": "O título dêste salmo é difícil de explicar, contudo, como no original hebraico se não encontra, os exegetas atendem menos a êle do que ao sentido do salmo. Teodoreto escreve a propósito: Psalmi sensus planus est. Qui enim captivi fuerant abducti, et reditum consecuti, ea narrant quae Babylone acciderant. Interpretatio Psalmi 120. Descreve as tristezas do cativeiro. Tem seis estrofes. Primeira (1-2). Os cativos em Babilónia suspenderam os seus cânticos. Segunda (3). Pedem-lhes os senhores que entoem um cântico de Sião. Terceira e quarta (4-6). Responderam: \"Como poderemos louvar o nosso Deus, entoando cânticos em sua honra, em terra estranha?\" Quinta (7). Oração a Deus contra a Iduméia, que depois do cativeiro inquietou a Judéia. Sexta (8-9). Imprecação contra Babilónia, que oprimia a Judéia. JUNTO DOS RIOS — O nome de Babilónia se toma neste lugar por tôda a província. Foram assinaladas aos judeus algumas cidades na Caldéia, para que habitassem nelas durante o seu cativeiro; e estas pela maior parte estavam junto ao Eufrates e outros rios em sítios baixos e pantanosos. Dizem, pois, os cativos, sentados nas margens dos rios da Caldéia e Babilónia, e derramando um mar de lágrimas: Nós nos lembramos de ti, ó Sião amada. — Pereira."
+    },
+    "fn136_2": {
+      "rotulo": "Nos salgueiros",
+      "texto": "Eram tão frequentes nas margens do Eufrates, que se chamam Salix babylonica."
+    },
+    "fn136_7": {
+      "rotulo": "Dos filhos de Edom / No dia de Jerusalém",
+      "texto": "DOS FILHOS DE EDOM — Os idumeus, descendentes de Esaú, que se uniram com os caldeus, e os instigavam a que reduzissem a um montão de pedras a infeliz Jerusalém. Jer, Thren. 4, 21-22. Ez 25, 12. Abd 11. Porém te contemplo agora caída e desolada, ó injustiça dos pérfidos idumeus! Não vos esqueçais, Deus meu, da sua crueldade para vingá-la. — Pereira. NO DIA DE JERUSALÉM — Calmet e De Carrières expõem assim: \"Lembrai-vos do que êles fizeram no dia da tomada, ou da ruína de Jerusalém\". Bossuet, assim: \"No dia que tu te lembrares de Jerusalém.\" A mim parece-me mais provável a primeira exposição, que é também a que seguira Sacy. — Pereira."
+    },
+    "fn136_8": {
+      "rotulo": "Filha desastrada",
+      "texto": "Hebraísmo por Babilónia, ou babilónios, porque os habitadores de uma cidade, ou de um estado têm com êle a mesma relação, que os filhos com a mãe. Chama-lhe infeliz, porque devia ser destruída conforme as profecias. Is 13, 1; 47, 2, Jer 25, 12, b. 2. — Pereira."
+    }
+  }
+}

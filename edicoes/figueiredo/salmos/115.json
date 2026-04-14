@@ -1,0 +1,34 @@
+{
+  "num": 115,
+  "sumario": "Salmo de ação de graças em que Davi se mostra agradecido ao Senhor pelos seus benefícios e espera com inteira confiança ver cumpridas tôdas as promessas que lhe havia feito o mesmo Senhor. Aleluia.",
+  "versiculos": [
+    { "n": 10, "texto": "Acreditei, por isso falei:<br>Mas eu estive na última humilhação.", "nota": "fn115_10" },
+    { "n": 11, "texto": "Eu disse no meu êxtase:<br>Todo homem é mentiroso.", "nota": "fn115_11" },
+    { "n": 12, "texto": "Que darei em retribuição ao Senhor, por todos os benefícios que me tem feito?" },
+    { "n": 13, "texto": "Tomarei o cálice da salvação:<br>E invocarei o Nome do Senhor.", "nota": "fn115_13" },
+    { "n": 14, "texto": "Cumprirei os meus votos ao Senhor:<br>Diante de todo o povo:" },
+    { "n": 15, "texto": "É preciosa aos olhos do Senhor a morte dos seus santos.", "nota": "fn115_15" },
+    { "n": 16, "texto": "Ó Senhor, porque sou teu servo:<br>Eu sou teu servo, e filho da tua escrava.<br>Rompeste os meus laços:" },
+    { "n": 17, "texto": "E a ti oferecerei sacrifício de louvor, e invocarei o Nome do Senhor." },
+    { "n": 18, "texto": "Cumprirei os meus votos ao Senhor à vista de todo o povo:" },
+    { "n": 19, "texto": "Nos átrios da casa do Senhor, no meio de ti, ó Jerusalém." }
+  ],
+  "notas": {
+    "fn115_10": {
+      "rotulo": "Aleluia",
+      "texto": "Êste salmo é a continuação do anterior; como foi dito no original não está dividido; na Vulgata segue a numeração do salmo anterior, e assim fazem as mais autorizadas edições. Glaire, ob. cit."
+    },
+    "fn115_11": {
+      "rotulo": "No meu êxtase",
+      "texto": "NO MEU ÊXTASE — O que a Vulgata diz, in excessu meo pode admitir diversos sentidos, por causa da ambiguidade da palavra excessu. Sacy e Carrières vertem na minha fugida. Eu preferi com Calmet, \"no meu êxtase,\" porque assim verteram do hebreu os Setenta, com os quais concordaram depois Áquila, Teodoclão, e S. Jerônimo, que todos os três dizem aqui. In stupore meo: isto é, no meu pasmo, ou no meu transporte de espírito. O mesmo preferiu Bossuet. — Pereira."
+    },
+    "fn115_13": {
+      "rotulo": "Tomarei o cálice",
+      "texto": "TOMAREI O CÁLICE — Alusão ao vinho que, segundo a lei mosaica, se espalhava sôbre as vítimas gratulatórias. Êx 29, 40; Núm 15, 5, ou segundo os Padres o cálice da Paixão de Cristo. Kimchi dá-lhe o nome de Poculum gratiorum actionis pois que, na festa da Páscoa, o terceiro dos quatro copos que os hebreus bebiam era chamado o copo da bênção ou da ação de graças."
+    },
+    "fn115_15": {
+      "rotulo": "É preciosa aos olhos do Senhor",
+      "texto": "É PRECIOSA AOS OLHOS DO SENHOR — Se na presença do Senhor é preciosa a morte dos seus Santos, devem para nós ser dignas de veneração as relíquias e os monumentos dos mártires de Cristo. Dêste lugar o coligem os teólogos com os Santos Padres. — Pereira."
+    }
+  }
+}

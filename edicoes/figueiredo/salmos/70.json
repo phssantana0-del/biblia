@@ -1,0 +1,60 @@
+{
+  "num": 70,
+  "sumario": "Salmo deprecatório. Davi roga ao Senhor que lhe continue a sua proteção até os últimos anos da sua vida. Salmo de Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Dos filhos de Jonadab, e dos primeiros cativos.<br>Em ti, Senhor, tenho esperado, não seja eu jamais confundido:", "nota": "fn70_1" },
+    { "n": 2, "texto": "Na tua justiça livra-me, e põe-me a salvo.<br>Inclina para mim o teu ouvido, e salva-me." },
+    { "n": 3, "texto": "Sejas para mim um Deus protetor, e um asilo seguro: Para me fazer salvo.<br>Porquanto a minha firmeza, e o meu refúgio és tu." },
+    { "n": 4, "texto": "Deus meu, livra-me da mão do pecador e da mão do que procede contra a lei, e do iníquo:", "nota": "fn70_4" },
+    { "n": 5, "texto": "Porque tu, Senhor, és a minha paciência. Senhor, tu és a minha esperança desde a minha mocidade.", "nota": "fn70_5" },
+    { "n": 6, "texto": "Em ti tenho sido confirmado desde antes de nascer: Desde o ventre de minha mãe tu és o meu protetor.<br>Tu fôste sempre o assunto dos meus cânticos;" },
+    { "n": 7, "texto": "como portento tenho sido para muitos: E tu favorecedor forte." },
+    { "n": 8, "texto": "Encha-se a minha bôca de louvor, para cantar a tua glória: Todo o dia para celebrar a tua grandeza." },
+    { "n": 9, "texto": "Não me desampares no tempo da velhice: Quando faltar a minha fortaleza, não me desampares." },
+    { "n": 10, "texto": "Porque os meus inimigos falaram contra mim: E os que insidiavam a minha alma, tiveram juntos conselho," },
+    { "n": 11, "texto": "dizendo: Deus o desamparou, persegui-o, e prendei-o: Porque não há quem o livre." },
+    { "n": 12, "texto": "Ó Deus, não te apartes de mim: Deus meu, volta os teus olhos em meu socorro." },
+    { "n": 13, "texto": "Confundidos sejam, e pereçam os que maldizem a minha alma: Cobertos sejam de confusão e de vergonha os que me procuram males." },
+    { "n": 14, "texto": "Mas eu sempre esperarei: E acrescentarei louvor sôbre o teu louvor." },
+    { "n": 15, "texto": "A minha bôca anunciará a tua salvação.<br>Porque não conheci a ciência vã;", "nota": "fn70_15" },
+    { "n": 16, "texto": "me internarei nas obras do poder do Senhor: Senhor, farei memória só da tua justiça.", "nota": "fn70_16" },
+    { "n": 17, "texto": "Ensinaste-me, ó Deus, desde a minha mocidade: E eu publicarei as tuas maravilhas, que tenho experimentado até agora." },
+    { "n": 18, "texto": "E até à velhice e idade avançada: Ó Deus, não me desampares,<br>até que anuncie a fôrça do teu braço a tôda a geração que há de vir:<br>O teu poder," },
+    { "n": 19, "texto": "e a tua justiça, ó Deus, até no mais alto, as maravilhas que fizeste: Ó Deus, quem é semelhante a ti?", "nota": "fn70_19" },
+    { "n": 20, "texto": "Quantas tribulações me tens feito provar a mim, muitas e penosas: E voltado a mim, me tens dado vida, e dos abismos da terra outra vez me tens tirado:" },
+    { "n": 21, "texto": "Tens multiplicado a tua magnificência: E voltando-te a mim me tens consolado." },
+    { "n": 22, "texto": "Porque eu também te louvarei com instrumentos de salmo pela tua verdade: Ó Deus, eu te direi salmo ao som da cítara, Santo de Israel.", "nota": "fn70_22" },
+    { "n": 23, "texto": "Regozijar-se-ão os meus lábios quando cantar os teus louvores: E a minha alma, que redimiste se alegrará." },
+    { "n": 24, "texto": "E também a minha língua meditará todo o dia a tua justiça: Quando fôrem confundidos, e envergonhados os que me solicitam males." }
+  ],
+  "notas": {
+    "fn70_1": {
+      "rotulo": "Dos filhos",
+      "texto": "DOS FILHOS — Êste salmo não tem título no hebreu. O título da Vulgata significa provàvelmente que êste salmo era muitas vêzes cantado pelos recabitas (Jer 35) e pelos primeiros cativos. Neste salmo encontram-se muitas repetições de alguns anteriores. Tem oito estrofes."
+    },
+    "fn70_4": {
+      "rotulo": "E do iníquo",
+      "texto": "E DO INÍQUO — Isto pode entender-se de Absalão, ou, pôsto o singular pelo plural, de todos os que seguiam o seu partido, e se haviam declarado contra Davi: e o mesmo aplicando-se aos inimigos de Cristo. — Pereira."
+    },
+    "fn70_5": {
+      "rotulo": "És a minha paciência",
+      "texto": "ÉS A MINHA PACIÊNCIA — Isto quer dizer que é de vós que vem a minha paciência, cfr. Sl 61, 6."
+    },
+    "fn70_15": {
+      "rotulo": "A ciência vã",
+      "texto": "A CIÊNCIA VÃ — A falsa sabedoria, e a astúcia, de que estava possuído Aquitofel, conselheiro de Davi, que seguiu o partido de Absalão."
+    },
+    "fn70_16": {
+      "rotulo": "Me internarei",
+      "texto": "ME INTERNAREI — Isto é, refletirei no poder infinito do Senhor."
+    },
+    "fn70_19": {
+      "rotulo": "No mais alto",
+      "texto": "NO MAIS ALTO — No original hebraico está o têrmo marem que significa altum, excelsum, e em particular collum, o céu. Cfr. Leopoldo ob. cit."
+    },
+    "fn70_22": {
+      "rotulo": "Com instrumentos de salmo",
+      "texto": "COM INSTRUMENTOS DE SALMO — Com instrumentos músicos, com os quais se acompanhavam os salmos."
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "num": 101,
+  "sumario": "Salmo deprecatório. O salmista em nome de todo o Israel implora a misericórdia do Senhor: anuncia o restabelecimento de Sião e pede a conservação de Israel, até ao tempo em que deve entrar em graça.",
+  "versiculos": [
+    { "n": 1, "texto": "Oração do pobre,<br>que estiver em tribulação, e derramar as suas preces na presença do Senhor.", "nota": "fn101_1" },
+    { "n": 2, "texto": "Senhor, ouve a minha oração: E chegue a ti o meu clamor." },
+    { "n": 3, "texto": "Não apartes o teu rosto de mim: Em qualquer dia em que me achar atribulado, inclina para mim o teu ouvido.<br>Em qualquer dia que te invocar, ouve-me prontamente:" },
+    { "n": 4, "texto": "Porque foram dissipados como fumo os meus dias: E os meus ossos assim como acendalhas se secaram.", "nota": "fn101_4" },
+    { "n": 5, "texto": "Fui ferido como feno, e o meu coração se secou: Porque me esqueci de comer o meu pão." },
+    { "n": 6, "texto": "À voz do meu gemido se pegaram os meus ossos à minha carne." },
+    { "n": 7, "texto": "Tornei-me semelhante ao pelicano do deserto: Cheguei a ser como a coruja em seu albergue.", "nota": "fn101_7" },
+    { "n": 8, "texto": "Vigiei, e estou feito como pássaro solitário no telhado." },
+    { "n": 9, "texto": "Todo o dia me improperavam os meus inimigos: E os que me louvavam se conjuravam contra mim." },
+    { "n": 10, "texto": "Porque comia a cinza com pão, e misturava a minha bebida com pranto.", "nota": "fn101_10" },
+    { "n": 11, "texto": "À vista da tua ira e indignação: Porque levantando-me me arrojaste." },
+    { "n": 12, "texto": "Os meus dias como sombra passaram: E eu como feno me sequei." },
+    { "n": 13, "texto": "Mas tu, Senhor, permaneces para sempre: E a memória do teu Nome vai de geração em geração." },
+    { "n": 14, "texto": "Tu levantando-te terás piedade de Sião: Porque é tempo de teres piedade dela, porque o prazo está já cumprido.", "nota": "fn101_14" },
+    { "n": 15, "texto": "Porque as suas ruínas têm sido agradáveis aos teus servos: E êles se compadecerão da sua terra.", "nota": "fn101_15" },
+    { "n": 16, "texto": "E temerão as nações o teu nome, Senhor, e todos os reis da terra respeitarão a tua glória.", "nota": "fn101_16" },
+    { "n": 17, "texto": "Porquanto o Senhor edificou Sião: E será visto na sua glória." },
+    { "n": 18, "texto": "Atendeu à oração dos humildes: E não desprezou o seu rogo." },
+    { "n": 19, "texto": "Sejam escritas estas coisas a outra geração: E o povo, que há de ser criado, louvará o Senhor:" },
+    { "n": 20, "texto": "Porque olhou desde o alto do Santuário: O Senhor desde o céu olhou para a terra:" },
+    { "n": 21, "texto": "Para ouvir os gemidos dos encarcerados: Para dar soltura aos filhos dos condenados à morte:" },
+    { "n": 22, "texto": "Para que anunciem em Sião o nome do Senhor: E o seu louvor em Jerusalém." },
+    { "n": 23, "texto": "Quando os povos se juntarem, e os reis para servirem ao Senhor." },
+    { "n": 24, "texto": "Respondeu-lhe no caminho do seu vigor: Dize-me o curto número de meus dias.", "nota": "fn101_24" },
+    { "n": 25, "texto": "Não me chames na metade de meus dias: Os teus anos se estendem de geração em geração." },
+    { "n": 26, "texto": "No princípio tu, Senhor, fundaste a terra: E os céus são obra de tuas mãos.", "nota": "fn101_26" },
+    { "n": 27, "texto": "Êles perecerão, mas tu permaneces: E todos se envelhecerão como um vestido.<br>E como roupa de vestido os mudarás, e serão mudados:" },
+    { "n": 28, "texto": "Mas tu és sempre o mesmo, e os teus anos não se acabarão." },
+    { "n": 29, "texto": "Os filhos de teus servos habitarão: E a sua posteridade será dirigida eternamente.", "nota": "fn101_29" }
+  ],
+  "notas": {
+    "fn101_1": {
+      "rotulo": "Pobre",
+      "texto": "POBRE — Êste pobre não é um indivíduo, mas o povo de Israel aflito por causa do cativeiro. Tem dez estrofes. Primeira (2-3). Invocação a Deus. Segunda à quarta (4-12). Pede para que Deus tenha piedade da aflição que descreve seguidamente. Quinta à oitava (13-23). Apresenta as razões que Deus tem para o socorrer. Nona e décima (24-29). Contraste entre a eternidade de Deus e a humildade da vida humana. Êste é o quinto dos salmos penitenciais. A propósito dêste salmo escreveu o conde de Maistre: \"Êste canto, que celebra a eternidade de Deus também, será perpétuo na terra: adotou-o a Sinagoga na sua liturgia, emprega-o a Igreja nos seus cultos; e hoje, quando o sol se ergue, êstes hinos ressoam por tôda a terra, debaixo das venerandas abóbadas dos mais antigos templos. Ouvem-se desde Roma, Génova, Madri, Londres, a Quebec, a Quito, a Moscou, a Pequim, a Botany Bay, até ao Japão, por tôda a parte enfim.\" Soirées de Saint-Pétersbourg, VII Entretien, 1822."
+    },
+    "fn101_4": {
+      "rotulo": "Como acendalhas",
+      "texto": "COMO ACENDALHAS — Cremium significa tôda a matéria combustível que está mui sêca e disposta para se poder queimar fàcilmente. — Pereira."
+    },
+    "fn101_7": {
+      "rotulo": "Semelhante ao pelicano",
+      "texto": "SEMELHANTE AO PELICANO — Por estas comparações quer o salmista descrever a tristeza. O pelicano nutre-se de peixes, pelo que vive à beira-mar ou nas margens dos rios, longe dos homens."
+    },
+    "fn101_10": {
+      "rotulo": "Porque comia a cinza",
+      "texto": "PORQUE COMIA A CINZA — É uma paráfrase da Escritura, que significa estar prostrado com a bôca por terra, coberto de pó, e de cinza, como costumavam andar os hebreus no tempo das calamidades e aflições. 2 Rs 13, 19; Jó 16, 16. Ora, segundo Calmet, a partícula quia não se refere ao que está dantes, e melhor se verte como se fôra quamobrem, isto é, \"por cuja causa.\" — Pereira."
+    },
+    "fn101_14": {
+      "rotulo": "Tu levantando-te",
+      "texto": "TU LEVANTANDO-TE — Pode também expor-se: tu como de um profundo sono, em que parece te achas agora submergido, despertarás e compadecido dos trabalhos e infortúnios de Jerusalém acudirás a remediá-los. — Pereira."
+    },
+    "fn101_15": {
+      "rotulo": "Porque as suas ruínas têm sido",
+      "texto": "PORQUE AS SUAS RUÍNAS TÊM SIDO — Assim arruinada amam teus servos a Sião, amam os entulhos do Templo, amam as cinzas dos seus maiores, e se lamentam delas. Assim o faziam aquêles que levavam as suas ofertas ao lugar onde estivera o Templo. Jer 41, 6. Assim Neemias, que suspirava por ver o lugar em que seu pai fôra sepultado. 2 Esdr 21, 5. — Bossuet."
+    },
+    "fn101_16": {
+      "rotulo": "E temerão",
+      "texto": "E TEMERÃO — É uma clara profecia da vocação dos gentios ao conhecimento de Deus. — Pereira."
+    },
+    "fn101_24": {
+      "rotulo": "Respondeu-lhe",
+      "texto": "RESPONDEU-LHE — Isto é, o pobre, que fala neste salmo, ou em figura dêste pobre povo cativo, ou qualquer dêste povo. E disse-o no seu maior vigor, isto é, na sua mais vigorosa idade. Assim expõe Calmet, o que a Vulgata diz: Respondit ei in via virtutis suae. Outros, com Tirino, explicam aquêle in via virtutis suae, não da fôrça do povo, mas da fôrça de Deus: e explicam assim: Êle disse a Deus no caminho da sua fôrça, isto é, no caminho em que Deus mostra o seu grande poder, que é o caminho da volta do cativeiro de Babilónia. — Pereira. DIZE-ME O CURTO NÚMERO DE MEUS DIAS — Segundo a primeira inteligência que acima propusemos, é esta petição, uma petição de quem, sabendo que Deus queria livrar o seu povo, estava em cuidado, se chegaria êle a ver restaurada Jerusalém. Segundo a outra inteligência é uma pergunta, em que o pobre, já livre do cativeiro, mostra o cuidado em que está, se chegará êle a tempo de poder contar às gerações futuras os grandes benefícios que Deus lhe fizera. Qualquer dêstes sentidos se acomoda bem ao que se continua no verso 25. — Pereira."
+    },
+    "fn101_26": {
+      "rotulo": "E os céus",
+      "texto": "E OS CÉUS — O apóstolo ad Hebr 1, 10. 11. 12, aplica esta palavra a Cristo Salvador, e Libertador do homem, e ao mesmo feito homem sendo Deus verdadeiro; igual aplicação faz nos vers. seguintes."
+    },
+    "fn101_29": {
+      "rotulo": "Habitarão",
+      "texto": "HABITARÃO — Em Jerusalém, ou na Judéia, estàvelmente, com segurança, e sem temor, quando livres, e soltos das cadeias de Babilónia voltarem à amada pátria. — Pereira."
+    }
+  }
+}

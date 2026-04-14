@@ -1,0 +1,14 @@
+{
+  "num": 12,
+  "sumario": "In finem. Psalmus David.",
+  "versiculos": [
+    { "n": 1, "texto": "Usquequo, Domine, oblivisceris me in finem? usquequo avertis faciem tuam a me?" },
+    { "n": 2, "texto": "Quamdiu ponam consilia in anima mea, dolorem in corde meo per diem?" },
+    { "n": 3, "texto": "Usquequo exaltabitur inimicus meus super me?" },
+    { "n": 4, "texto": "Respice, et exaudi me, Domine Deus meus. Illumina oculos meos, ne umquam obdormiam in morte;" },
+    { "n": 5, "texto": "nequando dicat inimicus meus: Prævalui adversus eum. Qui tribulant me exsultabunt si motus fuero;" },
+    { "n": 6, "texto": "ego autem in misericordia tua speravi. Exsultabit cor meum in salutari tuo; cantabo Domino qui bona tribuit mihi, et psallam nomini Domini altissimi." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

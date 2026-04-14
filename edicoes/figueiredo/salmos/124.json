@@ -1,0 +1,16 @@
+{
+  "num": 124,
+  "sumario": "Salmo didático. Os justos vivem seguros à sombra da Divina Providência: os ímpios perecerão.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual. Os que confiam no Senhor, estão firmes como o monte de Sião: Nunca jamais será comovido o que mora", "nota": "fn124_1" },
+    { "n": 2, "texto": "em Jerusalém. Ela está cercada de montes: E o Senhor está ao redor do seu povo desde agora, e para sempre." },
+    { "n": 3, "texto": "Porque não deixará o Senhor a vara dos pecadores sôbre a sorte dos justos: Para que os justos não estendam as suas mãos à iniquidade.", "nota": "fn124_3" },
+    { "n": 4, "texto": "Faze bem, Senhor, aos bons e aos retos de coração." },
+    { "n": 5, "texto": "Mas aos que se desviam para caminhos tortuosos levá-los-á o Senhor com os que obram iniquidade: Paz seja sôbre Israel.", "nota": "fn124_5" }
+  ],
+  "notas": {
+    "fn124_1": { "rotulo": "Cântico gradual", "texto": "Êste salmo deve ter sido composto durante o cativeiro, o que parece indicar o versículo 3. Tem três estrofes. Primeira (1-2). Aquêle que confia em Deus está firme, como Jerusalém sôbre as montanhas. Segunda (3). O fim do cativeiro. Terceira (4-5). Que Deus trate com misericórdia os bons, e que castigue os maus." },
+    "fn124_3": { "rotulo": "Não deixará o Senhor", "texto": "Porque o Senhor que é fiel e justo não permitirá que os seus servos sejam tentados sôbre as suas fôrças, e pelo contrário fará que se lhes converta em bem a tentação. O hebreu diz: \"Porque não repousará a vara, a tirania, a perseguição, dos pecadores sôbre a sorte dos justos, sôbre os justos que são a herança, e sorte do Senhor.\"" },
+    "fn124_5": { "rotulo": "Caminhos tortuosos", "texto": "É o sentido do texto grego e do hebraico. A Vulgata traz obligationes, cujo sentido é obscuro. Alguns sustentam que houve um êrro de cópia, e que se deve ler obliquationes, Wertenauer, Lexicon Biblicum, Roma 1866. Outros entendem que obligationes é a lição verdadeira, pois esta palavra significa laço, corda para estrangular. Cfr. At 8, 23. O salmista refere-se aos que oprimiam os habitantes de Jerusalém. Kaulen, Handbuch zur Vulgata 1870." }
+  }
+}

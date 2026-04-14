@@ -1,0 +1,38 @@
+{
+  "num": 139,
+  "sumario": "Salmo deprecatório. Davi pede a Deus que o defenda dos enganos, e violências de seus inimigos, pois vive certo de que o Senhor toma por sua conta a defensa dos pobres e perseguidos.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro salmo de Davi.", "nota": "fn139_1" },
+    { "n": 2, "texto": "Livra-me, Senhor, do homem malvado: Livra-me do homem perverso." },
+    { "n": 3, "texto": "Os que maquinaram iniquidades no coração: Todo o dia dispunham combates." },
+    { "n": 4, "texto": "Aguçaram as suas línguas como a de serpente: Veneno de áspides têm debaixo de seus lábios." },
+    { "n": 5, "texto": "Guardai-me, Senhor, da mão do pecador: E livrai-me de homens iníquos.<br>Os que cogitaram derribar os meus passos:", "nota": "fn139_5" },
+    { "n": 6, "texto": "Êles soberbos me esconderam o laço:<br>E estenderam cordas para me surpreender: Junto do meu caminho me puseram tropêço." },
+    { "n": 7, "texto": "Eu disse ao Senhor: Tu és o meu Deus: Atende, Senhor, a voz da minha deprecação." },
+    { "n": 8, "texto": "Senhor, Senhor, que és a fortaleza da minha salvação: Tu puseste reparo sôbre a minha cabeça no dia da batalha:", "nota": "fn139_8" },
+    { "n": 9, "texto": "Não me entregues, Senhor, contra o meu desejo ao pecador, êles maquinaram contra mim, não me desampares, para que não suceda ficarem exaltados." },
+    { "n": 10, "texto": "A cabeça daqueles que me cercam: O trabalho dos seus lábios os envolverá.", "nota": "fn139_10" },
+    { "n": 11, "texto": "Cairão sôbre êles carvões, ao fogo os arrojarás: Entre as misérias não subsistirão." },
+    { "n": 12, "texto": "O varão maldizente não prosperará na terra: Do varão injusto se apoderarão os males da morte." },
+    { "n": 13, "texto": "Sei que o Senhor fará o juízo do desvalido: E que vingará aos pobres." },
+    { "n": 14, "texto": "Mas contudo os justos darão glória ao teu Nome: E os retos habitarão em a tua presença." }
+  ],
+  "notas": {
+    "fn139_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "Foi composto por Davi êste salmo, durante a perseguição de Absalão. Tem cinco estrofes."
+    },
+    "fn139_5": {
+      "rotulo": "Derribar os meus passos",
+      "texto": "O hebreu lê aqui, \"armar-me sancadilha, atropelar-me\". — Pereira."
+    },
+    "fn139_8": {
+      "rotulo": "Tu puseste reparo",
+      "texto": "A letra: \"fizeste sombra\" como estendendo o braço, e cobrindo-me com um escudo. — Pereira."
+    },
+    "fn139_10": {
+      "rotulo": "A cabeça",
+      "texto": "Todo o manejo das suas traças, giros e rodeios. Outros referem o caput a Aquitofel, considerando-o como cabeça dos inimigos, e conjurados contra Davi. Outros vertem a palavra hebraica rosch, na significação de veneno, ou fel. O veneno, ódio e má vontade, que em seu coração conservam contra mim êstes que me cercam, recaia sôbre êles. Alusão de Doeg a Saul."
+    }
+  }
+}

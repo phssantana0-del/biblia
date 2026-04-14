@@ -1,0 +1,39 @@
+{
+  "num": 109,
+  "sumario": "Salmo profético; o Messias assentado à direita do Padre. O seu reino sôbre tôdas as nações. A sua geração eterna. Êle é sacerdote segundo a ordem de Melquisedec: julgador de todos os homens. O mesmo Cristo no Evangelho, Mt 22, 44, abertamente afirmou que era êle de quem Davi falara neste salmo.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi.<br>Disse o Senhor ao meu Senhor: Senta-te à minha mão direita:<br>Até que ponha a teus inimigos por escabêlo de teus pés.", "nota": "fn109_1" },
+    { "n": 2, "texto": "De Sião fará sair o Senhor o cetro do teu poder: Reina tu no meio de teus inimigos.", "nota": "fn109_2" },
+    { "n": 3, "texto": "Contigo está o principado no dia do teu poder entre os resplendores dos Santos: Eu te gerei do seio antes do luzeiro.", "nota": "fn109_3" },
+    { "n": 4, "texto": "Jurou o Senhor, e não se arrependerá: Tu és sacerdote eternamente segundo a ordem de Melquisedec.", "nota": "fn109_4" },
+    { "n": 5, "texto": "O Senhor está à tua direita, quebrantou os reis no dia da sua ira." },
+    { "n": 6, "texto": "Exercerá o seu juízo no meio das nações, meterá tudo em ruína: Esmigalhará as cabeças de muitos sôbre a terra.", "nota": "fn109_6" },
+    { "n": 7, "texto": "Beberá no caminho da torrente das águas: Por cujo motivo levantará a sua cabeça.", "nota": "fn109_7" }
+  ],
+  "notas": {
+    "fn109_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "O que há de mais importante neste salmo é tê-lo Jesus Cristo aplicado a si mesmo. Mt 22, 41-46; Mc 12, 35-37; Lc 20, 41-44. A história não apresenta príncipe algum a quem se possa fazer a aplicação literal dêste salmo; convém perfeitamente a Jesus Cristo, cujo sacerdócio é eterno e o seu reino universal. Tem três estrofes. Primeira (1-2). O versículo primeiro anuncia que Jesus Cristo será elevado à direita de seu Pai, depois da sua vitória decisiva sôbre os seus inimigos. At 2, 34 ss. 1 Cor 15, 25; Hebr 1, 13; 10, 13. O verso 2 prediz a universalidade do reino do Messias. Segunda (3-4). No versículo 3 mostra-nos, ainda que duma maneira obscura, Cristo gerado no seio de Deus. No 4 profetiza a abnegação do sacerdócio de Aarão, substituído pelo de Jesus Cristo, segundo a ordem de Melquisedec. Terceira (5-7). Os dois primeiros apresentam-nos Jesus Cristo triunfante dos seus inimigos, e no 7 descreve os sofrimentos pelos quais obteve a glória. MEU SENHOR — Davi não podia dar esta denominação a nenhum mortal, pois que não reconhecia ninguém superior a êle a não ser a Divindade; Jesus Cristo tomou para si estas palavras. Mt 22, 42-45, etc. SENTA-TE — O Redentor está à destra do seu Eterno Pai. Audit quasi homo, sed quasi filius, diz a propósito S. Ambrósio. Esta expressão também é justificada pelo costume do Oriente, em que os monarcas sentavam à sua direita aquêles a quem confiavam o govêrno. ESCABÊLO DE TEUS PÉS — Alusão a outro costume oriental. Os vencedores pisavam aos pés os vencidos, servindo-se dêles como escabelos. Num baixo-relêvo assírio de Nimrod vê-se uma dessas cenas de humilhação."
+    },
+    "fn109_2": {
+      "rotulo": "Sião",
+      "texto": "SIÃO — Segundo os profetas é Jerusalém. O CETRO — Segundo uns intérpretes é uma alusão à cruz, segundo outros ao Evangelho."
+    },
+    "fn109_3": {
+      "rotulo": "Contigo está",
+      "texto": "CONTIGO ESTÁ — Êste versículo é muito obscuro e tem diversas interpretações. O hebreu tem um sentido muito diverso da Vulgata. NO DIA DO TEU PODER — Isto é, por tôda a eternidade. S. João Crisóstomo, Teodoreto, S. Agostinho e S. Atanásio entendem que esta expressão alude ao dia do Juízo, no qual Jesus Cristo distribuirá a justiça, descendo rodeado de anjos \"entre os resplendores dos Santos\"."
+    },
+    "fn109_4": {
+      "rotulo": "Segundo a ordem de Melquisedec",
+      "texto": "SEGUNDO A ORDEM DE MELQUISEDEC — Em chamar a Cristo Sacerdote segundo a ordem de Melquisedec, significa o real profeta, ser Cristo verdadeiro, e próprio Sacerdote, qual se diz que fôra Melquisedec, quando ofereceu ao Deus altíssimo pão e vinho, (Gên 14, 18) figura do que Cristo havia de consagrar em seu Corpo e Sangue, como aqui observa S. João Crisóstomo, e com êle todos os mais Padres. — Bossuet. Esta passagem em que o salmista nos apresenta o rei ao mesmo tempo sacerdote, constitui, no entender dos intérpretes, uma evidente prova do caráter messiânico dêste salmo. Koenig, Theologie der psalmen, p. 489."
+    },
+    "fn109_6": {
+      "rotulo": "Em ruína",
+      "texto": "EM RUÍNA — No original hebraico está \"nos cadáveres\". Uns autores entendem êste versículo assim: quebrará contra a terra a cabeça dos seus numerosos inimigos; segundo outros destruirá a cabeça, isto é, o demónio, por tôda a terra."
+    },
+    "fn109_7": {
+      "rotulo": "Beberá",
+      "texto": "BEBERÁ, ETC. — A tradução mais exata seria: \"Beberá a água da torrente das tribulações, o que será o princípio da sua glória.\" Vê-se bem como êste salmo encerra passagens duma obscuridade quase impenetrável. — Boulleret."
+    }
+  }
+}

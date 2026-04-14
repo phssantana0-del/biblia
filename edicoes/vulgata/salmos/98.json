@@ -1,0 +1,17 @@
+{
+  "num": 98,
+  "sumario": "Psalmus ipsi David.",
+  "versiculos": [
+    { "n": 1, "texto": "Dominus regnavit, irascantur populi: qui sedet super cherubim, moveatur terra." },
+    { "n": 2, "texto": "Dominus in Sion magnus, et excelsus super omnes populos." },
+    { "n": 3, "texto": "Confiteantur nomini tuo magno: quoniam terribile et sanctum est:" },
+    { "n": 4, "texto": "et honor regis judicium diligit. Tu parasti directiones: judicium et justitiam in Jacob tu fecisti." },
+    { "n": 5, "texto": "Exaltate Dominum Deum nostrum, et adorate scabellum pedum ejus: quoniam sanctum est." },
+    { "n": 6, "texto": "Moyses et Aaron in sacerdotibus ejus, et Samuel inter eos qui invocant nomen ejus. Invocabant Dominum, et ipse exaudiebat eos:" },
+    { "n": 7, "texto": "in columna nubis loquebatur ad eos. Custodiebant testimonia ejus, et præceptum quod dedit illis." },
+    { "n": 8, "texto": "Domine Deus noster, tu exaudiebas eos: Deus, tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum." },
+    { "n": 9, "texto": "Exaltate Dominum Deum nostrum, et adorate in monte sancto ejus: quoniam sanctus Dominus Deus noster." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

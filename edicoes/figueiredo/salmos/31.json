@@ -1,0 +1,27 @@
+{
+  "num": 31,
+  "titulo": "De Davi, Maskil.",
+  "sumario": "Salmo deprecatório e didático. Afetos de Davi penitente: podendo chamar-se também êste salmo, como o coração de Davi. Os Santos Padres com o Apóstolo nos fazem reconhecer nêle a graça da justificação como um efeito só da divina Providência.",
+  "versiculos": [
+    { "n": 1, "texto": "Bem-aventurados aqueles cujas iniquidades são perdoadas: E cujos pecados são cobertos.", "nota": "fn31_1" },
+    { "n": 2, "texto": "Bem-aventurado o homem, a quem o Senhor não imputou pecado, e cujo espírito é isento de dolo.", "nota": "fn31_2" },
+    { "n": 3, "texto": "Porque calei, e envelheceram os meus ossos enquanto clamava todo o dia.", "nota": "fn31_3" },
+    { "n": 4, "texto": "Porque a tua mão se fêz pesada sôbre mim de dia e de noite: Eu me converti da minha miséria, enquanto se crava a espinha." },
+    { "n": 5, "texto": "Eu te manifestei o meu pecado: E não ocultei a minha injustiça. Eu disse: Confessarei ao Senhor contra mim a minha injustiça: E tu me perdoaste a impiedade do meu pecado.", "nota": "fn31_5" },
+    { "n": 6, "texto": "Por isso orará a ti todo o santo no tempo oportuno. Mas na inundação das muitas águas, a êle não se chegaram.", "nota": "fn31_6" },
+    { "n": 7, "texto": "Tu és o meu refúgio na tribulação, que me cercou: Alegria minha, livra-me dos que me cercam." },
+    { "n": 8, "texto": "Inteligência te darei, e instruir-te-ei neste caminho, em que hás-de andar: Fixarei sôbre ti os meus olhos." },
+    { "n": 9, "texto": "Não queirais ser como o cavalo e o mulo, que não têm entendimento. Com o bocado e com a brida aperta as queixadas daqueles que não se chegam a ti.", "nota": "fn31_9" },
+    { "n": 10, "texto": "Muitos são os açoites para o pecador, mas o que espera no Senhor misericórdia o cercará." },
+    { "n": 11, "texto": "Alegrai-vos no Senhor e regozijai-vos, ó justos, e gloriai-vos no reto do coração." }
+  ],
+  "notas": {
+    "fn31_0": { "rotulo": "1", "texto": "MASKIL — Têrmo hebraico que o Pe. Pereira, segundo a Vulgata, traduziu De inteligência. Esta palavra derivada do verbo Shakal significa o que entende, mas como substantivo significa carmem, cântico, Leopoldo, obr. cit. e designa o cântico destinado a instruir. É o segundo dos salmos penitenciais, e foi composto quando Davi obteve o perdão dos seus pecados. Tem sete estrofes." },
+    "fn31_1": { "rotulo": "2", "texto": "E CUJOS PECADOS SÃO COBERTOS — Assim Deus reveste ao homem da justiça, e inocência de Jesus Cristo, para não registar nêle o que moveria a sua justa ira a desampará-lo, e a apartá-lo de si inteiramente, Gal 3, 14. Apc 3, 18. Esta justiça porém de tal sorte cobre, que de todo apaga o pecado, e justifica a alma de maneira que fica feita amiga de Deus. Neste sentido cita o apóstolo êste versículo. Rom 4, 7. — P. Seio." },
+    "fn31_2": { "rotulo": "3", "texto": "É ISENTO DE DOLO — Isto é, de hipocrisia, ou malícia, e conversão dissimulada, que é incompatível com a verdadeira fé justificante. 1 Tim 1, 5. Assim como o sol dissipa as trevas, da mesma sorte a caridade apaga e destrói o pecado tão perfeitamente, que já não se imputa mais, como se nunca se houvesse cometido. — P. Seio." },
+    "fn31_3": { "rotulo": "4", "texto": "PORQUE CALEI — Porque não descarreguei a minha consciência com uma sincera confissão dos meus pecados a Deus, procurando por meio da oração o verdadeiro remédio da graça. Quanto a confissão dos pecados nos alivia dêles, tanto a sua reticência os agrava mais. Quantum confessio peccata levat, tantum dissimulantia exaggerat. Tertuliano no livro Da Penitência." },
+    "fn31_5": { "rotulo": "5", "texto": "A IMPIEDADE DO MEU PECADO — O que no pecado é mortal diante de ti, porque quanto ao resto, Deus ainda depois do perdão, reserva para si a correção paternal do pecador, e a cura da chaga, ou enfermidade da alma, com muitas calamidades e penas temporais, com as quais o mesmo Davi foi visitado. Sl 38, 2; 108, 24. — P. Seio." },
+    "fn31_6": { "rotulo": "6", "texto": "POR ISSO ORARÁ A TI TODO O SANTO — Aqui temos as preces dos justos em comunidade pelos enfermos. — Bossuet." },
+    "fn31_9": { "rotulo": "7–8", "texto": "NÃO QUEIRAIS SER COMO O CAVALO — Alguns querem, que continuando o Senhor a sua resposta, seja êste um aviso que faz aos pecadores, para que se não endureçam, e se obstinem no pecado. Outros são de parecer que é apóstrofe que faz Davi aos mesmos, exortando-os a que se aproveitem do seu exemplo, e não se entreguem à sua sensualidade, como animais indómitos, e sem razão. — P. Seio. | COM O BOCADO E COM A BRIDA — O hebreu: \"Com cabresto, e com freio se há de apertar a sua bôca, para que não se cheguem a ti, e te mordam, o façam danos\". Assim como êstes instrumentos são os que domam a rebeldia dos brutos, assim as calamidades dêste mundo são os meios, de que Deus se costuma valer, para coibir a nossa. — Bossuet." }
+  }
+}

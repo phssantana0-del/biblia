@@ -1,0 +1,30 @@
+{
+  "num": 145,
+  "sumario": "Salmo gratulatório. Devemos pôr a nossa confiança em Deus. E louvar o seu poder, bondade e fidelidade, e celebrar o seu reino eterno.",
+  "versiculos": [
+    { "n": 1, "texto": "Aleluia, de Ageu, e de Zacarias.", "nota": "fn145_1" },
+    { "n": 2, "texto": "Louva, ó alma minha, ao Senhor, eu louvarei ao Senhor, durante a minha vida: Cantarei salmos ao meu Deus por quanto tempo eu viver.<br>Não queirais confiar nos príncipes:" },
+    { "n": 3, "texto": "Nos filhos dos homens, em que não há salvação." },
+    { "n": 4, "texto": "Sairá o seu espírito, e tornará a sua terra: Naquele dia perecerão todos os pensamentos dêles.", "nota": "fn145_4" },
+    { "n": 5, "texto": "Ditoso aquêle de quem é protetor o Deus de Jacó, cuja esperança é o Senhor seu Deus:" },
+    { "n": 6, "texto": "O qual fêz o céu e a terra, o mar, e tôdas as coisas que nêles há." },
+    { "n": 7, "texto": "O que guarda verdade para sempre, faz justiça aos que sofrem injúria: Dá sustento aos famintos.<br>O Senhor desata aos que estão em grilhões:" },
+    { "n": 8, "texto": "O Senhor alumia aos cegos.<br>O Senhor levanta os oprimidos, o Senhor ama aos justos." },
+    { "n": 9, "texto": "O Senhor guarda os peregrinos, amparará ao órfão, e a viúva: E destruirá os caminhos dos pecadores." },
+    { "n": 10, "texto": "O Senhor reinará pelos séculos, o teu Deus, ó Sião, reinará por tôdas as gerações.", "nota": "fn145_10" }
+  ],
+  "notas": {
+    "fn145_1": {
+      "rotulo": "Aleluia",
+      "texto": "Êste e os seguintes salmos até ao fim do saltério, começam por aleluia, e têm todos o mesmo objeto — Louvar a Deus. Ubi desiit inde rursus incipit, nempe a laudatione, diz S. João Crisóstomo, ob. cit. A Vulgata acrescenta ao original as palavras Ageu e Zacarias, o que não quer dizer que fôssem êstes os autores, mas que o usassem cantar no segundo templo. Tem três estrofes. Primeira (1-4). É necessário louvar a Deus e não contar com os homens. Segunda (5-7). Feliz o que observa a lei do Senhor. Terceira (7-10). Deus o protetor dos justos o protegerá."
+    },
+    "fn145_4": {
+      "rotulo": "Sairá o seu espírito",
+      "texto": "SAIRÁ O SEU ESPÍRITO — Revertetur, non spiritus, sed filius hominis, isto é, corpus ejus, porque no hebreu ruahh, Spiritus, é feminino, e o verbo jaschubh, revertetur, está na forma masculina. — P. Seio."
+    },
+    "fn145_10": {
+      "rotulo": "Reinará",
+      "texto": "REINARÁ — Isto que a letra alude ao estabelecimento de Jerusalém depois do cativeiro, e em um sentido mais nobre pertence aos dois reinos de Jesus Cristo; que são, o temporal na Igreja, e o eterno no Céu. O hebreu no fim lê Halelu-iah. — Pereira."
+    }
+  }
+}

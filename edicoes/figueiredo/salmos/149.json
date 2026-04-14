@@ -1,0 +1,29 @@
+{
+  "num": 149,
+  "sumario": "Salmo gratulatório. O profeta convida o seu povo a cantar ao Senhor um cântico novo em ação de graças pela misericórdia que tem usado com Israel.",
+  "versiculos": [
+    { "n": 1, "texto": "Aleluia.<br>Cantai ao Senhor um novo cântico: Seja o seu louvor na Igreja dos Santos.", "nota": "fn149_1" },
+    { "n": 2, "texto": "Alegre-se Israel naquele que o fêz: E os filhos de Sião regozijem-se em seu rei." },
+    { "n": 3, "texto": "Louvem o seu nome em côro: Com tambor, e saltério louvem-no a êle.", "nota": "fn149_3" },
+    { "n": 4, "texto": "Porque o Senhor se tem comprazido no seu povo: E exaltará aos mansos para os salvar." },
+    { "n": 5, "texto": "Regozijar-se-ão os santos na glória: Êles se alegrarão nas suas mansões." },
+    { "n": 6, "texto": "Altos louvores de Deus se acham na sua bôca: E espadas de dois fios nas suas mãos." },
+    { "n": 7, "texto": "Para fazer vingança nas nações: Castigos nos povos." },
+    { "n": 8, "texto": "Para meter os reis dêles em grilhões: E os seus nobres em algemas de ferro." },
+    { "n": 9, "texto": "Para exercer sôbre êles o juízo prescrito: Esta glória é reservada para todos os seus santos. Aleluia.", "nota": "fn149_9" }
+  ],
+  "notas": {
+    "fn149_1": {
+      "rotulo": "Aleluia",
+      "texto": "ALELUIA — A opinião mais provável é que êste salmo tem por autor a Davi, ainda que se ignora a ocasião da sua composição. Segundo Bossuet, foi por alguma grande vitória alcançada dos inimigos. Segundo Calmet, pela tornada do povo a Jerusalém depois do cativeiro. Mas pode-se também dizer, ajunta o padre de Carrières, que êste salmo convém perfeitamente ao fim do mundo, quando Cristo, Supremo Juiz, dará aos bons a vida eterna, e aos maus o castigo que merecem. — Pereira."
+    },
+    "fn149_3": {
+      "rotulo": "Em côro",
+      "texto": "EM CÔRO — O hebreu diz: mahhol, que significa um círculo de gente que se alegra e dança ao som de instrumentos: Êx 32, 19. — Pereira."
+    },
+    "fn149_9": {
+      "rotulo": "Para exercer sôbre êles / Para todos os seus santos",
+      "texto": "PARA EXERCER SÔBRE ÊLES — E serão uns ministros e executores do juízo que tem pronunciado o Senhor contra as suas impiedades. Esta é a glória que tem reservado o Senhor para o seu povo, como tem manifestado nas suas Escrituras. — Santo Agostinho. PARA TODOS OS SEUS SANTOS — Tudo isto que à letra convém ao povo de Israel, em um sentido mais nobre se há de entender do reino de Jesus Cristo, e dos seus verdadeiros fiéis; e por isso os Padres têm considerado êste cântico novo como próprio da lei nova. — Pereira."
+    }
+  }
+}

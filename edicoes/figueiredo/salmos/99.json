@@ -1,0 +1,25 @@
+{
+  "num": 99,
+  "sumario": "Salmo gratulatório. Exorta o profeta neste salmo a tôda a terra a celebrar, e louvar ao Senhor. Profecia da vocação dos gentios.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de louvor.", "nota": "fn99_1" },
+    { "n": 2, "texto": "Celebrai com júbilo ao Senhor povos de tôda a terra: Servi ao Senhor em alegria.<br>Entrai diante dêle com alvoroço." },
+    { "n": 3, "texto": "Sabei que o Senhor é Deus: Êle nos fêz, e não nós outros a nós.<br>Povo seu e ovelhas do seu pasto:" },
+    { "n": 4, "texto": "Entrai as suas portas com louvor: Nos átrios dêle com hinos: Glorificai-o.<br>Louvai o seu nome.", "nota": "fn99_4" },
+    { "n": 5, "texto": "Porque suave é o Senhor: É eterna a sua misericórdia: E a sua verdade se dilata de geração em geração.", "nota": "fn99_5" }
+  ],
+  "notas": {
+    "fn99_1": {
+      "rotulo": "Salmo de louvor",
+      "texto": "Devia ter sido composto por algum piedoso levita, depois do cativeiro, na época da dedicação do segundo templo. Tem duas estrofes, 1-3, 4-5. A primeira é um convite para louvar a Deus com alegria em seu templo, porque é o nosso criador, e nós somos o seu rebanho; na segunda nota-se que é necessário entrar no santo templo para que aí seja Deus louvado."
+    },
+    "fn99_4": {
+      "rotulo": "As portas",
+      "texto": "AS PORTAS — Isto é, às portas do tabernáculo, do seu templo."
+    },
+    "fn99_5": {
+      "rotulo": "De geração em geração",
+      "texto": "DE GERAÇÃO EM GERAÇÃO — Bendizei o seu Santo Nome, publicai que é um Senhor cheio de doçura e de bondade; que antes faltará o sol que a sua misericórdia, e que a verdade e a fidelidade das suas promessas resplandecerão eternamente pelos séculos dos séculos. — Pereira."
+    }
+  }
+}

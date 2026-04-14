@@ -1,0 +1,17 @@
+{
+  "num": 121,
+  "sumario": "Canticum graduum.",
+  "versiculos": [
+    { "n": 1, "texto": "Lætatus sum in his, quæ dicta sunt mihi: In domum Domini ibimus." },
+    { "n": 2, "texto": "Stantes erant pedes nostri, in atriis tuis, Jerusalem." },
+    { "n": 3, "texto": "Jerusalem, quæ ædificatur ut civitas: cujus participatio ejus in idipsum." },
+    { "n": 4, "texto": "Illuc enim ascenderunt tribus, tribus Domini: testimonium Israel ad confitendum nomini Domini." },
+    { "n": 5, "texto": "Quia illic sederunt sedes in judicio, sedes super domum David." },
+    { "n": 6, "texto": "Rogate quæ ad pacem sunt Jerusalem: et abundantia diligentibus te:" },
+    { "n": 7, "texto": "Fiat pax in virtute tua: et abundantia in turribus tuis." },
+    { "n": 8, "texto": "Propter fratres meos, et proximos meos, loquebar pacem de te:" },
+    { "n": 9, "texto": "Propter domum Domini Dei nostri, quæsivi bona tibi." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

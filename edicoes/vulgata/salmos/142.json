@@ -1,0 +1,20 @@
+{
+  "num": 142,
+  "sumario": "Psalmus David.",
+  "versiculos": [
+    { "n": 1, "texto": "Domine, exaudi orationem meam: auribus percipe obsecrationem meam in veritate tua: exaudi me in tua justitia." },
+    { "n": 2, "texto": "Et non intres in judicium cum servo tuo, quia non justificabitur in conspectu tuo omnis vivens." },
+    { "n": 3, "texto": "Quia persecutus est inimicus animam meam; humiliavit in terra vitam meam. Collocavit me in obscuris, sicut mortuos sæculi:" },
+    { "n": 4, "texto": "et anxiatus est super me spiritus meus; in me turbatum est cor meum." },
+    { "n": 5, "texto": "Memor fui dierum antiquorum; meditatus sum in omnibus operibus tuis: in factis manuum tuarum meditabar." },
+    { "n": 6, "texto": "Expandi manus meas ad te: anima mea sicut terra sine aqua tibi." },
+    { "n": 7, "texto": "Velociter exaudi me, Domine; defecit spiritus meus. Non avertas faciem tuam a me, et similis ero descendentibus in lacum." },
+    { "n": 8, "texto": "Auditam fac mihi mane misericordiam tuam, quia in te speravi. Notam fac mihi viam in qua ambulem, quia ad te levavi animam meam." },
+    { "n": 9, "texto": "Eripe me de inimicis meis, Domine; ad te confugi:" },
+    { "n": 10, "texto": "doce me facere voluntatem tuam, quia Deus meus es tu. Spiritus tuus bonus deducet me in terram rectam:" },
+    { "n": 11, "texto": "propter nomen tuum, Domine, vivificabis me, in æquitate tua educes de tribulatione animam meam:" },
+    { "n": 12, "texto": "et in misericordia tua disperdes inimicos meos: et perdes omnes qui tribulant animam meam, quoniam ego servus tuus sum." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

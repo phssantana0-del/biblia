@@ -1,0 +1,18 @@
+{
+  "num": 110,
+  "sumario": "Alleluia.",
+  "versiculos": [
+    { "n": 1,  "texto": "Alleluia. Confitebor tibi, Domine, in toto corde meo: in consilio justorum, et congregatione." },
+    { "n": 2,  "texto": "Magna opera Domini: exquisita in omnes voluntates ejus." },
+    { "n": 3,  "texto": "Confessio et magnificentia opus ejus: et justitia ejus manet in sæculum sæculi." },
+    { "n": 4,  "texto": "Memoriam fecit mirabilium suorum, misericors et miserator Dominus:" },
+    { "n": 5,  "texto": "escam dedit timentibus se. Memor erit in sæculum testamenti sui:" },
+    { "n": 6,  "texto": "virtutem operum suorum annuntiabit populo suo:" },
+    { "n": 7,  "texto": "ut det illis hæreditatem gentium. Opera manuum ejus veritas et judicium." },
+    { "n": 8,  "texto": "Fidelia omnia mandata ejus: confirmata in sæculum sæculi, facta in veritate et æquitate." },
+    { "n": 9,  "texto": "Redemptionem misit populo suo: mandavit in æternum testamentum suum. Sanctum et terribile nomen ejus:" },
+    { "n": 10, "texto": "initium sapientiæ timor Domini. Intellectus bonus omnibus facientibus eum: laudatio ejus manet in sæculum sæculi." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

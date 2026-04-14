@@ -1,0 +1,38 @@
+{
+  "num": 33,
+  "sumario": "Salmo didático. Davi convida os fiéis a engrandecer a misericórdia do Senhor, que livra aos seus de todo o mal. Põe patente os bens que se encerram em confiar em Deus, e em obedecer-lhe e pelo contrário, os terríveis males com que castiga aos ímpios.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi, quando mudou o seu rosto diante de Aquimelec, que o despediu, e êle se foi.", "nota": "fn33_1" },
+    { "n": 2, "texto": "Bendirei o Senhor em todo o tempo: Seu louvor será sempre na minha bôca.", "nota": "fn33_2" },
+    { "n": 3, "texto": "No Senhor se gloriará a minha alma: Ouçam-no os humildes, e alegrem-se." },
+    { "n": 4, "texto": "Engrandecei comigo ao Senhor: E exaltemos o seu nome todos à uma." },
+    { "n": 5, "texto": "Busquei ao Senhor, e me ouviu: E me livrou de tôdas as minhas tribulações.", "nota": "fn33_5" },
+    { "n": 6, "texto": "Chegai-vos a êle, e sereis iluminados: E vossos rostos não serão confundidos." },
+    { "n": 7, "texto": "Êste pobre levantou o grito, e o Senhor o ouviu: E êle o salvou de tôdas as suas tribulações.", "nota": "fn33_7" },
+    { "n": 8, "texto": "O anjo do Senhor andará à roda dos que o temem: E os livrará." },
+    { "n": 9, "texto": "Gostai, e vêde quão suave é o Senhor: Ditoso o homem, que espera nêle.", "nota": "fn33_9" },
+    { "n": 10, "texto": "Temei ao Senhor todos vós os seus Santos: Porque os que o temem, não caem em pobreza." },
+    { "n": 11, "texto": "Os ricos necessitaram e tiveram fome: Mas os que buscam ao Senhor, não serão privados de bem algum." },
+    { "n": 12, "texto": "Vinde, filhos, ouvi-me: Eu vos ensinarei o temor do Senhor." },
+    { "n": 13, "texto": "Quem é o homem que quer a vida: E que deseja ver os dias bem-aventurados?" },
+    { "n": 14, "texto": "Guarda a tua língua do mal: E os teus lábios não falem engano." },
+    { "n": 15, "texto": "Desvia-te do mal, e faze o bem: Busca a paz, e vai em seu seguimento." },
+    { "n": 16, "texto": "Os olhos do Senhor estão sôbre os justos: E os ouvidos aos rogos dêles." },
+    { "n": 17, "texto": "Mas o rosto do Senhor sôbre os que fazem o mal: Para apagar da terra a sua memória." },
+    { "n": 18, "texto": "Os justos clamaram, e o Senhor os ouviu: E os salvou de tôdas as suas tribulações." },
+    { "n": 19, "texto": "Perto está o Senhor daqueles que têm o coração atribulado: E aos humildes de espírito os salvará." },
+    { "n": 20, "texto": "Muitas as tribulações dos justos, e de tôdas estas os livrará o Senhor.", "nota": "fn33_20" },
+    { "n": 21, "texto": "O Senhor guarda todos os seus ossos: E nem sequer um dêles se quebrará." },
+    { "n": 22, "texto": "É péssima a morte dos pecadores: E os que aborrecem o justo, perecerão.", "nota": "fn33_22" },
+    { "n": 23, "texto": "O Senhor remirá as almas dos seus servos: E todos os que esperam nêle não perecerão." }
+  ],
+  "notas": {
+    "fn33_1": { "rotulo": "1", "texto": "QUANDO MUDOU O SEU ROSTO — Davi tendo escapado das ciladas de Saul, se refugiou, sem ser conhecido, na côrte de Aquis, rei geteu, onde havendo sido depois reconhecido, por salvar a sua vida, se fingiu demente, do que resultou lançarem-no logo fora dali. Depois retirando-se à cova de Odolão, nela compôs êste Salmo, dando graças ao Senhor por havê-lo livrado daquele perigo. 1 Rs 21, 13. Êste Salmo é acróstico e alfabético, assim como o 24. Tem 22 dísticos. | DIANTE DE AQUIMELEC — Os modernos concordam que não era Aquimelec Sumo Pontífice, ao qual Davi pediu os pães da proposição: 1 Rs 21, 3, mas Aquimelec, rei de Get, cidade principal dos filisteus, ao qual a Escritura chama Aquis. Êste nome de Aquimelec, que no hebreu e nos Setenta se lê Abimelec, era comum aos reis da Palestina, assim como o de Faraó o era aos do Egito. — Pereira." },
+    "fn33_2": { "rotulo": "2", "texto": "EM TODO O TEMPO — Seja ou de prosperidade, ou de adversidade. \"Deus dá as consolações, diz Santo Agostinho, e Deus as tira; porém de si mesmo não priva aquêle que o bendiz, e que o louva\". — P. Seio." },
+    "fn33_5": { "rotulo": "3", "texto": "BUSQUEI AO SENHOR E ME OUVIU — Logo os que não são ouvidos não buscam ao Senhor. — Santo Agostinho." },
+    "fn33_7": { "rotulo": "4", "texto": "LEVANTOU O GRITO — Assim falava Davi de si mesmo; ou introduz aos fiéis ensinando-lhes o modo com que devem falar com Deus especialmente na oração. Depois dêste versículo devia haver outro, que principiasse pela letra vau, porém não sucede assim, mas salta ao zuin: o mesmo que notamos no Salmo 24, 6. — P. Seio." },
+    "fn33_9": { "rotulo": "5", "texto": "GOSTAI, E VÊDE QUÃO SUAVE É O SENHOR — Muitos Padres com Santo Atanásio expõem êste versículo do gôsto, e doçura que recebem os fiéis na comida, e bebida do corpo, e do sangue de Cristo na Eucaristia. \"Como pode êste dar-nos a sua carne?\" pergunta Santo Agostinho; e logo acrescenta o Santo \"se o ignoras gosta, e experimenta quão suave é êste Senhor\". — P. Seio." },
+    "fn33_20": { "rotulo": "6", "texto": "MUITAS AS TRIBULAÇÕES DOS JUSTOS — O hebreu tem: \"Muitos são os males\", as aflições do Justo; o que, com o que se diz no versículo seguinte, se deve entender principalmente do Justo por excelência, que é Jesus Cristo; e de cada um de nós está escrito, que por meio de muitas tribulações é necessário entrar no reino dos Céus. At 14, 21. — P. Seio." },
+    "fn33_22": { "rotulo": "7", "texto": "É PÉSSIMA A MORTE DOS PECADORES — O hebreu lê: \"Matará ao ímpio a maldade\"; de tal sorte que a sua mesma malícia será cruel verdugo que o acaba. — Sacy." }
+  }
+}

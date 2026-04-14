@@ -1,0 +1,30 @@
+{
+  "num": 42,
+  "titulo": "Salmo de Davi.",
+  "sumario": "Continuação do antecedente. Vivendo entre infiéis, suspira Davi por ver a Jerusalém, e o Tabernáculo do Senhor. Com esta esperança se consola, e anima.",
+  "versiculos": [
+    { "n": 1, "texto": "Julga-me, ó Deus, e separa a minha causa de uma gente não santa, livra-me do homem iníquo, e enganador.", "nota": "fn42_1" },
+    { "n": 2, "texto": "Porque és, ó Deus, a minha fortaleza: Por que me repeliste? E por que ando triste, quando me aflige o meu inimigo?" },
+    { "n": 3, "texto": "Envia a tua luz e a tua verdade: Estas me conduzirão, e me levarão ao teu santo monte, e aos teus Tabernáculos.", "nota": "fn42_3" },
+    { "n": 4, "texto": "E entrarei ao Altar de Deus: O Deus que alegra a minha mocidade. Ó Deus, Deus meu, eu te louvarei com a cítara:", "nota": "fn42_4" },
+    { "n": 5, "texto": "Por que estás tu triste, alma minha? e por que me conturbas? Espera em Deus, porque ainda tenho de o louvar: Salvação do meu rosto, e Deus meu." }
+  ],
+  "notas": {
+    "fn42_titulo": {
+      "rotulo": "Salmo de Davi",
+      "texto": "Êste Salmo é a continuação do anterior, como já foi dito. Êste salmo tem grande importância, pois é salmo que a Igreja coloca nos lábios dos seus sacerdotes no comêço da Santa Missa, e com razão, porque exprime admiràvelmente os sentimentos de confiança e perturbação de que deve estar possuído o ministro do Senhor, aproximando-se do altar para oferecer ao Eterno Pai a Hóstia Imaculada. O uso de recitar um salmo no comêço da Missa foi introduzido provavelmente pelo Papa S. Celestino (422-432) a exemplo do que havia indicado Santo Ambrósio, e do que se praticava nas Igrejas Orientais. A êste salmo, não determinado, dava-se o nome de ingressa. Porém já se encontra em livros litúrgicos anteriores ao meado do século IX prescrito o salmo Judica me Deus. Dr. Vasconcelos, Compêndio de Liturgia Romana, pág. 180. Na liturgia mosarabe ou gótica, abolida por Gregório VII, também se indicava êste salmo, com a mesma antífona Introito, que se repetia antes do salmo. O Papa S. Pio V (1566-1572) inseriu o salmo Judica me no Missal Romano. A frase inicial é Julga-me. O salmista pede ao Senhor que seja seu juiz e patrono misericordioso, e imediatamente pede para ser separado da gente ímpia, gente non sancta, e que supõe que o ministro de Deus não vive com os maus. Por isso repetindo estas palavras acodem-nos à mente aquelas palavras do Autor da Imitação O quam mundae debent esse manus illae, quam purum os, quam sanctum corpus, quam immaculatum cor erit sacerdotis, ad quem toties ingreditur autor puritatis. De Imit. Crist IV-XI, 6."
+    },
+    "fn42_1": {
+      "rotulo": "De uma gente",
+      "texto": "Alguns unem estas palavras com as seguintes: Salva-me, ou livra-me de uma gente ímpia, incrédula... e de um homem injusto. O primeiro pode entender-se dos babilónios, que eram idólatras; ou também dos cortesãos, e vassalos do rei Aquis: ou em geral dos inimigos de Davi, gente cruel e sem piedade. O segundo de Saul, ou em geral dos perseguidores de Davi, e também dos babilónios, inimigos do povo de Deus. — P. Seio."
+    },
+    "fn42_3": {
+      "rotulo": "Envia a tua luz / Santo monte",
+      "texto": "Convencido da sua impotência, o servo de Deus invoca o Santo que pode vir em seu auxílio. Os dois verbos estão no perfeito na Vulgata, mas traduzem-se no futuro pela razão atrás exposta. Santo monte — É Sião, onde está o Tabernáculo do Senhor. Para o sacerdote, é o altar eucarístico, cujos degraus vai subir."
+    },
+    "fn42_4": {
+      "rotulo": "Entrarei ao Altar de Deus / Que alegra a minha mocidade / Com a cítara",
+      "texto": "É o voto supremo do levita exilado. Queria voltar e entrar de novo neste Tabernáculo de Sião, testemunho visível da presença do Senhor, no meio do seu povo. Como não deve ser ardente êste voto no sacerdócio da lei da graça? Habemus altare, de quo edere non habent potestatem qui tabernaculo deserviunt. Heb 13, 10. — Que alegra a minha mocidade: O que está no hebreu não é precisamente isto. As versões traduziram o nome comum simchah, \"alegria\" pelo verbo simchoch \"alegrar-se\". A palavra gil, que se segue, significa primordialmente alegria, mas as versões deram-lhe uma significação secundária: idade. A letra dever-se-ia traduzir esta frase assim: \"O Deus alegria da minha alegria\". De resto esta tradução ajusta-se ao sentido do salmo, porque Deus é o princípio da única verdadeira alegria. E para o fiel e para o sacerdote no altar está a origem das alegrias mais puras. — Com a cítara: No original está: eu vos louvarei com o kinnor. O kinnor era um instrumento portátil, feito dum arco de madeira, com cordas sonoras. Mais tarde aperfeiçoou-se, puseram-lhe caixa de ar, e foram-no modificando de tal sorte que veio a ser a harpa. Os sons do kinnor eram alegres, e por isso os levitas os aproveitavam nas cerimónias religiosas. Êste salmo também serve para recordar ao sacerdote o seu ingresso na Eternidade, e o juízo que se lhe segue judica me; após o juízo, a expiação do purgatório. Quare me repulisti et quare tristis incedo, dirá a alma do padre momentâneamente apartada do seu Deus, suplicando ansiosamente que lhe brilhe o esplendor da luz eterna. Emitte lucem tuam."
+    }
+  }
+}

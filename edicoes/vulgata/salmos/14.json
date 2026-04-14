@@ -1,0 +1,13 @@
+{
+  "num": 14,
+  "sumario": "Psalmus David.",
+  "versiculos": [
+    { "n": 1, "texto": "Domine, quis habitabit in tabernaculo tuo? aut quis requiescet in monte sancto tuo?" },
+    { "n": 2, "texto": "Qui ingreditur sine macula, et operatur justitiam;" },
+    { "n": 3, "texto": "qui loquitur veritatem in corde suo; qui non egit dolum in lingua sua, nec fecit proximo suo malum, et opprobrium non accepit adversus proximos suos." },
+    { "n": 4, "texto": "Ad nihilum deductus est in conspectu ejus malignus; timentes autem Dominum glorificat. Qui jurat proximo suo, et non decipit;" },
+    { "n": 5, "texto": "qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit. Qui facit hæc non movebitur in æternum." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

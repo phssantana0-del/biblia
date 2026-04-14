@@ -1,0 +1,21 @@
+{
+  "num": 14,
+  "sumario": "Salmo didático. O profeta neste salmo diz que os verdadeiros membros da Igreja são aquêles que vivem em justiça, e que por ela terão lugar na celestial Sião.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi. Senhor, quem habitará no teu tabernáculo? Ou quem descansará no teu santo monte?", "nota": "fn14_1" },
+    { "n": 2, "texto": "O que caminha na inocência, e faz obras de justiça;" },
+    { "n": 3, "texto": "O que fala verdade no seu coração, o que não fêz engano com a sua língua; Nem fêz mal a seu próximo, nem consentiu que se infamassem seus próximos." },
+    { "n": 4, "texto": "O que nos seus olhos olha o malvado como um nada; Mas honra aos que temem ao Senhor: O que jura a seu próximo, e não o engana.", "nota": "fn14_4" },
+    { "n": 5, "texto": "O que não deu a usura o seu dinheiro, nem recebeu dádivas sôbre o inocente: O que faz estas coisas descansará eternamente." }
+  ],
+  "notas": {
+    "fn14_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "Êste Salmo parece ter sido composto quando a arca da Aliança foi colocada no monte de Sião. Tem cinco estrofes, que muito fàcilmente se compreendem, visto que o poeta muito claramente exprime que só a virtude é digna da Eterna recompensa, que só os justos gozam na Bem-aventurança. As ações virtuosas que êle considera merecedoras do prémio de ir descansar com o Senhor no seio do seu Santo Monte, ou de habitar com êle no seu Tabernáculo, reduzem-se à prática dos deveres de caridade."
+    },
+    "fn14_4": {
+      "rotulo": "O que jura a seu próximo",
+      "texto": "O hebreu tem: jurou ao mau, e não mudou: quer dizer: que cumpre a sua palavra e juramento, ainda que aquêle a quem o fêz seja um homem perverso. — P. Seio."
+    }
+  }
+}

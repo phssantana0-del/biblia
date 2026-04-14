@@ -1,0 +1,28 @@
+{
+  "num": 65,
+  "sumario": "In finem. Canticum Psalmi resurrectionis.",
+  "versiculos": [
+    { "n": 1,  "texto": "In finem. Canticum Psalmi resurrectionis." },
+    { "n": 2,  "texto": "Jubilate Deo, omnis terra, psalmum dicite nomini ejus: date gloriam laudi ejus." },
+    { "n": 3,  "texto": "Dicite Deo: Quam terribilia sunt opera tua, Domine! in multitudine virtutis tuæ mentientur tibi inimici tui." },
+    { "n": 4,  "texto": "Omnis terra adoret te, et psallat tibi: psalmum dicat nomini tuo." },
+    { "n": 5,  "texto": "Venite, et videte opera Dei: terribilis in consiliis super filios hominum." },
+    { "n": 6,  "texto": "Qui convertit mare in aridam, in flumine pertransibunt pede: ibi lætabimur in ipso." },
+    { "n": 7,  "texto": "Qui dominatur in virtute sua in æternum; oculi ejus super gentes respiciunt: qui exasperant non exaltentur in semetipsis." },
+    { "n": 8,  "texto": "Benedicite, gentes, Deum nostrum, et auditam facite vocem laudis ejus:" },
+    { "n": 9,  "texto": "qui posuit animam meam ad vitam, et non dedit in commotionem pedes meos." },
+    { "n": 10, "texto": "Quoniam probasti nos, Deus: igne nos examinasti, sicut examinatur argentum." },
+    { "n": 11, "texto": "Induxisti nos in laqueum; posuisti tribulationes in dorso nostro:" },
+    { "n": 12, "texto": "imposuisti homines super capita nostra. Transivimus per ignem et aquam: et eduxisti nos in refrigerium." },
+    { "n": 13, "texto": "Introibo in domum tuam in holocaustis: reddam tibi vota mea," },
+    { "n": 14, "texto": "quæ distinxerunt labia mea. Et locutum est os meum in tribulatione mea." },
+    { "n": 15, "texto": "Holocausta medullata offeram tibi cum incenso arietum: offeram tibi boves cum hircis." },
+    { "n": 16, "texto": "Venite, audite, et narrabo, omnes qui timetis Deum, quanta fecit animæ meæ." },
+    { "n": 17, "texto": "Ad ipsum ore meo clamavi, et exaltavi sub lingua mea." },
+    { "n": 18, "texto": "Iniquitatem si aspexi in corde meo, non exaudiet Dominus." },
+    { "n": 19, "texto": "Propterea exaudivit Deus, et attendit voci deprecationis meæ." },
+    { "n": 20, "texto": "Benedictus Deus, qui non amovit orationem meam, et misericordiam suam a me." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

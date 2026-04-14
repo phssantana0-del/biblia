@@ -1,0 +1,13 @@
+{
+  "num": 122,
+  "sumario": "Salmo deprecatório. O profeta protestando em nome de todo o povo, que só de Deus espera o remédio, e alívio dos seus trabalhos, implora a sua misericórdia.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual. Levantei os meus olhos para ti, que habitas nos céus.", "nota": "fn122_1" },
+    { "n": 2, "texto": "Vêde que assim como os olhos dos servos estão pregados nas mãos de seus senhores: Como os olhos da escrava nas mãos de sua senhora: Assim os nossos olhos estão fitos no Senhor nosso Deus, até que tenha misericórdia de nós." },
+    { "n": 3, "texto": "Tem misericórdia de nós, Senhor, tem misericórdia de nós: Porque estamos mui fartos de desprêzo:" },
+    { "n": 4, "texto": "Porque mui cheia está a nossa alma: Sendo objeto de escárnio para os ricos, e de desprêzo para os soberbos." }
+  ],
+  "notas": {
+    "fn122_1": { "rotulo": "Cântico gradual", "texto": "Êste salmo tem duas estrofes: na primeira (1-2) levanta os seus olhos a Deus para conhecer a sua vontade; na segunda (3-4) suplica a graça no momento de aflição." }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "num": 142,
+  "sumario": "Salmo deprecatório. Implora o socorro do Senhor, castigados seus inimigos. Salmo de Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Quando seu filho Absalão o perseguia. (2 Rs 17).<br>Senhor, atende a minha oração: Percebe nos teus ouvidos o meu rogo, segundo a tua verdade; atende-me na tua justiça.", "nota": "fn142_1" },
+    { "n": 2, "texto": "E não entres em juízo com o teu servo: Porque não será justificado na tua presença todo o vivente." },
+    { "n": 3, "texto": "Porque o inimigo me perseguiu a minha alma: Humilhou a minha vida até ao chão.<br>Colocou-me em lugares obscuros como a mortos de muitos séculos:", "nota": "fn142_3" },
+    { "n": 4, "texto": "E se angustiou o meu espírito sôbre mim, em mim se turbou o meu coração." },
+    { "n": 5, "texto": "Tenho-me lembrado dos dias antigos, tenho meditado em tôdas as tuas obras: Meditava nas obras das tuas mãos." },
+    { "n": 6, "texto": "Estendi as minhas mãos a ti: A minha alma para contigo é como terra sedenta:" },
+    { "n": 7, "texto": "Atende-me, Senhor, com presteza: O meu espírito desfaleceu.<br>Não apartes de mim a tua face: Para que não seja semelhante aos que descem ao lago." },
+    { "n": 8, "texto": "Faze-me ouvir pela manhã a tua misericórdia: Porque em ti tenho esperado.<br>Faze-me conhecer o caminho em que hei de andar: Porque a ti elevei a minha alma.", "nota": "fn142_8" },
+    { "n": 9, "texto": "Livra-me dos meus inimigos, Senhor; a ti me tenho acolhido:" },
+    { "n": 10, "texto": "Ensina-me a fazer a tua vontade, porque tu és o meu Deus.<br>O teu espírito que é bom me conduzirá à terra de retidão:" },
+    { "n": 11, "texto": "Pelo teu nome, Senhor, me vivificarás segundo a tua equidade.<br>Tirarás da tribulação a minha alma:" },
+    { "n": 12, "texto": "E pela tua misericórdia dissiparás a meus inimigos.<br>E destruirás a todos os que atribulam a minha alma: Porque eu sou teu servo." }
+  ],
+  "notas": {
+    "fn142_1": {
+      "rotulo": "Quando seu filho Absalão o perseguia",
+      "texto": "QUANDO SEU FILHO ABSALÃO O PERSEGUIA — Esta circunstância não traz o hebreu nem S. Jerônimo. Trazem-na os Setenta, mas não em todos os exemplares, como do seu tempo notava Teodoreto. Êste é o sétimo dos penitenciais. Tem seis estrofes."
+    },
+    "fn142_3": {
+      "rotulo": "Até ao chão",
+      "texto": "ATÉ AO CHÃO — Isto é, profundamente. Esquecendo-te pois das minhas iniquidades, atende ao furor dos que cruelmente me perseguem, olha o extremo a que a sua violência me tem reduzido. — Pereira."
+    },
+    "fn142_8": {
+      "rotulo": "Pela manhã",
+      "texto": "PELA MANHÃ — Alguns explicam o mane à letra \"pela manhã\". Outros o explicam dêste modo: \"Não sejam vãs as minhas esperanças, faze que experimente eu prontamente os efeitos visíveis da tua misericórdia.\" — Pereira."
+    }
+  }
+}

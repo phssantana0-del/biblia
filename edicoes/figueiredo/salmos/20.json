@@ -1,0 +1,38 @@
+{
+  "num": 20,
+  "sumario": "Salmo de ação de graças, ao voltar o rei vitorioso.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, salmo de Davi.", "nota": "fn20_1" },
+    { "n": 2, "texto": "Senhor, o rei se alegrará na tua fortaleza: E na tua salvação se regozijará em grande maneira." },
+    { "n": 3, "texto": "Tu lhe cumpriste o desejo de seu coração: E não o defraudaste da vontade de seus lábios." },
+    { "n": 4, "texto": "Porque tu o preveniste de bênçãos de doçuras: E puseste sôbre a sua cabeça uma coroa de pedras preciosas." },
+    { "n": 5, "texto": "Vida te pediu a ti: E lhe concedeste diuturnidade de dias pelo século, e pelos séculos dos séculos." },
+    { "n": 6, "texto": "Grande é a sua glória na tua salvação: Glória e grande formosura porás sôbre êle." },
+    { "n": 7, "texto": "Porque tu o darás para bênção pelos séculos dos séculos: Enche-lo-ás de alegria com o teu rosto.", "nota": "fn20_7" },
+    { "n": 8, "texto": "Porquanto o rei espera no Senhor: E na misericórdia do Altíssimo não será comovido." },
+    { "n": 9, "texto": "Caia a tua mão sôbre todos os teus inimigos: Caia a tua destra sôbre todos os que te aborrecem." },
+    { "n": 10, "texto": "Tu os porás como um forno aceso ao mostrar-lhes teu rosto: O Senhor na sua ira os conturbará, e o fogo os devorará.", "nota": "fn20_10" },
+    { "n": 11, "texto": "Seu fruto exterminarás da terra: E a sua descendência de entre os filhos dos homens." },
+    { "n": 12, "texto": "Porque urdiram contra mim males: Maquinaram conselhos que não puderam estabelecer." },
+    { "n": 13, "texto": "Porquanto os porás em fugida: Nos teus resíduos prepararás o rosto dêles.", "nota": "fn20_13" },
+    { "n": 14, "texto": "Exalta-te, Senhor, no teu poder: Cantaremos e louvaremos as tuas maravilhas." }
+  ],
+  "notas": {
+    "fn20_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "É um hino de ação de graças depois da vitória. Tem sete estrofes. 1.ª (2-3) O rei regozija-se com a sua vitória; 2.ª (4-5) Deus coroou-o de glória e lhe concedeu larga vida; 3.ª (6-7) A vitória que Deus lhe proporcionou engrandeceu-o e o encheu de alegria; 4.ª (8-9) Porque pôs a sua confiança em Deus, o Senhor o livrará dos seus inimigos; 5.ª (10) Deus queimará e aniquilará os que lhe querem mal; 6.ª (11-12) Perderá a sua raça, se ela tramar contra êle; 7.ª (13-14) Afugentará e perseguirá os seus inimigos. — Que Deus seja louvado. Seu povo o louvará sempre. O sentido místico dêste Salmo, segundo alguns comentadores, é Jesus Cristo triunfando da morte e do pecado, suplicando a vitória sôbre os seus inimigos."
+    },
+    "fn20_7": {
+      "rotulo": "Porque tu o darás para bênção",
+      "texto": "Em Cristo que nascerá do seu sangue, e em quem serão benditas tôdas as nações. — Pereira. Enche-lo-ás de alegria — Nos seus perigos, e trabalhos achará a maior consolação, e o gôsto mais completo, vendo que estais sempre a seu lado, e que não o perdeis jamais de vista. Pode também expor-se em êste outro sentido: E depois dos trabalhos desta vida, e de haver triunfado de todos os seus inimigos o encherá de glória em vossa presença. O que convém muito bem ao Divino Redentor, exaltado por seu eterno Padre, depois de haver triunfado do inferno, e da morte. — P. Seio."
+    },
+    "fn20_10": {
+      "rotulo": "Ao mostrar-lhes teu rosto",
+      "texto": "Sejam devorados vossos inimigos pelo fogo do vosso semblante irado. O que se pode entender, ou da ruína de Jerusalém pelas chamas abrasadoras, ou do fogo do inferno, que abrasará eternamente aos perseguidores de Cristo e da sua Igreja. E assim o entendeu e expôs também Bossuet; advertindo que na frase da Escritura se toma algumas vêzes o rosto de Deus, que isso quer dizer vultus, pelo aspecto irado, como no salmo 33, 17. — Pereira."
+    },
+    "fn20_13": {
+      "rotulo": "Porquanto os porás em fugida",
+      "texto": "O hebreu diz: \"Porquanto os porás aparte\". Outros têm: \"Por alvo da tua ira\". Outros: \"Os obrigarás a voltar as costas\". O que pode explicar-se dêste modo: os obrigarás a voltar as costas, mas nem por isso escaparão, porque, ainda fugindo, lhes sairás ao encontro com o teu arco, e dêste modo tanto pela frente como pelas costas terão fim com as tuas setas. — P. Seio."
+    }
+  }
+}

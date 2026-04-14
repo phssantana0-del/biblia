@@ -1,0 +1,38 @@
+{
+  "num": 46,
+  "sumario": "Neste salmo profético, debaixo da figura da entrada da arca em Sião, se descreve o reino espiritual de Jesus Cristo na sua Ascensão aos Céus: e juntamente se contém uma clara profecia da vocação dos gentios.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro. Dos filhos de Coré. Salmo.", "nota": "fn46_1" },
+    { "n": 2, "texto": "Tôdas as gentes aplaudi com as mãos: Celebrai a Deus com vozes de regozijo.", "nota": "fn46_2" },
+    { "n": 3, "texto": "Porque o Senhor é excelso, terrível: Rei grande sôbre tôda a terra." },
+    { "n": 4, "texto": "Submeteu-nos os povos a nós, e as gentes debaixo de nossos pés." },
+    { "n": 5, "texto": "Escolheu para nós a sua herança: A formosura de Jacó, à qual amou.", "nota": "fn46_5" },
+    { "n": 6, "texto": "Subiu Deus com júbilo: E o Senhor com voz de trombeta.", "nota": "fn46_6" },
+    { "n": 7, "texto": "Cantai salmos ao nosso Deus, cantai salmos: Cantai salmos ao nosso Rei, cantai salmos." },
+    { "n": 8, "texto": "Porque Deus é o Rei de tôda a terra: Cantai salmos sàbiamente." },
+    { "n": 9, "texto": "Deus reinará sôbre as nações: Deus está sentado sôbre o seu santo trono." },
+    { "n": 10, "texto": "Os príncipes dos povos se reuniram com o Deus de Abraão: Porque os deuses fortes da terra têm sido grandemente exaltados.", "nota": "fn46_10" }
+  ],
+  "notas": {
+    "fn46_1": {
+      "rotulo": "Salmo",
+      "texto": "Muitos críticos consideram êste salmo um cântico de vitória, entoado depois da condução da arca para o monte Sião. A tradição eclesiástica aplicou-o geralmente à Ascensão de Nosso Senhor. Tem 5 estrofes: Primeira (2-3): Saudação a Deus. Segunda (4-5): Porque submete os povos ao domínio de Jacó. Terceira (6-7): Grandeza de Deus, dever de exaltar a sua glória. Quarta (8-9): porque é rei de tôda a terra. Quinta: E tudo lhe pertence."
+    },
+    "fn46_2": {
+      "rotulo": "Tôdas as gentes",
+      "texto": "O profeta convida todos os povos da terra a manifestar o seu reconhecimento, publicando a grandeza, e as vitórias de Jesus Cristo. Ou talvez a mesma Igreja convida a tôdas as nações a cantar a glória do Onipotente, que havia feito grandes prodígios a seu favor. Tôdas estas expressões são figuradas, e sòmente significam o excesso de alegria, que deviam mostrar no triunfo glorioso de Jesus Cristo: Em cuja celebridade procedam acordes, diz Santo Agostinho, as mãos, e a língua: Esta confesse, e obrem aquelas. — P. Seio."
+    },
+    "fn46_5": {
+      "rotulo": "Escolheu para nós",
+      "texto": "O hebreu tem: \"Êle nos escolherá a nossa herança: A formosura de Jacó, a qual amou: Êle nos deu uma excelente herança, escolhida sôbre tôdas as outras, na qual está tôda a nossa glória. O que literalmente pertencia à terra da promissão, e nela a cidade de Jerusalém, que formava tôda a glória do povo de Israel, e que distinguiu o Senhor com particulares demonstrações do seu amor e proteção."
+    },
+    "fn46_6": {
+      "rotulo": "Com voz de trombeta",
+      "texto": "Isto à letra pode entender-se da Arca do testamento, trasladada, com grande pompa, e festa, ou por Davi à sua cidade, 2 Rs 6, 12, ou por Salomão ao Templo, 3 Rs 8, 4. Mas no sentido profético, que é o principal, se refere em doutrina dos Santos Padres à Ascensão de Jesus Cristo, como no Sl 67, 25.26, o qual por sua própria virtude subiu aos Céus. — Pereira."
+    },
+    "fn46_10": {
+      "rotulo": "Os príncipes dos povos se reuniram / Os deuses fortes da terra",
+      "texto": "O hebreu tem: \"Os príncipes dos povos se agregaram ao povo do Deus de Abraão\": isto é, de todos os povos se formou um só, do qual se compõe a Igreja de Jesus Cristo. É uma profecia da vocação dos gentios. — Bossuet. — Os deuses fortes da terra: Por êstes se entendem comumente os mesmos príncipes que têm domínio na terra, e que, agregando-se à Igreja de Cristo, e chegando a ser membros do corpo dêle, foram elevados à dignidade de filhos de Deus. Outros por \"deuses fortes\" entendem os apóstolos. — Calmet. — Grandemente exaltados: O hebreu oferece outro sentido: \"Porque de Deus são os escudos da terra\" quer dizer: Deus é o protetor, e governador de todo o mundo: \"êle é muito exaltado e por isso é justo que todos o reconheçam, e o sirvam como a um só Deus, e rei imortal. — P. Seio."
+    }
+  }
+}

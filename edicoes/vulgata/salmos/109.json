@@ -1,0 +1,15 @@
+{
+  "num": 109,
+  "sumario": "Psalmus David.",
+  "versiculos": [
+    { "n": 1, "texto": "Psalmus David. Dixit Dominus Domino meo: Sede a dextris meis: donec ponam inimicos tuos, scabellum pedum tuorum." },
+    { "n": 2, "texto": "Virgam virtutis tuæ emittet Dominus ex Sion: dominare in medio inimicorum tuorum." },
+    { "n": 3, "texto": "Tecum principium in die virtutis tuæ in splendoribus sanctorum: ex utero ante luciferum genui te." },
+    { "n": 4, "texto": "Juravit Dominus, et non pœnitebit eum: Tu es sacerdos in æternum secundum ordinem Melchisedech." },
+    { "n": 5, "texto": "Dominus a dextris tuis, confregit in die iræ suæ reges." },
+    { "n": 6, "texto": "Judicabit in nationibus, implebit ruinas: conquassabit capita in terra multorum." },
+    { "n": 7, "texto": "De torrente in via bibet: propterea exaltabit caput." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

@@ -1,0 +1,32 @@
+{
+  "num": 81,
+  "sumario": "Salmo didático. O profeta exorta aos juízes da terra a que façam justiça aos pobres e aos órfãos, por ser Deus o supremo juiz de todos os juízes.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Asaf.<br>Deus assistiu sempre no conselho dos deuses: No meio dêles julga os mesmos deuses.", "nota": ["fn81_1a", "fn81_1b"] },
+    { "n": 2, "texto": "Até quando julgareis injustamente: E tereis respeito às faces dos pecadores?" },
+    { "n": 3, "texto": "Fazei justiça ao necessitado, e ao órfão: Atendei à razão do humilde, e do pobre." },
+    { "n": 4, "texto": "Tirai ao pobre: E livrai o desvalido da mão do pecador." },
+    { "n": 5, "texto": "Não souberam, nem entenderam, andam em trevas: Serão abalados todos os fundamentos da terra.", "nota": "fn81_5" },
+    { "n": 6, "texto": "Eu disse: Sois deuses, e todos filhos do Excelso." },
+    { "n": 7, "texto": "Mas vós como homens morrereis: E caireis como um dos príncipes." },
+    { "n": 8, "texto": "Levanta-te, ó Deus, julga a terra: Porque tu herdarás em tôdas as gentes.", "nota": "fn81_8" }
+  ],
+  "notas": {
+    "fn81_1a": {
+      "rotulo": "Salmo de Asaf",
+      "texto": "O salmista invoca o socorro de Deus contra os juízes iníquos. Cfr. Sl 58. Jesus Cristo citou êste salmo. Jo 10, 34-36. Assinam-lhe o tempo de Josafat. 890 A. C. A linguagem é forte e enérgica. Dois discursos formam o poema; no primeiro intima os juízes para que obedeçam sempre à justiça; no segundo ameaça-os com castigos. Tem cinco estrofes."
+    },
+    "fn81_1b": {
+      "rotulo": "Deuses",
+      "texto": "DEUSES — É o nome que se dava comumente aos magistrados na Escritura, porque administravam a justiça em nome de Deus."
+    },
+    "fn81_5": {
+      "rotulo": "Serão abalados",
+      "texto": "SERÃO ABALADOS — Desta corrupção dos juízes procede uma geral perturbação das famílias, e ruína do estado: Prov 14, 34. Porque as bases dos reinos e de tôdas as repúblicas são a justiça, e a observância das leis. — Pereira."
+    },
+    "fn81_8": {
+      "rotulo": "Herdarás",
+      "texto": "HERDARÁS — É apóstrofe que o profeta faz a Deus. Já que os vossos ministros têm pervertido tôda a justiça, vem tu mesmo a restabelecê-la, e a ser o juiz de tôda a terra, pôsto que teu é o domínio de tôdas as nações, que a tôdas hás de possuir. Segundo os Padres, é um vaticínio expresso da conversão dos gentios à fé de Cristo. — P. Seio."
+    }
+  }
+}

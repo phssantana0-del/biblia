@@ -1,0 +1,25 @@
+{
+  "num": 97,
+  "sumario": "Salmo do louvor, e júbilo, pelas grandes vitórias, que alcançou das nações. Os Padres o reconhecem também profético da vinda de Cristo, e vocação dos gentios.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo do mesmo Davi.<br>Cantai ao Senhor um cântico novo: Porque êle fêz maravilhas.<br>A sua destra o livrou, e o seu braço santo.", "nota": "fn97_1" },
+    { "n": 2, "texto": "O Senhor manifestou o seu Salvador: À vista das nações descobriu a sua justiça." },
+    { "n": 3, "texto": "Lembrou-se da sua misericórdia, e da sua verdade para com a casa de Israel.<br>Viram todos os limites da terra a salvação do nosso Deus." },
+    { "n": 4, "texto": "Celebrai a Deus tôda a terra: Cantai, e saltai de prazer e dizei salmos." },
+    { "n": 5, "texto": "Cantai salmos ao Senhor com cítara, e com voz de salmo:" },
+    { "n": 6, "texto": "Com trombetas de metal, e som de corneta.<br>Regozijai-vos na presença do rei que é o Senhor:", "nota": "fn97_6" },
+    { "n": 7, "texto": "Mova-se o mar e quanto nêle há. A redondeza da terra, e os que habitam nela." },
+    { "n": 8, "texto": "Os rios mostraram aplauso, os montes juntamente se alegraram." },
+    { "n": 9, "texto": "À vista do Senhor: Porque veio a governar a terra.<br>Governará a redondeza da terra em justiça, e os povos em equidade:" }
+  ],
+  "notas": {
+    "fn97_1": {
+      "rotulo": "Salmo do mesmo Davi / Maravilhas / Braço santo",
+      "texto": "(1) Êste salmo tem muitas semelhanças com o 95, versa sôbre o mesmo assunto e tem a mesma forma. A versão siríaca diz que se refere à libertação da escravidão do Egito. Êste salmo, como os dois precedentes, prediz as maravilhas que o Messias deve operar no seu advento. Tem três estrofes: a 1.ª e 3.ª são idênticas às 1.ª e 5.ª do Sl 95; a 2.ª convida todos os povos a louvar a Deus ao som dos instrumentos de música. (2) PORQUE ÊLE FÊZ MARAVILHAS — Fêz Cristo inumeráveis milagres para acreditar mais e mais a sua missão e ofício do Redentor, e também a santidade da sua doutrina em benefício do homem. — Pereira. (3) E O SEU BRAÇO SANTO — É uma frase hebraica, e é êste o sentido: salvou-se com a sua Onipotência, porque Jesus Cristo pela sua própria virtude e poder se salvou da morte, e ressuscitou. Ou também: Êle só, sem precisar de socorro algum, salvou o mundo."
+    },
+    "fn97_6": {
+      "rotulo": "Trombetas",
+      "texto": "TROMBETAS — São provàvelmente as trombetas que Moisés mandou arranjar no deserto. Núm 10, 2."
+    }
+  }
+}

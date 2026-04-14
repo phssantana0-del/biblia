@@ -1,0 +1,20 @@
+{
+  "num": 10,
+  "sumario": "Salmo didático. Davi neste Salmo, contemplando ao Senhor justo defensor da inocência, e severo juiz dos que violentamente a perseguem, põe êle toda a sua confiança contra o temor que lhe podiam causar os artifícios de seus inimigos.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, salmo de Davi.", "nota": "fn10_1" },
+    { "n": 2, "texto": "No Senhor confio: Por que dizeis à minha alma: Foge para o monte como pássaro?" },
+    { "n": 3, "texto": "Porque eis-aí os pecadores estenderam o seu arco, prepararam as suas setas na aljava, para as dispararem na obscuridade contra os que são de coração reto." },
+    { "n": 4, "texto": "Por que destruíram o que tu tinhas acabado: E que fêz o justo?", "nota": "fn10_4" },
+    { "n": 5, "texto": "O Senhor habita no seu templo, o trono do Senhor é no Céu. Os seus olhos olham para o pobre: As suas pálpebras fazem perguntas aos filhos dos homens." },
+    { "n": 6, "texto": "O Senhor faz perguntas ao justo e ao ímpio: Aquêle porém que ama a iniquidade, aborrece a sua alma." },
+    { "n": 7, "texto": "Fará chover laços sôbre os pecadores: O fogo, e o enxofre, e as tempestades são a parte que lhes toca.", "nota": "fn10_7" },
+    { "n": 8, "texto": "Porque o Senhor é justo, e êle amou a justiça: O seu rosto olha para a equidade." }
+  ],
+  "notas": {
+    "fn10_0": { "rotulo": "Sobre êste Salmo", "texto": "O objeto dêste Salmo é — recusar-se a fugir ao perigo que ameaça a sua vida, porque tem tôda a confiança em Deus. Compreende duas estrofes de oito e nove versos. A 1.ª (2-4) mostra-nos os amigos de Davi aconselhando-o a que fuja na hora do perigo; na 2.ª (5-8) responde-lhes que a sua consciência está tranquila, que confia em Deus e na sua justiça." },
+    "fn10_1": { "rotulo": "Salmo de Davi", "texto": "O objeto dêste Salmo é — recusar-se a fugir ao perigo que ameaça a sua vida, porque tem tôda a confiança em Deus. Compreende duas estrofes de oito e nove versos." },
+    "fn10_4": { "rotulo": "Por que destruíram", "texto": "A versão de S. Jerônimo diz com mais individuação: <em>Quia leges dissipatæ sunt</em>: Porque as leis foram dissipadas. E pelo que a Vulgata acrescenta no pretérito, <em>justus autem quid fecit</em>. E que fêz o justo; verte Le Gros com Bossuet no futuro: Que fará, ou que poderá fazer o justo? a saber, onde não há leis nenhumas. — Pereira." },
+    "fn10_7": { "rotulo": "São a parte que lhes toca", "texto": "Traduzindo à letra, <em>pars calicis eorum</em>, diríamos: São a parte do seu cálice. E a metáfora foi tirada ou do cálice de onde se extraíam as sortes, ou do cálice que nos banquetes servia de medida do que cada um havia de beber. — Pereira." }
+  }
+}

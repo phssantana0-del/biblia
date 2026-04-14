@@ -1,0 +1,14 @@
+{
+  "num": 69,
+  "sumario": "In finem. Psalmus David, in rememorationem, quod salvum fecerit eum Dominus.",
+  "versiculos": [
+    { "n": 1, "texto": "In finem. Psalmus David, in rememorationem, quod salvum fecerit eum Dominus." },
+    { "n": 2, "texto": "Deus, in adjutorium meum intende: Domine, ad adjuvandum me festina." },
+    { "n": 3, "texto": "Confundantur et revereantur, qui quærunt animam meam." },
+    { "n": 4, "texto": "Avertantur retrorsum, et erubescant, qui volunt mihi mala. Avertantur statim erubescentes, qui dicunt mihi: Euge, euge." },
+    { "n": 5, "texto": "Exsultent et lætentur in te omnes qui quærunt te, et dicant semper: Magnificetur Dominus: qui diligunt salutare tuum." },
+    { "n": 6, "texto": "Ego vero egenus et pauper sum: Deus, adjuva me. Adjutor meus et liberator meus es tu: Domine, ne moreris." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

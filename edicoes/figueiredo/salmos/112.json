@@ -1,0 +1,29 @@
+{
+  "num": 112,
+  "sumario": "Deus olhando desde o Céu para os bons e humildes a fim de os proteger e amparar. Aleluia.",
+  "versiculos": [
+    { "n": 1, "texto": "Louvai, ó meninos, ao Senhor:<br>Louvai o nome do Senhor.", "nota": "fn112_1" },
+    { "n": 2, "texto": "Seja bendito o nome do Senhor, desde agora para sempre." },
+    { "n": 3, "texto": "Desde o nascimento do sol até o seu ocaso, é digno de louvor o nome do Senhor." },
+    { "n": 4, "texto": "Excelso é o Senhor sôbre tôdas as gentes, e a sua glória é sôbre os Céus." },
+    { "n": 5, "texto": "Quem há como o Senhor nosso Deus, que habita nas alturas," },
+    { "n": 6, "texto": "e atende às coisas humildes no Céu e na terra?" },
+    { "n": 7, "texto": "Êle levanta da terra ao desvalido, e tira da abjeção ao pobre:", "nota": "fn112_7" },
+    { "n": 8, "texto": "Para o colocar com os príncipes, com os príncipes do seu povo." },
+    { "n": 9, "texto": "Êle faz que habite na casa a mulher estéril, alegre de se ver mãe de filhos." }
+  ],
+  "notas": {
+    "fn112_0": {
+      "rotulo": "Aleluia",
+      "texto": "Êste salmo tem analogia com o cântico de Ana, 1 Rs 2 e com o Magnificat. Começa o Hallel que os judeus recitam nas três grandes festas do ano, na festa da Dedicação e nas Neomênias. Os outros salmos do Hallel são 113, 117 e 135, o qual é especialmente chamado o grande Hallel. Êste salmo é muito regular; tem três estrofes de fácil compreensão. A primeira convida a louvar a Deus; a segunda exalta a onipotência do Altíssimo. A terceira estabelece o contraste entre a Onipotência e a Bondade divina, louvando o Senhor que se humilha para sustentar e consolar os pequenos e os fracos."
+    },
+    "fn112_1": {
+      "rotulo": "Louvai, ó meninos",
+      "texto": "LOUVAI, Ó MENINOS — O hebreu tem: \"Louvai, servos do Senhor, louvai o nome do Senhor\". A palavra pueri admite a significação de servos e de meninos: porém a maior parte dos Padres a interpreta neste último sentido, crendo que o salmo é como uma exortação aos meninos para que louvem o nome do Senhor: porque segundo Santo Agostinho: Dominus non nisi pueri laudant: Só os meninos é que louvam ao Senhor porque os soberbos não o sabem louvar, entendendo pelo nome de pueri os humildes e inocentes. O mesmo sentido está nas versões de Áquila, Symmaco e Teodoclão."
+    },
+    "fn112_7": {
+      "rotulo": "E tira da abjeção ao pobre",
+      "texto": "E TIRA DA ABJEÇÃO AO POBRE — Levanta do pó da terra aos humildes, como o fêz com Saul, Davi, José, e com outros muitos."
+    }
+  }
+}

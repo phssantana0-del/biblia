@@ -1,0 +1,24 @@
+{
+  "num": 120,
+  "sumario": "Salmo didático. O homem fiel a Deus tem por meio da fé afiançado o seu socorro contra todos os perigos e trabalhos. Cântico gradual.",
+  "versiculos": [
+    { "n": 1, "texto": "Levantei os meus olhos aos montes, de onde me virá o socorro.", "nota": "fn120_1" },
+    { "n": 2, "texto": "O meu socorro vem do Senhor, que fêz o céu, e a terra." },
+    { "n": 3, "texto": "Não permita que vacile o teu pé:<br>Nem dormite aquêle que te guarda." },
+    { "n": 4, "texto": "Eis que não adormecerá, nem dormirá o que guarda a Israel." },
+    { "n": 5, "texto": "O Senhor está em tua guarda, o Senhor é a tua proteção, êle está à tua mão direita." },
+    { "n": 6, "texto": "De dia o sol não te queimará:<br>Nem a lua de noite." },
+    { "n": 7, "texto": "O Senhor te guarde de todo o mal:<br>Guarde a tua alma o Senhor." },
+    { "n": 8, "texto": "O Senhor guarde a tua entrada e a tua saída:<br>Desde agora e para sempre." }
+  ],
+  "notas": {
+    "fn120_0": {
+      "rotulo": "Cântico gradual",
+      "texto": "Êste salmo está escrito com muita simplicidade e elegância, traduzindo uma grande serenidade de alma. Tem quatro estrofes."
+    },
+    "fn120_1": {
+      "rotulo": "Levantei os meus olhos aos montes",
+      "texto": "LEVANTEI OS MEUS OLHOS AOS MONTES — Alude ao sítio montanhoso, onde estava a cidade de Jerusalém e em especial ao monte de Sião. O sentido é êste: para os montes de Jerusalém levantei os meus olhos, que é onde o Senhor tem a sua morada, e de onde certamente espero que me há de vir o socorro."
+    }
+  }
+}

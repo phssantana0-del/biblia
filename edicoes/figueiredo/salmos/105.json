@@ -1,0 +1,92 @@
+{
+  "num": 105,
+  "sumario": "Salmo histórico. Faz-se memória dos benefícios que Deus fêz ao seu povo desde que saiu do Egito, até os juízes: da ingratidão com que êste lhe correspondeu; e como o misericordioso Senhor o corrigia e tirava das suas angústias. Aleluia. (Jdt 13, 21.)",
+  "versiculos": [
+    { "n": 1, "texto": "Louvai ao Senhor porque êle é bom: Porque a sua misericórdia é por todos os séculos.", "nota": "fn105_1" },
+    { "n": 2, "texto": "Quem referirá as obras do poder do Senhor, quem fará que sejam ouvidos todos os seus louvores?" },
+    { "n": 3, "texto": "Bem-aventurados os que observam retidão, e praticam a justiça em todo o tempo." },
+    { "n": 4, "texto": "Lembra-te de nós, Senhor, segundo a bondade que te aprouve mostrar ao teu povo: Visita-nos com a tua salvação:" },
+    { "n": 5, "texto": "Para que vejamos os bens de teus escolhidos, e gozemos a alegria que destinas ao teu povo: Para que sejas glorificado na tua herança." },
+    { "n": 6, "texto": "Temos pecado com os nossos pais: Temos obrado injustamente, cometemos iniquidade." },
+    { "n": 7, "texto": "Nossos pais no Egito não consideraram as tuas maravilhas: Não se lembraram da multidão da tua misericórdia.<br>E te irritaram estando para entrar no mar, no mar Vermelho." },
+    { "n": 8, "texto": "E êle os salvou por amor do seu nome: Para fazer patente o seu poder.", "nota": "fn105_8" },
+    { "n": 9, "texto": "E ameaçou ao mar Vermelho, e secou-se: E levou-os pelos abismos, como por um deserto. (Êx 14, 21)." },
+    { "n": 10, "texto": "E salvou-os da mão dos que os aborreciam: E resgatou-os da mão do inimigo." },
+    { "n": 11, "texto": "E cobriu de água aos que os perseguiam: Não ficou dêles nem um só. (Êx 17, 21)." },
+    { "n": 12, "texto": "E deram crédito às suas palavras: E cantaram o seu louvor." },
+    { "n": 13, "texto": "Porém logo instantâneamente se deram pressa em esquecer as suas obras: E não esperaram o seu conselho." },
+    { "n": 14, "texto": "E cobiçaram delícias no deserto: E tentaram a Deus no lugar sem água." },
+    { "n": 15, "texto": "E lhes concedeu o que pediam: E enviou fartura às suas almas. (Núm 11, 31.)", "nota": "fn105_15" },
+    { "n": 16, "texto": "E irritaram a Moisés no acampamento: A Aarão o santo do Senhor.", "nota": "fn105_16" },
+    { "n": 17, "texto": "Abriu-se a terra e tragou a Datan: E sorveu a Abiron com seus sequazes. (Núm 16, 32)." },
+    { "n": 18, "texto": "E ateou-se fogo no meio do seu congresso: A chama abrasou aos pecadores." },
+    { "n": 19, "texto": "E fizeram um bezerro em Horeb: E adoraram a obra que fabricaram. (Êx 32, 4)." },
+    { "n": 20, "texto": "E trocaram a sua glória pelo simulacro de um bezerro que come feno." },
+    { "n": 21, "texto": "Esqueceram-se de Deus que os salvou, o qual havia feito grandes prodígios no Egito," },
+    { "n": 22, "texto": "maravilhas na terra de Cam: Portentos no mar Vermelho." },
+    { "n": 23, "texto": "E disse que os destruiria: Se Moisés seu escolhido se não houvesse pôsto em meio ante êle quebrando o ídolo:<br>Para apartar a sua ira, que não os destruísse: (Êx 32, 10)." },
+    { "n": 24, "texto": "E por nada reputaram a terra desejada:<br>Não creram na sua palavra," },
+    { "n": 25, "texto": "e murmuraram nas suas tendas: Não atenderam à voz do Senhor." },
+    { "n": 26, "texto": "E levantou a sua mão sôbre êles: Para os exterminar no deserto: (Núm 14, 32)." },
+    { "n": 27, "texto": "E para envilecer a sua estirpe entre as nações: E espalhá-los pelas regiões." },
+    { "n": 28, "texto": "E consagraram-se a Beelfegor: E comeram os sacrifícios dos mortos.", "nota": "fn105_28" },
+    { "n": 29, "texto": "E o irritaram com as suas invenções: E se multiplicou nêles a mortandade." },
+    { "n": 30, "texto": "E apresentou-se Finéias, e o aplacou: E cessou o flagelo. (Núm 25, 7)." },
+    { "n": 31, "texto": "E isto foi-lhe imputado por justiça por geração e geração para sempre.", "nota": "fn105_31" },
+    { "n": 32, "texto": "E irritaram nas águas da contradição: E foi castigado Moisés por causa dêles: (Núm 20, 10.)", "nota": "fn105_32" },
+    { "n": 33, "texto": "Porque amarguraram o seu espírito.<br>E foi duvidoso nas suas palavras:" },
+    { "n": 34, "texto": "Não exterminaram as gentes que o Senhor lhes disse." },
+    { "n": 35, "texto": "E se mesclaram com as gentes, e tomaram os seus costumes:" },
+    { "n": 36, "texto": "E serviram aos seus ídolos: E lhes foi causa de tropeço." },
+    { "n": 37, "texto": "E imolaram aos demónios os seus filhos, e as suas filhas." },
+    { "n": 38, "texto": "E derramaram o sangue inocente: O sangue de seus filhos e de suas filhas, que haviam sacrificado aos ídolos de Canaã.<br>E se inficionou a terra com sangues," },
+    { "n": 39, "texto": "e se contaminou com as suas obras: E se prostituíram nas suas invenções.", "nota": "fn105_39" },
+    { "n": 40, "texto": "E se incendeu de furor o Senhor contra o seu povo: E abominou a sua herança." },
+    { "n": 41, "texto": "E os entregou em poder das gentes: E os dominaram aquêles que os aborreciam." },
+    { "n": 42, "texto": "E angustiaram-nos os seus inimigos, e foram humilhados debaixo do seu poder:" },
+    { "n": 43, "texto": "Muitas vêzes os livrou.<br>Mas êles o irritaram com o seu intento: E foram humilhados pelas suas maldades." },
+    { "n": 44, "texto": "E olhou-os quando estavam em angústia: E ouviu a sua oração." },
+    { "n": 45, "texto": "E lembrou-se do seu pacto: E se enterneceu segundo a multidão da sua misericórdia. (Dt 30, 1)." },
+    { "n": 46, "texto": "E empregou nêles as suas misericórdias à vista de todos aquêles que os haviam cativado." },
+    { "n": 47, "texto": "Salva-nos, Senhor nosso Deus: E congrega-nos de entre as nações:<br>Para que confessemos o teu santo nome: E nos gloriemos no teu louvor." },
+    { "n": 48, "texto": "Bendito o Senhor Deus de Israel pelos séculos dos séculos: E dirá todo o povo: Assim seja, assim seja.", "nota": "fn105_48" }
+  ],
+  "notas": {
+    "fn105_1": {
+      "rotulo": "Aleluia",
+      "texto": "ALELUIA — Êste salmo é o primeiro dos da coleção que tem por palavra inicial allelou-yah. Louvai o Senhor; o anterior tem esta palavra na Vulgata, adição justificada pela índole do salmo. Êste é um resumo da história do povo de Deus no deserto do Sinai. Não é fácil dividir no original as estrofes. Em todo o caso poder-se-ão agrupar dêste modo as idéias expressas no salmo: (1-3) introdução e exortação a louvar a Deus; (4-6) oração; fatos históricos (7 a 47). O v. 48 é a doxologia que marca o fim do quarto livro dos salmos. Como no salmo anterior indicamos na passagem a que se refere o texto."
+    },
+    "fn105_8": {
+      "rotulo": "E êle os salvou",
+      "texto": "E ÊLE OS SALVOU — Sem respeito aos seus merecimentos, só pela própria bondade e glória do seu nome. — Pereira."
+    },
+    "fn105_15": {
+      "rotulo": "E enviou fartura",
+      "texto": "E ENVIOU FARTURA, ETC. — Até que lhes causou fastio, e náusea o mesmo que haviam desejado. O hebreu diz: \"e mandou fraqueza às suas almas:\" tirou o Senhor a sua virtude, e negou a sua bênção àquela vianda, e assim em lugar de se nutrirem enfraqueciam, e caíam em pthisis, enfermidade que frequentemente procede de comer com excesso, e do que tem princípio aquela náusea e desgôsto, com que o Senhor os havia ameaçado. Núm 11, 20. — P. Seio."
+    },
+    "fn105_16": {
+      "rotulo": "E irritaram a Moisés",
+      "texto": "E IRRITARAM A MOISÉS — S. Jerônimo verte aqui, zelati sunt, isto é, tiveram zelos, ou inveja, por verem que Deus elevara sôbre todos a Moisés, e a Aarão. Por isso diziam: Cur elevamini super populum Domini? Por que sois vós elevados sôbre o povo do Senhor? Núm 16, 3. — Bossuet."
+    },
+    "fn105_28": {
+      "rotulo": "A Beelfegor",
+      "texto": "A BEELFEGOR — Êste era um infame ídolo dos moabitas e madianitas. Núm 25, 3. — Pereira."
+    },
+    "fn105_31": {
+      "rotulo": "E isto foi-lhe imputado",
+      "texto": "E ISTO FOI-LHE IMPUTADO — O Senhor deu a Finéias em prémio do zêlo que mostrou pela glória de Deus o pontificado, que fêz continuar na sua família por mais de cento e trinta anos. Veja-se o lugar citado dos Núm 13. — Pereira."
+    },
+    "fn105_32": {
+      "rotulo": "E foi castigado Moisés",
+      "texto": "E FOI CASTIGADO MOISÉS — Privando-o o Senhor da consolação de entrar na terra prometida. — Pereira."
+    },
+    "fn105_39": {
+      "rotulo": "E se prostituíram",
+      "texto": "E SE PROSTITUÍRAM — Já mesclando-se com mulheres idólatras, já adorando os ídolos das nações, como os mesmos idólatras. As abominações dos israelitas, que se insinuam nos vv. 33 até 38, pertencem principalmente ao tempo em que governaram os juízes; e ainda que estas não constam pormenor naquele livro, não são por isso menos certas. — P. Seio."
+    },
+    "fn105_48": {
+      "rotulo": "Assim seja",
+      "texto": "ASSIM SEJA — No hebreu se lê: Amém, aleluia. Êste último versículo não pertence ao salmo, é uma adição, que se punha no fim de cada livro, porquanto aqui acaba, segundo a divisão dos hebreus, o quarto livro dos salmos."
+    }
+  }
+}

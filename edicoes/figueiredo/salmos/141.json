@@ -1,0 +1,28 @@
+{
+  "num": 141,
+  "sumario": "Salmo deprecatório. Só e desamparado de humano socorro implora o favor divino contra os seus inimigos.",
+  "versiculos": [
+    { "n": 1, "texto": "Instrução de Davi.<br>Quando estava na cova, oração. (1 Rs 24.)", "nota": "fn141_1" },
+    { "n": 2, "texto": "Com a minha voz clamei ao Senhor: Com a minha voz fiz deprecação ao Senhor." },
+    { "n": 3, "texto": "Derramo na sua presença a minha oração, e exponho diante dêle mesmo a minha tribulação." },
+    { "n": 4, "texto": "Enquanto me vai desfalecendo o meu espírito, e tu conheceste as minhas veredas.<br>Neste caminho, por onde eu andava, esconderam-me o laço." },
+    { "n": 5, "texto": "Considerava para a minha direita, e olhava: E não havia quem me conhecesse.<br>Não me ficou lugar de fugida e não há quem se lhe dê da minha alma.", "nota": "fn141_5" },
+    { "n": 6, "texto": "A ti clamei, Senhor, disse: Tu és a minha esperança, a minha porção na terra dos viventes." },
+    { "n": 7, "texto": "Atende à minha deprecação: Porque tenho sido humilhado sobremaneira.<br>Livra-me dos que me perseguem: Porque se têm feito mais fortes do que eu." },
+    { "n": 8, "texto": "Tira do cárcere a minha alma, para dar glória ao teu nome: A mim me estão esperando os justos, até que me dês a retribuição.", "nota": "fn141_8" }
+  ],
+  "notas": {
+    "fn141_1": {
+      "rotulo": "Quando estava na cova",
+      "texto": "QUANDO ESTAVA NA COVA — Duas vêzes se refugiou Davi em grutas por não cair nas mãos de Saul, em Odolão e em Engadi, provàvelmente na primeira. Tem três estrofes."
+    },
+    "fn141_5": {
+      "rotulo": "Para a minha direita",
+      "texto": "PARA A MINHA DIREITA — Destra se toma em sentido de patrocínio, proteção, defensa. — P. Seio."
+    },
+    "fn141_8": {
+      "rotulo": "Tira do cárcere",
+      "texto": "TIRA DO CÁRCERE — Desta caverna em que estou encerrado como em um cárcere, e da guarda de soldados que me cerca. O hebreu diz: \"Os justos me coroarão, quando me fizeres bem,\" me cercarão ou todos à roda de mim me darão o parabém e me acompanharão para te dar as devidas graças. Tudo isto alude principalmente a Jesus Cristo, que roga ao Padre o tire da morte e do sepulcro, ressuscitando-o à vida imortal para glória de seu nome, cujo momento feliz esperavam com ânsia todos os justos que estavam detidos no seio de Abraão. S. Francisco de Assis expirou recitando êste verso. S. Boaventura Bp. Francisci Vita."
+    }
+  }
+}

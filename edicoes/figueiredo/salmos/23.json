@@ -1,0 +1,30 @@
+{
+  "num": 23,
+  "sumario": "Salmo histórico, e moral. As faustas aclamações do povo com o rei, ao trasladar-se a Arca da casa de Obededom para o Tabernáculo de Sião, em figura do triunfo da Ascensão ao Céu.",
+  "versiculos": [
+    { "n": 1, "texto": "Para o primeiro dia da semana, Salmo de Davi. Do Senhor é a terra, e tudo o que a enche: A redondeza da terra, e todos os seus habitadores.", "nota": "fn23_1" },
+    { "n": 2, "texto": "Porque êle a fundou sôbre os mares: E a estabeleceu sôbre os rios.", "nota": "fn23_2" },
+    { "n": 3, "texto": "Quem subirá ao monte do Senhor? Ou quem estará no seu santo lugar?" },
+    { "n": 4, "texto": "O inocente de mãos e limpo de coração, o que não recebeu em vão a sua alma, nem fêz juramentos dolosos ao seu próximo.", "nota": "fn23_4" },
+    { "n": 5, "texto": "Êste receberá a bênção do Senhor: E a misericórdia de Deus seu salvador." },
+    { "n": 6, "texto": "Esta é a geração dos que o buscam, dos que buscam a face do Deus de Jacó." },
+    { "n": 7, "texto": "Levantai, ó príncipes, as vossas portas, levantai-vos, ó portas eternas: E entrará o rei da glória." },
+    { "n": 8, "texto": "Quem é êste rei da glória? O Senhor forte e poderoso: O Senhor poderoso na batalha." },
+    { "n": 9, "texto": "Levantai, ó príncipes, as vossas portas, levantai-vos, ó portas eternas: E entrará o rei da glória." },
+    { "n": 10, "texto": "Quem é êste rei da glória? O Senhor das virtudes, êsse é o rei da glória." }
+  ],
+  "notas": {
+    "fn23_1": {
+      "rotulo": "Para o primeiro dia da semana",
+      "texto": "Estas palavras não estão no original hebraico, foram acrescentadas pelos Setenta. Êste Salmo, no entender de S. Agostinho e S. Atanásio, foi composto para celebrar o primeiro dia da criação do Universo. Os rabinos Kimche e Aben-Esra afirmam que foi composto em consequência da revelação que Deus se dignou fazer a Davi, pela voz do profeta Natan, do sítio em que êle queria que sôbre o monte Sion se lhe edificasse o templo em que devia ser adorado. Du Pin e Bossuet inclinam-se a que êste Salmo foi composto quando se transferia a Arca da Aliança. 2 Rs 6, 17."
+    },
+    "fn23_2": {
+      "rotulo": "Sôbre os mares",
+      "texto": "Assim mais adiante, \"sôbre os rios\" e em ambos os lugares quer dizer o salmista que Deus fundara a terra superior aos mares, e aos rios, pelos altos montes, e despenhadas serranias, de que cercou as águas, para com estas, como fortalezas, que lhes impôs, coibir a sua fúria. — Bossuet."
+    },
+    "fn23_4": {
+      "rotulo": "O que não recebeu em vão a sua alma",
+      "texto": "O que não julgou falso contra a sua alma. — Bossuet."
+    }
+  }
+}

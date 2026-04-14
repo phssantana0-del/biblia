@@ -1,0 +1,22 @@
+{
+  "num": 84,
+  "sumario": "In finem. Filiis Core. Psalmus.",
+  "versiculos": [
+    { "n": 1,  "texto": "In finem. Filiis Core. Psalmus." },
+    { "n": 2,  "texto": "Benedixisti, Domine, terram tuam; avertisti captivitatem Jacob." },
+    { "n": 3,  "texto": "Remisisti iniquitatem plebis tuæ; operuisti omnia peccata eorum." },
+    { "n": 4,  "texto": "Mitigasti omnem iram tuam; avertisti ab ira indignationis tuæ." },
+    { "n": 5,  "texto": "Converte nos, Deus salutaris noster, et averte iram tuam a nobis." },
+    { "n": 6,  "texto": "Numquid in æternum irasceris nobis? aut extendes iram tuam a generatione in generationem?" },
+    { "n": 7,  "texto": "Deus, tu conversus vivificabis nos; et plebs tua lætabitur in te." },
+    { "n": 8,  "texto": "Ostende nobis, Domine, misericordiam tuam, et salutare tuum da nobis." },
+    { "n": 9,  "texto": "Audiam quid loquatur in me Dominus Deus, quoniam loquetur pacem in plebem suam. Et super sanctos suos, et in eos qui convertuntur ad cor." },
+    { "n": 10, "texto": "Verumtamen prope timentes eum salutare ipsius, ut inhabitet gloria in terra nostra." },
+    { "n": 11, "texto": "Misericordia et veritas obviaverunt sibi; justitia et pax osculatæ sunt." },
+    { "n": 12, "texto": "Veritas de terra orta est, et justitia de cælo prospexit." },
+    { "n": 13, "texto": "Etenim Dominus dabit benignitatem, et terra nostra dabit fructum suum." },
+    { "n": 14, "texto": "Justitia ante eum ambulabit, et ponet in via gressus suos." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

@@ -1,0 +1,39 @@
+{
+  "num": 63,
+  "sumario": "Salmo deprecatório. Descreve Davi as violências dos que o perseguem: e pede ao Senhor que o livre das suas mãos, intimando-lhes o terrível juízo que Deus prepara para dêles, para glória sua, e para consolação dos bons. Ao regente do côro.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi.", "nota": "fn63_1" },
+    { "n": 2, "texto": "Ouve, ó Deus, a minha oração quando te rogo: Do temor do inimigo livra a minha alma." },
+    { "n": 3, "texto": "Defendeste-me da conspiração dos malignos: Da multidão dos que obram iniquidade." },
+    { "n": 4, "texto": "Porque aguçaram como espada as suas línguas: Entesaram o arco, coisa amarga,", "nota": "fn63_4" },
+    { "n": 5, "texto": "para de emboscada assetear ao inocente." },
+    { "n": 6, "texto": "De súbito o assetearam: Obstinaram-se na sua depravada resolução.<br>Trataram de esconder laços: Disseram: Quem os verá?" },
+    { "n": 7, "texto": "Excogitaram iniquidades: Faltaram os perscrutadores no escrutínio.<br>Chegar-se-á o homem ao profundo do coração:", "nota": "fn63_7a" },
+    { "n": 8, "texto": "E Deus será exaltado.<br>As feridas que êles fazem são como as das flechas de crianças:", "nota": "fn63_8" },
+    { "n": 9, "texto": "E as suas línguas perderam a fôrça voltando-se contra êles mesmos.<br>Conturbados foram todos os que viam:" },
+    { "n": 10, "texto": "E todo o homem temeu.<br>E anunciaram as obras de Deus: E entenderam os seus feitos." },
+    { "n": 11, "texto": "Alegrar-se-á o justo no Senhor, e esperará nêle, e serão louvados todos os retos de coração." }
+  ],
+  "notas": {
+    "fn63_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "SALMO DE DAVI — Provàvelmente foi composto no tempo da perseguição de Saul, contra os cortesãos dêste, que o indispunham a cada momento, caluniando-o constantemente. Tem três estrofes. Primeira (2-6). Que Deus proteja Davi contra os caluniadores. Segunda (6-7). Descrição dos maus tratos e calúnias que o vitimavam. Terceira (8-11). Castigo que Deus lhe reservou."
+    },
+    "fn63_4": {
+      "rotulo": "Coisa amarga",
+      "texto": "COISA AMARGA — O que está no original hebraico é palavra amarga, dabar mar, que os intérpretes entendem desta maneira: \"em vez de ervadas setas despediram contra mim amargas calúnias, que matam moralmente; ou, segundo outros, sugeriram calúnias a Saul, para que êste me matasse.\""
+    },
+    "fn63_7a": {
+      "rotulo": "Excogitaram iniquidades",
+      "texto": "EXCOGITARAM INIQUIDADES — Crimes, que me imputam. Como vertem Sacy, de Carrières e Calmet. Outros com Bossuet expõem: êles andaram buscando com todo o cuidado as iniquidades, isto é, os iníquos meios de me fazerem mal."
+    },
+    "fn63_7b": {
+      "rotulo": "Chegar-se-á o homem ao profundo do coração",
+      "texto": "CHEGAR-SE-Á O HOMEM AO PROFUNDO DO CORAÇÃO — Quer dizer, que o homem ímpio, quando não ache no inocente obras, que argüir, passará a acusar até os seus ocultos pensamentos. — Bossuet."
+    },
+    "fn63_8": {
+      "rotulo": "Como as das flechas de crianças",
+      "texto": "COMO AS DAS FLECHAS DE CRIANÇAS — O hebreu diz: \"Mas Deus os asseteará.\" Esta é uma antítese do verso 4: \"As suas feridas serão como de repentina seta\" quando estejam mais engolfados nos seus longos pensamentos, e projetos. Outros: \"Mas Deus os asseteará com seta; de repente serão as suas feridas. E farão cair sôbre si as suas mesmas línguas; espantar-se-ão todos os que virem\". Isto é: os seus mesmos malvados conselhos, que tomaram, e deliberaram com as suas línguas recairão sôbre êles. Sl 33, 22; 93, 23. Os Setenta leram sem dúvida parvulorum simplicium em vez de súbito, repente. — P. Seio."
+    }
+  }
+}

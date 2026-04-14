@@ -1,0 +1,21 @@
+{
+  "num": 95,
+  "sumario": "Canticum ipsi David, quando domus ædificabatur post captivitatem.",
+  "versiculos": [
+    { "n": 1, "texto": "Cantate Domino canticum novum: cantate Domino, omnis terra." },
+    { "n": 2, "texto": "Cantate Domino, et benedicite nomini ejus: annuntiate de die in diem salutare ejus." },
+    { "n": 3, "texto": "Annuntiate inter gentes gloriam ejus, in omnibus populis mirabilia ejus." },
+    { "n": 4, "texto": "Quoniam magnus Dominus, et laudabilis nimis: terribilis est super omnes deos." },
+    { "n": 5, "texto": "Quoniam omnes dii gentium dæmonia: Dominus autem cælos fecit." },
+    { "n": 6, "texto": "Confessio et pulchritudo in conspectu ejus: sanctimonia et magnificentia in sanctificatione ejus." },
+    { "n": 7, "texto": "Afferte Domino, patriæ gentium, afferte Domino gloriam et honorem:" },
+    { "n": 8, "texto": "afferte Domino gloriam nomini ejus. Tollite hostias, et introite in atria ejus:" },
+    { "n": 9, "texto": "adorate Dominum in atrio sancto ejus. Commoveatur a facie ejus universa terra:" },
+    { "n": 10, "texto": "dicite in gentibus quia Dominus regnavit. Etenim correxit orbem terræ qui non commovebitur: judicabit populos in æquitate." },
+    { "n": 11, "texto": "Lætentur cæli, et exsultet terra: commoveatur mare, et plenitudo ejus:" },
+    { "n": 12, "texto": "gaudebunt campi, et omnia quæ in eis sunt. Tunc exsultabunt omnia ligna silvarum" },
+    { "n": 13, "texto": "a facie Domini, quia venit: quoniam venit judicare terram. Judicabit orbem terræ in æquitate, et populos in veritate sua." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

@@ -1,0 +1,39 @@
+{
+  "num": 18,
+  "sumario": "Salmo de louvor, e de exortação. A formosura, e ordem dos céus, e a imutabilidade da lei são uns pregoeiros da sabedoria de Deus.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, salmo de Davi.", "nota": "fn18_1" },
+    { "n": 2, "texto": "Os céus publicam a glória de Deus, e o firmamento anuncia as obras das suas mãos." },
+    { "n": 3, "texto": "Um dia diz uma palavra a outro dia, e uma noite mostra sabedoria a outra noite." },
+    { "n": 4, "texto": "Não há linguagem, nem fala, por quem não sejam entendidas as suas vozes." },
+    { "n": 5, "texto": "O seu som se estendeu por tôda a terra: E as suas palavras até as extremidades do mundo.", "nota": "fn18_5" },
+    { "n": 6, "texto": "No sol pôs o seu tabernáculo: E êle como esposo que sai do seu tálamo: Deu saltos como gigante para correr o caminho," },
+    { "n": 7, "texto": "a sua saída é desde uma extremidade dêle: E não há quem se esconda do seu calor." },
+    { "n": 8, "texto": "A lei do Senhor que é imaculada converte as almas: O testemunho do Senhor é fiel, e dá sabedoria aos pequeninos." },
+    { "n": 9, "texto": "As justiças do Senhor são retas, que alegram os corações: O preceito do Senhor é claro, que esclarece os olhos." },
+    { "n": 10, "texto": "O temor do Senhor é santo, que permanece por séculos: Os juízos do Senhor são verdadeiros, cheios de justiça em si mesmos." },
+    { "n": 11, "texto": "Êles são mais para desejar do que o muito ouro e as muitas pedras preciosas: E são mais doces do que o mel e o favo.", "nota": "fn18_11" },
+    { "n": 12, "texto": "Pelo que o teu servo os guarda, e em os guardar há grande recompensa." },
+    { "n": 13, "texto": "Quem é que conhece os seus delitos? purifica-me dos que me são ocultos:" },
+    { "n": 14, "texto": "E perdoa ao teu servo os alheios. Se êles se não senhorearem de mim, serei eu imaculado: E serei purificado do delito máximo.", "nota": "fn18_14" },
+    { "n": 15, "texto": "Então as palavras de minha bôca te serão agradáveis: E a meditação do meu coração será sempre na tua presença. Senhor, favorecedor meu, e Redentor meu." }
+  ],
+  "notas": {
+    "fn18_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "O objeto dêste salmo é: 1.º a manifestação da glória de Deus pelo esplendor das coisas criadas na ordem natural; 2.º pela beleza de sua lei na ordem moral. Compreende dez estrofes. — Primeira parte 1.ª Est. (2-3) Os Céus celebram a glória de Deus; 2.ª (4-6) O som da palavra, conquanto não seja articulada, repercute-se nas extremidades da terra; 3.ª (6-7) O sol dardeja os seus raios dum extremo a outro do orbe, e nada escapa ao seu calor. Segunda parte 4.ª (8) Perfeição de Deus; 5.ª (9) As suas ordens alegram o coração e brilham aos olhos dos homens; 6.ª (10) Subsiste sempre o seu temor; os seus juízos são verdadeiros e justos; 7.ª (11) Mais preciosos do que o ouro, mais doces do que o mel; 8.ª (12-13) Teu servo é esclarecido por êsses juízos; 9.ª (14) Pede que o livre das faltas que desconhece, que estas o não dominem, para que seja sem mancha; 10.ª (15) E que sejam agradáveis a Deus as suas palavras, que os seus pensamentos cheguem à presença de Deus, seu apoio e seu redentor. Juntamente com uma notável elevação de estilo, há neste salmo uma grande filosofia. O profeta rei, depois de deduzir a verdade da existência de Deus, da contemplação das obras da natureza, e de admirar o poder do Criador refletindo sôbre a ordem admirável do Universo, reconhece que ela só pode proceder de um ente infinitamente sábio. Algumas passagens dêste Salmo aplicam-se, no sentido espiritual, à pregação dos apóstolos."
+    },
+    "fn18_5": {
+      "rotulo": "O seu som se espalhou",
+      "texto": "S. Paulo, ad Rom 10, 18, refere êste verso à pregação dos apóstolos, e mais ministros evangélicos, mas, como ficou dito, no sentido espiritual."
+    },
+    "fn18_11": {
+      "rotulo": "Do que o muito ouro",
+      "texto": "O hebreu tem: \"E mais que uma grande quantidade de finíssimo ouro:\" a palavra hebraica, que se traslada comumente obrizum, a entende Calmet, no Gên 2, 11, de Phasis, de onde naqueles tempos, assim como da Cólquida, se tirava o ouro. O multum do texto não é advérbio, mas adjetivo, que deve unir-se com os substantivos, como claramente se vê nos Setenta, e no hebreu. — P. Seio."
+    },
+    "fn18_14": {
+      "rotulo": "E perdoa ao teu servo os alheios",
+      "texto": "Isto é, os delitos dos outros, em que eu de qualquer modo tenha parte. Ou dos delitos, que eu cometa por indução dos outros. Assim entende Santo Agostinho, e com êle Bossuet, o que a Vulgata diz, et ab alienis parce servo tuo. Contudo o hebreu, segundo o expõe Le Gros seguindo a S. Jerônimo, tem: \"E preserva ao teu servo das impressões da soberba.\" Delito máximo — Referência ao pecado de Adão, que abrangeu o mundo inteiro, e exigiu, para ser perdoado, o sacrifício do homem Deus."
+    }
+  }
+}

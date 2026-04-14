@@ -1,0 +1,41 @@
+{
+  "num": 32,
+  "titulo": "Salmo de Davi.",
+  "sumario": "Exorta Davi aos fiéis a que louvem o Senhor, por causa das obras do seu poder, e da fidelidade das suas promessas, e da particular Providência com que governa e atende pela sua Igreja: tendo sempre presente a ruína, e extermínio dos ímpios.",
+  "versiculos": [
+    { "n": 1, "texto": "Exultai, ó justos, no Senhor: Aos retos convém que o louvem.", "nota": "fn32_1" },
+    { "n": 2, "texto": "Louvai ao Senhor com a cítara: Cantai-lhe hinos a êle com o saltério de dez cordas." },
+    { "n": 3, "texto": "Cantai-lhe a êle um novo cântico: Celebrai-o com concêrto de instrumentos e de vozes." },
+    { "n": 4, "texto": "Porque a palavra do Senhor é reta, e a sua fidelidade resplandece em tôdas as suas obras." },
+    { "n": 5, "texto": "Êle ama a misericórdia e a justiça: Da misericórdia do Senhor está cheia tôda a terra." },
+    { "n": 6, "texto": "Pela palavra do Senhor se firmaram os céus: E pelo Espírito da sua bôca tôda a sua virtude.", "nota": "fn32_6" },
+    { "n": 7, "texto": "Êle ajunta como em odre as águas do mar: Êle põe os abismos em tesouros." },
+    { "n": 8, "texto": "Tôda a terra tema ao Senhor: E todos os que habitam o universo tremam dêle." },
+    { "n": 9, "texto": "Porque êle disse, e foram feitas as coisas: Êle mandou e foram criadas." },
+    { "n": 10, "texto": "O Senhor dissipa os projetos das nações: E reprova os intentos dos povos, e arruina os conselhos dos príncipes.", "nota": "fn32_10" },
+    { "n": 11, "texto": "Mas o conselho do Senhor permanece eternamente: Os pensamentos do seu coração de geração em geração." },
+    { "n": 12, "texto": "Bem-aventurada a gente que tem ao Senhor por seu Deus: O povo, a quem escolheu em herança para si.", "nota": "fn32_12" },
+    { "n": 13, "texto": "Desde o céu olhou o Senhor e viu todos os filhos dos homens.", "nota": "fn32_13" },
+    { "n": 14, "texto": "Desde a sua morada que tem preparada olhou sôbre todos os que habitam a terra." },
+    { "n": 15, "texto": "Êle é o que formou o coração de cada um dêles: O que entende tôdas as suas obras.", "nota": "fn32_15" },
+    { "n": 16, "texto": "Não se salva o rei por grande exército: Nem o gigante se salvará pela sua fôrça." },
+    { "n": 17, "texto": "Enganoso o cavalo para a salvação: E em a sua grande fôrça não se salvará.", "nota": "fn32_17" },
+    { "n": 18, "texto": "Eis-aqui os olhos do Senhor sôbre os que o temem: E em aqueles que esperam sôbre a sua misericórdia." },
+    { "n": 19, "texto": "Para livrar da morte as suas almas: E para os sustentar na sua fome." },
+    { "n": 20, "texto": "A nossa alma espera ao Senhor: Porque é nosso favorecedor e protetor.", "nota": "fn32_20" },
+    { "n": 21, "texto": "Porque nêle se alegrará o nosso coração: E no seu santo Nome temos esperado." },
+    { "n": 22, "texto": "Faça-se, Senhor, sôbre nós a tua misericórdia: Da maneira que em ti temos esperado.", "nota": "fn32_22" }
+  ],
+  "notas": {
+    "fn32_0": { "rotulo": "1", "texto": "SALMO DE DAVI — Êste título não aparece no hebreu. Êste Salmo foi composto quando Israel foi livre do jugo estrangeiro. O paralelismo sinonímico é mantido em todo o poema. Tem dez estrofes." },
+    "fn32_1": { "rotulo": "2", "texto": "AOS RETOS CONVÉM QUE O LOUVEM — No que não devem ter parte os hipócritas, e ímpios, que profanam o Nome de Deus, se estando longe dêle o seu coração o pronunciam com a bôca. Vejam-se sôbre isto o Sl 108, 7. Prov 28, 9. Zac 11, 5. — P. Seio." },
+    "fn32_6": { "rotulo": "3", "texto": "PELA PALAVRA DO SENHOR — Pela manifestação da sua vontade e eficaz Decreto: ou pela sua palavra subsistente, que é a Pessoa do Verbo, pelo Espírito da sua bôca, que é a terceira pessoa da Trindade, inseparável das duas, assim na essência, como nas operações. Gên 1, 2. 26, Jó 28, 4. Neste versículo se dá idéia das três Pessoas da Santíssima Trindade, pelas palavras; Dominus, Verbum, et Spiritus. — P. Seio." },
+    "fn32_10": { "rotulo": "4", "texto": "E ARRUINA OS CONSELHOS DOS PRÍNCIPES — Estas últimas palavras não se lêem no hebreu, lêem-se na versão dos Setenta. — Pereira." },
+    "fn32_12": { "rotulo": "5", "texto": "O POVO A QUEM ESCOLHEU — Isto conveio ao povo dos hebreus; porém com maior razão, e melhor título se apropria aos cristãos, que é genus electum, regale Sacerdotium, gens sancta, 1 Pdr 2, 9. — P. Seio." },
+    "fn32_13": { "rotulo": "6", "texto": "DESDE O CÉU — O que explica a admirável Providência com que o Senhor atende a tôdas as coisas humanas, e as governa. — Pereira." },
+    "fn32_15": { "rotulo": "7", "texto": "ÊLE É O QUE FORMOU O CORAÇÃO — Dêste texto deduzia S. Jerônimo que as nossas almas não propagadas umas das outras, as dos filhos das dos pais, mas criadas imediatamente por Deus cada uma de per si. — Pereira." },
+    "fn32_17": { "rotulo": "8", "texto": "NÃO SE SALVARÁ — Isto é, não se salvará a si, nem a quem o monta, nem a multidão, nem a fôrça da cavalaria poderá defender, ou pôr a salvo, e fora de todo o perigo ao que não tem a Deus em seu favor, nem conta com êle em tôdas as suas emprêsas. — P. Seio." },
+    "fn32_20": { "rotulo": "9", "texto": "A NOSSA ALMA ESPERA AO SENHOR — O sustinet da Vulgata no sentido de expectat, quer significar: que espera com paciência que o Senhor lhe assista, e o socorra. — P. Seio." },
+    "fn32_22": { "rotulo": "10", "texto": "DA MANEIRA QUE EM TI TEMOS ESPERADO — Daqui se colhe quão grande era a esperança de Davi, que por ela quer que o Senhor meça a sua misericórdia sôbre êle. — Teodoreto." }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "num": 129,
+  "sumario": "Canticum graduum.",
+  "versiculos": [
+    { "n": 1, "texto": "De profundis clamavi ad te, Domine:" },
+    { "n": 2, "texto": "Domine, exaudi vocem meam. Fiant aures tuæ intendentes, in vocem deprecationis meæ." },
+    { "n": 3, "texto": "Si iniquitates observaveris, Domine: Domine, quis sustinebit?" },
+    { "n": 4, "texto": "Quia apud te propitiatio est: et propter legem tuam sustinui te, Domine." },
+    { "n": 5, "texto": "Sustinuit anima mea in verbo ejus: speravit anima mea in Domino." },
+    { "n": 6, "texto": "A custodia matutina usque ad noctem: speret Israel in Domino." },
+    { "n": 7, "texto": "Quia apud Dominum misericordia: et copiosa apud eum redemptio." },
+    { "n": 8, "texto": "Et ipse redimet Israel, ex omnibus iniquitatibus ejus." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

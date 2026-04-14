@@ -1,0 +1,31 @@
+{
+  "num": 146,
+  "sumario": "Salmo gratulatório. Deve louvar-se o Senhor, porque só êle é admirável.",
+  "versiculos": [
+    { "n": 1, "texto": "Aleluia.<br>Louvai ao Senhor, porque bom é o salmo: Agradável seja ao nosso Deus, e digno dêle o louvor.", "nota": "fn146_1" },
+    { "n": 2, "texto": "O Senhor que edifica a Jerusalém: Congregará as dispersões de Israel.", "nota": "fn146_2" },
+    { "n": 3, "texto": "O que sara aos atribulados de coração: E liga as suas fraturas.", "nota": "fn146_3" },
+    { "n": 4, "texto": "O que conta a multidão das estrêlas: E as chama a tôdas elas pelos seus nomes:" },
+    { "n": 5, "texto": "Grande é nosso Senhor, e grande o seu poder: E a sua sabedoria não tem têrmo." },
+    { "n": 6, "texto": "O Senhor é quem ampara aos humildes: E o que abate aos pecadores até à terra." },
+    { "n": 7, "texto": "Entoai cânticos ao Senhor no seu louvor: Dizei salmos ao nosso Deus com harpa." },
+    { "n": 8, "texto": "O que cobre ao céu de nuvens: E à terra prepara chuva.<br>O que produz nos montes feno: E erva para o serviço dos homens." },
+    { "n": 9, "texto": "O que dá aos animais o alimento conveniente: E aos filhinhos dos corvos que clamam a êle." },
+    { "n": 10, "texto": "Não se agradará da fôrça do cavalo: Nem se comprazerá nos pés robustos do varão." },
+    { "n": 11, "texto": "O Senhor se agradou sempre dos que o temem: E daqueles que esperam na sua misericórdia." }
+  ],
+  "notas": {
+    "fn146_1": {
+      "rotulo": "Aleluia / Louvai",
+      "texto": "Êste salmo e os seguintes até ao salmo 150, são de Neemias ou ao menos da sua época, e tem por assunto agradecer a Deus o restabelecimento do povo judaico em Jerusalém. Não há no original divisão de estrofes. — LOUVAI — O hebreu diz: \"Louvai ao Senhor porque boa coisa é cantar salmos ao nosso Deus; porquanto um festivo hino lhe corresponde.\" E o sentido é: Louvai, ó israelitas, ao Senhor, porque muito útil vos será o cantar-lhe salmos, porém salmos que lhe sejam agradáveis, e que nasçam de corações abrasados no seu amor. Santo Agostinho diz: \"ouve como será agradável o nosso louvor ao Senhor, se se louva vivendo bem.\" — Pereira."
+    },
+    "fn146_2": {
+      "rotulo": "Edifica a Jerusalém",
+      "texto": "EDIFICA A JERUSALÉM — O Senhor reedificou Jerusalém revogando a proibição da sua restauração. AS DISPERSÕES DE ISRAEL — Hebraísmo por Israel disperso."
+    },
+    "fn146_3": {
+      "rotulo": "E liga as suas fraturas",
+      "texto": "E LIGA AS SUAS FRATURAS — O hebreu diz: \"O que ata as dores dêles,\" as suas feridas dolorosas. O efeito pela causa. — Pereira."
+    }
+  }
+}

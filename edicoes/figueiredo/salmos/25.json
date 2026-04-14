@@ -1,0 +1,36 @@
+{
+  "num": 25,
+  "sumario": "Salmo deprecatório. Davi expõe a sua inocência a Deus, patenteando o seu afeto de viver na casa do Senhor, e lhe roga que o purifique da contaminação de seus inimigos.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi. Julga-me, Senhor, porque eu andei na minha inocência: e esperando no Senhor não serei enfraquecido.", "nota": "fn25_1" },
+    { "n": 2, "texto": "Prova-me, Senhor, e sonda-me: Abrasa os meus rins e meu coração.", "nota": "fn25_2" },
+    { "n": 3, "texto": "Porque a tua misericórdia eu a tenho diante de meus olhos: E na tua verdade me tenho comprazido." },
+    { "n": 4, "texto": "Não me sentei no congresso da vaidade: E não tratarei com os que obram a iniquidade.", "nota": "fn25_4" },
+    { "n": 5, "texto": "Eu aborreço a sociedade dos malignos: e não me assentarei com os ímpios." },
+    { "n": 6, "texto": "Mas lavarei as minhas mãos entre os inocentes: E estarei, Senhor, ao redor do teu altar:", "nota": "fn25_6" },
+    { "n": 7, "texto": "Para ouvir a voz dos teus louvores, e narrar tôdas as tuas maravilhas." },
+    { "n": 8, "texto": "Senhor, eu amei a formosura da tua casa, e o lugar onde habita a tua glória." },
+    { "n": 9, "texto": "Não percas, ó Deus, com os ímpios a minha alma, nem com os homens sanguinários a minha vida:" },
+    { "n": 10, "texto": "Em cujas mãos estão as iniquidades: A destra dêles está cheia de subornos." },
+    { "n": 11, "texto": "Porque eu andei na minha inocência: Resgata-me, e tem compaixão de mim." },
+    { "n": 12, "texto": "O meu pé esteve na retidão: nas igrejas te bendirei, ó Senhor." }
+  ],
+  "notas": {
+    "fn25_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "Davi, ausente de Sião, pede ao Senhor que lhe permita poder louvá-lo em sua Santa Casa. Naturalmente foi composto durante a revolta de Absalão. 2 Rs 15, 6-25. Davi lamenta não poder louvar o Senhor no seu tabernáculo; é o pensamento principal dêste Salmo, que tem doze estrofes, correspondentes aos doze versículos. Calmet é de opinião que êste Salmo e os dois seguintes são a continuação do precedente, formando os quatro um só cântico. A Igreja repete cotidianamente parte dêste salmo, no Santo Sacrifício da Missa, quando o sacerdote lava as mãos."
+    },
+    "fn25_2": {
+      "rotulo": "Abrasa os meus rins",
+      "texto": "O hebreu tem: \"Funde as minhas entranhas\", isto é: acrisola, e purifica os meus afetos. Sl 7, 10; 15, 7."
+    },
+    "fn25_4": {
+      "rotulo": "No congresso da vaidade",
+      "texto": "Com os idólatras, porque não há coisa mais vã que os ídolos: 1 Cor 8, 4, nem maior impiedade que trasladar às criaturas o culto que só se deve ao criador. \"Com os que obram a iniquidade.\" Outros vertem: \"Com os hipócritas\". — P. Seio."
+    },
+    "fn25_6": {
+      "rotulo": "Mas lavarei as minhas mãos / Estarei ao redor do teu altar",
+      "texto": "MAS LAVAREI AS MINHAS MÃOS — Com efeito pela lei de Moisés os que se chegavam ao altar lavavam as mãos, e os pés. Êx 30, 19.20. — Bossuet. ESTAREI, SENHOR, AO REDOR DO TEU ALTAR — Cerimónia que se usava nas solenes ações de graças, enquanto se fazia a oferenda dos sacrifícios de louvor, ou depois de feita. — P. Seio."
+    }
+  }
+}

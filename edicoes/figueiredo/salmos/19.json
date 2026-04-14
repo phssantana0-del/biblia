@@ -1,0 +1,30 @@
+{
+  "num": 19,
+  "sumario": "Salmo deprecatório, por ocasião de partir o rei para a guerra.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, salmo de Davi.", "nota": "fn19_1" },
+    { "n": 2, "texto": "O Senhor te ouça no dia da tribulação: O nome de Deus de Jacó te proteja.", "nota": "fn19_2" },
+    { "n": 3, "texto": "Envie-te socorro desde o santuário: E desde Sião te proteja." },
+    { "n": 4, "texto": "Êle se lembre de todos os teus sacrifícios: E o holocausto que tu lhe ofereces lhe seja agradável." },
+    { "n": 5, "texto": "Reparta contigo segundo o teu coração: E cumpre todos os teus desígnios." },
+    { "n": 6, "texto": "Alegrar-nos-emos na tua salvação: E em nome do nosso Deus seremos engrandecidos.", "nota": "fn19_6" },
+    { "n": 7, "texto": "Cumpra o Senhor tôdas as tuas petições: Agora tenho conhecido que o Senhor salvou o seu Cristo: Êle o ouvirá desde o seu santo céu: Nos potentados a salvação é da sua direita." },
+    { "n": 8, "texto": "Êstes confiam nas suas carroças, e aqueles nos seus cavalos: Mas nós invocaremos o nome do Senhor nosso Deus." },
+    { "n": 9, "texto": "Êles ficaram atados, e caíram: Mas nós nos levantamos e fomos sustidos." },
+    { "n": 10, "texto": "Senhor, salva ao rei: E ouve-nos no dia em que te invocarmos." }
+  ],
+  "notas": {
+    "fn19_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "Dividem-no em nove estrofes, quase correspondentes aos versículos, e o seu objeto é pedir a Deus que conceda a proteção ao rei no tempo de guerra."
+    },
+    "fn19_2": {
+      "rotulo": "No dia da tribulação",
+      "texto": "Da tribulação da guerra, que sempre é uma grande calamidade. — Bossuet."
+    },
+    "fn19_6": {
+      "rotulo": "Na tua salvação",
+      "texto": "Cantaremos pela vitória, e pela salvação que nos dará o Senhor. O latim salutari significa pròpriamente a \"salvação que nos vem do Salvador.\" — Bossuet. E em louvor de nosso Deus seremos engrandecidos — O hebraico lê, \"alçaremos\" ou \"tremularemos bandeiras\" em honra do nosso Deus, em sinal de vitória. — Pereira."
+    }
+  }
+}

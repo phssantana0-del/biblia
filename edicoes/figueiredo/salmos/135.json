@@ -1,0 +1,46 @@
+{
+  "num": 135,
+  "sumario": "Exorta o profeta neste salmo a dar louvor a Deus pela misericórdia que havia usado com o seu povo, enumerando pela sua ordem os antigos benefícios.",
+  "versiculos": [
+    { "n": 1, "texto": "Aleluia.<br>Glorificai ao Senhor, porque é bom: Porque a sua misericórdia é para sempre.", "nota": "fn135_1" },
+    { "n": 2, "texto": "Glorificai ao Deus dos deuses: Porque a sua misericórdia é para sempre.", "nota": "fn135_2" },
+    { "n": 3, "texto": "Glorificai ao Senhor dos senhores: Porque a sua misericórdia é para sempre." },
+    { "n": 4, "texto": "O que faz grandes maravilhas só: Porque a sua misericórdia é para sempre.", "nota": "fn135_4" },
+    { "n": 5, "texto": "O que fêz os céus com inteligência: Porque a sua misericórdia é para sempre." },
+    { "n": 6, "texto": "O que firmou a terra sôbre as águas: Porque a sua misericórdia é para sempre." },
+    { "n": 7, "texto": "O que fêz os grandes luminares: Porque a sua misericórdia é para sempre." },
+    { "n": 8, "texto": "O sol para presidir ao dia: Porque a sua misericórdia é para sempre." },
+    { "n": 9, "texto": "A lua, e as estrêlas para presidirem à noite: Porque a sua misericórdia é para sempre." },
+    { "n": 10, "texto": "O que feriu ao Egito com os seus primogénitos: Porque a sua misericórdia é para sempre." },
+    { "n": 11, "texto": "O que tirou a Israel do meio dêles: Porque a sua misericórdia é para sempre." },
+    { "n": 12, "texto": "Com mão poderosa, e braço excelso: Porque a sua misericórdia é para sempre." },
+    { "n": 13, "texto": "O que dividiu em duas partes o mar Vermelho: Porque a sua misericórdia é para sempre." },
+    { "n": 14, "texto": "E tirou a Israel por meio dêle: Porque a sua misericórdia é para sempre." },
+    { "n": 15, "texto": "E precipitou a Faraó, e ao seu exército no mar Vermelho: Porque a sua misericórdia é para sempre." },
+    { "n": 16, "texto": "O que conduziu ao seu povo pelo deserto: Porque a sua misericórdia é para sempre." },
+    { "n": 17, "texto": "O que feriu aos grandes reis: Porque a sua misericórdia é para sempre." },
+    { "n": 18, "texto": "E matou os reis fortes: Porque a sua misericórdia é para sempre." },
+    { "n": 19, "texto": "A Seon rei dos amorreus: Porque a sua misericórdia é para sempre." },
+    { "n": 20, "texto": "E a Og rei de Basan: Porque a sua misericórdia é para sempre." },
+    { "n": 21, "texto": "E deu a terra dêles em herança: Porque a sua misericórdia é para sempre." },
+    { "n": 22, "texto": "Em herança a Israel seu servo: Porque a sua misericórdia é para sempre." },
+    { "n": 23, "texto": "Porque no nosso abatimento se lembrou de nós: Porque a sua misericórdia é para sempre." },
+    { "n": 24, "texto": "E nos redimiu de nossos inimigos: Porque a sua misericórdia é para sempre." },
+    { "n": 25, "texto": "O que dá alimento a tôda a carne: Porque a sua misericórdia é para sempre." },
+    { "n": 26, "texto": "Dai glória a Deus do céu: Porque a sua misericórdia é para sempre.<br>Dai glória ao Senhor dos senhores: Porque a sua misericórdia é para sempre." }
+  ],
+  "notas": {
+    "fn135_1": {
+      "rotulo": "Aleluia / Porque a sua misericórdia é para sempre",
+      "texto": "ALELUIA — Pelo livro 1 dos Par 16, 34, e pelo livro 2, 7, 6, parece que Davi compôs êste salmo para que se cantasse diante da Arca a glória do Senhor, e isto ainda muito tempo antes de estar edificado o templo. — Pereira. PORQUE A SUA MISERICÓRDIA É PARA SEMPRE — Pelo livro 1 dos Par 16, 41, se vê que estas palavras eram uma antífona, ou verso intercalar nas sagradas canções, que se costumavam cantar no templo: e assim êste salmo se pode considerar como uma ladainha dos hebreus, em que o povo repetia o hemistíquio alternando com o sacerdote, ou com o levita que levava o côro. Está 26 vêzes repetida esta frase."
+    },
+    "fn135_2": {
+      "rotulo": "Deus dos deuses",
+      "texto": "Por esta expressão e pela seguinte quer o salmista demonstrar a Onipotência de Deus, superior a tudo quanto pode ser poderoso na terra."
+    },
+    "fn135_4": {
+      "rotulo": "O que faz grandes maravilhas só",
+      "texto": "Êle só é quem pode obrar tôdas as grandes maravilhas, que se admiram no Universo. Nunca faltará a sua misericórdia. Em todos os versículos se entende a palavra confitemini, como já observou Santo Agostinho. — Pereira."
+    }
+  }
+}

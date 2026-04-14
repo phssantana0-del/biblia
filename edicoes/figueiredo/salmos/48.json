@@ -1,0 +1,77 @@
+{
+  "num": 48,
+  "sumario": "Salmo didático. Convida o salmista a todos os mortais, para que apliquem a sua atenção ao cotejo que faz da vã confiança que põem os pecadores no próprio poder e riquezas, com a esperança que êle, e todos os verdadeiros fiéis põem em Deus. Fortifica aos justos contra a tentação que se excita ao ver em prosperidade aos pecadores.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, aos filhos de Coré, salmo.", "nota": "fn48_1" },
+    { "n": 2, "texto": "Ouvi isto, tôdas as gentes: Percebei-o nos ouvidos todos os que povoais a terra:" },
+    { "n": 3, "texto": "Assim os nascidos de plebeus, como de homens ilustres: À uma juntamente o rico e o pobre." },
+    { "n": 4, "texto": "A minha bôca falará sabedoria: E a meditação do meu coração prudência." },
+    { "n": 5, "texto": "Inclinarei à parábola o meu ouvido: Exporei com o saltério a minha proposição.", "nota": "fn48_5" },
+    { "n": 6, "texto": "Por que temerei eu no dia mau? A iniquidade do meu calcanhar me terá cercado.", "nota": "fn48_6" },
+    { "n": 7, "texto": "Aos que confiam nas suas forças: E se gloriam na multidão das suas riquezas.", "nota": "fn48_7" },
+    { "n": 8, "texto": "O irmão não resgata, não resgatará o homem: Não dará a Deus a sua propiciação.", "nota": "fn48_8" },
+    { "n": 9, "texto": "Nem o preço do resgate da sua alma: E estará em trabalho eternamente." },
+    { "n": 10, "texto": "E viverá não obstante até ao fim.", "nota": "fn48_10" },
+    { "n": 11, "texto": "Não verá a morte, quando vir morrer os sábios: Igualmente o insensato, e o néscio perecerão. E deixarão aos estranhos as suas riquezas:", "nota": "fn48_11" },
+    { "n": 12, "texto": "E os seus sepulcros serão as suas casas para sempre. Sua morada no decurso de tôdas as gerações: Para aqueles que deram os seus nomes às suas terras.", "nota": "fn48_12" },
+    { "n": 13, "texto": "E o homem, quando estava na honra, não o entendeu: Foi comparado aos brutos irracionais, e se fêz semelhante a êles.", "nota": "fn48_13" },
+    { "n": 14, "texto": "Êste caminho dêles lhes serve de ruína: E depois na sua bôca se comprazerão." },
+    { "n": 15, "texto": "Como ovelhas são postos no inferno: E êles serão pasto da morte. E os justos terão domínio sôbre êles na manhã: E passada a sua glória tudo o que tiveram se envelhecerá no inferno.", "nota": "fn48_15" },
+    { "n": 16, "texto": "Mas Deus na verdade resgatará a minha alma do poder do inferno, quando me tomar.", "nota": "fn48_16" },
+    { "n": 17, "texto": "Não te dê cuidado quando o homem se enriquecer: E quando se acrescentar a glória da sua casa." },
+    { "n": 18, "texto": "Porque em morrendo nada levará êle consigo: E nem a sua glória descerá com êle." },
+    { "n": 19, "texto": "Porque enquanto êle vive será louvada a sua alma: Confessar-te-á quando lhe fizeres bem.", "nota": "fn48_19" },
+    { "n": 20, "texto": "Entrará no lugar da morada de seus pais e não verá jamais a luz." },
+    { "n": 21, "texto": "O homem, quando estava na honra, não o entendeu: Foi comparado aos brutos irracionais, e se fêz semelhante a êles." }
+  ],
+  "notas": {
+    "fn48_1": {
+      "rotulo": "Salmo",
+      "texto": "Êste salmo começa por uma espécie de preâmbulo e compreende duas estrofes (9-12) (14-20) terminadas ambas por um estribilho (13). Muitos versículos são obscuros."
+    },
+    "fn48_5": {
+      "rotulo": "A minha proposição",
+      "texto": "O hebreu tem: O meu enigma; isto é, um discurso cheio de graves sentenças, ou coisas que não são atingíveis."
+    },
+    "fn48_6": {
+      "rotulo": "A iniquidade do meu calcanhar",
+      "texto": "Isto é, o fim da minha vida, a maldade em que morrerei: ou a iniquidade de meus passos e das minhas obras será a que me cercará por todos os lados, e me fará réu ante o tribunal do justo juiz. — Pereira."
+    },
+    "fn48_7": {
+      "rotulo": "Aos que confiam",
+      "texto": "Quer dizer: Assim também a iniquidade rodeará aos que confiam nas suas fôrças. Outros com Calmet e Genebrardo, o explicam por apóstrofe e como aviso aos ricos e poderosos da terra."
+    },
+    "fn48_8": {
+      "rotulo": "O irmão não resgata",
+      "texto": "Se se ler sem interrogação, a negação do primeiro membro se há de suprir no segundo: Frater non redimit, non redimet homo? mas não é necessário sempre que se vir a nota de interrogação; dêste modo frater non redimit, redimet homo? O hebreu diz: Nenhum, por mais rico que seja, resgatando resgatará, de nenhum modo poderá livrar da morte ao irmão, nem dará a Deus o seu resgate... Nenhum o poderá fazer, nem para si nem para outro. — P. Seio."
+    },
+    "fn48_10": {
+      "rotulo": "E viverá não obstante",
+      "texto": "Porque a redenção da sua alma é de grande preço, e não se fará jamais; de modo que viva por diante para sempre, e não veja a sepultura. Outros expõem isso em diversos modos: Tão longe estará de poder resgatar a sua vida à fôrça de dinheiro, que pelo contrário virá a cair no inferno, para viver ali eternamente padecendo. Quer dizer o profeta que se o homem enquanto lhe dura esta vida não procura empregá-la em aplacar a divina justiça com o exercício das boas obras, vindo a morte, nenhum poder humano, nem tôdas as riquezas do mundo bastarão para livrar a sua alma das penas em que incorreu pelas suas culpas. — P. Seio."
+    },
+    "fn48_11": {
+      "rotulo": "Não verá a morte",
+      "texto": "Tôda a obscuridade dêste versículo cessa lendo-se com interrogação, em cujo caso é uma comparação de maior a menor: Non videbit interitum, cum viderit sapientes morientes? O hebreu segue êste sentido: Porque o verá, a sepultura: os sábios morrerão: juntamente o néscio e o ignorante perecerão. Os sábios, os pios, e os virtuosos morrerão, porque esta é uma lei comum para todos os homens: porém os sábios morrerão para tornar a viver sempre felizes; mas os néscios, ímpios, e pecadores morrerão, porém morrerão uma vez, para perecer eternamente. — P. Seio."
+    },
+    "fn48_12": {
+      "rotulo": "Que deram os seus nomes às suas terras",
+      "texto": "Isto é: Os que pretenderam imortalizar a sua memória, denominando as suas terras com os seus nomes; ou, segundo outros, os que pretenderam com os seus sepulcros conservar no mundo ou à sua posteridade a memória dos seus nomes. — Sacy."
+    },
+    "fn48_13": {
+      "rotulo": "E se fêz semelhante a êles",
+      "texto": "O homem criado à semelhança de Deus não entendeu esta condição da sua nobreza, e se degradou pelo amor às coisas sensíveis, até fazer-se em grande parte semelhante aos brutos. Também pode expor-se dêste modo: O homem quando se vê em elevação, e em postos altos se esquece fàcilmente da sua miséria; não considera no que o espera depois desta vida, nem quer entender o que é justo, e conforme a razão para o praticar; antes revestindo-se de costumes ferinos, não segue outra lei, que a que lhe dita o seu apetite, e a sua paixão. Ecl 3, 19. — P. Seio."
+    },
+    "fn48_15": {
+      "rotulo": "Na manhã",
+      "texto": "Os Santos Padres, Jerônimo, Agostinho, Crisóstomo, e Teodoreto, entendem aqui por manhã a ressurreição universal. — Calmet."
+    },
+    "fn48_16": {
+      "rotulo": "Quando me tomar",
+      "texto": "Ou me chamar a si por meio da morte. — Pereira."
+    },
+    "fn48_19": {
+      "rotulo": "Será louvada a sua alma",
+      "texto": "A sua alma se toma aqui pela sua pessoa. Êste se glorificará, quando lhe dês riquezas, porque são o objeto único dos seus desejos. Muitos intérpretes expõem êste lugar como uma apóstrofe que repentinamente faz a Deus o profeta. Te louvará o Senhor, pelo seu próprio interêsse, quando lhe fizeres bem; mas depois que isto cessar se esquecerá de ti eternamente. — P. Seio."
+    }
+  }
+}

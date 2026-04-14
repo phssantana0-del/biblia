@@ -1,0 +1,30 @@
+{
+  "num": 107,
+  "sumario": "Oração de Davi para pedir ao Senhor a sua assistência contra os seus inimigos, dando graças pelos auxílios que tem recebido. Os Padres reconhecem aqui as conquistas de Jesus Cristo sôbre as nações infiéis atraídas ao seu Evangelho.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico e salmo do mesmo Davi. (Sl 56, 8.)", "nota": "fn107_1" },
+    { "n": 2, "texto": "Preparado está o meu coração, ó Deus, preparado está o meu coração, cantarei, e direi salmos na minha glória." },
+    { "n": 3, "texto": "Desperta, glória minha, desperta saltério e harpa: Levantar-me-ei ao romper d'alva." },
+    { "n": 4, "texto": "Louvar-te-ei no meio dos povos, Senhor: E te direi salmos entre as nações." },
+    { "n": 5, "texto": "Pois grande é sôbre os céus a tua misericórdia e a tua verdade se eleva até às nuvens." },
+    { "n": 6, "texto": "Exalta-te, ó Deus, sôbre os Céus, e resplandeça sôbre tôda a terra a tua glória:" },
+    { "n": 7, "texto": "Para que sejam livres os teus escolhidos.<br>Salva-me com a tua destra, e atende-me:" },
+    { "n": 8, "texto": "Deus falou no seu santo:<br>Regozijar-me-ei, e repartirei Siquém, e medirei o vale das tendas." },
+    { "n": 9, "texto": "Meu é Galaad, e meu é Manassés: E Efraim a segurança da minha cabeça.<br>Judá meu rei:" },
+    { "n": 10, "texto": "Moab vaso da minha esperança.<br>Até à Iduméia estenderei o meu calçado: Os estrangeiros se me têm feito amigos.", "nota": "fn107_10" },
+    { "n": 11, "texto": "Quem me conduzirá à cidade fortificada? Quem me conduzirá até à Iduméia?" },
+    { "n": 12, "texto": "Porventura não és tu, ó Deus, o que nos tens desamparado, e não sairás, ó Deus, na testa dos nossos exércitos?" },
+    { "n": 13, "texto": "Dá-nos socorro na tribulação: Porque é vã a salvação que se espera da parte do homem." },
+    { "n": 14, "texto": "Em Deus faremos proezas: E êle reduzirá a um nada os nossos inimigos." }
+  ],
+  "notas": {
+    "fn107_1": {
+      "rotulo": "Cântico e salmo",
+      "texto": "CÂNTICO E SALMO — Êste salmo é composto de duas partes: uma tirada do salmo 56, desde o v. 8 até ao fim; outra do salmo 59, desde o v. 6 até ao fim. Bossuet o atribui a Davi, seguindo a Vulgata, e advertindo que não é de admirar que o poeta sagrado o tome emprestado de si mesmo. Também julga que Davi o compusera em ação de graças pela vitória que alcançara dos assírios e idumeus. Calmet não duvida atribuí-lo aos cativos de Babilónia. — Pereira."
+    },
+    "fn107_10": {
+      "rotulo": "Se me têm feito amigos",
+      "texto": "SE ME TÊM FEITO AMIGOS — No vers. 10 do salmo 59, se diz: \"Submetidos me estão os estrangeiros\", o que aqui se declara em têrmos mais suaves: \"Os estrangeiros se me têm feito amigos.\" Porém o sentido é o mesmo, porque no hebreu e nos Setenta se lêem as mesmas palavras em ambos os lugares, e nisto se vê que Davi olhava para os seus súditos como amigos. — P. Seio."
+    }
+  }
+}

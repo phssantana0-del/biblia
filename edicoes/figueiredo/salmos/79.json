@@ -1,0 +1,60 @@
+{
+  "num": 79,
+  "sumario": "Salmo deprecatório. O profeta roga ao Senhor que dê liberdade ao seu povo: expõe-lhe a desolação de Israel na figura de uma vinha destruída: e pede a sua liberdade, e restabelecimento.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, para ser cantado com música da ária de lírio, testemunho de Asaf, salmo.", "nota": "fn79_1" },
+    { "n": 2, "texto": "Tu que governas a Israel, atende: Tu que conduzes a José como uma ovelha.<br>Tu que estás sentado sôbre os querubins, manifesta-te", "nota": "fn79_2" },
+    { "n": 3, "texto": "diante de Efraim, Benjamim, e Manasses.<br>Excita o teu poder, e vem a fazer-nos salvos." },
+    { "n": 4, "texto": "Ó Deus, converte-nos: E mostra-nos o teu rosto, e seremos salvos." },
+    { "n": 5, "texto": "Senhor Deus dos exércitos, até quando estarás irado, sem ouvir a oração do teu servo?" },
+    { "n": 6, "texto": "Sustentar-nos-ás com pão de lágrimas: E nos darás bebida de lágrimas com abundância?" },
+    { "n": 7, "texto": "Puseste-nos em contradição a nossos vizinhos: E nossos inimigos fizeram escárnio de nós." },
+    { "n": 8, "texto": "Deus das virtudes, converte-nos: Mostra-nos o teu rosto, e seremos salvos." },
+    { "n": 9, "texto": "Trasladaste a tua vinha do Egito: Lançaste fora as gentes, e plantaste-a em seu lugar.", "nota": "fn79_9" },
+    { "n": 10, "texto": "Guia fôste no caminho diante dela: Fizeste-a arraigar, e ela tem enchido a terra." },
+    { "n": 11, "texto": "A sombra dela cobriu os montes: E as suas ramas excederam os cedros de Deus.", "nota": "fn79_11" },
+    { "n": 12, "texto": "Estendeu as suas vides até ao mar: E até ao rio os seus mergulhões.", "nota": "fn79_12" },
+    { "n": 13, "texto": "Para que destruíste o seu muro: E a vindimam todos os que passam pelo caminho?" },
+    { "n": 14, "texto": "O javali da selva a destruiu: E a fera selvagem a devorou.", "nota": "fn79_14" },
+    { "n": 15, "texto": "Deus dos exércitos, volta-te: Olha desde o céu, atende, e visita esta vinha." },
+    { "n": 16, "texto": "E acaba de aperfeiçoar a que plantou a tua destra: E olha para o fim do homem, que confirmaste para ti." },
+    { "n": 17, "texto": "Ela foi queimada a fogo, e escavada às ameaças de teu rosto perecerão.", "nota": "fn79_17" },
+    { "n": 18, "texto": "Seja a tua mão sôbre o varão da tua destra: E sôbre o filho do homem que confirmaste para ti.", "nota": "fn79_18" },
+    { "n": 19, "texto": "E não nos apartamos de ti, tu nos darás vida: E invocaremos o teu nome." },
+    { "n": 20, "texto": "Senhor Deus dos exércitos, converte-nos: E mostra-nos o teu rosto, seremos salvos." }
+  ],
+  "notas": {
+    "fn79_1": {
+      "rotulo": "Testemunho",
+      "texto": "TESTEMUNHO — No original está Edouth, palavra obscura a que os intérpretes dão esta significação. O assunto é êste: o reino de Israel (ou Efraim, descendente de José) pede a proteção de Deus contra os assírios que o oprimem. Tem cinco estrofes: Primeira (2-4). Que o pastor de Israel socorra Efraim e Manassés. Segunda (5-8). Israel pranteia a sua sorte, e os seus inimigos escarnecem da sua dor. Terceira (9-12). Deus transplantara-o como uma vide para as montanhas de Efraim e aí prosperou. Quarta (13-16). Por que deixa êle devastar a sua plantação? Quinta (17-20). Proteja o seu povo, Israel será fiel e invocará seu nome."
+    },
+    "fn79_2": {
+      "rotulo": "Tu que governas",
+      "texto": "TU QUE GOVERNAS — O hebreu tem: \"Pastor de Israel,\" cujo ofício se aplica a Jesus Cristo no Evangelho. — P. Seio."
+    },
+    "fn79_9": {
+      "rotulo": "Trasladaste a tua vinha",
+      "texto": "TRASLADASTE A TUA VINHA — O teu povo. Assim é chamado frequentemente na Escritura. Is 5. Jer 2, 21. Ez 7, 6. E êste povo ou nação judaica é figura expressa da Igreja. — P. Seio."
+    },
+    "fn79_11": {
+      "rotulo": "Os cedros de Deus",
+      "texto": "OS CEDROS DE DEUS — Como já fica explicado em outros lugares: Os cedros mui elevados."
+    },
+    "fn79_12": {
+      "rotulo": "Até ao mar",
+      "texto": "ATÉ AO MAR — O Mediterrâneo; e até o rio Eufrates, até onde havia estendido os seus limites a nação dos hebreus nos tempos de Davi."
+    },
+    "fn79_14": {
+      "rotulo": "O javali",
+      "texto": "O JAVALI — Êste animal é muito comum na Palestina. Aqui toma-se pelo idumeu, segundo os comentadores judeus, e a fera selvagem figura o árabe nômada. São emblemas dos inimigos do povo de Deus."
+    },
+    "fn79_17": {
+      "rotulo": "Perecerão",
+      "texto": "PERECERÃO — Os que a queimaram, e arrancaram. Assim Bossuet, Calmet, e o Breviário francês. Outros com Sacy e de Carrières: \"Os seus habitantes estão a ponto de perecerem, à fôrça da severidade e ameaços do teu rosto, etc.\""
+    },
+    "fn79_18": {
+      "rotulo": "Sôbre o varão da tua destra",
+      "texto": "SÔBRE O VARÃO DA TUA DESTRA — Por êste \"homem da direita de Deus\" entendem os antigos rabinos o Messias; os Santos Padres a Jesus Cristo, que sendo filho de Deus, e verdadeiro Deus, assim mesmo se costumava chamar no Evangelho \"o filho do homem,\" por ser também verdadeiro homem. — Calmet."
+    }
+  }
+}

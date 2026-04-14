@@ -1,0 +1,46 @@
+{
+  "num": 64,
+  "sumario": "Salmo gratulatorio. O profeta em nome de tôda a Igreja dá a Deus rendidas graças por havê-la livrado de alguma calamidade: e celebra as bênçãos e bens espirituais que derrama sôbre os seus. Ao regente do côro, salmo de Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico de Jeremias, e de Ezequiel para o povo da transmigração, quando começavam a partir.", "nota": "fn64_1" },
+    { "n": 2, "texto": "A ti, ó Deus, te são devidos os hinos em Sião: E a ti se te pagarão os votos em Jerusalém." },
+    { "n": 3, "texto": "Ouve a minha oração. A ti virá tôda a carne." },
+    { "n": 4, "texto": "Palavras de iníquos prevaleceram contra nós: E tu perdoarás as nossas impiedades." },
+    { "n": 5, "texto": "Bem-aventurado o que elegeste, e tomaste para o teu serviço: Êle habitará nos teus átrios.<br>Encher-nos-ás de bens da tua casa: Santo é o teu templo," },
+    { "n": 6, "texto": "maravilhoso em equidade.<br>Ouve-nos, ó Deus, Salvador nosso, esperança de todos os limites da terra, e no mar longe.", "nota": "fn64_6" },
+    { "n": 7, "texto": "Que dispões os montes com a tua virtude, cingido de poder:" },
+    { "n": 8, "texto": "Que revolves o fundo do mar, o estrondo das suas ondas.<br>Perturbar-se-ão as gentes," },
+    { "n": 9, "texto": "e os que habitam os fins da terra temerão pelos teus prodígios: Darás alegria às saídas da manhã e da tarde.", "nota": "fn64_9" },
+    { "n": 10, "texto": "Visitaste a terra, e embriagaste-a: Enriqueceste-a de muitas maneiras.<br>O rio de Deus se encheu de águas, preparaste a comida de seus habitantes: Porque tal é a disposição dela.", "nota": "fn64_10" },
+    { "n": 11, "texto": "Embriaga os seus ribeiros, multiplica as suas produções: Nas chuvas que se distilam alegrar-se-á a terra dando frutos." },
+    { "n": 12, "texto": "Bendirás a coroa do ano da tua bondade: E os teus campos se encherão de abundância.", "nota": "fn64_12" },
+    { "n": 13, "texto": "As selvas amenas se engrossarão: E se cingirão de regozijo os outeiros." },
+    { "n": 14, "texto": "Vestidos estão os carneiros dos rebanhos, e os vales abundarão de trigo: Gritarão, porque dirão hinos.", "nota": "fn64_14" }
+  ],
+  "notas": {
+    "fn64_1": {
+      "rotulo": "De Jeremias e de Ezequiel",
+      "texto": "DE JEREMIAS E DE EZEQUIEL, ETC. — Esta adição é da Vulgata, não está no hebreu, nem no caldeu, nem no siríaco. Significa, no entender de Vigouroux, ob. cit., que êste salmo é um cântico de vitória, mas não é fácil determinar precisamente a data da sua composição. É notável pela sua forma elegante, pelos seus rasgos brilhantes e pela sua geral clareza. Tem quatro estrofes. Primeira (2-6). Glorifica a Deus e proclama feliz o que visita o seu templo. Segunda (6-9). Poderio de Deus. Terceira (10-11). Deus fecunda a terra e alimenta-nos. Quarta (12-14). Continua-se o mesmo pensamento."
+    },
+    "fn64_6": {
+      "rotulo": "E no mar longe",
+      "texto": "E NO MAR LONGE — Et in mari longé; é o mesmo que in mari longinquo. O hebreu diz: \"Com coisas terríveis, com maravilhas, portentos, nos responderás em justiça, nos livrarás. Deus da nossa salvação, esperança de todos os fins da terra, e das partes mais remotas do mar.\" — P. Seio."
+    },
+    "fn64_9": {
+      "rotulo": "Darás alegria",
+      "texto": "DARÁS ALEGRIA — Com os teus imensos benefícios dás matéria de alegria a todo o mundo, desde de onde sai a manhã, até onde termina a tarde; e por êste meio farás que todos te louvem. — S. Jerônimo."
+    },
+    "fn64_10": {
+      "rotulo": "O rio de Deus",
+      "texto": "O RIO DE DEUS — Hebraísmo que corresponde ao superlativo, quer dizer ao rio caudaloso. Alguns aplicam isto ao Jordão, outros ao Nilo, que com as suas inundações fertiliza as suas campinas; porém parece que convém a todos os rios grandes e caudalosos."
+    },
+    "fn64_12": {
+      "rotulo": "A coroa do ano",
+      "texto": "A COROA DO ANO — Isto é, no decurso do ano."
+    },
+    "fn64_14": {
+      "rotulo": "Vestidos estão",
+      "texto": "VESTIDOS ESTÃO — O hebreu diz: Vestem-se as campinas de ovelhas, porque a abundância e bondade dos campos farão que os gados se multipliquem em grande número. GRITARÃO — Os pastôres, os lavradores se alegrarão, e se louvarão pela abundância das suas colheitas, e fecundidade das suas ovelhas. Atribui-se poèticamente a estas criaturas reanimadas o que é próprio do homem, a quem toca louvar a Deus de coração e de bôca pelos seus benefícios. — P. Seio."
+    }
+  }
+}

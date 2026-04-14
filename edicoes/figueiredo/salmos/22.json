@@ -1,0 +1,22 @@
+{
+  "num": 22,
+  "sumario": "Salmo moral. A quem Deus apascenta, nada lhe falta.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi. O Senhor me governa, e nada me faltará:", "nota": "fn22_1" },
+    { "n": 2, "texto": "Em um lugar de pastos ali me colocou. Êle me conduziu junto a uma água de refeição:" },
+    { "n": 3, "texto": "Converteu a minha alma. Levou-me por veredas de justiça, e por amor do seu nome." },
+    { "n": 4, "texto": "Pois ainda quando andar no meio da sombra da morte, não temerei males: Porquanto tu estás comigo. A tua vara, e o teu báculo, êles me consolaram." },
+    { "n": 5, "texto": "Preparaste uma mesa diante de mim, à vista daqueles que me angustiavam. Ungiste com o óleo pingue a minha cabeça: E o meu cálice que embriaga quam precioso é!", "nota": "fn22_5" },
+    { "n": 6, "texto": "E a tua misericórdia irá após de mim todos os dias da minha vida. E a fim de que eu habite na casa do Senhor, por diuturnidade de dias." }
+  ],
+  "notas": {
+    "fn22_1": {
+      "rotulo": "Salmo de Davi / O Senhor me governa",
+      "texto": "Deus como bom pastor é o objeto dêste Salmo. Não é fácil determinar o motivo que Davi tem para a composição dêste Salmo. É opinião verossímil que fôra composto no deserto de Zif, no tempo das grandes tribulações que o Profeta Rei experimentou, quando, abandonado dos seus, não podia já ter outra confiança, senão a que lhe inspirava a sua piedade, esperando de Deus o remédio de seus males. O SENHOR ME GOVERNA — O hebreu tem \"O Senhor é o meu pastor\". — Carrières."
+    },
+    "fn22_5": {
+      "rotulo": "Ungiste com o óleo pingue a minha cabeça",
+      "texto": "Assim se costumava nos banquetes e mais ocasiões de alegria. — Bossuet."
+    }
+  }
+}

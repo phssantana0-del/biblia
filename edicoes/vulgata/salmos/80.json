@@ -1,0 +1,25 @@
+{
+  "num": 80,
+  "sumario": "In finem, pro torcularibus. Psalmus ipsi Asaph.",
+  "versiculos": [
+    { "n": 1,  "texto": "In finem, pro torcularibus. Psalmus ipsi Asaph." },
+    { "n": 2,  "texto": "Exsultate Deo adjutori nostro; jubilate Deo Jacob." },
+    { "n": 3,  "texto": "Sumite psalmum, et date tympanum; psalterium jucundum cum cithara." },
+    { "n": 4,  "texto": "Buccinate in neomenia tuba, in insigni die solemnitatis vestræ:" },
+    { "n": 5,  "texto": "quia præceptum in Israel est, et judicium Deo Jacob." },
+    { "n": 6,  "texto": "Testimonium in Joseph posuit illud, cum exiret de terra Ægypti; linguam quam non noverat, audivit." },
+    { "n": 7,  "texto": "Divertit ab oneribus dorsum ejus; manus ejus in cophino servierunt." },
+    { "n": 8,  "texto": "In tribulatione invocasti me, et liberavi te; exaudivi te in abscondito tempestatis: probavi te apud aquam contradictionis." },
+    { "n": 9,  "texto": "Audi, populus meus, et contestabor te. Israel, si audieris me," },
+    { "n": 10, "texto": "non erit in te deus recens, neque adorabis deum alienum." },
+    { "n": 11, "texto": "Ego enim sum Dominus Deus tuus, qui eduxi te de terra Ægypti: dilata os tuum, et implebo illud." },
+    { "n": 12, "texto": "Et non audivit populus meus vocem meam, et Israel non intendit mihi." },
+    { "n": 13, "texto": "Et dimisi eos secundum desideria cordis eorum; ibunt in adinventionibus suis." },
+    { "n": 14, "texto": "Si populus meus audisset me, Israel si in viis meis ambulasset:" },
+    { "n": 15, "texto": "pro nihilo forsitan inimicos eorum humiliassem, et super tribulantes eos misissem manum meam." },
+    { "n": 16, "texto": "Inimici Domini mentiti sunt ei, et erit tempus eorum in sæcula." },
+    { "n": 17, "texto": "Et cibavit eos ex adipe frumenti, et de petra melle saturavit eos." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

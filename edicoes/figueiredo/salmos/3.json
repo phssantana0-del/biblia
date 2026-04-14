@@ -1,0 +1,23 @@
+{
+  "num": 3,
+  "sumario": "Salmo histórico. Davi neste Salmo se volta a Deus, e nêle encontra fôrça contra todos os insultos dos seus inimigos: seguro com as experiências passadas, implora o seu auxílio, e pede-lhe que novamente o defenda.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi quando fugia à vista de Absalão seu filho (2 Rs 15, 14).", "nota": "fn3_1" },
+    { "n": 2, "texto": "Senhor por que são em tão grande número os que me perseguem? muitos se levantam contra mim." },
+    { "n": 3, "texto": "Muitos dizem à minha alma: Não há salvação para êle em seu Deus." },
+    { "n": 4, "texto": "Porém tu, Senhor, és o meu protetor, a minha glória e o que exaltas a minha cabeça." },
+    { "n": 5, "texto": "Com a minha voz clamei ao Senhor: E me ouviu desde o seu santo monte.", "nota": "fn3_5" },
+    { "n": 6, "texto": "Eu dormi e estive sepultado no sono: E levantei-me, porque o Senhor me amparou.", "nota": "fn3_6" },
+    { "n": 7, "texto": "Não temerei aqueles milhares de povo que me cercam: Levanta-te, Senhor, salva-me, Deus meu.", "nota": "fn3_7" },
+    { "n": 8, "texto": "Porque tu tens ferido a todos os que me perseguem sem causa: Quebraste os dentes dos pecadores." },
+    { "n": 9, "texto": "Do Senhor é a salvação: E sôbre o teu povo a tua bênção.", "nota": "fn3_9" }
+  ],
+  "notas": {
+    "fn3_0": { "rotulo": "Sobre êste Salmo", "texto": "No hebreu <em>Mizmór</em>, que a Vulgata traduziu por <em>Psalmus</em>, composição rítmica destinada a ser cantada com acompanhamento de instrumento musical, especialmente de harpa. São 57 os Salmos que têm êste nome. Neste, Davi quer indicar que são numerosos os seus inimigos, mas que coisa alguma lhe abalará a confiança no Senhor; e certamente o que mais ressalta da leitura dêste Salmo é que, ainda nas maiores adversidades, devemos confiar sempre no auxílio de Deus. Compreende quatro estrofes, a saber: 1.ª (vv. 2.3). Multidão de inimigos de Davi. — 2.ª (4.5). Não se atemoriza, porque espera o auxílio de Deus. — 3.ª (6.7). Adormece e desperta tranquilo, porque Deus é o seu auxílio. — 4.ª (7-9). Que Deus o livre dos seus inimigos e que abençoe o seu povo. É histórico êste salmo; contudo, o seu sentido místico é verdadeiramente profético, e alusivo a Jesus Cristo e à sua paixão, assim como o sentido moral alude a todos os justos que na perseguição confiam em Deus." },
+    "fn3_1": { "rotulo": "Salmo", "texto": "O título está indicado neste primeiro versículo — Salmo de Davi quando fugia à vista de seu filho Absalão. — 2 Rs 15, 14." },
+    "fn3_5": { "rotulo": "Santo monte", "texto": "Quer dizer desde o Céu, onde estás em tua santidade e glória. <em>De Cœlo sublimi, ubi in tua santitate et gloria insides</em>." },
+    "fn3_6": { "rotulo": "E levantei-me", "texto": "Isto é, acordei, como tem o hebreu, <em>evigilavi</em>. A Igreja acomoda êste versículo a Jesus Cristo ressurgindo dos mortos. — Bossuet." },
+    "fn3_7": { "rotulo": "Aqueles milhares de povo", "texto": "Alude Davi ao que lhe dissera um mensageiro: <em>Toto corde universus Israel sequitur</em> Absalão. 'Todo o povo de Israel segue de todo o coração o partido de Absalão contra ti'. 2 Rs 16, 13. — Bossuet." },
+    "fn3_9": { "rotulo": "Do Senhor é a salvação", "texto": "A salvação nos vem de Deus, e êle abençoa o seu povo, isto é, os predestinados pelos merecimentos de Jesus Cristo. Santo Agostinho observou que a primeira parte do verso era afirmativa, e a segunda deprecativa." }
+  }
+}

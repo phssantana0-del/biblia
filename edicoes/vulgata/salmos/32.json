@@ -1,0 +1,30 @@
+{
+  "num": 32,
+  "sumario": "Laus Deo creatori et gubernatori omnium rerum",
+  "versiculos": [
+    { "n": 1, "texto": "Exsultate, justi, in Domino ; rectos decet collaudatio." },
+    { "n": 2, "texto": "Confitemini Domino in cithara ; in psalterio decem chordarum psallite illi." },
+    { "n": 3, "texto": "Cantate ei canticum novum ; bene psallite ei in vociferatione." },
+    { "n": 4, "texto": "Quia rectum est verbum Domini, et omnia opera ejus in fide." },
+    { "n": 5, "texto": "Diligit misericordiam et judicium ; misericordia Domini plena est terra." },
+    { "n": 6, "texto": "Verbo Domini cæli firmati sunt, et spiritu oris ejus omnis virtus eorum." },
+    { "n": 7, "texto": "Congregans sicut in utre aquas maris ; ponens in thesauris abyssos." },
+    { "n": 8, "texto": "Timeat Dominum omnis terra ; ab eo autem commoveantur omnes inhabitantes orbem." },
+    { "n": 9, "texto": "Quoniam ipse dixit, et facta sunt ; ipse mandavit, et creata sunt." },
+    { "n": 10, "texto": "Dominus dissipat consilia gentium ; reprobat autem cogitationes populorum, et reprobat consilia principum." },
+    { "n": 11, "texto": "Consilium autem Domini in æternum manet ; cogitationes cordis ejus in generatione et generationem." },
+    { "n": 12, "texto": "Beata gens cujus est Dominus Deus ejus ; populus quem elegit in hæreditatem sibi." },
+    { "n": 13, "texto": "De cælo respexit Dominus ; vidit omnes filios hominum." },
+    { "n": 14, "texto": "De præparato habitaculo suo respexit super omnes qui habitant terram." },
+    { "n": 15, "texto": "Qui finxit sigillatim corda eorum ; qui intelligit omnia opera eorum." },
+    { "n": 16, "texto": "Non salvatur rex per multam virtutem, et gigas non salvabitur in multitudine virtutis suæ." },
+    { "n": 17, "texto": "Fallax equus ad salutem ; in abundantia autem virtutis suæ non salvabitur." },
+    { "n": 18, "texto": "Ecce oculi Domini super metuentes eum, et in eis qui sperant super misericordia ejus :" },
+    { "n": 19, "texto": "ut eruat a morte animas eorum, et alat eos in fame." },
+    { "n": 20, "texto": "Anima nostra sustinet Dominum, quoniam adjutor et protector noster est." },
+    { "n": 21, "texto": "Quia in eo lætabitur cor nostrum, et in nomine sancto ejus speravimus." },
+    { "n": 22, "texto": "Fiat misericordia tua, Domine, super nos, quemadmodum speravimus in te." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

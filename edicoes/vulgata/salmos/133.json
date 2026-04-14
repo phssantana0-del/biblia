@@ -1,0 +1,11 @@
+{
+  "num": 133,
+  "sumario": "Canticum graduum.",
+  "versiculos": [
+    { "n": 1, "texto": "Ecce nunc benedicite Dominum, omnes servi Domini: qui statis in domo Domini, in atriis domus Dei nostri." },
+    { "n": 2, "texto": "In noctibus extollite manus vestras in sancta, et benedicite Dominum." },
+    { "n": 3, "texto": "Benedicat te Dominus ex Sion, qui fecit cælum et terram." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

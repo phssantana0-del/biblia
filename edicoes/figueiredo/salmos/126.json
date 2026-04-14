@@ -1,0 +1,15 @@
+{
+  "num": 126,
+  "sumario": "Salmo didático. Toda a diligência e indústria humana é inútil em qualquer emprêsa, se não for acompanhada da bênção de Deus.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual de Salomão. Se o Senhor não edificar a casa, em vão se tem pôsto ao trabalho os que a edificam. Se o Senhor não guardar a cidade, inutilmente se desvela o que a guarda.", "nota": "fn126_1" },
+    { "n": 2, "texto": "Em vão vos levantais vós antes de amanhecer: Levantai-vos depois que houverdes repousado, vós que comeis o pão de dor. Quando der sono aos seus amados:" },
+    { "n": 3, "texto": "Eis-aqui a herança do Senhor, os filhos: Seu galardão, o fruto do ventre.", "nota": "fn126_3" },
+    { "n": 4, "texto": "Como setas na mão de um robusto: Assim são os filhos dos atribulados." },
+    { "n": 5, "texto": "Ditoso o varão que cumpriu o seu desejo sôbre êles mesmos: Não será confundido quando falar com os seus inimigos na porta." }
+  ],
+  "notas": {
+    "fn126_1": { "rotulo": "De Salomão", "texto": "Uma parte dos exemplares dos Setenta não têm esta palavra. Êste salmo parece foi composto por Davi, e dirigido a Salomão para sua instrução. Outros querem que o mesmo Salomão o compusesse quando se estava edificando o templo. Não falta quem o atribua ao tempo de Neemias, quando se reedificava a casa do Senhor. Neste salmo, em um sentido sublime, se estabelece a necessidade da graça cristã." },
+    "fn126_3": { "rotulo": "Seu galardão", "texto": "Assim Calmet; e quanto à substância do sentido, todos os mais com êle. Porque todos reconhecem que o filii da Vulgata se deve entender em nominativo de aposição com hereditas, assim como fructus ventris, como um sinónimo de \"filhos\" segundo o estilo hebreu. — Pereira." }
+  }
+}

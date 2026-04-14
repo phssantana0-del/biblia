@@ -1,0 +1,34 @@
+{
+  "num": 111,
+  "sumario": "Feliz o homem que teme verdadeiramente a Deus, ainda que seja aborrecido dos ímpios. Aleluia, na volta de Ageu, e de Zacarias.",
+  "versiculos": [
+    { "n": 1, "texto": "Bem-aventurado o varão, que teme ao Senhor:<br>Nos seus mandamentos se comprazerá muito.", "nota": "fn111_1" },
+    { "n": 2, "texto": "Poderosa será a sua posteridade sôbre a terra:<br>Bendita será a geração dos justos." },
+    { "n": 3, "texto": "Há glória, e riquezas na sua casa:<br>E a justiça dêle permanece por todos os séculos." },
+    { "n": 4, "texto": "Nas trevas nasceu a luz aos retos:<br>Misericordioso é, e compassivo, e justo.", "nota": "fn111_4" },
+    { "n": 5, "texto": "Ditoso o homem que se compadece e empresta, êle disporá os seus discursos com juízo." },
+    { "n": 6, "texto": "Porque nunca jamais será comovido." },
+    { "n": 7, "texto": "A memória do justo será eterna:<br>Não temerá ouvir palavra má.<br>O seu coração está sempre aparelhado para esperar no Senhor,", "nota": "fn111_7" },
+    { "n": 8, "texto": "fortalecido está o seu coração:<br>Não será comovido até que veja abatidos a seus inimigos." },
+    { "n": 9, "texto": "Distribuiu, deu aos pobres:<br>A sua justiça permanece por todos os séculos, o seu poder será exaltado na glória." },
+    { "n": 10, "texto": "Vê-lo-á o pecador, e se indignará, rangerá com os dentes e se consumirá; o desejo dos pecadores perecerá." }
+  ],
+  "notas": {
+    "fn111_0": {
+      "rotulo": "Na volta de Ageu e de Zacarias",
+      "texto": "NA VOLTA DE AGEU E DE ZACARIAS — O hebreu e os Setenta não trazem título dêste salmo, senão o Aleluia. O mais que se acrescenta é próprio do autor da Vulgata, ou de outro mais antigo, que com esta adição quis significar, ou que Ageu e Zacarias se serviram dêste salmo, repetindo-o na retirada que o povo fêz de Babilónia para Jerusalém, ou que êle fôra então composto em ação de graças a Deus pela restituição daqueles dois santos profetas. S. João Crisóstomo considera êste salmo como continuação do anterior."
+    },
+    "fn111_1": {
+      "rotulo": "Se comprazerá muito",
+      "texto": "SE COMPRAZERÁ MUITO — Terá uma ardente vontade e desejo de cumprir perfeitamente os divinos mandamentos."
+    },
+    "fn111_4": {
+      "rotulo": "Nasceu a luz aos retos",
+      "texto": "NASCEU A LUZ AOS RETOS — A luz da sua consolação e proteção, Cristo Senhor nosso, que disse de si: \"Eu sou a luz do mundo\". — Pereira."
+    },
+    "fn111_7": {
+      "rotulo": "Não temerá ouvir palavra má",
+      "texto": "NÃO TEMERÁ OUVIR PALAVRA MÁ — Por esta palavra má entendem S. Jerônimo e Santo Agostinho aquela terrível sentença no dia último: \"Apartai-vos de mim, malditos, para o fogo eterno\". E esta mesma interpretação adotou dêles o nosso S. Julião, arcebispo de Toledo, no seu Prognóstico do século futuro. — Pereira."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "num": 123,
+  "sumario": "Salmo gratulatório. Protesta o profeta em nome do povo, que sòmente a proteção do Senhor o podia livrar de todos os perigos.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual. A não haver estado o Senhor entre nós, diga-o agora Israel:", "nota": "fn123_1" },
+    { "n": 2, "texto": "A não haver estado o Senhor entre nós, Quando se levantavam os homens contra nós." },
+    { "n": 3, "texto": "De certo nos houveram devorados vivos:" },
+    { "n": 4, "texto": "Quando se incendia o furor dêles contra nós, sem dúvida a água nos houvera sorvido." },
+    { "n": 5, "texto": "A nossa alma passou o arroio: Certamente houvera passado a nossa alma uma água insuperável." },
+    { "n": 6, "texto": "Bendito o Senhor que não nos deu por prêsa aos dentes dêles." },
+    { "n": 7, "texto": "A nossa alma como pássaro escapou do laço dos caçadores: O laço foi quebrado e nós ficamos livres." },
+    { "n": 8, "texto": "Nosso socorro está no nome do Senhor, que fêz o céu e a terra." }
+  ],
+  "notas": {
+    "fn123_1": { "rotulo": "Cântico gradual", "texto": "Êste salmo descreve os esforços que empregaram os inimigos do povo de Deus contra o salmista, salvando-o o Senhor. O texto original apresenta-nos muitos aramaísmos, o que indica que a sua composição é relativamente recente. Tem quatro estrofes." }
+  }
+}

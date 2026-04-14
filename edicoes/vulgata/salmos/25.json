@@ -1,0 +1,20 @@
+{
+  "num": 25,
+  "sumario": "Protestatio innocentiæ et amoris erga domum Dei",
+  "versiculos": [
+    { "n": 1, "texto": "In finem. Psalmus David. Judica me, Domine, quoniam ego in innocentia mea ingressus sum, et in Domino sperans non infirmabor." },
+    { "n": 2, "texto": "Proba me, Domine, et tenta me ; ure renes meos et cor meum." },
+    { "n": 3, "texto": "Quoniam misericordia tua ante oculos meos est, et complacui in veritate tua." },
+    { "n": 4, "texto": "Non sedi cum concilio vanitatis, et cum iniqua gerentibus non introibo." },
+    { "n": 5, "texto": "Odivi ecclesiam malignantium, et cum impiis non sedebo." },
+    { "n": 6, "texto": "Lavabo inter innocentes manus meas, et circumdabo altare tuum, Domine ;" },
+    { "n": 7, "texto": "ut audiam vocem laudis, et enarrem universa mirabilia tua." },
+    { "n": 8, "texto": "Domine, dilexi decorem domus tuæ, et locum habitationis gloriæ tuæ." },
+    { "n": 9, "texto": "Ne perdas cum impiis, Deus, animam meam, et cum viris sanguinum vitam meam ;" },
+    { "n": 10, "texto": "in quorum manibus iniquitates sunt : dextera eorum repleta est muneribus." },
+    { "n": 11, "texto": "Ego autem in innocentia mea ingressus sum : redime me, et miserere mei." },
+    { "n": 12, "texto": "Pes meus stetit in directo : in ecclesiis benedicam te, Domine." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

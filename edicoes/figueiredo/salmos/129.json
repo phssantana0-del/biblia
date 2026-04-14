@@ -1,0 +1,18 @@
+{
+  "num": 129,
+  "sumario": "Salmo deprecatório. O povo submergido no abismo de seus males confessa os seus pecados. E implora a divina misericórdia.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual. Desde o mais profundo clamei a ti, Senhor:", "nota": "fn129_1" },
+    { "n": 2, "texto": "Senhor, ouve a minha voz: Estejam atentos os teus ouvidos à voz da minha deprecação." },
+    { "n": 3, "texto": "Se observares, Senhor, as nossas maldades: Quem, Senhor, poderá subsistir?" },
+    { "n": 4, "texto": "Mas em ti se acha a propiciação: E pela tua lei pus em ti, Senhor, a minha confiança. A minha alma está confiada na sua palavra:", "nota": "fn129_4" },
+    { "n": 5, "texto": "A minha alma esperou no Senhor." },
+    { "n": 6, "texto": "Desde a vigília da manhã até à noite: Espere Israel no Senhor." },
+    { "n": 7, "texto": "Porque no Senhor está a misericórdia: E nêle há copiosa redenção." },
+    { "n": 8, "texto": "E êle mesmo redimirá a Israel de tôdas as suas iniquidades." }
+  ],
+  "notas": {
+    "fn129_1": { "rotulo": "Cântico gradual / Desde o mais profundo", "texto": "CÂNTICO GRADUAL — Este salmo é o 6.º dos penitenciais usado na liturgia católica para sufragar os mortos. Tem quatro estrofes. Primeira (1-2). Invocação à misericórdia de Deus. Segunda (3-4). Porque diante da sua justiça ninguém poderá subsistir. Terceira (5-6). Confiança no Senhor. Quarta (7-8). Porque Deus é infinitamente misericordioso. A propósito dêste salmo escreve Olivier: Ce chant extraordinaire, que chacun de nous a répété sur sa propre douleur, fut d'abord l'explosion d'un pathétique tellement expressif que, n'ayant ni auparavant ni depuis rien entendu de comparable, l'Église en a fait la lamentation liturgique des adieux suprêmes. Emile Olivier, Discours pour sa réception à l'Académie française, 5 mars 1874. — DESDE O MAIS PROFUNDO — Dos juízos impenetráveis do Senhor, cuja consideração só me espanta. Desde o mais profundo dos males presentes, em que estou abismado. Desde o mais profundo, isto é: desde o mais íntimo e recôndito do meu coração. A vós, meu Deus, dirijo os meus clamores, e encaminho os meus mais ardentes gemidos: socorrei-me e tende piedade de um miserável." },
+    "fn129_4": { "rotulo": "Tua lei", "texto": "Isto é, por causa das promessas da tua lei." }
+  }
+}

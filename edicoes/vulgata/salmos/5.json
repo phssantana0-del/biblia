@@ -1,0 +1,21 @@
+{
+  "num": 5,
+  "sumario": "In finem, pro ea quæ hæreditatem consequitur. Psalmus David.",
+  "versiculos": [
+    { "n": 1, "texto": "In finem, pro ea quæ hæreditatem consequitur. Psalmus David." },
+    { "n": 2, "texto": "Verba mea auribus percipe, Domine, intellige clamorem meum." },
+    { "n": 3, "texto": "Intende voci orationis meæ, Rex meus et Deus meus." },
+    { "n": 4, "texto": "Quoniam ad te orabo : Domine, mane exaudies vocem meam." },
+    { "n": 5, "texto": "Mane astabo tibi et videbo : quoniam non Deus volens iniquitatem tu es." },
+    { "n": 6, "texto": "Neque habitabit juxta te malignus : neque permanebunt injusti ante oculos tuos." },
+    { "n": 7, "texto": "Odisti omnes, qui operantur iniquitatem : perdes omnes, qui loquuntur mendacium. Virum sanguinum et dolosum abominabitur Dominus." },
+    { "n": 8, "texto": "Ego autem in multitudine misericordiæ tuæ introibo in domum tuam : adorabo ad templum sanctum tuum in timore tuo." },
+    { "n": 9, "texto": "Domine, deduc me in justitia tua : propter inimicos meos dirige in conspectu tuo viam meam." },
+    { "n": 10, "texto": "Quoniam non est in ore eorum veritas : cor eorum vanum est." },
+    { "n": 11, "texto": "Sepulchrum patens est guttur eorum, linguis suis dolose agebant : judica illos, Deus. Decidant a cogitationibus suis, secundum multitudinem impietatum eorum expelle eos, quoniam irritaverunt te, Domine." },
+    { "n": 12, "texto": "Et lætentur omnes, qui sperant in te, in æternum exsultabunt : et habitabis in eis. Et gloriabuntur in te omnes, qui diligunt nomen tuum," },
+    { "n": 13, "texto": "quoniam tu benedices justo. Domine, ut scuto bonæ voluntatis tuæ coronasti nos." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

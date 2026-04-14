@@ -1,0 +1,40 @@
+{
+  "num": 62,
+  "sumario": "Salmo deprecatório. Davi perseguido, e apartado do tabernáculo do Senhor, mostra os grandes desejos que tem de voltar à sua vista. Explica as consolações que recebia do Senhor. E anuncia a ruína dos seus inimigos. Salmo de Davi,",
+  "versiculos": [
+    { "n": 1, "texto": "Quando estava no deserto da Iduméia. (1 Rs 22, 5.)", "nota": "fn62_1" },
+    { "n": 2, "texto": "Ó Deus, ó meu Deus, em ti estou vigilante desde o raiar da luz.<br>De ti tem sêde a minha alma, a minha carne por ti suspira.", "nota": "fn62_2" },
+    { "n": 3, "texto": "Nesta terra deserta, e sem caminho, e sem água: Porque em teu santuário te contemplei, vi o teu poder, e a tua glória." },
+    { "n": 4, "texto": "Porque a tua misericórdia é melhor que a mesma vida: Os meus lábios te louvarão." },
+    { "n": 5, "texto": "Assim te bendirei em minha vida: E invocando o teu nome levantarei as minhas mãos." },
+    { "n": 6, "texto": "Como de banha e de gordura será farta a minha alma: E com lábios de júbilo te louvará a minha bôca,", "nota": "fn62_6" },
+    { "n": 7, "texto": "quando me tenho lembrado de ti sôbre o meu leito passo as minhas madrugadas meditando em ti;" },
+    { "n": 8, "texto": "Porque fôste meu defensor.<br>E à sombra das tuas asas exultei," },
+    { "n": 9, "texto": "a minha alma vai unida após de ti: A tua destra me fortalece." },
+    { "n": 10, "texto": "Mas êles em vão procuram tirar-me a vida, entrarão nas profundidades da terra:" },
+    { "n": 11, "texto": "Serão entregues nas mãos da espada, presa serão das rapôsas.", "nota": "fn62_11" },
+    { "n": 12, "texto": "Mas o rei se alegrará em Deus, louvados serão todos os que juram por êle: Pois se fechou a bôca aos que falam coisas iníquas.", "nota": "fn62_12" }
+  ],
+  "notas": {
+    "fn62_1": {
+      "rotulo": "Iduméia",
+      "texto": "IDUMÉIA — A Vulgata seguindo os Setenta traz Iduméia, mas Judá é o que se lê em Eutímio, e nos mais autorizados manuscritos. Êste salmo é uma prece que Davi dirige ao Senhor pela manhã, e como tal foi usada pela primitiva Igreja. Constituições Apostólicas, 8, 37. S. João Crisóstomo chama-lhe o salmo da manhã, e diz dêle: Accendit in Deum desiderium, et animum excitat, ac postquam valde inflammavit, magnaque replevit laetitia et caritate, ita permittit accedere. Expositio, in Sl 140, 54. Quando se organizou o breviário romano a Igreja determinou que êste salmo fôsse rezado nas Laudes. O assunto é fácil de compreender. Davi, obrigado a refugiar-se num árido deserto para escapar à cólera do seu inimigo, pede a proteção de Deus e o castigo para os maus. Tem seis estrofes."
+    },
+    "fn62_2": {
+      "rotulo": "De ti tem sêde",
+      "texto": "DE TI TEM SÊDE — Sente a minha alma uma sêde tão ardente de ti, que se comunicam os seus efeitos ainda ao mesmo corpo. — P. Seio."
+    },
+    "fn62_6": {
+      "rotulo": "De banha e gordura",
+      "texto": "DE BANHA E GORDURA — Mantivemos a tradução do Padre Pereira no texto, que assim verteu a Vulgata adipe et pinguedine. Não nos devemos porém esquecer que se trata de verso, empregada a linguagem poética. As palavras que estão no original, correspondentes a estas baleie e dashen, em sentido próprio têm esta significação, em sentido metafórico significam a excelência de bondade e abundância que sacia por completo: optimum cujus rei, fecunditas, fertilitas. Desta sorte o sentido dêste versículo é êste: De opulência e abundância será farta a minha alma. É modo de dizer enfático e metafórico, corresponde a \"ficar-se-á tão saciado, como aquêle que se alimenta com suavíssimo e abundantíssimo manjar.\" Duae voces idem significantes ad majorem euphasim: q. d. Tamquam suavissimo cibo; nam pinguis cibus gratior et suavior: b. e. Omne voluptate perfundetur animus. — Menóquio."
+    },
+    "fn62_11": {
+      "rotulo": "Presa serão",
+      "texto": "PRESA SERÃO — Põem a espécie pelo gênero; porquanto a Judéia e a Palestina abundavam de rapôsas, como se vê pelas trezentas que ajuntou Sansão. O sentido é êste: Os que me perseguem em vão me buscam para me oprimir; antes de o conseguir ou baixarão vivos aos abismos, ou perecerão ao fio da espada; e os seus cadáveres ficarão sem sepultura, para pasto das feras. — Pereira."
+    },
+    "fn62_12": {
+      "rotulo": "O rei",
+      "texto": "O REI — Muitos críticos, por causa desta palavra, pretendem que êste salmo não pode ser do tempo da perseguição de Saul; adverte Vigouroux que não é impossível que Davi, depois de ter sido sagrado por Samuel, tivesse desde logo tomado o titulo de rei, e que usasse entre os seus de semelhante predicamento, e que êstes jurassem por êle. Manuel Biblique."
+    }
+  }
+}

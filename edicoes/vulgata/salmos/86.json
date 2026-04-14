@@ -1,0 +1,15 @@
+{
+  "num": 86,
+  "sumario": "Filiis Core. Psalmus cantici.",
+  "versiculos": [
+    { "n": 1, "texto": "Filiis Core. Psalmus cantici." },
+    { "n": 2, "texto": "Fundamenta ejus in montibus sanctis:" },
+    { "n": 3, "texto": "diligit Dominus portas Sion super omnia tabernacula Jacob." },
+    { "n": 4, "texto": "Gloriosa dicta sunt de te, civitas Dei." },
+    { "n": 5, "texto": "Memor ero Rahab et Babylonis, scientium me. Ecce alienigenæ, et Tyrus, et populus Æthiopum, hi fuerunt illic." },
+    { "n": 6, "texto": "Numquid Sion dicet: Homo, et homo natus est in ea; et ipse fundavit eam Altissimus?" },
+    { "n": 7, "texto": "Dominus narrabit in scripturis populorum, et principum, horum qui fuerunt in ea. Sicut lætantium omnium habitatio est in te." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

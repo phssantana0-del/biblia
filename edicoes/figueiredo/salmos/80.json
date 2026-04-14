@@ -1,0 +1,45 @@
+{
+  "num": 80,
+  "sumario": "Salmo gratulatório. São convidados os fiéis a celebrar os dias festivos, instituídos para celebrar a memória dos benefícios que recebem de Deus. Ao regente do côro.",
+  "versiculos": [
+    { "n": 1, "texto": "Com a cítara de Get. Salmo do mesmo Asaf.", "nota": "fn80_1" },
+    { "n": 2, "texto": "Regozijai-vos louvando a Deus nosso ajudador: Celebrai ao Deus de Jacó." },
+    { "n": 3, "texto": "Entoai o salmo, e tocai os tímbales: O saltério harmonioso com a cítara." },
+    { "n": 4, "texto": "Tocai a trombeta na Neomênia, no dia sinalado da vossa solenidade:", "nota": "fn80_4" },
+    { "n": 5, "texto": "Porque está mandado em Israel: E é estatuto em honra do Deus de Jacó." },
+    { "n": 6, "texto": "Ordenou-o por testemunho a José quando ouviu uma língua, que não entendia.", "nota": "fn80_6" },
+    { "n": 7, "texto": "Descarregou do pêso ao seu ombro: E as suas mãos que haviam servido de acarretar com cêsto.", "nota": "fn80_7" },
+    { "n": 8, "texto": "Na tribulação me invocaste, e te livrei: Eu te ouvi no escondido da tempestade: Fiz prova de ti junto à água da contradição.", "nota": "fn80_8" },
+    { "n": 9, "texto": "Ouve, povo meu, e eu te declararei a minha vontade; Israel, se me ouvires," },
+    { "n": 10, "texto": "não haverá em ti Deus novo, nem adorarás Deus estranho." },
+    { "n": 11, "texto": "Porque eu sou o Senhor teu Deus, que te tirei da terra do Egito: Abre bem a tua bôca, e eu ta encherei." },
+    { "n": 12, "texto": "E não ouviu o meu povo a minha voz: E Israel não me atendeu." },
+    { "n": 13, "texto": "E os abandonei segundo os desejos do seu coração, êles irão caminhando atrás das invenções da sua fantasia." },
+    { "n": 14, "texto": "Se o meu povo me houvera ouvido: Se Israel tivera andado nos meus caminhos:" },
+    { "n": 15, "texto": "Em nada teria eu sem dúvida humilhado a seus inimigos: E houvera descarregado a minha mão sôbre os que os atribulavam." },
+    { "n": 16, "texto": "Os inimigos do Senhor mentiram-lhe: E durará o tempo dêles por todos os séculos." },
+    { "n": 17, "texto": "E deu-lhes a comer da gordura do trigo: E os fartou de mel da pedra." }
+  ],
+  "notas": {
+    "fn80_1": {
+      "rotulo": "Cítara de Get",
+      "texto": "CÍTARA DE GET (?) — Veja salmo 8. Êste salmo celebra a festa da Páscoa, e é por êste motivo que fala da saída do Egito. O salmista recorda a recompensa reservada aos que praticarem o bem. Tem três estrofes. Primeira (2-6). Exorta a celebrar a Páscoa com alegria. Na Segunda e Terceira introduz Deus a falar lembrando-lhes que recompensará os bons como castigou outrora os rebeldes no deserto."
+    },
+    "fn80_4": {
+      "rotulo": "Neomênia",
+      "texto": "NEOMÊNIA — Dia sinalado — Lua nova. O dia da Páscoa. Alguns comentadores entendem a festa dos tabernáculos."
+    },
+    "fn80_6": {
+      "rotulo": "José",
+      "texto": "JOSÉ — Está aqui por todo o Israel, porque a festa dos tabernáculos foi instituída em memória da saída do Egito, onde José tinha sido protetor de Israel. OUVIU UMA LÍNGUA QUE NÃO ENTENDIA — Segundo a maior parte dos intérpretes, o salmista quer dizer que os israelitas, depois da saída do Egito, ouviram a voz do Senhor que lhes falava do alto do Sinai por intermédio de Moisés, que lhes deu uma lei e lhes revelou verdades que êles não conheciam."
+    },
+    "fn80_7": {
+      "rotulo": "Descarregou do pêso",
+      "texto": "DESCARREGOU DO PÊSO — O hebreu diz: Tirei na primeira pessoa, e na bôca de Deus, o que fêz o sentido mais unido, o mesmo tudo o que se segue até ao fim do salmo; e assim se deve suprir a palavra Deus, como pessoa que dá a ação a todos os verbos. — P. Seio."
+    },
+    "fn80_8": {
+      "rotulo": "A água da contradição",
+      "texto": "A ÁGUA DA CONTRADIÇÃO — Da contradição, ou Litígio: É versão do nome próprio Meribah, que se dá àquelas águas nos Núm 20, 13. O que sucedeu em Cades."
+    }
+  }
+}

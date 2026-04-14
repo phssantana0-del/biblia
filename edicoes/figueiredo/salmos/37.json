@@ -1,0 +1,35 @@
+{
+  "num": 37,
+  "sumario": "Salmo deprecatório. Davi temendo a ira de Deus, a quem irritou pelos seus crimes, descreve o estado de humilhação e penitência em que se achava, pelo desamparo dos seus amigos e sublevação dos seus vassalos. Confessa-se pecador, e recorre à divina misericórdia.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi, em memória do sábado.", "nota": "fn37_1" },
+    { "n": 2, "texto": "Senhor, não me repreendas no teu furor, nem me castigues na tua ira." },
+    { "n": 3, "texto": "Porque as tuas setas se me cravaram: E assentaste sôbre mim a tua mão." },
+    { "n": 4, "texto": "Não há parte sã na minha carne na face da tua ira: Não há paz nos meus ossos à vista dos meus pecados." },
+    { "n": 5, "texto": "Porque as minhas iniquidades se elevaram por cima da minha cabeça: E como carga pesada se agravaram sôbre mim.", "nota": "fn37_5" },
+    { "n": 6, "texto": "Apodreceram e corromperam-se as minhas cicatrizes, à vista da minha estultícia." },
+    { "n": 7, "texto": "Eu me tornei miserável, e todo encurvado: Todo o dia andava oprimido de tristeza." },
+    { "n": 8, "texto": "Porque os meus lombos estão cheios de ilusões: E não há parte alguma sã na minha carne." },
+    { "n": 9, "texto": "Estou aflito, e grandemente abatido: Rugia pela fôrça do gemido do meu coração." },
+    { "n": 10, "texto": "Senhor, diante de ti está todo o meu desejo: E o meu gemido te não é oculto." },
+    { "n": 11, "texto": "O meu coração está conturbado, a minha fôrça me desamparou: E ainda o mesmo lume dos meus olhos não está já comigo.", "nota": "fn37_11" },
+    { "n": 12, "texto": "Os meus amigos, e os meus propínquos se chegaram, e se puseram contra mim. E os que estavam perto de mim, se puseram de longe:", "nota": "fn37_12" },
+    { "n": 13, "texto": "E faziam seus esforços os que buscavam a minha alma. E os que me procuravam males, falaram coisas vãs: E todo o dia maquinavam enganos." },
+    { "n": 14, "texto": "Mas eu como um surdo não ouvia: E como um mudo que não abre a sua bôca." },
+    { "n": 15, "texto": "E tornei-me como homem que não ouve; e que não tem na sua bôca palavras com que se defenda." },
+    { "n": 16, "texto": "Porque em ti, Senhor, esperei: Tu me ouvirás, Senhor Deus meu." },
+    { "n": 17, "texto": "Porque disse: Nunca triunfem de mim meus inimigos: E enquanto meus pés estão vacilantes, falaram com orgulho contra mim." },
+    { "n": 18, "texto": "Porque aparelhado estou para os açoites: E a minha dor está sempre diante de mim." },
+    { "n": 19, "texto": "Porque eu publicarei a minha iniquidade: E meditarei sôbre o meu pecado." },
+    { "n": 20, "texto": "Mas os meus inimigos vivem, e se têm fortificado sôbre mim: E se têm multiplicado os que me aborrecem injustamente." },
+    { "n": 21, "texto": "Os que tornam males por bens, murmuravam de mim, porque eu seguia o que era bom." },
+    { "n": 22, "texto": "Não me desampares, Senhor Deus meu: Não te apartes de mim." },
+    { "n": 23, "texto": "Acode prontamente em meu socorro, Senhor Deus da minha salvação." }
+  ],
+  "notas": {
+    "fn37_1": { "rotulo": "1", "texto": "SALMO DE DAVI — Êste salmo, que é um dos penitenciais, julgam alguns que fôra composto por Davi na revolta do Absalão, e manifesta perfídia dos seus, no que reconhece a divina vingança. Assim Bossuet. Outros, a quem Calmet segue, supõem composto êste salmo numa doença que padeceu depois do adultério com Betsabée. Os Santos Padres reconhecem aqui debaixo da figura de Davi a Jesus Cristo, reduzido ao estado de maior aflição pelas culpas dos homens. — Pereira. | EM MEMÓRIA DO SÁBADO — A Vulgata diz, In rememorationem de sabbato. O hebreu simplesmente, ad commemorandum, para memória, sem nomear sábado. Por onde atendido o hebreu, se pode traduzir assim êste título: \"Salmo de Davi, para servir de monumento.\" Atendendo à Vulgata, o traduziu Calmet assim: \"Salmo memorável de Davi para o dia de sábado.\" E que respeito diga êste salmo ao sábado, ou que sábado seja êste, é ponto em que ainda se não conformaram os Padres, e expositores. E assim seja êste um dos títulos sumamente escuros, que se acham no saltério. Tem onze estrofes." },
+    "fn37_5": { "rotulo": "2", "texto": "SE ELEVARAM POR CIMA DA MINHA CABEÇA — Isto é, me inundam até mais acima da minha cabeça. Sl 41, 8. Ou também excedem o número dos cabelos da minha cabeça. Sl 39, 13. — P. Seio. | SE AGRAVARAM SÔBRE MIM — Isto é, sôbre as minhas fôrças. — Pereira." },
+    "fn37_11": { "rotulo": "3", "texto": "O MEU CORAÇÃO ESTÁ CONTURBADO — O hebreu diz com maior valentia: \"O meu coração está palpitando,\" isto é, palpitando de pavor. — Bossuet." },
+    "fn37_12": { "rotulo": "4", "texto": "OS MEUS AMIGOS — Êstes versos e os que se seguem, pôsto que convenham a Davi, contudo confrontando-se com a história da Paixão do Senhor, escrita pelos Evangelistas, se vê claramente, que mais convém a Jesus Cristo, a quem os Santos Padres os aplicam. — P. Seio." }
+  }
+}

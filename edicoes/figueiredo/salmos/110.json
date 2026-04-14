@@ -1,0 +1,34 @@
+{
+  "num": 110,
+  "sumario": "Salmo de louvor pelas maravilhas obradas por Deus a favor do seu povo. Aleluia.",
+  "versiculos": [
+    { "n": 1, "texto": "Louvar-te-ei, Senhor, com todo o meu coração: No conselho dos justos, e na congregação.", "nota": "fn110_1" },
+    { "n": 2, "texto": "Grandes são as obras do Senhor: Apropriadas a tôdas as suas vontades." },
+    { "n": 3, "texto": "A obra dêle é glória, e magnificência: E a sua justiça permanece pelo século do século." },
+    { "n": 4, "texto": "Deixou memória das suas maravilhas, o Senhor, que é misericordioso e compassivo:" },
+    { "n": 5, "texto": "Deu sustento aos que o temem.<br>Lembrar-se-á eternamente da sua aliança:", "nota": "fn110_5" },
+    { "n": 6, "texto": "Anunciará ao seu povo a virtude das suas obras." },
+    { "n": 7, "texto": "Para lhes dar a êles a herança das gentes: As obras das suas mãos são verdade, e justiça." },
+    { "n": 8, "texto": "Fiéis são todos os seus mandamentos: Confirmados em todos os séculos, feitos em liberdade e em equidade." },
+    { "n": 9, "texto": "Redenção enviou ao seu povo: Estabeleceu para sempre a sua aliança.<br>Santo, e terrível é o nome dêle:", "nota": "fn110_9" },
+    { "n": 10, "texto": "O temor do Senhor é princípio da sabedoria.<br>É bom entendimento o de todos os que obram como êle: O seu louvor permanece para sempre.", "nota": "fn110_10" }
+  ],
+  "notas": {
+    "fn110_1": {
+      "rotulo": "E na congregação",
+      "texto": "Êste salmo e os dois seguintes no hebreu, e os oito na Vulgata, começam por Aleluia. Um e outro são alfabéticos, e compostos de 22 versículos, começando cada um no original por uma letra do alfabeto hebraico. E NA CONGREGAÇÃO — O hebreu tem: no secreto congresso, e congregação, ou reunião pública dos justos."
+    },
+    "fn110_5": {
+      "rotulo": "Deu sustento aos que o temem",
+      "texto": "DEU SUSTENTO AOS QUE O TEMEM — Bossuet o entende do maná, que Deus choveu no deserto; Calmet da restituição do povo judaico às férteis terras da sua Pátria. Isto é no sentido histórico, porque no sentido espiritual, os Padres, uns entendem por êste sustento o pão Eucarístico, outros a palavra de Deus. — Pereira."
+    },
+    "fn110_9": {
+      "rotulo": "Redenção",
+      "texto": "REDENÇÃO — Outros lêem Redentor. Êste redentor a respeito do povo cativo no Egito, foi Moisés; a respeito do povo cativo em Babilónia, foi Ciro. E ambos êstes redentores eram figuras de Jesus Cristo, que foi o que resgatou do cativeiro de Satanás, e do pecado a todo o gênero humano. — Pereira."
+    },
+    "fn110_10": {
+      "rotulo": "O temor do Senhor",
+      "texto": "O TEMOR DO SENHOR — Pelo temor se começa a ser sábio, e a caridade é a que dá a perfeição a esta sabedoria: mas, ah! infeliz daquele que intentar romper esta aliança! porque santo e terrível é o nome do Senhor. Temam-no pois todos, que o temor de Deus é a verdadeira sabedoria. — P. Seio."
+    }
+  }
+}

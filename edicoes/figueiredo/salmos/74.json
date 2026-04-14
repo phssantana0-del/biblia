@@ -1,0 +1,35 @@
+{
+  "num": 74,
+  "sumario": "Salmo gratulatório e didático. O salmista se emprega a louvar a Deus, porque faz brilhar a sua justiça em abater a uns e a exaltar a outros, em levantar os humildes que o temem, e em humilhar aos soberbos que o desprezam.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro. Sôbre a ária al thaschkheth. Salmo de Asaf. Cântico.", "nota": "fn74_1" },
+    { "n": 2, "texto": "Nós te glorificaremos, ó Deus: Confessaremos, e invocaremos o teu Nome.<br>Cantaremos as tuas maravilhas:" },
+    { "n": 3, "texto": "Quando eu tomar o meu tempo, julgarei com justiça." },
+    { "n": 4, "texto": "Tem-se liquidado a terra, e todos os que a habitam: Eu fortaleci as suas colunas." },
+    { "n": 5, "texto": "Disse aos malvados: Não cometais maldade: E aos que pecam: Não vos glorieis do poder." },
+    { "n": 6, "texto": "Não queirais levantar ao alto vosso poder: Não queirais falar iniquamente contra Deus." },
+    { "n": 7, "texto": "Porque nem do Oriente, nem do Ocidente, nem dos montes desertos:", "nota": "fn74_7" },
+    { "n": 8, "texto": "Porque Deus é o Juiz.<br>A êste humilha, e àquele exalta:" },
+    { "n": 9, "texto": "Porque na mão do Senhor está o cálice de vinho puro cheio duma mistura.<br>E deitou dêste naquele: Certamente as suas fezes não se apuraram: Delas beberão todos os pecadores da terra.", "nota": "fn74_9" },
+    { "n": 10, "texto": "Mas eu anunciarei pelo século: Cantarei ao Deus de Jacó.", "nota": "fn74_10" },
+    { "n": 11, "texto": "E quebrarei tôdas as forças dos pecadores: E será exaltada a glória do justo." }
+  ],
+  "notas": {
+    "fn74_1": {
+      "rotulo": "Al thaschkheth",
+      "texto": "AL THASCHKHETH — Com a música da ária conhecida com êste nome a Vulgata traduzia — não corrompas. — Teodoreto encontrou nalguns manuscritos esta adição: Contra o Assírio. Com efeito pode conjecturar-se que êste salmo tivesse sido composto no tempo de Ezequias e ver nêle um cântico profético anunciando que Judá seria livre da invasão de Senaquerib. 4 Rs 19; 2 Par 22. Compreende uma saudação inicial, que é o versículo 2 e cinco estrofes. Primeira (3-4). Discurso de Deus, que dá a justiça no momento preciso. Segunda (5-6). Pelo que o salmista anuncia ao mau que nunca poderá levantar a fronte. Terceira (7-9). Não é um monarca da terra que governa, é Deus. Quarta (9). Deus reserva para o mau uma taça de fel. Quinta (10-11). E Israel glorificará o seu Deus e celebrará a ruína do ímpio."
+    },
+    "fn74_7": {
+      "rotulo": "Nem dos montes desertos",
+      "texto": "NEM DOS MONTES DESERTOS — É esta uma reticência em que deve suprir-se, erit vobis evasio, \"tereis vós saída, em nenhum lugar podereis evitar o juízo de Deus, o qual está em tôdas as partes\"."
+    },
+    "fn74_9": {
+      "rotulo": "O cálice de vinho",
+      "texto": "O CÁLICE DE VINHO — Por êste cálice se designa na frase dos profetas a vingança de Deus, isto é, o cálice da sua ira. Is 51, 17-22. Jer 51, 7. Ez 23, 53. — Pereira."
+    },
+    "fn74_10": {
+      "rotulo": "Pelo século",
+      "texto": "PELO SÉCULO — Santo Agostinho leu: \"Mas eu serei um eterno gôzo.\" E segundo esta expressão o sentido da Vulgata é: Eu publicarei os louvores do Senhor por uma eternidade, dizendo com os Espíritos Bem-aventurados: Santo, Santo, Santo. — P. Seio."
+    }
+  }
+}

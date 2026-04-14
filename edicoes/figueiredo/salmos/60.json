@@ -1,0 +1,69 @@
+{
+  "num": 60,
+  "sumario": "Davi implora auxílio de Deus e anuncia o reino eterno do Messias.",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "Ao regente do côro. Com acompanhamento de instrumentos de corda."
+    },
+    {
+      "n": 1,
+      "texto": "De Davi.",
+      "nota": "fn60_1"
+    },
+    {
+      "n": 2,
+      "texto": "Ouve, Deus meu, a minha deprecação: Atende à minha oração."
+    },
+    {
+      "n": 3,
+      "texto": "Desde os fins da terra a ti clamei: Quando estava angustiado o meu coração, na pedra me colocaste. Guiaste-me,",
+      "nota": "fn60_3"
+    },
+    {
+      "n": 4,
+      "texto": "porque te fizeste a minha esperança: Torre da fortaleza diante do inimigo."
+    },
+    {
+      "n": 5,
+      "texto": "Habitarei no teu tabernáculo pelos séculos: Abrigar-me-ei à sombra das tuas asas."
+    },
+    {
+      "n": 6,
+      "texto": "Porque tu, Deus meu, ouviste a minha oração: Deste herança aos que temem o teu nome."
+    },
+    {
+      "n": 7,
+      "texto": "Acrescentarás dias aos dias do rei: Os seus anos durarão até o dia de uma e de outra geração.",
+      "nota": "fn60_7"
+    },
+    {
+      "n": 8,
+      "texto": "Êle permanece eternamente na presença de Deus: A misericórdia e a verdade dêle quem a solidará?"
+    },
+    {
+      "n": 9,
+      "texto": "Assim cantarei eu salmo ao teu nome pelo século do século: Para cumprir os meus votos cada dia.",
+      "nota": "fn60_9"
+    }
+  ],
+  "notas": {
+    "fn60_1": {
+      "rotulo": "DE DAVI",
+      "texto": "Êste salmo foi composto durante a revolta de Absalão quando Davi fugia para Maanaim, perto de Galaad. Tem três estrofes de seis versos. Primeira (2-4). Davi fugindo pede a Deus que o guarde e conduza. Segunda (4-6). Deus é a sua fôrça; deseja pois habitar sempre junto do Tabernáculo. Terceira (7-9). Que Deus dê longos dias ao rei, que o guarde, e êste lhe agradecerá celebrando o seu Santo nome."
+    },
+    "fn60_3": {
+      "rotulo": "DESDE OS FINS DA TERRA",
+      "texto": "Isto mostra que Davi compôs êste salmo, quando fugiu de Absalão, para os confins do reino de Israel, 2 Rs 18, 22, ainda que o atribuem indeterminadamente ao tempo em que vivia longe de Jerusalém, e do tabernáculo, sofrendo a violenta perseguição de Saul. Sl 41, 8. Em outro sentido se dá a entender que a Igreja se estenderia até às extremidades da terra, e que em todo o lugar seria adorado, e invocado o seu Deus. — P. Seio."
+    },
+    "fn60_7": {
+      "rotulo": "ATÉ AO DIA",
+      "texto": "Fazendo que viva, e reine sob a proteção da tua graça, e constante amor todo o tempo que tiveres determinado: e que o reino da tua Igreja seja eterno no Messias, que há de nascer da rainha descendência. Estas palavras de consentimento unânime de todos os padres, e ainda dos rabinos antigos, não tiveram o seu perfeito cumprimento, nem se verificaram senão só na pessoa de Jesus Cristo, cujo reino não tem fim, e o seu dia é o da nova geração, porque somos \"reproduzidos nêle\" para uma vida que nunca se há de acabar. — P. Seio."
+    },
+    "fn60_9": {
+      "rotulo": "PELO SÉCULO DO SÉCULO",
+      "texto": "O reino em Davi era temporal, em Cristo não tem fim. Esta misericórdia, e esta verdade serão para mim digno argumento de eternos hinos e louvores. — P. Seio."
+    }
+  }
+}

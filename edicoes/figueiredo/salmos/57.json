@@ -1,0 +1,91 @@
+{
+  "num": 57,
+  "sumario": "Lamento pelas injustiças dos cortesãos de Saul; pedido de castigo divino.",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "Ao regente do côro."
+    },
+    {
+      "n": 1,
+      "texto": "Al'thaschekcheth de Davi Miktham.",
+      "nota": "fn57_1"
+    },
+    {
+      "n": 2,
+      "texto": "Se verdadeiramente falais justiça: Julgai com retidão, ó filhos dos homens.",
+      "nota": "fn57_2"
+    },
+    {
+      "n": 3,
+      "texto": "Porquanto obrais maldades no coração: Às vossas mãos tramam injustiças na terra."
+    },
+    {
+      "n": 4,
+      "texto": "Os pecadores desde a sua origem se alienaram, erraram desde que saíram do ventre de sua mãe: Falaram falsidades."
+    },
+    {
+      "n": 5,
+      "texto": "O furor dêles é semelhante ao da serpente: Como o de áspide surdo, e que fecha os seus ouvidos.",
+      "nota": "fn57_5"
+    },
+    {
+      "n": 6,
+      "texto": "Que não ouvirá a voz de encantadores: Nem a de mago que encanta segundo a sua arte."
+    },
+    {
+      "n": 7,
+      "texto": "Deus lhes quebrará os dentes na sua bôca: Os queixos dos leões quebrará o Senhor."
+    },
+    {
+      "n": 8,
+      "texto": "Reduzir-se-ão ao nada como água que corre: Entesou o seu arco até que sejam abatidos.",
+      "nota": "fn57_8"
+    },
+    {
+      "n": 9,
+      "texto": "Serão destruídos como a cera que se derrete: Caiu fogo de cima, e não viram o sol.",
+      "nota": "fn57_9"
+    },
+    {
+      "n": 10,
+      "texto": "Antes que os vossos espinhos se vejam feitos arbustos: Assim êle os devorará como ainda vivos.",
+      "nota": "fn57_10"
+    },
+    {
+      "n": 11,
+      "texto": "Alegrar-se-á o justo quando vir a vingança: As suas mãos lavará no sangue do pecador."
+    },
+    {
+      "n": 12,
+      "texto": "E dirá o homem: Se de certo há fruto para o justo: De certo há Deus que os julga sôbre a terra."
+    }
+  ],
+  "notas": {
+    "fn57_1": {
+      "rotulo": "AL'THASCHEKCHETH",
+      "texto": "É esta a segunda palavra do salmo no original, que a Vulgata traduziu Ne disperdas, a que corresponde, segundo o P. Pereira, o têrmo português não destruas. Não se conhece a significação dêste têrmo; sabe-se porém, segundo as melhores opiniões, que é o nome dum cântico. A linguagem dêste salmo é viva, as imagens mais frequentes do que nos outros. Tem quatro estrofes. Primeira (2-3) Apóstrofe aos juízes que violam o direito. Segunda (4-6) Quadro dos maus, que o são como a víbora que oculta o seu veneno; e como o áspide insensível à voz do encantador. Terceira (7-10) Oração a Deus, para que sejam aniquilados como animais perigosos. Quarta (11-12) E que o justo triunfe das perseguições."
+    },
+    "fn57_2": {
+      "rotulo": "JULGAI COM RETIDÃO",
+      "texto": "O hebreu com maior ênfase e veemência: Porventura: ó consistório de verdade, pronunciais justiça? filhos de Adão, julgais retamente? Dirige o seu discurso aos conselheiros, e cortesãos de Saul, como se dissera: Por que blasonais, e vos prezais tanto de justiceiros, trazendo de contínuo vãmente o nome de justiça na vossa bôca, e desmentindo a cada passo as vossas palavras com a injustiça de vossas obras? Non sit justitia labiorum, sed factorum. — P. Seio."
+    },
+    "fn57_5": {
+      "rotulo": "SURDO, E QUE FECHA OS SEUS OUVIDOS",
+      "texto": "Tudo o que o salmista diz neste verso, e no seguinte, sôbre o taparem as serpentes as orelhas, à primeira voz que ouvem do encantador, e sôbre os artifícios de que êste se vale para as encantar se deve entender num sentido popular, e segundo as opiniões que então corriam, e ainda hoje correm entre o comum dos homens, sem que daqui precisamente se possa tirar como indubitável, nem que a natureza desse às serpentes o instinto de taparem as orelhas, nem que caiba nas fôrças naturais do homem podê-las encantar, e muito menos que seja lícito o uso da arte mágica. Porque os escritores sagrados, ainda que cheios de luz sobrenatural, e infalível pelo que toca aos mistérios da religião, à doutrina dos costumes, e à narração dos fatos históricos por êles atestados, nas matérias contudo que concernem a natureza física das coisas, nas comparações, nos modos de falar, costumam ordinàriamente explicar-se por têrmos populares, supondo até as preocupações, e falsas crenças do vulgo, para se acomodarem à capacidade e luzes de cada um. Dêste assunto é digníssima de se ler a Dissertação de Calmet, que tem por título: Sôbre os encantamentos das serpentes, de que se fala no salmo 57. — Pereira."
+    },
+    "fn57_8": {
+      "rotulo": "ATÉ QUE SEJAM ABATIDOS",
+      "texto": "O hebreu diz: \"Arroje Deus as suas setas, e em um instante sejam cortadas:\" ou sejam como se houvessem sido decepados: \"caminhem como caracol que se desfaz:\" passem dêste mundo: \"como o abôrto de uma mulher, não vejam o sol.\" — P. Seio."
+    },
+    "fn57_9": {
+      "rotulo": "CAIU FOGO DE CIMA",
+      "texto": "Venha sôbre vós o fogo da vingança divina, que vos prive do uso da luz comum a todos os viventes como priva a um abôrto. — Calmet."
+    },
+    "fn57_10": {
+      "rotulo": "ANTES QUE OS VOSSOS ESPINHOS",
+      "texto": "Os ímpios, que desde o vosso nascimento sois nocivos como os espinhos. Deus vos destrua com tempo antes que cresça, e se fortifique a vossa malícia, à maneira do verde e tenro espinho, que por último vem a crescer, e formar-se arbusto, endurecendo-se, e armando-se de duros e agudos espinhos com que se fere, e atravessa a mão que se lhe chega, ou o toca. — S. Jerônimo."
+    }
+  }
+}

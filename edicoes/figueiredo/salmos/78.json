@@ -1,0 +1,33 @@
+{
+  "num": 78,
+  "sumario": "Salmo deprecatório em que se expressam os lamentos dos fiéis pelos danos feitos à Sinagoga, e ao seu templo, e alegòricamente à Igreja cristã.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Asaf.<br>Ó Deus, vieram as nações à tua herança, contaminaram o teu santo templo: Tornaram Jerusalém como cabana de guardar frutas.", "nota": "fn78_1" },
+    { "n": 2, "texto": "Deram os cadáveres dos teus servos por comida às aves do céu: As carnes dos teus santos aos animais da terra.", "nota": "fn78_2" },
+    { "n": 3, "texto": "Derramaram o sangue dêles como água à roda de Jerusalém: E não havia quem lhes desse a sepultura.", "nota": "fn78_3" },
+    { "n": 4, "texto": "Temos chegado a ser o opróbrio de nossos vizinhos: O escárnio e a mofa daqueles que estão em roda de nós." },
+    { "n": 5, "texto": "Até quando, Senhor, te hás de irar sem aplacar-te: Até quando se acenderá como fogo o teu zêlo?" },
+    { "n": 6, "texto": "Derrama a tua ira sôbre as nações, que te não conhecem: E sôbre os reinos que não invocaram o teu nome." },
+    { "n": 7, "texto": "Porque êle tem devorado a Jacó: E tem assolado a sua casa." },
+    { "n": 8, "texto": "Não te lembres de nossas antigas maldades, anticipem-se logo as tuas misericórdias: Porque temos sido reduzidos a extrema miséria." },
+    { "n": 9, "texto": "Ajuda-nos, ó Deus, Salvador nosso: E pela glória do teu nome, Senhor, livra-nos: E perdoa os nossos pecados, por amor do teu nome." },
+    { "n": 10, "texto": "Para que não digam talvez as gentes: Onde está o Deus dêles? e se divulgue tal blasfêmia entre as nações ante os nossos olhos.<br>A vingança do sangue dos teus servos, que foi derramado:" },
+    { "n": 11, "texto": "Os gemidos dos que estão em cadeias cheguem à tua presença.<br>Segundo a grandeza do teu braço, conserva os filhos dos que foram mortos." },
+    { "n": 12, "texto": "E dá a nossos vizinhos sete tantos no seio dêles: Seja opróbrio dos mesmos aquilo com que, Senhor, te improperavam." },
+    { "n": 13, "texto": "Mas nós que somos povo teu, e ovelhas do teu pasto, te glorificaremos para sempre:<br>De geração em geração publicaremos o teu louvor." }
+  ],
+  "notas": {
+    "fn78_1": {
+      "rotulo": "Salmo de Asaf",
+      "texto": "Êste salmo deve ser da mesma época do Salmo 73 e refere-se à tomada de Jerusalém por Nabucodonosor. Tem quatro estrofes. Primeira (1-4). Quadro lamentável de Jerusalém devastada. Segunda (5-7). Pede misericórdia a Deus para com o seu povo desprezado. Terceira. Que Deus lhes perdoe os pecados. Quarta. Que tenha piedade de Israel. CABANA DE GUARDAR FRUTAS — Na Palestina há ainda hoje, e outrora com mais abundância, cabanas ou construções grosseiras de pedras, que serviam de resguardo contra os salteadores; eram desabitadas e quase tôdas em ruína."
+    },
+    "fn78_2": {
+      "rotulo": "Santos",
+      "texto": "SANTOS — Quer dizer, os servos fiéis."
+    },
+    "fn78_3": {
+      "rotulo": "Como água",
+      "texto": "COMO ÁGUA — Quer dizer em grande abundância."
+    }
+  }
+}

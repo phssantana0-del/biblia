@@ -1,0 +1,46 @@
+{
+  "num": 148,
+  "sumario": "Salmo gratulatório. Deve-se louvar a Deus, porque só êle é o Criador de tôdas as coisas.",
+  "versiculos": [
+    { "n": 1, "texto": "Aleluia.<br>Louvai desde os céus ao Senhor: Louvai-o nas alturas.", "nota": "fn148_1" },
+    { "n": 2, "texto": "Louvai-o, todos os seus anjos: Louvai-o, tôdas as suas virtudes." },
+    { "n": 3, "texto": "Louvai-o, sol e lua: Louvai-o, tôdas as estrêlas e o lume.", "nota": "fn148_3" },
+    { "n": 4, "texto": "Louvai-o, céus dos céus: E tôdas as águas que estão sôbre os céus,", "nota": "fn148_4" },
+    { "n": 5, "texto": "louvem o nome do Senhor.<br>Porque êle disse, e foram feitas as coisas: Êle mandou e elas foram criadas." },
+    { "n": 6, "texto": "Êle as estabeleceu para sempre, e pelo século do século: Preceito pôs, e não se quebrantará.", "nota": "fn148_6" },
+    { "n": 7, "texto": "Louvai ao Senhor os que sois da terra, vós, dragões, e todos os abismos.", "nota": "fn148_7" },
+    { "n": 8, "texto": "O fogo, o graniso, a neve, a geada, o espírito de tempestades, que executam a sua palavra." },
+    { "n": 9, "texto": "Os montes, e todos os outeiros: As árvores frutíferas, e todos os cedros.", "nota": "fn148_9" },
+    { "n": 10, "texto": "Os animais, e todos os gados: As serpentes, e as aves que voam." },
+    { "n": 11, "texto": "Os reis da terra, e todos os povos: Os príncipes, e todos os juízes da terra." },
+    { "n": 12, "texto": "Os mancebos, e as donzelas: Os velhos com os moços louvem o nome do Senhor:" },
+    { "n": 13, "texto": "Porque só o nome dêle foi exaltado." },
+    { "n": 14, "texto": "O seu louvor é sôbre o céu, e a terra: E exaltou o poder do seu povo.<br>Hino digam todos os seus santos; os filhos de Israel, o povo que se lhe aproxima. Aleluia." }
+  ],
+  "notas": {
+    "fn148_1": {
+      "rotulo": "Aleluia",
+      "texto": "O poeta vendo livre a nacionalidade judaica, quer significar todo o seu contentamento e gratidão, pedindo a tôdas as criaturas que louvem o Senhor. S. Francisco de Assis imitou êste salmo no seu cântico do Sol, Laudato sia Dio mio Signore con tutte le creature, specialmente messer lo frate Sole, etc. B. Francisci Opuscula, 1623, p. 398. O salmista desce gradualmente do Céu à terra."
+    },
+    "fn148_3": {
+      "rotulo": "Tôdas as suas virtudes / Tôdas as estrêlas e o lume",
+      "texto": "TÔDAS AS SUAS VIRTUDES — S. Jerônimo, segundo o hebreu, verte: Exercitus ejus: suas milícias Celestiais. — Pereira. TÔDAS AS ESTRÊLAS E O LUME — O hebreu diz: \"Tôdas as estrêlas de lume: Luminosas ou resplandecentes.\" — Pereira."
+    },
+    "fn148_4": {
+      "rotulo": "Céus dos céus",
+      "texto": "CÉUS DOS CÉUS — Isto é, Céus os mais elevados de todos; quais são os Céus, que Deus escolheu por sua especial morada, e que S. Paulo na segunda aos Coríntios, Cap. 2, chama terceiro Céu, onde andam as aves, e se formam as nuvens, e do segundo, que é o firmamento, onde estão como engastados o sol, a lua, e as estrêlas. — Calmet. QUE ESTÃO SOBRE OS CÉUS — Isto é, por cima do Firmamento, segundo o que Moisés refere, Gên 1, 7, Fêz Deus o Firmamento, e dividiu as águas, que estavam por baixo do Firmamento, dos que estavam por cima do Firmamento. — Calmet."
+    },
+    "fn148_6": {
+      "rotulo": "E não se quebrantará",
+      "texto": "E NÃO SE QUEBRANTARÁ — A tôdas as coisas estabeleceu leis constantes, e invariáveis, as quais se têm conservado, e se conservarão perpètuamente. — Pereira."
+    },
+    "fn148_7": {
+      "rotulo": "Vós, dragões",
+      "texto": "VÓS, DRAGÕES — No hebreu se lê: tanninim, que convém aos peixes grandes, e monstros marinhos. Como louvam os dragões a Deus? enquanto vendo os homens umas tais criaturas, tão corpulentas, tão medonhas, tão feras, louvam os homens a Deus, que tais criaturas criou. — Santo Agostinho."
+    },
+    "fn148_9": {
+      "rotulo": "E todos os cedros",
+      "texto": "E TODOS OS CEDROS — Debaixo do nome cedros se compreendem tôdas as árvores silvestres. — Pereira."
+    }
+  }
+}

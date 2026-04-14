@@ -1,0 +1,16 @@
+{
+  "num": 100,
+  "sumario": "Psalmus ipsi David.",
+  "versiculos": [
+    { "n": 1, "texto": "Psalmus ipsi David. Misericordiam et judicium cantabo tibi, Domine: psallam," },
+    { "n": 2, "texto": "et intelligam in via immaculata, quando venies ad me. Perambulabam in innocentia cordis mei, in medio domus meæ." },
+    { "n": 3, "texto": "Non proponebam ante oculos meos rem injustam: facientes prævaricationes odivi." },
+    { "n": 4, "texto": "Non adhæsit mihi cor pravum: declinantem a me malignum non cognoscebam." },
+    { "n": 5, "texto": "Detrahentem secreto proximo suo, hunc persequebar. Superbo oculo, et insatiabili corde, cum hoc non edebam." },
+    { "n": 6, "texto": "Oculi mei ad fideles terræ, ut sedeant mecum: ambulans in via immaculata, hic mihi ministrabat." },
+    { "n": 7, "texto": "Non habitabit in medio domus meæ qui facit superbiam: qui loquitur iniqua, non direxit in conspectu oculorum meorum." },
+    { "n": 8, "texto": "In matutino interficiebam omnes peccatores terræ: ut disperderem de civitate Domini omnes operantes iniquitatem." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

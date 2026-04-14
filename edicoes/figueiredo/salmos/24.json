@@ -1,0 +1,58 @@
+{
+  "num": 24,
+  "sumario": "Salmo deprecatório, em que Davi, angustiado das perseguições de seus inimigos, pede a Deus que lhe perdoe os seus pecados, que os reduza ao caminho direito, e que o livre dos adversários.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, salmo de Davi. A ti, Senhor, elevei a minha alma:", "nota": "fn24_1" },
+    { "n": 2, "texto": "Deus meu, em ti confio, não seja eu envergonhado." },
+    { "n": 3, "texto": "Nem me insultem meus amigos: Porque todos os que em ti esperam, não serão confundidos." },
+    { "n": 4, "texto": "Sejam confundidos todos os que em vão cometem iniquidades. Mostra-me, Senhor, os teus caminhos: E ensina-me as tuas veredas." },
+    { "n": 5, "texto": "Dirige-me na tua verdade, e ensina-me: Porque tu és o Deus meu salvador, e te tenho esperado todo o dia." },
+    { "n": 6, "texto": "Lembra-te, Senhor, das tuas comiserações, e das tuas misericórdias, que tem sido desde o século.", "nota": "fn24_6" },
+    { "n": 7, "texto": "Não te recordes dos delitos da minha mocidade, nem das minhas ignorâncias. Mas lembra-te de mim segundo a tua misericórdia: Por amor da tua bondade, Senhor.", "nota": "fn24_7" },
+    { "n": 8, "texto": "Doce e reto é o Senhor: Por isso dará êle a lei aos que pecam no caminho.", "nota": "fn24_8" },
+    { "n": 9, "texto": "Conduzirá aos mansos em justiça: Ensinará aos humildes os seus caminhos." },
+    { "n": 10, "texto": "Todos os caminhos do Senhor são misericórdia e verdade, para os que buscam a sua aliança e os seus mandamentos." },
+    { "n": 11, "texto": "Por amor de teu nome, Senhor, me hás-de perdoar o meu pecado: Porque é grande." },
+    { "n": 12, "texto": "Quem é o homem, que teme ao Senhor? Êle lhe constituiu uma lei, no caminho que escolheu." },
+    { "n": 13, "texto": "A sua alma morará em bens: E a sua descendência terá por herança a terra." },
+    { "n": 14, "texto": "O Senhor é o firme apoio dos que o temem, e o testamento dêle é para que lhes seja manifestado a êles.", "nota": "fn24_14" },
+    { "n": 15, "texto": "Os meus olhos se elevam sempre ao Senhor: Porquanto êle tirará do laço os meus pés.", "nota": "fn24_15" },
+    { "n": 16, "texto": "Olha para mim, e tem misericórdia de mim: Porque eu sou só e pobre." },
+    { "n": 17, "texto": "As tribulações do meu coração se multiplicaram: Livra-me das minhas aflições." },
+    { "n": 18, "texto": "Olha para o meu abatimento, e para o meu trabalho: E perdoa todos os meus pecados.", "nota": "fn24_18" },
+    { "n": 19, "texto": "Olha meus inimigos como se têm multiplicado, e com ódio injusto me têm em aborrecimento." },
+    { "n": 20, "texto": "Guarda a minha alma, e livra-me: Não seja eu confundido havendo esperado em ti." },
+    { "n": 21, "texto": "Os inocentes e os justos se têm unido comigo: Porque tenho esperado." },
+    { "n": 22, "texto": "Livra, ó Deus, a Israel de tôdas as suas tribulações." }
+  ],
+  "notas": {
+    "fn24_1": {
+      "rotulo": "Ao regente do côro",
+      "texto": "Nem o hebreu, nem os Setenta trazem esta parte da inscrição. E o hebreu nem diz: \"Salmo de Davi\", mas sòmente, \"De Davi\". Muitos intérpretes querem que fôsse êste Salmo composto por Davi, durante a guerra que lhe fêz seu filho Absalão em castigo dos dois grandes pecados que havia cometido, a saber, adultério, e homicídio. É um dos Salmos que se chamam \"Acrósticos\", porque no hebreu cada versículo tem por inicial uma letra do alfabeto pela sua ordem."
+    },
+    "fn24_6": {
+      "rotulo": "E das tuas misericórdias",
+      "texto": "Isto é, lembra-te das misericórdias que usaste com nossos pais em todo o tempo desde o princípio do mundo. — P. Seio."
+    },
+    "fn24_7": {
+      "rotulo": "Nem das minhas ignorâncias",
+      "texto": "O que se peca por ignorância, em que não obstante há alguma culpa, porém que se perdoa mais fàcilmente. \"Alcancei\", diz S. Paulo 1 Tim 1, 13, misericórdia, porque fiz com ignorância. — P. Seio."
+    },
+    "fn24_8": {
+      "rotulo": "Por isso dará êle a lei aos que pecam",
+      "texto": "Isto é: Ensinará aos que erram no caminho da vida presente a lei que devem praticar para voltar à justiça; e esta é a lei da penitência, e não há outra, e o mesmo Senhor lhes dará para isso os seus auxílios. — P. Seio."
+    },
+    "fn24_14": {
+      "rotulo": "O Senhor é o firme apoio dos que o temem",
+      "texto": "O hebreu tem: \"O segrêdo do Senhor aos que o temem\", isto é: o Senhor tratará como a íntimos amigos aos que deveras o temem, e lhes revelará os seus conselhos e segredos, pelo que pertence a sua salvação, e a todos os meios que tem estabelecidos para que o consigam. Jo 15, 15. At 6, 20; 20, 27. — P. Seio."
+    },
+    "fn24_15": {
+      "rotulo": "Tirará do laço os meus pés",
+      "texto": "O que pode aludir-se ou aos seus pecados, ou aos seus inimigos, que o perseguiam de morte. — Pereira."
+    },
+    "fn24_18": {
+      "rotulo": "E perdoa todos os meus pecados",
+      "texto": "Pois que são a causa das minhas tribulações, e das minhas penas. — Pereira."
+    }
+  }
+}

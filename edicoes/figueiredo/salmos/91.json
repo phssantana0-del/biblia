@@ -1,0 +1,32 @@
+{
+  "num": 91,
+  "sumario": "Salmo didático. Exorta o profeta a empregar o dia do Sábado nos louvores da grandeza do Senhor, que resplandece nas suas obras, e à observância da lei em atenção a recompensa dos justos, e castigo dos pecadores. Salmo do Cântico.",
+  "versiculos": [
+    { "n": 1, "texto": "Para o dia do Sábado.", "nota": "fn91_1" },
+    { "n": 2, "texto": "Bom é louvar ao Senhor: E cantar salmos ao teu nome, ó Altíssimo." },
+    { "n": 3, "texto": "Para publicar pela manhã a tua misericórdia: E a tua verdade pela noite." },
+    { "n": 4, "texto": "Com o saltério de dez cordas: Com cântico, ao som da cítara." },
+    { "n": 5, "texto": "Porquanto me deste prazer, Senhor, na tua feitura: E nas obras das tuas mãos me regozijarei." },
+    { "n": 6, "texto": "Quão magníficas são, Senhor, as tuas obras! Estremadamente profundos são os teus conselhos." },
+    { "n": 7, "texto": "O varão insensato não conhecerá: E o néscio não compreenderá estas coisas." },
+    { "n": 8, "texto": "Apenas se deixarão ver os pecadores como a erva: E aparecerão todos os que obram iniquidade:<br>Quando perecerão pelo século do século:", "nota": "fn91_8" },
+    { "n": 9, "texto": "Mas tu, Senhor, és eternamente o Altíssimo." },
+    { "n": 10, "texto": "Pois eis-aqui os teus inimigos, Senhor, eis-aqui os teus inimigos perecerão: E serão dissipados todos os que obram iniquidade." },
+    { "n": 11, "texto": "E será exaltada a minha fôrça como a do unicórnio: E a minha velhice com abundância de misericórdia:" },
+    { "n": 12, "texto": "E os meus olhos olharam com desprêzo para os meus inimigos: E os meus ouvidos ouviram o castigo dos malignos que se levantam contra mim." },
+    { "n": 13, "texto": "O justo como palma florescerá: Como cedro do Líbano se multiplicará." },
+    { "n": 14, "texto": "Plantados na casa do Senhor, florescerão nos átrios da casa do nosso Deus." },
+    { "n": 15, "texto": "Ainda se multiplicarão em velhice abundante: E estarão cheios de vigor," },
+    { "n": 16, "texto": "para anunciar:<br>Que é reto o Senhor nosso Deus: E que não há injustiça nêle." }
+  ],
+  "notas": {
+    "fn91_1": {
+      "rotulo": "Dia do Sábado",
+      "texto": "DIA DO SABADO — Ainda hoje os judeus cantam êste salmo todos os sábados. É uma espécie de teodicéia resumida, na qual o salmista recorda os nossos deveres de louvar e agradecer a Providência Divina. O nome do Senhor, Jahvéh, é repetido sete vêzes, em memória dos sete dias da criação. Tem cinco estrofes. Primeira (2-4). É necessário louvar a Deus. Segunda (5-7). Por causa da sublimidade das suas obras e dos seus desígnios. Terceira (8-10). Porque triunfou dos seus inimigos. Quarta e Quinta. E que enriquece o justo de bênçãos."
+    },
+    "fn91_8": {
+      "rotulo": "Os que obram iniquidade",
+      "texto": "OS QUE OBRAM INIQUIDADE — Passa o Profeta às obras do soberano govêrno, e providência do Senhor, nas quais brilha e resplandece principalmente a justiça, e verdade. O hebreu tem: floresçam os maus como a erva, e reverdeçam todos os obradores da iniquidade para serem destruídos para sempre. — P. Seio."
+    }
+  }
+}

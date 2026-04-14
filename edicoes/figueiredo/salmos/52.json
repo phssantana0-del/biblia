@@ -1,0 +1,60 @@
+{
+  "num": 52,
+  "sumario": "A impiedade e corrupção dos mundanos; desejo da salvação de Israel.",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "Ao regente do côro."
+    },
+    {
+      "n": 1,
+      "texto": "Sôbre Maelet Panreiteia inteligência de Davi. Disse o néscio no seu coração: Não há Deus.",
+      "nota": "fn52_1"
+    },
+    {
+      "n": 2,
+      "texto": "Perverteram-se, e se têm feito abomináveis em iniquidades: Não há quem faça bem."
+    },
+    {
+      "n": 3,
+      "texto": "Deus desde o céu olhou sôbre os filhos dos homens: Para ver se há quem tenha inteligência, ou busque a Deus."
+    },
+    {
+      "n": 4,
+      "texto": "Todos se desviaram, juntamente se fizeram inúteis: Não há quem faça bem, não há sequer um só."
+    },
+    {
+      "n": 5,
+      "texto": "Porventura não virão em conhecimento todos os que obram iniquidade, os que devoram o meu povo como quem come pão?"
+    },
+    {
+      "n": 6,
+      "texto": "Não invocaram a Deus: Ali tremeram de mêdo, onde não havia que temer. Porque Deus dissipou os ossos daqueles que contentam aos homens: Foram confundidos, porque Deus os desprezou.",
+      "notas": ["fn52_6a", "fn52_6b"]
+    },
+    {
+      "n": 7,
+      "texto": "Quem dará de Sião a salvação a Israel? Quando Deus puser fim ao cativeiro do seu povo, regozijar-se-á Jacó, e alegrar-se-á Israel.",
+      "nota": "fn52_7"
+    }
+  ],
+  "notas": {
+    "fn52_1": {
+      "rotulo": "MAELET",
+      "texto": "Esta palavra significa doença, e provàvelmente aplica-se a um salmo composto por ocasião duma enfermidade. De resto êste salmo é o mesmo que o Salmo 13, à exceção de algumas palavras que o autor alterou, talvez para melhor o acomodar à música em que devia ser cantado."
+    },
+    "fn52_6a": {
+      "rotulo": "ALI TREMERAM DE MÊDO",
+      "texto": "O sentido é: Que devendo temer a Deus, temeram aos homens, a quem não deviam procurar agradar. — Sacy."
+    },
+    "fn52_6b": {
+      "rotulo": "PORQUE DEUS",
+      "texto": "Êste versículo não se lê no Sl 13. Deus destrói o poder daqueles que por contentar aos homens atropelam a sua divina Lei. Padecerão eterna confusão, porque Deus os apartará de si. — P. Seio."
+    },
+    "fn52_7": {
+      "rotulo": "E ALEGRAR-SE-Á ISRAEL",
+      "texto": "Quando sairá de Sião o Salvador de Israel, aquêle que há-de pôr fim à opressão que padece Israel livrando ao seu povo da escravidão do pecado, e do demónio? O que alegrará em grande maneira a Jacó, e celebrará o novo povo de Israel com cânticos e festas. — P. Seio."
+    }
+  }
+}

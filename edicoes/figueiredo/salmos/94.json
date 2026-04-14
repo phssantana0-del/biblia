@@ -1,0 +1,43 @@
+{
+  "num": 94,
+  "sumario": "Salmo gratulatório. Davi convida, e exorta todos os homens ao louvor de Deus, e a que lhe obedeçam, agradecendo-lhe os benefícios da criação. Louvor e cântico do mesmo Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Vinde, regozijemo-nos no Senhor: Celebremos as glórias de Deus nosso Salvador.", "nota": "fn94_1" },
+    { "n": 2, "texto": "Apresentemo-nos ante a sua face para o louvar: E celebremo-lo com salmos." },
+    { "n": 3, "texto": "Porque o Senhor é Deus grande: E rei grande sôbre todos os deuses." },
+    { "n": 4, "texto": "Porque na sua mão estão todos os limites da terra: E as alturas dos montes são suas." },
+    { "n": 5, "texto": "Porquanto seu é o mar, e êle o fêz: E as suas mãos formaram a terra árida." },
+    { "n": 6, "texto": "Vinde, adoremos, e prostremo-nos: E choremos diante do Senhor, que nos criou.", "nota": "fn94_6" },
+    { "n": 7, "texto": "Porque êle é o Senhor nosso Deus: E nós povo do seu pasto, e ovelhas da sua manada." },
+    { "n": 8, "texto": "Se hoje ouvires a sua voz, não queirais endurecer os vossos corações:", "nota": "fn94_8" },
+    { "n": 9, "texto": "Assim como na altercação em o dia da tentação no deserto: Onde me tentaram vossos pais, me provaram, e viram as minhas obras.", "nota": "fn94_9" },
+    { "n": 10, "texto": "Quarenta anos estive desgostado com esta geração, e disse: Êstes sempre erram de coração.", "nota": "fn94_10" },
+    { "n": 11, "texto": "E êles não acertaram os meus caminhos: Pelo que lhes jurei na minha ira: Não entraram no meu repouso.", "nota": "fn94_11" }
+  ],
+  "notas": {
+    "fn94_1": {
+      "rotulo": "Êste salmo",
+      "texto": "Êste salmo tem grande importância litúrgica. A Igreja ordena aos seus sacerdotes que cotidianamente o recitem em Matinas. Há porém uma observação importante: o que é recitado todos os dias é extraído do Saltério Romano, e o texto da Vulgata é repetido no terceiro noturno das Matinas da Epifânia, tal como vem no saltério galicano. A êste respeito escreve Bossuet: <em>Ecclesia catholica dissonantes versiones adeo indifferenter habet, ut cum psalmo XCIV Vulgata legat. — Quadraginta annis offensus fui — nos in nocturno canamus: proximus: diversissimo sensu, sed utrobique sano.</em> Dissert de Ps. CV. Por incidente diremos que os mais antigos ofícios não começavam por êste salmo, dêstes restam-nos vestígios nos ofícios da Semana Santa. H. Lesetre. Correspondance Catholique. Année biblique, 1894-1895. Divergem os intérpretes sôbre a época em que êste salmo foi composto. Teodoreto é de opinião que datasse do tempo do estabelecimento do culto por Josias. Os modernos entendem que devia ter sido composto antes do cativeiro, e talvez por algum dos poetas desconhecidos aos quais se devem muitos trabalhos literários. Lesetre, art. cit. Tem seis estrofes: Primeira (1-2). Exortação para que louvemos a Deus. Segunda (3-4). Porque é o criador da terra. Terceira (5-6). E do mar. Quarta (7-8). E do homem. Quinta e sexta. Discurso de Deus aconselhando a obediência, recordando como puniu no deserto os israelitas rebeldes."
+    },
+    "fn94_6": {
+      "rotulo": "Choremos",
+      "texto": "CHOREMOS — As lágrimas só podem ser de alegria em vista dos antecedentes. No hebreu está: \"Ajoelhemos diante do Senhor.\" Explica-se esta divergência por um êrro de cópia; em vez de <em>berac</em>, que significa \"ajoelhar-se\", os tradutores gregos leram <em>baca</em>, \"chorar\"."
+    },
+    "fn94_8": {
+      "rotulo": "Se hoje",
+      "texto": "SE HOJE — A palavra <em>hodie</em>, hoje, se refere ao tempo da Graça e da Salvação, conforme no-la mereceu Jesus Cristo Salvador nosso, em que todos fomos feitos salvos. A respeito de cada um de nós em particular, denota o tempo da vida presente, quando nos achamos em estado de invocar, e obedecer ao Senhor. — Pereira."
+    },
+    "fn94_9": {
+      "rotulo": "Assim como",
+      "texto": "ASSIM COMO — O hebreu diz: \"Como Meribah, como em o dia de Massah no deserto,\" quando os hebreus murmuraram, e se levantaram contra Moisés pela falta de água. — Pereira."
+    },
+    "fn94_10": {
+      "rotulo": "Quarenta anos",
+      "texto": "QUARENTA ANOS — Atendendo ao texto hebraico, é como se dissera: Quarenta anos tenho estado como se me tivessem despedaçado as entranhas, cheio de fastio, e de pesar, por causa dêste povo. A versão antiga itálica leu: <em>proximus fui</em>, estive a ponto de castigá-los, em lugar de <em>offensus fui</em>. — Pereira."
+    },
+    "fn94_11": {
+      "rotulo": "Não entraram",
+      "texto": "NÃO ENTRARAM — E não houve meio para os fazer entrar no caminho por onde eu os guiava: Portanto, cansado já de tanta obstinação e rebeldia, irritado contra êles, jurei pelo meu nome que não chegariam a entrar na terra que tinha destinada, para que nela gozassem de paz e repouso."
+    }
+  }
+}

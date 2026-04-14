@@ -1,0 +1,45 @@
+{
+  "num": 75,
+  "sumario": "Salmo gratulatório. Honra o poder, e a justiça de Deus empregados em fazer que triunfe gloriosamente de todos os seus inimigos.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro. Com instrumentos de corda. Salmo de Asaf, cântico aos assírios.", "nota": "fn75_1" },
+    { "n": 2, "texto": "Conhecido é Deus na Judeia; em Israel grande é o seu nome." },
+    { "n": 3, "texto": "E tem feito o seu assento na paz: E a sua morada é em Sião.", "nota": "fn75_3" },
+    { "n": 4, "texto": "Ali quebrou as forças dos arcos, o escudo, a espada, e a guerra." },
+    { "n": 5, "texto": "Fazendo brilhar a tua luz maravilhosa desde os montes eternos." },
+    { "n": 6, "texto": "Todos os néscios de coração ficaram perturbados.<br>Dormiram o seu sono: E nada acharam nas suas mãos todos êstes homens de riquezas.", "nota": "fn75_6" },
+    { "n": 7, "texto": "À tua ameaça, ó Deus de Jacó, adormeceram os que montam em cavalos.", "nota": "fn75_7" },
+    { "n": 8, "texto": "Tu és terrível, e quem te resistirá? desde que aparece a tua ira." },
+    { "n": 9, "texto": "Desde o céu fizeste ouvir o teu juízo: A terra tremeu e ficou em sossego." },
+    { "n": 10, "texto": "Quando se levantou Deus a juízo, para salvar a todos os humildes da terra.", "nota": "fn75_10" },
+    { "n": 11, "texto": "Porque o homem que considere te louvará: E as memórias que hão de ficar-te farão dia festivo." },
+    { "n": 12, "texto": "Fazei votos ao Senhor vosso Deus, e cumpri-os todos os que ao redor dêle lhe trazeis oferendas.<br>Ao terrível," },
+    { "n": 13, "texto": "e ao que tira o espírito aos príncipes, ao que é terrível aos reis da terra.", "nota": "fn75_13" }
+  ],
+  "notas": {
+    "fn75_1": {
+      "rotulo": "Aos assírios",
+      "texto": "AOS ASSÍRIOS — É uma adição da Vulgata. Êste salmo parece uma continuação do precedente, pois se aquêle era um anúncio da libertação de Judá ameaçada por Senaquerib, êste mostra-nos a sua realização e agradece ao Senhor. Tem quatro estrofes. Primeira (2-4). Deus faz proclamar a sua grandeza em Judá. Segunda (5-7). A glória de Deus brilha, aterrando soldados e cavaleiros. Terceira (8-10). Terrível é o Senhor. Quarta (11-13). Agradece a Deus que aniquila o orgulho dos reis."
+    },
+    "fn75_3": {
+      "rotulo": "Na paz",
+      "texto": "NA PAZ — O hebreu diz: \"Está em Salém o seu Tabernáculo.\" Salém significa paz, que é como se acha trasladado nos Setenta e na Vulgata, porém é nome próprio de Jerusalém, que primeiramente foi chamada Schalem, Gên 14, 18, e quer dizer a cidade da paz, Hbr 7, 2. Êste versículo é sinónimo dêste \"Sião sua habitação\". Veja-se Hengstenberg, Comm. über die Psalmen, 1844."
+    },
+    "fn75_6": {
+      "rotulo": "Ficaram perturbados",
+      "texto": "FICARAM PERTURBADOS — O hebreu diz: \"Foram despojados os fortes de coração: dormiam o seu sono\", o da morte. O que pode com propriedade aplicar-se aos assírios derrotados de noite: \"e não acharam as suas mãos todos os varões de fortaleza.\" As fôrças lhes faltaram, e o coração; não puderam fazer a menor resistência. — P. Seio."
+    },
+    "fn75_7": {
+      "rotulo": "Adormeceram",
+      "texto": "ADORMECERAM — \"Ficou adormecido o carro e o cavalo,\" diz o hebreu: ficaram inúteis, e inábeis para a batalha. Êx 15, 16, Núm 3, 18. — P. Seio."
+    },
+    "fn75_10": {
+      "rotulo": "Quando se levantou",
+      "texto": "QUANDO SE LEVANTOU — É uma representação em forma de juízo da derrota dos assírios. — P. Seio."
+    },
+    "fn75_13": {
+      "rotulo": "Que tira o espírito",
+      "texto": "QUE TIRA O ESPÍRITO — O hebreu diz: \"Tirará ou vindicará\" o espírito aos príncipes, tirando-lhes de repente a vida. Jl 3, 13. Apc 14, 18; ou apartando dêles o dom de conselho, de prudência, e de govêrno. — P. Seio."
+    }
+  }
+}

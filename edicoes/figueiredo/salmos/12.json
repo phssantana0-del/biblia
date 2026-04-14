@@ -1,0 +1,34 @@
+{
+  "num": 12,
+  "sumario": "Salmo impetratório. Davi cheio de consolação pela firme esperança que acha na divina misericórdia, pede ao Senhor que o livre da violência de seus inimigos, dos quais se vê larga e pertinazmente perseguido.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, salmo de Davi. Até quando, Senhor, te esquecerás de mim para sempre? Até quando apartarás de mim a tua face?", "nota": "fn12_1" },
+    { "n": 2, "texto": "Até quando encherei a minha alma de desígnios, cada dia com dor no meu coração?", "nota": "fn12_2" },
+    { "n": 3, "texto": "Até quando será o meu inimigo exaltado sôbre mim?" },
+    { "n": 4, "texto": "Olha para mim, e ouve-me, Senhor Deus meu. Alumia os meus olhos para que eu não durma jamais na morte:", "nota": "fn12_4" },
+    { "n": 5, "texto": "Para que nunca o meu inimigo diga: Eu prevaleci contra êle. Os que me atribulam, exultarão se eu fôr abalado:" },
+    { "n": 6, "texto": "Porém eu esperei na tua misericórdia. O meu coração exultará na salvação que me virá de ti: Cantarei ao Senhor que me deu bens: E entoarei salmos ao nome do Senhor altíssimo.", "nota": "fn12_6" }
+  ],
+  "notas": {
+    "fn12_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "Êste Salmo exprime a situação de uma alma atribulada que, cheia de confiança no Senhor, lhe expõe o seu mal e O invoca num grande perigo. Tem três estrofes de três versos. 1.ª (1-3) Queixa-se Davi de se ver abandonado por Deus. 2.ª (4-5) Oração ao Senhor rogando o divino socorro. 3.ª (6) Esperança no Auxílio Celeste. É incerta a ocasião em que foi composto êste Salmo; alguns crêem que êle se refere à perseguição de Saul; outros à rebelião de Absalão; e outros, que o seu objeto é expor os sentimentos dos justos que existiam cativos em Babilónia."
+    },
+    "fn12_1b": {
+      "rotulo": "Até quando",
+      "texto": "Em latim usque quo, é uma interrogação de queixa, interrogatio lamentatio (Caetano) mas que tem também fôrça impetratória, equivalente a uma súplica."
+    },
+    "fn12_2": {
+      "rotulo": "Até quando encherei a minha alma de desígnios, etc.",
+      "texto": "Ponere consilia in anima, explica o estado de perplexidade em que se acha aquêle que não está certo em alguma coisa. — P. Seio."
+    },
+    "fn12_4": {
+      "rotulo": "Não durma jamais na morte",
+      "texto": "Hebraísmo, que significa \"dormir na morte\" e morrer eternamente. — S. Jerônimo."
+    },
+    "fn12_6": {
+      "rotulo": "Que me deu bens, etc.",
+      "texto": "O hebraico tem: \"porque me retribuiu\" premiou a minha inocência nesta causa; me deu a recompensa do meu trabalho, paciência e esperança; e não se lê aqui: Et psallam nomini tuo altissime, como se lê no salmo 9, 2. — P. Seio."
+    }
+  }
+}

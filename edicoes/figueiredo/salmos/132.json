@@ -1,0 +1,19 @@
+{
+  "num": 132,
+  "sumario": "Salmo didático. Elogio da concórdia e união fraterna.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo gradual de Davi.<br>Ó quão bom e quão suave é habitarem os irmãos em união.", "nota": "fn132_1" },
+    { "n": 2, "texto": "É como o perfume derramado na cabeça que desceu sôbre tôda a barba de Aarão.<br>Que desceu sôbre a orla do seu vestido:" },
+    { "n": 3, "texto": "Como o orvalho que cai sôbre o Hermon, que desce sôbre o monte Sião.<br>Porque ali enviou o Senhor a bênção, e vida para sempre.", "nota": "fn132_3" }
+  ],
+  "notas": {
+    "fn132_1": {
+      "rotulo": "Salmo gradual de Davi",
+      "texto": "O salmista celebra a fraternal união dos israelitas, quando êstes se reúnem nas grandes cerimónias religiosas. Arrebata-os a figura majestosa do grande sacerdote, sucessor de Aarão; encanta-os o orvalho que cai sôbre o Hermon; mas mais do que tudo isso é comovente e arrebatador o espírito da união que existe entre os filhos de Deus."
+    },
+    "fn132_3": {
+      "rotulo": "Que desce sôbre o monte Sião",
+      "texto": "Sendo evidente que o orvalho, que cai sôbre um monte, não pode cair sôbre outro, advertem bem Bossuet e Calmet, que as palavras da Vulgata, Sicut ros Hermon, qui descendit in montem Sion, se devem suprir, e expor, como se o texto dissesse: Sicut ros, qui descendit in Hermon, et qui descendit in monte Sion. Êste gênero de elipse é frequente nos autores sagrados."
+    }
+  }
+}

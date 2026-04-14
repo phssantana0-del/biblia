@@ -1,0 +1,16 @@
+{
+  "num": 137,
+  "sumario": "Ipsi David.",
+  "versiculos": [
+    { "n": 1, "texto": "Confitebor tibi, Domine, in toto corde meo: quoniam audisti verba oris mei. In conspectu angelorum psallam tibi:" },
+    { "n": 2, "texto": "adorabo ad templum sanctum tuum, et confitebor nomini tuo. Super misericordia tua, et veritate tua: quoniam magnificasti super omne, nomen sanctum tuum." },
+    { "n": 3, "texto": "In quacumque die invocavero te, exaudi me: multiplicabis in anima mea virtutem." },
+    { "n": 4, "texto": "Confiteantur tibi, Domine, omnes reges terræ: quia audierunt omnia verba oris tui." },
+    { "n": 5, "texto": "Et cantent in viis Domini: quoniam magna est gloria Domini." },
+    { "n": 6, "texto": "Quoniam excelsus Dominus, et humilia respicit: et alta a longe cognoscit." },
+    { "n": 7, "texto": "Si ambulavero in medio tribulationis, vivificabis me: et super iram inimicorum meorum extendisti manum tuam, et salvum me fecit dextera tua." },
+    { "n": 8, "texto": "Dominus retribuet pro me: Domine, misericordia tua in sæculum: opera manuum tuarum ne despicias." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

@@ -1,0 +1,25 @@
+{
+  "num": 114,
+  "sumario": "Dá o profeta graças a Deus pelo haver livrado de um perigo. Aleluia.",
+  "versiculos": [
+    { "n": 1, "texto": "Amei, porque o Senhor ouvirá a voz da minha oração.", "nota": "fn114_0" },
+    { "n": 2, "texto": "Porque inclinou para mim o seu ouvido:<br>E eu o invocarei todos os dias da minha vida." },
+    { "n": 3, "texto": "Dores de morte me cercaram:<br>E perigos de inferno se apoderaram de mim.<br>Eu me achei em tribulação e dor:" },
+    { "n": 4, "texto": "E invoquei o nome do Senhor.<br>Ó Senhor, livra a minha alma:" },
+    { "n": 5, "texto": "Misericordioso e justo é o Senhor, e o nosso Deus tem comiseração." },
+    { "n": 6, "texto": "O Senhor é o que guarda os pequeninos:<br>Eu fui humilhado, e êle me livrou." },
+    { "n": 7, "texto": "Volta, ó alma minha, ao teu repouso:<br>Porque o Senhor te fêz bem." },
+    { "n": 8, "texto": "Porque livrou da morte a minha alma:<br>Os meus olhos das lágrimas, os meus pés da queda." },
+    { "n": 9, "texto": "Agradarei ao Senhor na região dos vivos.", "nota": "fn114_9" }
+  ],
+  "notas": {
+    "fn114_0": {
+      "rotulo": "Aleluia",
+      "texto": "Êste e o seguinte formam no original um só. Ainda que se possam dividir, contudo percebe-se que estão íntima e estreitamente ligados, predominando o mesmo pensamento."
+    },
+    "fn114_9": {
+      "rotulo": "Agradarei",
+      "texto": "AGRADAREI — O hebreu diz: \"Andarei na presença do Senhor, guardando exatamente os seus divinos preceitos, como o mesmo Senhor o tem ordenado, e procurando agradar-lhe enquanto viver.\" — Pereira."
+    }
+  }
+}

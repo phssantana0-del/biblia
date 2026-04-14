@@ -1,0 +1,19 @@
+{
+  "num": 74,
+  "sumario": "In finem, ne corrumpas. Psalmus cantici Asaph.",
+  "versiculos": [
+    { "n": 1,  "texto": "In finem, ne corrumpas. Psalmus cantici Asaph." },
+    { "n": 2,  "texto": "Confitebimur tibi, Deus; confitebimur, et invocabimus nomen tuum. Narrabimus mirabilia tua." },
+    { "n": 3,  "texto": "Cum accepero tempus, ego justitias judicabo." },
+    { "n": 4,  "texto": "Liquefacta est terra, et omnes qui habitant in ea; ego confirmavi columnas ejus." },
+    { "n": 5,  "texto": "Dixi iniquis: Nolite inique agere; et delinquentibus: Nolite exaltare cornu." },
+    { "n": 6,  "texto": "Nolite extollere in altum cornu vestrum; nolite loqui adversus Deum iniquitatem." },
+    { "n": 7,  "texto": "Quia neque ab oriente, neque ab occidente, neque a desertis montibus;" },
+    { "n": 8,  "texto": "quoniam Deus judex est. Hunc humiliat, et hunc exaltat:" },
+    { "n": 9,  "texto": "quia calix in manu Domini, vini meri plenus misto. Et inclinavit ex hoc in hoc; verumtamen fæx ejus non est exinanita; bibent omnes peccatores terræ." },
+    { "n": 10, "texto": "Ego autem annuntiabo in sæculum; cantabo Deo Jacob." },
+    { "n": 11, "texto": "Et omnia cornua peccatorum confringam; et exaltabuntur cornua justi." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

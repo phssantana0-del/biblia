@@ -1,0 +1,22 @@
+{
+  "num": 8,
+  "sumario": "Salmo gratulatório. Davi neste Salmo engrandece a admirável Providência, que Deus usou com o homem, tanto na sua primeira criação como na sua renovação por meio de Jesus Cristo.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro. Com acompanhamento da cítara de Get, salmo de Davi.", "nota": "fn8_1" },
+    { "n": 2, "texto": "Senhor, nosso dominador soberano, quão admirável é o teu nome em tôda a terra! Porque a tua magnificência se elevou sôbre os céus." },
+    { "n": 3, "texto": "Tu fizeste sair da bôca dos infantes e dos que mamam um louvor perfeito, por causa de teus inimigos, para destruíres ao inimigo e o vingativo.", "nota": "fn8_3" },
+    { "n": 4, "texto": "Porque eu hei de ver os teus céus, obra dos teus dedos: A lua e as estrelas que tu estabeleceste." },
+    { "n": 5, "texto": "Que é o homem, para tu te lembrares dele? ou que é o filho do homem para tu o visitares?" },
+    { "n": 6, "texto": "Pouco menor o fizeste que os anjos, de glória e de honra o coroaste:" },
+    { "n": 7, "texto": "E tu o puseste sôbre as obras das tuas mãos." },
+    { "n": 8, "texto": "Tôdas as coisas sujeitaste debaixo de seus pés, as ovelhas e as vacas tôdas: E além dêstes os outros animais do campo.", "nota": "fn8_8" },
+    { "n": 9, "texto": "As aves do Céu, e os peixes do mar, que discorrem pelas veredas do mar." },
+    { "n": 10, "texto": "Senhor, nosso dominador soberano, que admirável é o teu nome em tôda a terra!" }
+  ],
+  "notas": {
+    "fn8_0": { "rotulo": "Sobre êste Salmo", "texto": "Cítara de Get — Parece ser esta a significação da palavra <em>Githith</em>, que a Vulgata verteu <em>Pro torcularibus</em> e o Pe. Pereira por 'lagares', o que evidentemente não faz sentido. Começa e termina da mesma sorte, com dois versos, e além destas quatro estrofes de quatro versos. 'Êste poema, escreve Reuss, tão despretensioso, não precisa de comentário algum. É sublime pela sua simplicidade. Põe-se em relêvo a grandeza de Deus revelada pelo universo, obra das suas mãos, e manifestado pelas próprias criaturas o papel que o homem desempenha, rodeado de todos êstes sêres.' — <em>Le Psautier</em>, p. 77." },
+    "fn8_1": { "rotulo": "Cítara de Get", "texto": "Parece ser esta a significação da palavra <em>Githith</em>, que a Vulgata verteu <em>Pro torcularibus</em> e o Pe. Pereira por 'lagares'. Cítara de Get, tanto pode ser a Cítara usada em Get, ou significar a música que se cantava naquela cidade dos filisteus, que Davi tinha habitado." },
+    "fn8_3": { "rotulo": "Tu fizeste sair da bôca dos infantes", "texto": "Êste lugar acomodou Cristo a si, em ocasião em que com efeito o louvavam os meninos de Jerusalém. Mt 21, 16. — Bossuet." },
+    "fn8_8": { "rotulo": "Tôdas as coisas", "texto": "S. Paulo, Hebr 2, 5, nos ensina que isto só a Cristo convém perfeitamente. — Bossuet." }
+  }
+}

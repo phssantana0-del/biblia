@@ -1,0 +1,15 @@
+{
+  "num": 13,
+  "sumario": "In finem. Psalmus David.",
+  "versiculos": [
+    { "n": 1, "texto": "Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis; non est qui faciat bonum, non est usque ad unum." },
+    { "n": 2, "texto": "Dominus de cælo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum." },
+    { "n": 3, "texto": "Omnes declinaverunt, simul inutiles facti sunt; non est qui faciat bonum, non est usque ad unum. Sepulchrum patens est guttur eorum; linguis suis dolose agebant; venenum aspidum sub labiis eorum. Quorum os maledictione et amaritudine plenum est; veloces pedes eorum ad effundendum sanguinem. Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt; non est timor Dei ante oculos eorum." },
+    { "n": 4, "texto": "Nonne cognoscent omnes qui operantur iniquitatem, qui devorant plebem meam sicut escam panis?" },
+    { "n": 5, "texto": "Dominum non invocaverunt; illic trepidaverunt timore, ubi non erat timor." },
+    { "n": 6, "texto": "Quoniam Dominus in generatione justa est; consilium inopis confudistis, quoniam Dominus spes ejus est." },
+    { "n": 7, "texto": "Quis dabit ex Sion salutare Israël? cum averterit Dominus captivitatem plebis suæ, exsultabit Jacob, et lætabitur Israël." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

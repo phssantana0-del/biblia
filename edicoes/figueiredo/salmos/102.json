@@ -1,0 +1,42 @@
+{
+  "num": 102,
+  "sumario": "Salmo de ação de graças pela remissão dos pecados: e convida a todos os anjos e criaturas a louvar ao Senhor.",
+  "versiculos": [
+    { "n": 1, "texto": "Do mesmo Davi.<br>Bendiz, ó alma minha, ao Senhor: E tôdas as coisas que há dentro de mim bendigam ao seu santo Nome.", "nota": "fn102_1" },
+    { "n": 2, "texto": "Bendiz, ó alma minha, ao Senhor: E não queiras esquecer-te de todos os seus benefícios." },
+    { "n": 3, "texto": "O que perdoa tôdas as tuas maldades: O que sara tôdas as tuas enfermidades." },
+    { "n": 4, "texto": "O que redime da morte a tua vida: O que te coroa da sua misericórdia, e das suas graças." },
+    { "n": 5, "texto": "O que enche de bens o teu desejo: Renovar-se-á como a da águia a tua mocidade.", "nota": "fn102_5" },
+    { "n": 6, "texto": "O Senhor que faz misericórdias: E justiça a todos os que sofrem agravos." },
+    { "n": 7, "texto": "Fêz conhecer a Moisés os seus caminhos, aos filhos de Israel as suas vontades.", "nota": "fn102_7" },
+    { "n": 8, "texto": "É benigno, e misericordioso o Senhor: Magnânimo e de muita misericórdia." },
+    { "n": 9, "texto": "Não estará irado para sempre: Nem ameaçará eternamente." },
+    { "n": 10, "texto": "Não nos há tratado a nós segundo os nossos pecados: Nem nos tem pago segundo as nossas maldades." },
+    { "n": 11, "texto": "Pois quanto a elevação do céu está remontada sôbre a terra: Tanto êle tem firmado a sua misericórdia sôbre os que o temem." },
+    { "n": 12, "texto": "Quanto dista o Oriente do Ocidente: Tanto êle tem apartado de nós as nossas maldades." },
+    { "n": 13, "texto": "Como o pai se compadece dos filhos, assim se tem compadecido o Senhor dos que o temem:" },
+    { "n": 14, "texto": "Porque êle já tem conhecido a fragilidade da nossa origem.<br>Lembrou-se que somos pó:" },
+    { "n": 15, "texto": "O homem, cujos dias são como feno, assim se murchará como a flor do campo." },
+    { "n": 16, "texto": "Porque o espírito estará nêle de passagem, e êle não subsistirá: E não conhecerá dali em diante o seu lugar." },
+    { "n": 17, "texto": "Mas a misericórdia do Senhor está desde a eternidade e até à eternidade sôbre os que o temem.<br>E a sua justiça sôbre os filhos dos filhos," },
+    { "n": 18, "texto": "para com aquêles que guardam a sua aliança:<br>E se lembram dos seus mandamentos, para observá-los." },
+    { "n": 19, "texto": "O Senhor tem prevenido no céu o seu trono: E o seu reino dominará sôbre todos." },
+    { "n": 20, "texto": "Bendizei ao Senhor todos os anjos dêle: Poderosos em virtude, que sois executores da sua palavra, para obedecer à voz das suas ordens." },
+    { "n": 21, "texto": "Bendizei ao Senhor tôdas as virtudes dêle: Vós, ministros seus, que fazeis a sua vontade;" },
+    { "n": 22, "texto": "Bendizei ao Senhor tôdas as suas obras: Em todo o lugar do seu senhorio, bendiz, ó alma minha, ao Senhor." }
+  ],
+  "notas": {
+    "fn102_1": {
+      "rotulo": "Êste salmo",
+      "texto": "Êste salmo é o cântico das misericórdias do Senhor, e um dos mais belos de tôda a coleção. Dêle escreve La Harpe: Elles (les miséricordes du Seigneur) n'ont jamais été célébrées d'un ton plus sublime, et jamais le sublime n'a été plus touchant. Tem cinco estrofes. Primeira (1-5). Exorta-nos o salmista a que louvemos a Deus, agradecendo todos os benefícios que a sua Infinita Bondade nos liberaliza. Segunda (6-9). Porque cuidou sempre dos oprimidos, como fêz aos hebreus nos dias de Moisés. Terceira (10-14). Por causa do perdão que concede aos pecadores. Quarta (15-18). Por causa da sua bondade que vem de geração em geração e que não pára, como a vida do homem. Quinta (19-22). Que o Céu e a terra louvem ao Senhor."
+    },
+    "fn102_5": {
+      "rotulo": "Como a da águia",
+      "texto": "COMO A DA ÁGUIA — A águia, como as demais aves, despe-se anualmente da sua plumagem, aparecendo depois da muda mais remoçada. O salmista escolheu a águia para têrmo de comparação, por ser a rainha das aves, pela sua fôrça e vivacidade."
+    },
+    "fn102_7": {
+      "rotulo": "Fêz conhecer a Moisés",
+      "texto": "FÊZ CONHECER A MOISÉS — Quando lhe mandou que fôsse apresentar-se a Faraó, para que deixasse sair o seu povo, e passar ao deserto. — P. Seio. AS SUAS VONTADES — Nas duas tábuas da sua Santíssima lei, que deu a Moisés, para que a intimasse ao povo de Israel. — P. Seio."
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "num": 65,
+  "sumario": "Salmo gratulatorio em que o profeta convida a todos os moradores da terra a que glorifiquem ao Senhor pelos antigos prodígios, que havia obrado em favor do seu povo, e por outras graças particulares: oferece-lhe, por todos êstes benefícios, a louvá-lo sem cessar. Ao regente do côro.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico do Salmo da Ressurreição.<br>Celebrai a Deus todos os da terra,", "nota": "fn65_1" },
+    { "n": 2, "texto": "dizei salmo ao seu nome: Dai a glória ao seu louvor." },
+    { "n": 3, "texto": "Dizei a Deus quão terríveis são, Senhor, as tuas obras! Por ocasião do teu grande poder se convencerão de mentira os teus inimigos." },
+    { "n": 4, "texto": "A terra tôda te adore, e te cante a ti salmo: Diga salmo ao teu nome." },
+    { "n": 5, "texto": "Vinde, e vêde as obras de Deus: Terrível nos conselhos sôbre os filhos dos homens." },
+    { "n": 6, "texto": "Êle tornou o mar em sêco, pelo rio passarão a pé enxuto: Ali nos alegraremos com êle.", "nota": "fn65_6" },
+    { "n": 7, "texto": "Êle domina pelo seu poder para sempre, os olhos dêle estão olhando sôbre as gentes: Os que o irritam não se ensoberbeçam dentro de si mesmos." },
+    { "n": 8, "texto": "Bendizei, ó Gentes, o nosso Deus: E fazei que se ouça a voz do seu louvor." },
+    { "n": 9, "texto": "O qual tornou a minha alma em vida: E não permitiu que vacilassem os meus pés.", "nota": "fn65_9" },
+    { "n": 10, "texto": "Porquanto nos provaste, ó Deus: Com fogo nos afinaste, como se afina a prata." },
+    { "n": 11, "texto": "Puseste-nos em cadeias, carregaste tribulações sôbre nossas costas:" },
+    { "n": 12, "texto": "Puseste homens sôbre as nossas cabeças.<br>Passamos pelo fogo e pela água: E nos tiraste para o lugar do refrigério.", "nota": "fn65_12" },
+    { "n": 13, "texto": "Entrarei na tua casa com holocaustos: Pagar-te-ei os meus votos," },
+    { "n": 14, "texto": "que pronunciaram os meus lábios.<br>E proferiu a minha bôca na minha tribulação." },
+    { "n": 15, "texto": "Oferecer-te-ei holocaustos pingues com perfumes de carneiros: Oferecer-te-ei bois com cabritos.", "nota": "fn65_15" },
+    { "n": 16, "texto": "Vinde, ouvi todos os que temeis a Deus, e vos referirei quão grandes coisas tem feito à minha alma." },
+    { "n": 17, "texto": "A êle pela minha bôca clamei, e o exaltei com a minha língua." },
+    { "n": 18, "texto": "Se eu visse iniquidade pegada no meu coração, não me ouviria o Senhor.", "nota": "fn65_18" },
+    { "n": 19, "texto": "Por isso ouviu Deus, e atendeu à voz da minha deprecação.", "nota": "fn65_19" },
+    { "n": 20, "texto": "Bendito Deus que não rejeitou a minha oração, nem apartou a sua misericórdia de mim." }
+  ],
+  "notas": {
+    "fn65_1": {
+      "rotulo": "Salmo da Ressurreição",
+      "texto": "SALMO DA RESSURREIÇÃO — Estas palavras só se encontram na Vulgata, e, como o salmo, são obscuras. Podemos considerar duas partes neste salmo; na primeira o salmista agradece a libertação de sua nação, na segunda a liberdade de sua pessoa, mas ignora-se o assunto a que o autor alude. Tem cinco estrofes, as quatro primeiras divididas pela pausa selah, de que já tivemos ocasião de falar. A primeira estrofe (1-4). Que todos os povos da terra louvem a Deus, admirável nas suas obras. Segunda (5-7). Descreve as maravilhas operadas por Deus. Terceira. Glorifica o Senhor, que depois de ter provado o seu povo, lhe dá tranquilidade. Quarta (13-15). É o princípio da segunda parte, que é tôda pessoal. Promete pagar o voto que fêz na hora da angústia. Quinta (16-20). Narra ao povo os benefícios recebidos e o seu reconhecimento."
+    },
+    "fn65_6": {
+      "rotulo": "Ali nos alegraremos com êle",
+      "texto": "ALI NOS ALEGRAREMOS COM ÊLE — Isto pode ser alusivo ao que se refere no livro 4 de Esdras, c. 13, que quando voltaram os prisioneiros se lhes abriu o Jordão, e o passaram a pé enxuto; e Isaías anuncia o mesmo, quando no c. 11, 15, diz: Passaram calçados pelo rio. E assim ibi laetabimur in ipso admite êstes dois sentidos. Ali, quando cheguemos ao Jordão nos alegraremos no mesmo Senhor, mostraremos o nosso regozijo, e exalçaremos as obras do seu poder, e com a memória do que sucedeu a nossos pais quando o passaram a pé enxuto, para entrar a primeira vez na Terra da Promissão, renovando o Senhor o mesmo prodígio, para que nós o passemos. Pode também interpretar-se: ibi laetabimur, por Laetati sumus in ipso. Naqueles sinalados prodígios, dos quais o primeiro foi o fim da escravidão do Egito, e o segundo a entrada da terra prometida. — P. Seio."
+    },
+    "fn65_9": {
+      "rotulo": "O qual tornou a minha alma",
+      "texto": "O QUAL TORNOU A MINHA ALMA — A paráfrase caldaica diz: O que tornou a minha alma à vida do século futuro; o que se há de entender da Ressurreição de Jesus Cristo; e assim mesmo da nossa à vida eterna: havendo sido a de Jesus Cristo causa e modêlo da nossa. — 1 Cor 15. — P. Seio."
+    },
+    "fn65_12": {
+      "rotulo": "Puseste homens",
+      "texto": "PUSESTE HOMENS — Quer dizer: puseste-nos debaixo do jugo pesado de uns homens cruéis, que nos governavam como animais. O hebreu tem: Fizeste cavalgar homem sôbre a nossa cabeça, ou também fazendo-nos servir em lugar de animais, para puxar carros, e levar cargas. — P. Seio."
+    },
+    "fn65_15": {
+      "rotulo": "Com perfumes",
+      "texto": "COM PERFUMES — Aquela parte dos sacrifícios pacíficos, que devia ser queimada, e resolver-se em fumo. Lev 3, 3. 9. 14."
+    },
+    "fn65_18": {
+      "rotulo": "Pegada no meu coração",
+      "texto": "PEGADA NO MEU CORAÇÃO — Pode ser o sentido se tivesse havido em mim hipocrisia, se os meus lábios não houvessem pronunciado o mesmo que eu tinha no meu coração, o Senhor me não ouviria. Santo Agostinho com os Setenta e muitos saltérios lêem: non exaudiat, não me ouça o Senhor. — P. Seio."
+    },
+    "fn65_19": {
+      "rotulo": "Por isso ouviu Deus",
+      "texto": "POR ISSO OUVIU DEUS — Deus nos ouvirá sempre, se recorrermos a êle contritos, e arrependidos. — Pereira."
+    }
+  }
+}

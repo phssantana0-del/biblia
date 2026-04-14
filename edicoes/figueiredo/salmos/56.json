@@ -1,0 +1,81 @@
+{
+  "num": 56,
+  "sumario": "Davi pede misericórdia a Deus, refugiando-se na cova.",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "Ao regente do côro."
+    },
+    {
+      "n": 1,
+      "texto": "Não destruas, Davi pôs esta inscrição Miktham quando fugindo da presença de Saul se retirou à cova. (1 Rs 22, 1; 24, 4.)",
+      "nota": "fn56_1"
+    },
+    {
+      "n": 2,
+      "texto": "Tem piedade de mim, ó Deus, tem piedade de mim: Porque em ti confia a minha alma. E na sombra das tuas asas esperarei, até que passe a iniquidade.",
+      "nota": "fn56_2"
+    },
+    {
+      "n": 3,
+      "texto": "Clamarei ao Deus altíssimo: Ao Deus que me fêz bens."
+    },
+    {
+      "n": 4,
+      "texto": "Enviou desde o céu, e livrou-me: Cobriu de opróbrio aos que me pisavam. Enviou Deus a sua misericórdia, e a sua verdade,"
+    },
+    {
+      "n": 5,
+      "texto": "e tirou a minha alma do meio dos cachorros dos leões: conturbado dormi. Filhos dos homens, os dentes são armas e setas e a sua língua espada aguçada.",
+      "nota": "fn56_5"
+    },
+    {
+      "n": 6,
+      "texto": "Exalta-te a ti, ó Deus, sôbre os céus: E brilhe a tua glória por tôda a terra."
+    },
+    {
+      "n": 7,
+      "texto": "Êles têm preparado laço aos meus pés: E têm feito encurvar a minha alma. Cavaram diante de mim uma cova: E caíram nela."
+    },
+    {
+      "n": 8,
+      "texto": "Aparelhado está o meu coração, ó Deus, aparelhado o meu coração: Cantarei, e direi salmo."
+    },
+    {
+      "n": 9,
+      "texto": "Levanta-te, glória minha, levanta-te, saltério e cítara: Levantar-me-ei de manhã.",
+      "nota": "fn56_9"
+    },
+    {
+      "n": 10,
+      "texto": "Louvar-te-ei entre os povos, Senhor: E salmo te direi entre as Nações:"
+    },
+    {
+      "n": 11,
+      "texto": "Porque a tua misericórdia tem sido engrandecida até aos céus, e a tua verdade até às nuvens."
+    },
+    {
+      "n": 12,
+      "texto": "Exalta-te a ti, ó Deus, sôbre os céus: E brilhe a tua glória sôbre tôda a terra."
+    }
+  ],
+  "notas": {
+    "fn56_1": {
+      "rotulo": "MIKTHAM",
+      "texto": "A Vulgata traduziu esta palavra por titulus; é o nome dos seus Salmos 15, 55, 59. A sua significação é obscura, mas parece querer significar um salmo dum sentido profundo e oculto. QUANDO FUGINDO — Davi compôs êste salmo quando se viu obrigado a refugiar-se na cova de Odolão, fugindo do furor de Saul, que ia em seu seguimento. 1 Rs 22, 1. As palavras, no disperdas, se explicam comumente como saindo da bôca de Davi falando com Deus: Não me entregues a meus inimigos para que me tirem a vida."
+    },
+    "fn56_2": {
+      "rotulo": "ATÉ QUE PASSE A INIQUIDADE",
+      "texto": "Donec transeant cerumna. Os tormentos, e tribulações que me ocasionam a iniquidade, e o ódio dos meus contrários. — Pereira."
+    },
+    "fn56_5": {
+      "rotulo": "CONTURBADO DORMI",
+      "texto": "Outros dizem: inter quos dormivi conturbatus; porque o temor de me ver cercado dêles, não me deixava repousar, ou conciliar o sono. No hebreu se expõem de diversos modos. \"A minha alma dormiu no meio de ferozes leões\", outros aplicam o Feroces a filii hominum dêste modo: Feroces sunt filii hominum: dentes eorum. — P. Seio."
+    },
+    "fn56_9": {
+      "rotulo": "LEVANTAR-ME-EI DE MANHÃ",
+      "texto": "É uma prosopopéia sôbre o que diz Santo Agostinho: \"Persuado-me que reconheceis nestas palavras a Cristo que ressuscita.\" — Pereira."
+    }
+  }
+}

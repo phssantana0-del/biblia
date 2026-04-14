@@ -1,0 +1,18 @@
+{
+  "num": 128,
+  "sumario": "Salmo gratulatório e deprecatório. Protesta o profeta em nome do povo, que só com o favor de Deus tem vencido a seus inimigos, aos quais anuncia a eterna infelicidade.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual. Muitas vêzes me combateram desde a minha mocidade, diga-o agora Israel.", "nota": "fn128_1" },
+    { "n": 2, "texto": "Muitas vêzes me têm combatido desde a minha mocidade: Mas não puderam destruir-me." },
+    { "n": 3, "texto": "Sôbre as minhas costas trabalharam os pecadores: Prolongaram a sua iniquidade." },
+    { "n": 4, "texto": "O Senhor, que é justo, cortou as cervizes dos pecadores:" },
+    { "n": 5, "texto": "Fiquem confundidos, e voltem atrás todos os que aborrecem a Sião." },
+    { "n": 6, "texto": "Sejam como a erva dos telhados: Que antes que se arranque tem secado." },
+    { "n": 7, "texto": "Da qual nem o que a sega encheu a mão, nem o seu seio o que apanha os feixes.", "nota": "fn128_7" },
+    { "n": 8, "texto": "E não disseram os que passavam: A bênção do Senhor seja sôbre vós: Nós vos abençoamos em nome do Senhor." }
+  ],
+  "notas": {
+    "fn128_1": { "rotulo": "Cântico gradual / Desde a minha mocidade", "texto": "CÂNTICO GRADUAL — Tem duas estrofes. Primeira (1-4). Deus pôs têrmo às desgraças de Israel. Segunda (5-8). Que êsse triunfo seja perdurável. — DESDE A MINHA MOCIDADE — Pela mocidade de Israel se entende o tempo que viveu no Egito, onde tiveram princípio as suas calamidades. Jer 2, 2. — Pereira." },
+    "fn128_7": { "rotulo": "O seu seio", "texto": "Alusão ao costume oriental de guardar no seio os pequenos objetos que ajuntam." }
+  }
+}

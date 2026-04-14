@@ -1,0 +1,29 @@
+{
+  "num": 147,
+  "sumario": "Salmo gratulatório. Deve-se louvar a Deus, porque só êle é quem nos dá todos os bens. Aleluia.",
+  "versiculos": [
+    { "n": 12, "texto": "Louva, ó Jerusalém, ao Senhor: Louva, ó Sião, o teu Deus.", "nota": "fn147_12" },
+    { "n": 13, "texto": "Porque fortificou os ferrolhos das tuas portas: Abençoou os teus filhos dentro de ti." },
+    { "n": 14, "texto": "O que estabeleceu a paz nos teus limites e da flor da farinha te farta.", "nota": "fn147_14" },
+    { "n": 15, "texto": "O que envia a sua palavra à terra: Velozmente corre a sua palavra." },
+    { "n": 16, "texto": "O que dá neve como lã: Espalha a névoa como cinza." },
+    { "n": 17, "texto": "Envia o seu gêlo como em pedaços de pão: Diante da intensão do seu frio quem poderá suster-se?" },
+    { "n": 18, "texto": "Enviará a sua palavra, e os derreterá: Soprará o seu espírito, e correrão feitos em águas.", "nota": "fn147_18" },
+    { "n": 19, "texto": "O que anuncia a sua palavra a Jacó: As suas justiças, e juízos a Israel." },
+    { "n": 20, "texto": "Não se fêz assim a tôda a outra nação: E não lhes manifestou os seus juízos. Aleluia." }
+  ],
+  "notas": {
+    "fn147_12": {
+      "rotulo": "Aleluia",
+      "texto": "ALELUIA — No fim dêste salmo, e não no princípio, é que se lê Halelu-iah no hebreu, o que dá a entender que os hebreus o consideram como uma continuação do precedente, e o assunto é sem dúvida o mesmo. Como no salmo IX, se apartaram os gregos dos latinos no modo de os contar, aqui se tornam a concordar, e por fim todos contam 150 salmos."
+    },
+    "fn147_14": {
+      "rotulo": "E da flor da farinha",
+      "texto": "E DA FLOR DA FARINHA — Adeps frumenti, significa a nata de trigo, ou flor da farinha, é o trigo mais mimoso, como o adeps olei o azeite mais puro. É hebraísmo frequente nas Escrituras. — Pereira."
+    },
+    "fn147_18": {
+      "rotulo": "O seu espírito",
+      "texto": "O SEU ESPÍRITO — Um vento quente como o do meio-dia, pelo qual se derrete o gêlo. Êste gêlo e saraiva denota que por meio dos trabalhos se chega às consolações, e por meio da mortificação à vida que dá aos seus o espírito, aquêle espírito consolador. — S. Hilário."
+    }
+  }
+}

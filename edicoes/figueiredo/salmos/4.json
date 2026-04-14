@@ -1,0 +1,27 @@
+{
+  "num": 4,
+  "sumario": "Salmo histórico. Davi perseguido dos seus inimigos põe a sua causa nas mãos de Deus; e os exorta a que voltem sôbre si, e se reconheçam, protestando que só no Senhor tem posta toda a sua confiança e glória.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, com acompanhamento de instrumentos de corda, salmo de Davi.", "nota": "fn4_1" },
+    { "n": 2, "texto": "Quando eu invoco o Senhor da minha justiça, Êle me ouve, e na tribulação o seu auxílio expande a minha alma. Tem compaixão de mim, e ouve a minha oração.", "nota": "fn4_2" },
+    { "n": 3, "texto": "Filhos dos homens, até quando sereis de pesado coração? por que amais a vaidade, e buscais a mentira?", "nota": "fn4_3" },
+    { "n": 4, "texto": "Sabei pois que o Senhor exaltou ao seu santo, o Senhor me ouvirá quando eu clamar a Êle.", "nota": "fn4_4" },
+    { "n": 5, "texto": "Irai-vos e não queirais pecar: Do que dizeis nos vossos corações compungi-vos nos vossos leitos.", "nota": "fn4_5" },
+    { "n": 6, "texto": "Sacrificai sacrifício de justiça, e esperai no Senhor: Muitos dizem: Quem nos patenteará os bens?", "nota": "fn4_6" },
+    { "n": 7, "texto": "Gravado está, Senhor, sôbre nós o lume do teu rosto: Deste alegria no meu coração.", "nota": "fn4_7" },
+    { "n": 8, "texto": "Pelo produto do seu trigo, vinho e azeite se multiplicaram." },
+    { "n": 9, "texto": "Em paz dormirei nêle mesmo, e repousarei.", "nota": "fn4_9" },
+    { "n": 10, "texto": "Porque tu, Senhor, de uma maneira singular me tens firmado na esperança." }
+  ],
+  "notas": {
+    "fn4_0": { "rotulo": "Sobre êste Salmo", "texto": "Davi compôs, ao que parece, êste Salmo no tempo em que era perseguido por seu filho Absalão, ou por Saul, seu sogro. O escopo dêste Salmo parece ser implorar a misericórdia do Senhor e excitar a constância nos que o acompanhavam. O sentido moral, segundo os mais abalizados críticos, é mostrar a fôrça e a mão da Providência, exortando os bons à resignação e à perseverança, e persuadindo os maus à penitência. Compreende cinco estrofes; a primeira e a última têm três versos, as restantes quatro, a saber: 1.ª estrofe (2). Deus ouve a oração quando todos o abandonam. — 2.ª (3 e 4) Aos seus caluniadores diz que terminem as suas afrontas, porque o Senhor aceita a sua súplica. — 3.ª (5 e 6). Que confiem em Deus. — 4.ª (6 e 8). Os que ficaram fiéis procuram a felicidade; Deus faz brilhar sôbre nós o bem do seu rosto. — 5.ª (9 e 10). Tranquilidade de Davi e sua confiança ilimitada em Deus." },
+    "fn4_1": { "rotulo": "Ao regente do côro / Instrumentos de corda", "texto": "A Vulgata traduziu <em>in finem in carminibus</em>, e o padre Pereira desta maneira, não menos, senão mais confusa: 'Para o fim entre os cânticos'. O <em>in finem</em> da Vulgata é a tradução errada do hebreu <em>lamnatseakh</em>, que significa ao regente do côro. É uma espécie de advertência, significando que o Salmo deve ser remetido ao presidente do côro dos Levitas. — INSTRUMENTOS DE CORDA — A Vulgata traduziu <em>carminibus</em> e o padre Pereira 'cânticos', o têrmo hebraico <em>Neghinoth</em>, que era um instrumento de corda. Giustiniani e Houbigant querem que êste instrumento fôsse uma cítara de oito cordas." },
+    "fn4_2": { "rotulo": "Quando eu invoco", "texto": "Traduz-se pelo presente, conforme se disse na introdução. Afastamo-nos um pouco da tradução do padre Pereira, para melhor inteligência do Salmo." },
+    "fn4_3": { "rotulo": "Filhos dos homens", "texto": "O hebreu diz: 'Filhos de varão até quando convertereis a minha glória em ignomínia?' 'Filhos de varão', isto é, conforme a frase hebraica: 'Filhos de homem ilustre, ou varões ilustres.' É uma apóstrofe aos oficiais e comandantes das onze tribos, os quais, depois da morte de Saul, recusaram por largo tempo reconhecer por seu rei a Davi, 2 Rs 2, 9; 3, 1. — P. Seio." },
+    "fn4_4": { "rotulo": "Ao seu santo", "texto": "A mim seu Ungido. O hebreu 'E sabei que o Senhor apartou para si ao pio; isto é, me apartou e me elegeu, dotando-me de verdadeira piedade, para que eu restabelecesse o seu culto'. — P. Seio." },
+    "fn4_5": { "rotulo": "Irai-vos", "texto": "É uma forma hipotética, expressa por êste imperativo, e que corresponde a 'se vos irardes', etc. <em>Hypothetica Hebræorum formula per imperativum, pro Si irascimini</em>. Cfr. <em>Synopsis criticorum S. Scripturæ</em>." },
+    "fn4_6": { "rotulo": "Sacrificai sacrifício de justiça", "texto": "Quer dizer, oferecei sacrifício justo, isto é, oferecido por uma forma reta, com pureza de intenção, e oferecei-o pelos vossos pecados. Como se dissesse: Rebeldes! conhecei as vossas culpas, e arrependidos oferecei sacrifícios ao Senhor. — Vatablo." },
+    "fn4_7": { "rotulo": "Deste alegria no meu coração", "texto": "No hebreu se lêem estas últimas palavras unidas com o verso seguinte desta maneira: 'Deste alegria no meu coração, ao tempo que o trigo dêles, e o mosto se multiplicou'. Pode também ser alusivo aos refrescos que foram levados às tropas de Davi, quando fugia de Absalão. Rs 17, 28. A Igreja em uma Antífona aplica êste verso ao sustento e multiplicação que recebem os fiéis pela Eucaristia. — P. Seio." },
+    "fn4_9": { "rotulo": "E repousarei", "texto": "O hebreu diz: 'Em paz a um mesmo tempo me encostarei, e dormirei'. Outros: <em>Idipsum</em> e <em>simul</em> ou juntamente. — Pereira." }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "num": 52,
+  "sumario": "Stultitia impiorum qui Deum negant; spes salutis ex Sion",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "In finem, pro Maeleth. Intellectus David."
+    },
+    {
+      "n": 2,
+      "texto": "Dixit insipiens in corde suo : Non est Deus. Corrupti sunt, et abominabiles facti sunt in iniquitatibus ; non est qui faciat bonum."
+    },
+    {
+      "n": 3,
+      "texto": "Deus de cælo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum."
+    },
+    {
+      "n": 4,
+      "texto": "Omnes declinaverunt, simul inutiles facti sunt ; non est qui faciat bonum, non est usque ad unum."
+    },
+    {
+      "n": 5,
+      "texto": "Nonne scient omnes qui operantur iniquitatem, qui devorant plebem meam ut cibum panis ?"
+    },
+    {
+      "n": 6,
+      "texto": "Deum non invocaverunt ; illic trepidaverunt timore, ubi non erat timor. Quoniam Deus dissipavit ossa eorum qui hominibus placent ; confusi sunt, quoniam Deus sprevit eos."
+    },
+    {
+      "n": 7,
+      "texto": "Quis dabit ex Sion salutare Israël ? Cum converterit Deus captivitatem plebis suæ, exsultabit Jacob, et lætabitur Israël."
+    }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

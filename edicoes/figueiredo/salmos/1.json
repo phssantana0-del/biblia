@@ -1,0 +1,18 @@
+{
+  "num": 1,
+  "sumario": "Salmo doutrinal. Os justos são ditosos; e os maus são infelizes. Descreve-se o caráter dos bons e, por contraposição, o dos maus; exortam-se os homens à piedade, oferecendo-lhes como recompensa a Eterna Bem-aventurança.",
+  "versiculos": [
+    { "n": 1, "texto": "Bem-aventurado o varão que não se deixou ir após o conselho dos ímpios, e que não se deteve no caminho dos pecadores, e que não se assentou na cadeira empestada pelo vício.", "nota": "fn1_1" },
+    { "n": 2, "texto": "Mas a sua vontade está posta na lei do Senhor, e na sua lei meditará de dia e de noite." },
+    { "n": 3, "texto": "E será como a árvore, que está plantada junto à margem dum ribeiro ameno, que a seu tempo dará o seu fruto: E cuja folha não cairá: E todas as coisas que êle fizer, serão prósperas." },
+    { "n": 4, "texto": "Não assim os ímpios, não assim: Senão como o pó que o vento espalha de cima da face da terra.", "nota": "fn1_4" },
+    { "n": 5, "texto": "Por isso os ímpios não ressurgirão no juízo; nem os pecadores na congregação dos justos.", "nota": "fn1_5" },
+    { "n": 6, "texto": "Porque o Senhor conhece o caminho dos justos: E o caminho dos ímpios perecerá." }
+  ],
+  "notas": {
+    "fn1_0": { "rotulo": "Sobre êste Salmo", "texto": "Êste Salmo não tem título no original hebreu. Ignora-se quem seja o seu autor, mas a mor parte dos intérpretes atribuem-no a Davi. É como que uma introdução a tôda a coleção dos Salmos. Descreve-se o caráter dos bons, e, por contraposição, também o dos maus; exortam-se os homens à piedade, oferecendo-lhes como recompensa a Eterna Bem-aventurança. Tem três estrofes de cinco versos, segundo os modernos trabalhos de Bickell, professor em Inspruck, <em>Carmina Veteris Testamenti metrice</em>, 1882. A primeira estrofe compreende os dois primeiros versículos, e canta a felicidade do justo que evita o mal, 1, e o que observa a lei praticando o bem, 2. A segunda compreende o v. 3, onde se compara o justo ao arbusto ornado de virentes fôlhas, produzindo bons frutos. A terceira compreende os vv. 4, 5 e 6, em que se descreve a desgraça do pecador, semelhante ao pó que o vento leva, que não poderão suportar o rigor do juízo de Deus, 5, porque o Onisciente conhece a vida do justo, e o caminho de perdição por onde êle trilha." },
+    "fn1_1": { "rotulo": "Que não se deteve / Na cadeira", "texto": "Não disse 'Que não andou pelo caminho dos pecadores', porque isso é impossível, visto que nenhum homem é sem pecado, mas disse 'Que não se deteve no caminho dos pecadores', porque o justo não se demora nêle, não persevera no mal, mas procura logo meter-se no caminho do Senhor pela penitência. S. Jerônimo. — NA CADEIRA — A cadeira da pestilência (<em>Cathedra pestilentiæ</em>) é a cadeira da falsa doutrina ou do mau exemplo, que como peste corrompe os espíritos. — Bossuet (<em>Dissert. in Psalmos</em>)." },
+    "fn1_4": { "rotulo": "Não assim", "texto": "Esta repetição é própria da Vulgata, pois falta no hebreu. — Bossuet." },
+    "fn1_5": { "rotulo": "Não ressurgirão no juízo", "texto": "O hebreu tem: 'Não subsistirão', isto é, perderão a causa — Bossuet. Melhor fôra <em>stabunt</em> em vez de <em>ressurgent</em>, ressurgirão." }
+  }
+}

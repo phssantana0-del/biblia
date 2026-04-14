@@ -1,0 +1,75 @@
+{
+  "num": 73,
+  "sumario": "Salmo deprecatório. Suplica a Deus, lembrando os estupendos prodígios, que o Senhor havia praticado antigamente, para salvar ao seu povo. Rogando que se compadeça da sua miséria, e extrema aflição.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo didático composto por Asaf.<br>Por que razão, ó Deus, nos hás desamparado para sempre? Incendido está o teu furor sôbre as ovelhas do teu pasto?", "nota": "fn73_1" },
+    { "n": 2, "texto": "Lembra-te da tua congregação, que possuíste desde o princípio.<br>Tu remediaste a porção da tua herança: O monte de Sião em que te aprouve habitar.", "nota": "fn73_2" },
+    { "n": 3, "texto": "Levanta as tuas mãos contra as soberbas dêles até ao fim: Quantas maldades tem cometido o inimigo no Santuário!", "nota": "fn73_3" },
+    { "n": 4, "texto": "E os que te aborreceram, gloriaram-se: No meio da tua solenidade.<br>Puseram os seus estandartes, em grande número,", "nota": "fn73_4" },
+    { "n": 5, "texto": "e não os conheceram, bem como nas portas sôbre o mais alto.<br>Como em um bosque de árvores com machados," },
+    { "n": 6, "texto": "destroçaram à uma as suas portas: Com machado e camartelo a derribaram.", "nota": "fn73_6" },
+    { "n": 7, "texto": "Abrasaram em fogo ao teu Santuário: Na terra profanaram o tabernáculo do teu nome." },
+    { "n": 8, "texto": "Disseram no seu coração os das suas parentelas todos juntamente: Façamos cessar da terra tôdas as festas de Deus." },
+    { "n": 9, "texto": "Não temos visto os nossos sinais: Já não há profeta: E não nos conhecerá daqui em diante.", "nota": "fn73_9" },
+    { "n": 10, "texto": "Até quando, ó Deus, nos afrontará o inimigo: Blasfemará o adversário o teu nome até ao fim?", "nota": "fn73_10" },
+    { "n": 11, "texto": "Por que retrais a tua mão, e a tua direita do meio do teu seio até ao fim?", "nota": "fn73_11" },
+    { "n": 12, "texto": "Mas o Deus Rei nosso antes dos séculos: Obrou a salvação no meio da terra." },
+    { "n": 13, "texto": "Tu com o teu poder deste solidez ao mar: Moeste as cabeças dos dragões nas águas.", "nota": "fn73_13" },
+    { "n": 14, "texto": "Tu quebraste a cabeça do dragão: Deste-o por comida aos povos da Etiópia.", "nota": "fn73_14" },
+    { "n": 15, "texto": "Tu abriste as fontes, e os ribeiros: Tu secaste os rios de Etan.", "nota": "fn73_15" },
+    { "n": 16, "texto": "Teu é o dia, e tua é a noite: Tu fabricaste a aurora e o sol." },
+    { "n": 17, "texto": "Tu fizeste todos os limites da terra: o estio e a primavera tu os formaste." },
+    { "n": 18, "texto": "Lembra-te disto: O inimigo improperou ao Senhor: E um povo néscio irritou o teu nome." },
+    { "n": 19, "texto": "Não entregues às feras as almas que te louvam, e não ponhas em esquecimento para sempre as almas dos teus pobres." },
+    { "n": 20, "texto": "Olha para o teu testamento: Porque os obscurecidos da terra são os que estão cheios de casas de iniquidade." },
+    { "n": 21, "texto": "Não se volte confundido o humilde: O pobre, e o desvalido louvarão o teu Nome." },
+    { "n": 22, "texto": "Levanta-te, ó Deus, julga a tua causa: Lembra-te dos impropérios feitos contra ti, daqueles com quem um povo néscio te injuria todo o dia." },
+    { "n": 23, "texto": "Não te esqueças das vozes de teus inimigos: A soberba daqueles que te aborrecem, sobe continuamente." }
+  ],
+  "notas": {
+    "fn73_1": {
+      "rotulo": "Salmo didático composto por Asaf",
+      "texto": "SALMO DIDÁTICO COMPOSTO POR ASAF — Tradução de Glaire. Êste salmo é muitas vêzes citado por muitos críticos contemporâneos da época dos Macabeus. 1 Mac 4, 38-46; 9, 27; 14, 41. Pode ter sido composto depois da tomada de Jerusalém ou da destruição do templo de Salomão por Nabucodonosor. 4 Rs 24; 2 Par 36; Jer 52. Tem oito estrofes. Primeira (1-3). Suplica a Deus que não abandone Jerusalém. Segunda (4-6). Quadro da devastação causada no templo pelos inimigos de Deus. Terceira (7-9). Lamenta ter-se acabado o culto não havendo já nem milagres nem profetas que consolem Israel. Quarta (10-11). Até quando durará tal castigo? Quinta (12-14). Não falta a Deus o poder. Sexta (16-17). Deus é criador. Sétima (18-20). Que não permita então que o seu nome seja ultrajado. Oitava (21-23). Repetição do mesmo pensamento por outras palavras."
+    },
+    "fn73_2": {
+      "rotulo": "Desde o princípio",
+      "texto": "DESDE O PRINCÍPIO — Desde o tempo de Abraão, que foi o tronco da família, e povo, que te havia de estar consagrado. Gên 17. — P. Seio."
+    },
+    "fn73_3": {
+      "rotulo": "Levanta as tuas mãos",
+      "texto": "LEVANTA AS TUAS MÃOS — O hebreu tem: \"Alça os teus pés contra a soberba dêles.\" Segundo Bellarmino, e outros intérpretes, alude à soberba com que Antíoco entrou no Templo, e às abominações com que o contaminou. 1 Mac 1, 23. 41. 49. 51. — Sacy."
+    },
+    "fn73_4": {
+      "rotulo": "Em grande número",
+      "texto": "EM GRANDE NÚMERO — É o que quer significar a repetição da palavra que se encontra no original e na Vulgata, como já atrás ficou dito."
+    },
+    "fn73_6": {
+      "rotulo": "A derribaram",
+      "texto": "A DERRIBARAM — A casa, ou as portas do Templo os caldeus, 4 Rs 25, 9, Jer 52, 13. Ainda que não parece ter sido queimado o Templo de Jerusalém na perseguição de Antíoco, basta ser certo que as suas portas o foram, 1 Mac 4, 38, para se compreender o que o profeta diz aqui. No texto original se lê: \"Tem pôsto fogo aos teus Santuários.\" — Pereira."
+    },
+    "fn73_9": {
+      "rotulo": "Já não há profetas",
+      "texto": "JÁ NÃO HÁ PROFETAS — É a queixa dos judeus cativos em Babilónia, queixa até certo ponto infundada; porque Daniel lá estava. É verdade que êle profetizou pouco em Babilónia, pois que as suas principais profecias tiveram lugar em Susa. (Dan 7-11.) Também é certo que se não repetiram os sinais ou prodígios que se deram no Egito e no deserto, mas é verdade que presenciaram a libertação milagrosa de Daniel e dos seus companheiros saindo incólumes da fornalha ardente (3, 20); Daniel escapando são e salvo da cova dos leões (14, 30 e seguintes); a justificação da Casta Susana (13, 45 e seguintes); a metamorfose de Nabucodonosor (4, 13 e seguintes); e enfim os últimos momentos de Baltasar, rei dos caldeus (5, 22 e seguintes)."
+    },
+    "fn73_10": {
+      "rotulo": "Até quando nos afrontará o inimigo",
+      "texto": "ATÉ QUANDO NOS AFRONTARÁ O INIMIGO — Todo êste verso quadra bem às blasfêmias de Antíoco, e de seus capitães que lemos na história dos macabeus. — Bossuet."
+    },
+    "fn73_11": {
+      "rotulo": "Por que retrais",
+      "texto": "POR QUE RETRAIS — Assim palavra por palavra a nossa Vulgata. Alguns contudo, com Sacy e de Carrières, como achassem imperfeito e manco êste verso, verteram: Por que cessa a tua mão de nos proteger? e por que tens tu a tua direita sempre no teu seio? O mesmo em substância Calmet. Bossuet, porém, porque depois de, de sine tuo, achava-se em S. Jerônimo, consumens, conjecturou que se devia ler: Por que apartas tu de cima de nós a tua mão, e a tua direita? Tira-a do meio de teu peito para os perder. Julgue cada um o que melhor lhe parecer do caso."
+    },
+    "fn73_13": {
+      "rotulo": "As cabeças dos dragões",
+      "texto": "AS CABEÇAS DOS DRAGÕES — Os grandes animais que se encontram nas águas do Nilo e que figuram o povo e exército do Egito."
+    },
+    "fn73_14": {
+      "rotulo": "A cabeça do dragão",
+      "texto": "A CABEÇA DO DRAGÃO — De Leviatã, o crocodilo, emblema do rei do Egito. Êste estava sujeito à Etiópia."
+    },
+    "fn73_15": {
+      "rotulo": "Etan",
+      "texto": "ETAN — Os antigos hebraizantes sustentavam que esta palavra queria dizer fôrça e antiguidade; os modernos dão-lhe a significação e fluxo, e do que corre continuamente. Os Setenta e a Vulgata fizeram um nome próprio. É certo todavia que Etan era um lugar em que os israelitas fizeram a sua terceira estação depois da saída do Egito, e que ficava na extremidade do deserto. Êx 13, 20. Núm 33, 6."
+    }
+  }
+}

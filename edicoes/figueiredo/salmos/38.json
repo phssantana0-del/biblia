@@ -1,0 +1,27 @@
+{
+  "num": 38,
+  "sumario": "Salmo didático. Davi prefere sofrer em silêncio os males com que o Senhor o aflige, e não responder aos insultos dos seus inimigos, contentando-se com expor ao Senhor os seus tristes gemidos. Põe em Deus a sua esperança, e lhe pede o livre da tribulação que padece.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, a Iditum, Cântico de Davi.", "nota": "fn38_1" },
+    { "n": 2, "texto": "Disse: Guardarei os meus caminhos: Para não delinquir com a minha língua. Pus guarda à minha bôca, quando o pecador estava em frente contra mim.", "nota": "fn38_2" },
+    { "n": 3, "texto": "Emudeci, e me humilhei, e nem ainda falei de coisas boas: E a minha dor se renovou.", "nota": "fn38_3" },
+    { "n": 4, "texto": "O meu coração se escandeceu dentro de mim: E na minha meditação se incenderá fogo." },
+    { "n": 5, "texto": "Falei com a minha língua: Faze-me conhecer, Senhor, o meu fim. E o número dos meus dias qual é: Para que eu saiba o que me resta." },
+    { "n": 6, "texto": "Eis-aqui puseste os meus dias em medida: E a minha subsistência é como nada diante de ti. Todavia é pura vaidade todo o homem que vive." },
+    { "n": 7, "texto": "Pois certamente o homem passa como em sombra: E assim em vão se conturba. Entesoura, e não sabe para quem ajunta aquelas coisas." },
+    { "n": 8, "texto": "E agora qual é a minha esperança? porventura não é o Senhor? pois em ti está a minha subsistência.", "nota": "fn38_8" },
+    { "n": 9, "texto": "Livra-me de tôdas as minhas iniquidades: Tu me fizeste um objeto de opróbrio para o insensato." },
+    { "n": 10, "texto": "Emudeci, e não abri a minha bôca, porque tu o fizeste:" },
+    { "n": 11, "texto": "Aparta de mim os teus flagelos." },
+    { "n": 12, "texto": "Debaixo da fôrça da tua mão eu desfaleci quando me repreendeste: Tu por causa da iniquidade castigaste ao homem. E fizeste que a sua alma se consumisse como aranha: Certamente em vão se conturba todo o homem." },
+    { "n": 13, "texto": "Ouve, Senhor, a minha oração e a minha súplica: Recebe em teus ouvidos as minhas lágrimas. Não te cales: Porque adventício sou adiante de ti, e peregrino como todos os meus pais." },
+    { "n": 14, "texto": "Deixa que tome algum alento, antes que me vá, e não exista mais.", "nota": "fn38_14" }
+  ],
+  "notas": {
+    "fn38_1": { "rotulo": "1", "texto": "IDITUM — Êste título indica que êste Salmo é dirigido a Iditum, nome próprio dum dos três chefes do côro do tempo de Davi. Êste Salmo foi naturalmente composto depois da revolta do Absalão. Tem quatro estrofes. A primeira descreve o abatimento em que se encontra Davi, aspirando debalde ao repouso, e prestes a cair na impaciência; na segunda expõe as suas queixas; na terceira e quarta Davi confia em Deus, e pede perdão de seus pecados. A idéia dominante em todo êste Salmo é o sentimento maior das coisas do mundo." },
+    "fn38_2": { "rotulo": "2", "texto": "GUARDAREI OS MEUS CAMINHOS — Isto é: Velarei e terei cuidado sôbre tôdas as minhas ações, e palavras, para não cair em culpa alguma. | QUANDO O PECADOR ESTAVA — Quando Semei me saiu ao caminho para praguejar-me, e me ultrajar. 2 Rs 16, 5.6. — Pereira." },
+    "fn38_3": { "rotulo": "3", "texto": "E NEM AINDA FALEI — Isto é, não proferi o que me era lícito dizer em defensa da minha inocência, queixando-me ao meu Deus, e implorando a sua justiça. Contive-me de dizer tudo o que pudera com tôda a justiça, por me não expor a dizer mais do que convinha, no movimento e calor da ira: e a violência com que me reprimi, para afogar o natural ressentimento, serviu para que se aumentasse, e fôsse mais viva a minha dor. — P. Seio." },
+    "fn38_8": { "rotulo": "4", "texto": "E AGORA QUAL É A MINHA ESPERANÇA? — O hebreu tem: \"E agora que esperança, Senhor? A minha esperança em ti está.\" Mas ainda que sei muito bem que a morte põe fim a meus males; isto não obstante não está aqui a minha verdadeira consolação, senão na tua graça e salvação. In ipso vivimus, movemur, et sumus. At 17. — P. Seio." },
+    "fn38_14": { "rotulo": "5", "texto": "DEIXA QUE TOME ALGUM ALENTO — Levanta a mão, e modera já o teu rigor, e a violência da minha aflição, para que possa acabar em paz, e com uma ditosa morte a carreira da minha vida." }
+  }
+}

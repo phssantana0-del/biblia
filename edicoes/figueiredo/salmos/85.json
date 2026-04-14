@@ -1,0 +1,45 @@
+{
+  "num": 85,
+  "sumario": "Oração de Davi pedindo socorro contra os seus inimigos: nela se anuncia a conversão dos gentios. Oração do mesmo Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Inclina, Senhor, o teu ouvido, e ouve-me: Porque eu sou desvalido, e pobre.", "nota": "fn85_1" },
+    { "n": 2, "texto": "Guarda a minha alma, porque sou santo: Salva-me, Deus meu, a mim teu servo, que espero em ti.", "nota": "fn85_2" },
+    { "n": 3, "texto": "Senhor, tem misericórdia de mim, por que a ti clamei todo o dia:" },
+    { "n": 4, "texto": "Alegra a alma do teu servo, porque a ti, Senhor, levantei a minha alma." },
+    { "n": 5, "texto": "Porque tu, Senhor, és suave, e brando: E de muita misericórdia para todos os que te invocam." },
+    { "n": 6, "texto": "Percebe, Senhor, nos teus ouvidos a minha oração: E atende à voz do meu humilde rogo." },
+    { "n": 7, "texto": "No dia da minha tribulação clamei a ti: Porque me escutaste." },
+    { "n": 8, "texto": "Não há semelhante a ti entre os deuses, Senhor: E não há quem se te assemelhe nas tuas obras." },
+    { "n": 9, "texto": "Tôdas as gentes quantas fizeste, virão, e prostradas te adorarão, Senhor: E glorificarão o teu nome." },
+    { "n": 10, "texto": "Porquanto tu és grande, e fazedor de maravilhas: Tu só és Deus." },
+    { "n": 11, "texto": "Guia-me, Senhor, no teu caminho, e andarei na tua verdade: Alegre-se o meu coração para que êle tema o teu nome." },
+    { "n": 12, "texto": "Louvar-te-ei, Senhor Deus meu, com todo o meu coração, e glorificarei o teu nome eternamente:" },
+    { "n": 13, "texto": "Porque a tua misericórdia é grande sôbre mim: E arrancaste a minha alma do inferno inferior:", "nota": "fn85_13" },
+    { "n": 14, "texto": "Levantaram-se, ó Deus, iníquos contra mim e uma tropa de poderosos buscaram a minha alma, e êles não se propuseram que tu lhe estás presente.", "nota": "fn85_14" },
+    { "n": 15, "texto": "Mas tu és, Senhor Deus, clemente e misericordioso, sofrido e de muita misericórdia, e verdadeiro." },
+    { "n": 16, "texto": "Põe os olhos em mim, e tem misericórdia de mim, dá o teu império ao teu servo: E faze salvo ao filho da tua escrava.", "nota": "fn85_16" },
+    { "n": 17, "texto": "Faze em meu favor algum sinal, para que o vejam aqueles que me têm ódio, e sejam confundidos: Pois tu, Senhor, me tens ajudado, e me tens consolado." }
+  ],
+  "notas": {
+    "fn85_1": {
+      "rotulo": "Oração de Davi",
+      "texto": "Davi na adversidade, naturalmente durante a revolta de Absalão, pede a Deus que o socorra. Alguns comentadores entendem que esta oração foi composta nos tempos de Ezequias e de Zorobabel, e que o nome de Davi, que se lê no título, significa simplesmente que o autor escreve êste salmo sôbre fragmentos de outros de Davi. O nome de Adonai, meu Deus, encontra-se sete vêzes no original. Tem cinco estrofes. Primeira (1-4). Suplica a Deus. Segunda (5-7). Porque é misericordioso. Terceira (8-10). Porque é grande e opera maravilhas. Quarta (11-13). Impetra a luz e a graça divina. Quinta (14-17). Invocação contra os inimigos de Deus."
+    },
+    "fn85_2": {
+      "rotulo": "Guarda a minha alma / Sou santo",
+      "texto": "GUARDA A MINHA ALMA — Hebraísmo, por guarda-me; isto é, conserva-me a vida. SOU SANTO — No hebreu está piedoso votado ao vosso serviço; segundo outros, inocente dos crimes que me imputam."
+    },
+    "fn85_13": {
+      "rotulo": "Arrancaste",
+      "texto": "ARRANCASTE — Nos Livros Santos, e sobretudo nos Salmos e nos Profetas, estas expressões são empregadas para significar a libertação dum grande perigo. Num sentido mais elevado, aplicam-se a Jesus Cristo descido aos infernos e ressuscitado dentre os mortos."
+    },
+    "fn85_14": {
+      "rotulo": "E uma tropa de poderosos",
+      "texto": "E UMA TROPA DE PODEROSOS — De homens cruéis e facinorosos. Não consideram que tôdas as suas iniquidades, e quanto êles maquinam, está patente aos teus olhos, para lhes dar a seu tempo o condigno castigo. — Pereira."
+    },
+    "fn85_16": {
+      "rotulo": "O teu império",
+      "texto": "O TEU IMPÉRIO — O hebreu tem: \"dá a fortaleza a teu servo\" para que possa resistir a seus inimigos, vencê-los e sujeitá-los. Dá-lhe o reino que lhe querem tirar seus inimigos. — Pereira."
+    }
+  }
+}

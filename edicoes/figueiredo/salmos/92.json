@@ -1,0 +1,21 @@
+{
+  "num": 92,
+  "sumario": "Salmo gratulatório. Por meio de formosas e vivas alegorias celebra a glória, e a imortalidade do reino de Jesus Cristo. Louvor de cântico do mesmo Davi para o dia que precede ao sábado quando a terra foi fundada.",
+  "versiculos": [
+    { "n": 1, "texto": "O Senhor reinou, vestiu-se de magnificência: Vestiu-se o Senhor de fortaleza, e cingiu-se.<br>Porque firmou a redondeza da terra, que não será comovida.", "nota": "fn92_1" },
+    { "n": 2, "texto": "Desde então se estabeleceu o teu trono: tu és desde a eternidade." },
+    { "n": 3, "texto": "Alçaram os rios, Senhor: Alçaram os rios o estrondo da sua voz.<br>Encresparam os rios as suas ondas." },
+    { "n": 4, "texto": "Pelas vozes das suas muitas águas.<br>Maravilhosas as inchações do mar, maravilhoso nas alturas o Senhor." },
+    { "n": 5, "texto": "Os teus testemunhos se têm feito críveis em grande maneira: À tua casa convém santidade, Senhor, por diuturnidade de dias." }
+  ],
+  "notas": {
+    "fn92_0": {
+      "rotulo": "Êste salmo",
+      "texto": "Êste salmo não tem título no original; o da Vulgata quer dizer que é destinado a ser cantado na sexta-feira, no sacrifício da manhã, para comemorar a criação dos homens. Êste salmo composto por Davi, provàvelmente depois duma vitória, foi aplicado posteriormente à liturgia."
+    },
+    "fn92_1": {
+      "rotulo": "O Senhor reinou",
+      "texto": "O SENHOR REINOU — Pode-se dizer que Deus começou a reinar no mundo, depois de haver criado o homem que o devia habitar. O profeta nos pinta o Senhor debaixo da figura de um príncipe recebendo homenagem de seus vassalos no dia de sua exaltação ao trono, apresentando-se à sua côrte cheio de majestade, pompa e gala. Tudo isto convém perfeitamente a Jesus Cristo, que havendo estabelecido com a sua morte o seu reino, e Igreja, que há de durar por tôda a eternidade, entrou na posse dêle, e cheio de glória subiu aos Céus. — P. Seio."
+    }
+  }
+}

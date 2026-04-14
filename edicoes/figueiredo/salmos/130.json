@@ -1,0 +1,14 @@
+{
+  "num": 130,
+  "sumario": "Salmo deprecatório. Davi põe a Deus por testemunha de que o seu coração estava livre da ambição que lhe imputavam.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual de Davi. Senhor, o meu coração não se ensoberbeceu: Nem os meus olhos se elevaram. Não andei em grandezas, nem em magnificências sôbre a minha sorte.", "nota": "fn130_1" },
+    { "n": 2, "texto": "Se eu não tinha sentimentos humildes: E pelo contrário elevei o meu coração: Como o menino apartado já do peito da mãe está em seus braços, assim seja o galardão na minha alma.", "nota": "fn130_2" },
+    { "n": 3, "texto": "Espere Israel no Senhor desde agora e para sempre.", "nota": "fn130_3" }
+  ],
+  "notas": {
+    "fn130_1": { "rotulo": "Cântico gradual", "texto": "Parece que Davi compôs êste salmo para justificar o seu procedimento dos cargos que lhe faziam os cortesãos de Saul, atribuindo o seu desígnio a intenções ambiciosas sôbre o reino. Tem três estrofes." },
+    "fn130_2": { "rotulo": "Se eu não tinha sentimentos / Como o menino", "texto": "SE EU NÃO TINHA SENTIMENTOS — A expressão do hebreu é como uma fórmula de juramento assertório, que afirma com mais certeza. Na verdade sentia eu humildemente. — P. Scio. — COMO O MENINO — Quer dizer: a minha alma se veja reduzida à aflição e pena que sente um menino quando o apartam do peito de sua mãe. — Pereira." },
+    "fn130_3": { "rotulo": "Espere Israel", "texto": "Siga Israel o meu exemplo, e espere, que se obedecer humilde à voz do Senhor, nunca se apartará dêle a sua proteção. Até que cheguemos à eternidade, esperemos no nosso Deus. — Santo Agostinho." }
+  }
+}

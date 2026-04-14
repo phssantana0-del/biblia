@@ -1,0 +1,47 @@
+{
+  "num": 143,
+  "sumario": "Salmo gratulatório. Davi dá graças ao Senhor pelas vitórias passadas, as quais lhe dão alento para conseguir outras maiores. Salmo de Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Contra Golias.<br>Bendito seja o Senhor Deus meu, que adestra as minhas mãos para a batalha, e os meus dedos para a guerra.", "nota": "fn143_1" },
+    { "n": 2, "texto": "Êle para mim é misericórdia, e o meu refúgio: Amparador meu, libertador meu:<br>Protetor meu, e nêle esperei: Êle o que submete o meu povo à minha autoridade." },
+    { "n": 3, "texto": "Senhor, que é o homem, pois tu a êle te manifestaste? ou o filho do homem para tu assim o estimares?", "nota": "fn143_3" },
+    { "n": 4, "texto": "O homem se tem feito semelhante à vaidade: Os meus dias passam como sombra." },
+    { "n": 5, "texto": "Senhor, inclina os teus céus, e desce: Toca os montes, e fumegarão." },
+    { "n": 6, "texto": "Vibra os teus coriscos, e dissipá-los-ás: Despede as tuas setas, e conturba-los-ás:" },
+    { "n": 7, "texto": "Envia a tua mão lá do alto, tira-me, e livra-me das muitas águas: Da mão dos filhos estranhos.", "nota": "fn143_7" },
+    { "n": 8, "texto": "Cuja bôca falou vaidade, e a sua direita é direita de iniquidade.", "nota": "fn143_8" },
+    { "n": 9, "texto": "Ó Deus, eu te cantarei uma nova canção: Com o saltério de dez cordas te louvarei." },
+    { "n": 10, "texto": "Tu que dás saúde aos reis: Que redimiste a Davi teu servo da espada maligna,", "nota": "fn143_10" },
+    { "n": 11, "texto": "livra-me,<br>e tira-me da mão dos filhos estranhos, cuja bôca falou vaidade e a direita dêles é direita de iniquidade:" },
+    { "n": 12, "texto": "Cujos filhos são como plantas novas na sua mocidade.<br>As suas filhas andam compostas: Adornadas tôdas como simulacro de Templo.", "nota": "fn143_12" },
+    { "n": 13, "texto": "Atulhadas estão as suas dispensas, arrevesando de umas para outras.<br>As suas ovelhas são fecundas, abundantes nas suas saídas:" },
+    { "n": 14, "texto": "As suas vacas são gordas.<br>Não há ruína de muro, nem passagem na sua cêrca: Nem estrondo nas suas praças." },
+    { "n": 15, "texto": "Bem-aventurado chamaram ao povo, que tem estas coisas: Bem-aventurado o povo, que tem ao Senhor por seu Deus." }
+  ],
+  "notas": {
+    "fn143_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "SALMO DE DAVI — Todos os salmos que se seguem são de ação de graças. Ainda que a palavra contra Golias não está no hebreu, acha-se contudo no grego de que usamos, e estéve nas Hexaplas. Parece que o compôs Davi depois de haver conseguido alguma vitória contra os filisteus. O principal intento se refere ao reino do Messias e às vitórias de Jesus Cristo contra o príncipe das trevas, como o explicam os Padres. Tem cinco estrofes."
+    },
+    "fn143_3": {
+      "rotulo": "Senhor, que é o homem",
+      "texto": "SENHOR, QUE É O HOMEM — Conservando-o e tratando com êle, e revelando-lhe os teus mistérios por meio dos teus Anjos e Profetas! Mas principalmente se manifestou Deus ao homem, innotuit homini; encarnando e fazendo-se homem como êle; e aqui é onde Deus fêz conhecer mais a consideração que tinha do homem e a estima e amor com que o atendia, porquanto aquela é uma obra da sua extremada caridade. Ef 2, 4. — P. Seio."
+    },
+    "fn143_7": {
+      "rotulo": "Das muitas águas",
+      "texto": "DAS MUITAS ÁGUAS — Do terrível perigo que ameaça ao teu povo. — Pereira. DA MÃO DOS FILHOS ESTRANHOS — Dêstes estrangeiros, dêstes idólatras, o que se pode entender dos filisteus. — Pereira."
+    },
+    "fn143_8": {
+      "rotulo": "Cuja bôca falou",
+      "texto": "CUJA BÔCA FALOU — Vangloriando-se do poder de seus ídolos, que são vaidade e mentira, e blasonando das suas próprias fôrças como Golias, insultando o povo de Deus. — Bossuet."
+    },
+    "fn143_10": {
+      "rotulo": "Da espada",
+      "texto": "DA ESPADA — Da espada do ímpio e idólatra, isto é, de Golias e dos filisteus. — P. Seio."
+    },
+    "fn143_12": {
+      "rotulo": "Cujos filhos",
+      "texto": "CUJOS FILHOS — No hebreu se lê tudo o que se segue na primeira pessoa do plural; \"nossos filhos, nossas filhas, nossas ovelhas, nossas vacas... nossas ruas e praças...\" E por isso alguns entendem que isto pertence ao povo dos justos, ou dos hebreus; porém pela Vulgata e pelos Setenta se vê claramente que se deve aplicar aos dos idólatras, ou ímpios: Jó 21, 24. E ainda o texto hebreu se pode reduzir ao mesmo sentido, pondo estas palavras na bôca dos mesmos que se vangloriavam e jactavam de possuir êstes bens. Eripe me de manu filiorum alienorum, quorum os locutum est vanitatem: filii nostri, cellaria nostra. — P. Seio."
+    }
+  }
+}

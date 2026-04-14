@@ -1,0 +1,15 @@
+{
+  "num": 133,
+  "sumario": "Salmo didático. Exortação aos ministros do Senhor para que o louvem continuamente.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual.<br>Eis-aqui bendizei agora ao Senhor, todos os servos do Senhor:<br>Os que persistis na casa do Senhor, nos átrios da casa do nosso Deus.", "nota": "fn133_1" },
+    { "n": 2, "texto": "Nas noites levantai as vossas mãos para o santuário, e bendizei ao Senhor." },
+    { "n": 3, "texto": "Abençoe-te desde Sião o Senhor, que fêz o céu e a terra." }
+  ],
+  "notas": {
+    "fn133_1": {
+      "rotulo": "Cântico gradual",
+      "texto": "É o último dos salmos graduais. Compõe-se apenas de duas estrofes. Na primeira convida os fiéis a que louvem ao Senhor; a segunda é a resposta a êsse convite."
+    }
+  }
+}

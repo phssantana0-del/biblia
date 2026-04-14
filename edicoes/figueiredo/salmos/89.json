@@ -1,0 +1,37 @@
+{
+  "num": 89,
+  "sumario": "Salmo didático. O profeta representa ao Senhor a fraqueza do homem, e a vaidade da sua vida; e implora a divina misericórdia sobre o seu povo.",
+  "versiculos": [
+    { "n": 1, "texto": "Oração de Moisés homem de Deus.<br>Senhor, tu tens sido o nosso refúgio: De geração em geração.", "nota": "fn89_1" },
+    { "n": 2, "texto": "Antes que os montes fôssem feitos, ou formada a terra, e a sua redondeza: Desde a eternidade tu és Deus." },
+    { "n": 3, "texto": "Não reduzas o homem ao abatimento; pois disseste: Convertei-vos, filhos dos homens." },
+    { "n": 4, "texto": "Porque mil anos aos teus olhos, são como o dia de ontem, que passou.<br>E como vigia na noite," },
+    { "n": 5, "texto": "coisas que em nada se estimam, assim serão os anos dêles." },
+    { "n": 6, "texto": "De manhã passa como a erva, pela manhã floresce, e passa; à tarde cai, endurece, e se seca." },
+    { "n": 7, "texto": "Porque desfalecemos com a tua ira, e com o teu furor somos turbados." },
+    { "n": 8, "texto": "Puseste as nossas maldades à tua vista: O nosso século ao resplendor do teu rosto." },
+    { "n": 9, "texto": "Porque todos os nossos dias faltaram: E temos sido consumidos pela tua ira:<br>Os nossos anos como aranha serão considerados:", "nota": "fn89_9" },
+    { "n": 10, "texto": "Os dias da nossa vida são em si setenta anos.<br>E nos mais robustos oitenta anos: E o que passa destes não é mais que trabalho e dor.<br>Porque sobreveio mansidão: E seremos arrebatados.", "nota": "fn89_10" },
+    { "n": 11, "texto": "Quem conheceu o poder da tua ira: E soube contar quão terrível é a tua sanha?" },
+    { "n": 12, "texto": "Faze que seja assim conhecida a tua destra: E que o nosso coração seja instruído em sabedoria." },
+    { "n": 13, "texto": "Volta-te para nós, Senhor, até quando? e sê inexorável aos teus servos." },
+    { "n": 14, "texto": "Temos sido cheios da tua misericórdia desde a manhã: E nos temos regozijado, e deleitado em todos os nossos dias." },
+    { "n": 15, "texto": "Alegramo-nos pelos dias que nos humilhaste: Pelos anos em que vimos males." },
+    { "n": 16, "texto": "Põe os olhos nos teus servos, e nas tuas obras: E encaminha os filhos dêles." },
+    { "n": 17, "texto": "E seja o esplendor do Senhor nosso Deus sôbre nós, e encaminha as obras de nossas mãos sôbre nós: E encaminha a obra de nossas mãos." }
+  ],
+  "notas": {
+    "fn89_1": {
+      "rotulo": "Oração de Moisés",
+      "texto": "Êste salmo parece ser o mais antigo da coleção, talvez cantado pelo povo de Israel após o Êxodo e conservado na memória das gerações que sucederam. Alguns comentadores atribuíram êste salmo a um dos descendentes de Moisés, mas a opinião geralmente seguida dá-lhe como autor o próprio Moisés. A análise do texto, o estilo antigo, os arcaísmos frequentes, a sua semelhança com a linguagem do Pentateuco, tudo levou os mais abalisados hebraizantes a considerá-lo como tendo por autor o legislador do povo de Deus. Permanecendo por tantos tempos na tradição oral necessàriamente devia alterar-se o texto primitivo. Foi composto depois do Senhor ter condenado os israelitas pelas suas contínuas revoltas, anunciando-lhes que todos aquêles que tivessem atingido os 20 anos, no momento da saída do Egito, pereceriam no deserto. Tem três estrofes. Primeira (1-6). Contraste entre a brevidade da vida do homem e a eternidade de Deus. Segunda (7-11). São os pecados do homem que abreviam os seus dias atraindo o castigo de Deus. Terceira (12-17). Oração a Deus rogando-lhe que tenha piedade dos seus servos."
+    },
+    "fn89_9": {
+      "rotulo": "Como aranha",
+      "texto": "COMO ARANHA — A aranha passa a sua existência a tecer uma teia tenuíssima e tão frágil, que o menor movimento a destrói; assim é também a nossa vida."
+    },
+    "fn89_10": {
+      "rotulo": "E seremos arrebatados",
+      "texto": "E SEREMOS ARREBATADOS — Outros mais conformes com os Setenta vertem: \"seremos admoestados\" com males temporais, que nos farão abrir os olhos para que nos livremos das penas eternas. — P. Seio."
+    }
+  }
+}

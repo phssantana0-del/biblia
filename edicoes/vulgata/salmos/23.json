@@ -1,0 +1,18 @@
+{
+  "num": 23,
+  "sumario": "Domini est terra; rex gloriæ ingrediens per portas æternas",
+  "versiculos": [
+    { "n": 1, "texto": "Prima sabbati. Psalmus David. Domini est terra, et plenitudo ejus ; orbis terrarum, et universi qui habitant in eo." },
+    { "n": 2, "texto": "Quia ipse super maria fundavit eum, et super flumina præparavit eum." },
+    { "n": 3, "texto": "Quis ascendet in montem Domini? aut quis stabit in loco sancto ejus?" },
+    { "n": 4, "texto": "Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec juravit in dolo proximo suo." },
+    { "n": 5, "texto": "Hic accipiet benedictionem a Domino, et misericordiam a Deo salutari suo." },
+    { "n": 6, "texto": "Hæc est generatio quærentium eum, quærentium faciem Dei Jacob." },
+    { "n": 7, "texto": "Attollite portas, principes, vestras, et elevamini, portæ æternales, et introibit rex gloriæ." },
+    { "n": 8, "texto": "Quis est iste rex gloriæ? Dominus fortis et potens, Dominus potens in prælio." },
+    { "n": 9, "texto": "Attollite portas, principes, vestras, et elevamini, portæ æternales, et introibit rex gloriæ." },
+    { "n": 10, "texto": "Quis est iste rex gloriæ? Dominus virtutum ipse est rex gloriæ." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

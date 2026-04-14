@@ -1,0 +1,43 @@
+{
+  "num": 47,
+  "sumario": "Salmo gratulatório. O profeta exalta o poder e misericórdia do Senhor, que resplandece na defensa, e conservação milagrosa da sua Igreja, à qual enchem de glória os esforços inúteis dos seus mesmos inimigos. São convidados todos os povos para que venham a contemplar a sua fortaleza, e magnificência espiritual.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo. Cântico dos filhos de Coré no segundo dia da semana.", "nota": "fn47_1" },
+    { "n": 2, "texto": "Grande é o Senhor, e muito digno de louvor na cidade de nosso Deus, no seu monte santo." },
+    { "n": 3, "texto": "Fundado é com júbilo de tôda a terra o monte de Sião, os lados do Aquilão, cidade do rei grande.", "nota": "fn47_3" },
+    { "n": 4, "texto": "Conhecido será Deus nas casas dela, quando houver de as proteger." },
+    { "n": 5, "texto": "Porque eis-aqui os reis da terra se congregaram: Se conjuraram unânimemente contra ela." },
+    { "n": 6, "texto": "Êles quando a viram se admiraram, se conturbaram, foram comovidos:" },
+    { "n": 7, "texto": "Tremor se apoderou dêles. Ali sentiram dores como mulher que está de parto," },
+    { "n": 8, "texto": "com vento impetuoso quebrarás as naus de Tarsis.", "nota": "fn47_8" },
+    { "n": 9, "texto": "Como o ouvimos, assim o vimos na cidade do Senhor das virtudes, na cidade do nosso Deus: Deus a fundou para sempre." },
+    { "n": 10, "texto": "Recebemos, ó Deus, a tua misericórdia: No meio do teu templo." },
+    { "n": 11, "texto": "Segundo o teu nome, ó Deus, assim também o teu louvor se estende até aos fins da terra: De justiça está cheia a tua destra." },
+    { "n": 12, "texto": "Alegre-se o monte de Sião, e regozijem-se as filhas de Judá, pelos teus juízos, Senhor.", "nota": "fn47_12" },
+    { "n": 13, "texto": "Dai voltas a Sião, e considerai-a ao redor: Contai as torres dela.", "nota": "fn47_13" },
+    { "n": 14, "texto": "Aplicai-vos a considerar a fôrça dela: E fazei resenha das suas casas, para que o conteis em outra geração." },
+    { "n": 15, "texto": "Porque êste é Deus, Deus nosso para sempre, e pelo século do século: Êle nos governará pelos séculos." }
+  ],
+  "notas": {
+    "fn47_1": {
+      "rotulo": "No segundo dia da semana",
+      "texto": "Estas palavras foram adicionadas pela Vulgata. Foi composto na libertação de Jerusalém depois da libertação de Facéias, rei de Israel, e Razin, rei da Síria. 4 Rs 16, 5. Tem cinco estrofes irregulares. Primeira (2-3) Glorifica o Senhor pela beleza da cidade santa. Segunda (4-8) Descreve ràpidamente o exército disperso, como uma nau despedaçada pela tempestade. Terceira (9) Compara os acontecimentos de então aos antigos milagres. Quarta (10-12) É uma ação de graças. Quinta (13-15) Descreve a fôrça de Jerusalém pela bondade de Deus."
+    },
+    "fn47_3": {
+      "rotulo": "Fundado é com júbilo",
+      "texto": "Também isto pode convir ao restabelecimento do Templo no meio dos gritos de alegria, e júbilo de todo o povo. 1 Esdr 3, 2. O hebreu tem: \"de formosa situação, gôzo de tôda a terra é o monte de Sião: os lados do Aquilão, a cidade do grande rei\". A situação formosa não tanto convinha a Jerusalém pelas bênçãos temporais, pelas quais foi chamada a rainha do Oriente, quanto pelas espirituais da presença de Deus, do estabelecimento do seu culto, e a promessa de que nela havia de cumprir o Messias a obra de redenção, que havia de encher de inefável gôzo a tôda a terra. \"Os lados do Aquilão\": assim era chamada a parte setentrional da cidade de Jerusalém, onde estava o monte Moriá, e sôbre êle fabricado o Templo em frente do monte Sião, que estava para a parte do meio-dia. \"A cidade do rei grande\", que Deus tem escolhido para a fazer como côrte sua; aonde acudiu todo o seu povo a receber as suas ordens, e a oferecer-lhe sacrifícios e homenagens. — Calmet."
+    },
+    "fn47_8": {
+      "rotulo": "Quebrarás as naus",
+      "texto": "Dissiparás todos os grandes aparatos, e armamentos dos homens contra a tua cidade. Naves Tharsis, eram aquelas naus grandes com que os de Tarso, e os fenícios costumavam fazer largas viagens por mar; e os hebreus aplicaram depois êste nome a todos os navios, ainda que fôssem de outra nação, que tinham o mesmo uso. Outros o dizem das naus do Mediterrâneo: e outros em geral do mar. Veja-se 3 Rs 10, 22. — P. Seio."
+    },
+    "fn47_12": {
+      "rotulo": "As filhas de Judá",
+      "texto": "As cidades da tribo de Judá, chamadas filhas em atenção a Jerusalém que era a metrópole."
+    },
+    "fn47_13": {
+      "rotulo": "Dai voltas a Sião",
+      "texto": "O hebreu tem: \"Rodeai a Sião, e cercai-a: contai as suas tôrres.\" É uma representação poética, na qual o mundo é convidado a considerar a fôrça inexpugnável, e a magnificência da Igreja por virtude da presença de Deus: ao modo que aos forasteiros se mostram as singularidades e fortalezas de uma cidade, para que levem ao longe a notícia das suas excelências."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "num": 85,
+  "sumario": "Oratio ipsi David.",
+  "versiculos": [
+    { "n": 1,  "texto": "Oratio ipsi David." },
+    { "n": 2,  "texto": "Inclina, Domine, aurem tuam, et exaudi me, quoniam inops et pauper sum ego." },
+    { "n": 3,  "texto": "Custodi animam meam, quoniam sanctus sum; salvum fac servum tuum, Deus meus, sperantem in te." },
+    { "n": 4,  "texto": "Miserere mei, Domine, quoniam ad te clamavi tota die;" },
+    { "n": 5,  "texto": "lætifica animam servi tui, quoniam ad te, Domine, animam meam levavi." },
+    { "n": 6,  "texto": "Quoniam tu, Domine, suavis et mitis, et multæ misericordiæ omnibus invocantibus te." },
+    { "n": 7,  "texto": "Auribus percipe, Domine, orationem meam, et intende voci deprecationis meæ." },
+    { "n": 8,  "texto": "In die tribulationis meæ clamavi ad te, quia exaudisti me." },
+    { "n": 9,  "texto": "Non est similis tui in diis, Domine, et non est secundum opera tua." },
+    { "n": 10, "texto": "Omnes gentes quascumque fecisti venient, et adorabunt coram te, Domine, et glorificabunt nomen tuum:" },
+    { "n": 11, "texto": "quoniam magnus es tu, et faciens mirabilia; tu es Deus solus." },
+    { "n": 12, "texto": "Deduc me, Domine, in via tua, et ingrediar in veritate tua; lætetur cor meum, ut timeat nomen tuum." },
+    { "n": 13, "texto": "Confitebor tibi, Domine Deus meus, in toto corde meo, et glorificabo nomen tuum in æternum:" },
+    { "n": 14, "texto": "quia misericordia tua magna est super me, et eruisti animam meam ex inferno inferiori." },
+    { "n": 15, "texto": "Deus, iniqui insurrexerunt super me, et synagoga potentium quæsierunt animam meam; et non proposuerunt te in conspectu suo." },
+    { "n": 16, "texto": "Et tu, Domine Deus, miserator et misericors, patiens, et multæ misericordiæ, et verax." },
+    { "n": 17, "texto": "Respice in me, et miserere mei; da imperium tuum puero tuo, et salvum fac filium ancillæ tuæ." },
+    { "n": 18, "texto": "Fac mecum signum in bonum, ut videant qui oderunt me, et confundantur: quoniam tu, Domine, adjuvisti me, et consolatus es me." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

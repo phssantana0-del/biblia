@@ -1,0 +1,50 @@
+{
+  "num": 131,
+  "sumario": "Salmo em honra de Jerusalém. Roga o povo a Deus pela restauração do seu reino conforme a promessa feita a Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual.<br>Lembra-te, Senhor, de Davi, e de tôda a sua mansidão:", "nota": "fn131_1" },
+    { "n": 2, "texto": "Assim como jurou ao Senhor, fêz promessa ao Deus de Jacó:" },
+    { "n": 3, "texto": "Se eu entrar na tenda de minha casa, se subir ao leito do meu estrado:" },
+    { "n": 4, "texto": "Se der sono aos meus olhos, e às minhas pestanas adormecimento:" },
+    { "n": 5, "texto": "E repouso às minhas fontes da cabeça: Até que ache um lugar para o Senhor, um Tabernáculo para o Deus de Jacó." },
+    { "n": 6, "texto": "Eis-aqui temos ouvido que êle estava em Efrata: E o achamos nos campos da floresta.", "nota": "fn131_6" },
+    { "n": 7, "texto": "Entraremos no seu tabernáculo: Nós o adoraremos no lugar onde estiveram os seus pés." },
+    { "n": 8, "texto": "Levanta-te, Senhor, entra no teu repouso, tu e a arca da tua santificação." },
+    { "n": 9, "texto": "Vistam-se os teus sacerdotes de justiça: E regozijem-se os teus santos." },
+    { "n": 10, "texto": "Por amor de Davi teu servo, não desprezes o rosto do teu Cristo.", "nota": "fn131_10" },
+    { "n": 11, "texto": "Jurou o Senhor verdade a Davi, e não deixará de cumpri-la: Do fruto do teu ventre porei sôbre o teu trono.", "nota": "fn131_11" },
+    { "n": 12, "texto": "Se guardarem teus filhos o meu pacto, e êstes meus testemunhos, que eu lhes ensinarei:<br>E os filhos dêles os guardarem também para sempre, também êles se sentarão sôbre o teu trono." },
+    { "n": 13, "texto": "Porque tem escolhido o Senhor a Sião: Têm-na escolhido por morada para si." },
+    { "n": 14, "texto": "Éste é o meu repouso para sempre: Aqui habitarei porque o escolhi:" },
+    { "n": 15, "texto": "Abençoarei copiosamente a sua viúva: Fartarei de pães os seus pobres.", "nota": "fn131_15" },
+    { "n": 16, "texto": "Vestirei os seus sacerdotes de salvação: E os seus santos saltarão de prazer." },
+    { "n": 17, "texto": "Ali dilatarei o poder de Davi: Preparada tenho uma lâmpada para o meu Cristo." },
+    { "n": 18, "texto": "Cobrirei de confusão aos seus inimigos: Mas sôbre êle florescerá a minha santificação.", "nota": "fn131_18" }
+  ],
+  "notas": {
+    "fn131_1": {
+      "rotulo": "Cântico gradual",
+      "texto": "Muitos atribuem êste salmo a Davi, e outros com S. João Crisóstomo o atribuem a Salomão, e é a opinião mais seguida, quando trasladou a arca do Testamento para o novo Templo, que edificara. 2 Sl 6, 41, pois nêle louva a Davi, por ter preparado tudo o que era necessário para a fundação do Templo, e pede a Deus que confirme as promessas, que lhe fizera. Parece que os judeus o repetiram na Dedicação do segundo Templo. Contudo Calmet reduz ao tempo do cativeiro a sua primeira composição, em conformidade do seu sistema. Tem quatro estrofes."
+    },
+    "fn131_6": {
+      "rotulo": "Efrata / Campo da floresta",
+      "texto": "EFRATA — Designa provàvelmente a tribo de Efraim, onde estava Cilo, cidade que possuiu a arca e o tabernáculo. Ora é certo que a arca permaneceu nesta tribo desde Josué até Samuel, e que daí foi transportada a Cariatiarim, onde estêve até ao início do reinado de Davi. Sl 67, 60-67. CAMPO DA FLORESTA — É o que significa Cariatiarim, cidade dos bosques. A letra que está no texto original traduzir-se-ia assim: \"Ouvimos dizer que ela (a arca) estava em Efrates. E nós a achamos nos campos de Yahar.\" Yahar significa floresta, e foi traduzida por silva na Vulgata; era um lugar perto de Cariatiarim, cidade de pedra, na estrada de Jerusalém. Jafa, nas montanhas. Cfr. Poels, Le Sanctuaire de Kiriath Jearim."
+    },
+    "fn131_10": {
+      "rotulo": "Por amor",
+      "texto": "Estas palavras se devem interpretar conforme o sentido das daquele lugar do 2 Par 6, 42, onde se diz: Domine Deus no averteris faciem Christi tui: memento misericordiarum David servi tui: Senhor, lembra-te da misericórdia que usaste com Davi teu servo; usa-a também comigo, e não me desampares, pois sou teu ungido, o que tu mesmo destinaste para que lhe sucedesse no império. Os Padres comumente aplicam a Cristo estas palavras, pelas quais se pede que o Senhor acelere a sua vinda por amor de Davi a quem foi prometido. — S. João Crisóstomo."
+    },
+    "fn131_11": {
+      "rotulo": "Do fruto",
+      "texto": "Fala-se nesta promessa de um filho, ou descendente de Davi, segundo a carne, e dêle se diz que o seu reino subsistirá eternamente, como no Sl 88, 38. — Pereira."
+    },
+    "fn131_15": {
+      "rotulo": "Abençoarei copiosamente",
+      "texto": "O hebreu de S. Jerônimo, e com êle os Setenta: Eu abençoarei a sua caça, significando por caça o mantimento. O que deu lugar à lição da Vulgata, é a diferença de uma só letra na versão dos Setenta. Êles traziam Tora, que quer dizer a caça ou a prêsa: os copistas substituíram-lhe Chera, que quer dizer a viúva. — Pereira."
+    },
+    "fn131_18": {
+      "rotulo": "Florescerá a minha santificação",
+      "texto": "Ou consagração, ou unção, ou a coroa que eu lhe dei, como se lê no hebreu, e S. Jerônimo traslada: seu Diadema. O que pertence pròpriamente a Cristo, a quem se deu todo o poder no Céu, e na terra. — P. Seio."
+    }
+  }
+}

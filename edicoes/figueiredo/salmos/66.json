@@ -1,0 +1,28 @@
+{
+  "num": 66,
+  "sumario": "Salmo deprecatório. Pede a Deus que derrame sôbre êle as suas abundantes bênçãos, e que as estenda também a todos os povos da terra. Ao regente do côro.",
+  "versiculos": [
+    { "n": 1, "texto": "Com acompanhamento de instrumentos de corda. Salmo e cântico de Davi.", "nota": "fn66_1" },
+    { "n": 2, "texto": "Deus tenha piedade de nós, e nos abençoe: Faça resplandecer seu rosto sôbre nós, e tenha piedade de nós." },
+    { "n": 3, "texto": "Para que conheçamos na terra o teu caminho: Em tôdas as gentes a tua salvação.", "nota": "fn66_3" },
+    { "n": 4, "texto": "Glorifiquem-te a ti, ó Deus, os povos: Glorifiquem-te os povos todos." },
+    { "n": 5, "texto": "Alegrem-se e regozijem-se as gentes: Porquanto julgas os povos em equidade, e governas as gentes sôbre a terra." },
+    { "n": 6, "texto": "Glorifiquem-te a ti, ó Deus, os povos: Glorifiquem-te os povos todos:" },
+    { "n": 7, "texto": "A terra deu o fruto.<br>Abençoe-nos Deus, o nosso Deus,", "nota": "fn66_7" },
+    { "n": 8, "texto": "abençoe-nos Deus: E temam-no todos os limites da terra." }
+  ],
+  "notas": {
+    "fn66_1": {
+      "rotulo": "De Davi",
+      "texto": "DE DAVI — Estas palavras são aumentadas pela Vulgata. Tem quatro estrofes: Primeira (2). Que Deus me abençoe. Segunda (3-4). Que tôda a terra conheça os caminhos do Senhor. Terceira (5-6). Que todos os povos se regozijem porque êle é justo. Quarta (7-8). A terra deu o seu fruto, que Deus seja bendito."
+    },
+    "fn66_3": {
+      "rotulo": "Para que conheçamos",
+      "texto": "PARA QUE CONHEÇAMOS — \"Para que conheçamos na terra o teu Messias, que é o caminho por onde podemos chegar a ti. Jo 14, 6, conheçamos aquêle Salvador, que pela tua misericórdia nos enviarás para benefício e redenção de tôdas as nações.\" — P. Seio."
+    },
+    "fn66_7": {
+      "rotulo": "Deus, o nosso Deus",
+      "texto": "DEUS, O NOSSO DEUS — A repetição do nome de Deus por três vêzes com um só verbo, no singular, significa no sentir dos Santos Padres, e Expositores, o Augusto Mistério da Trindade. — Calmet."
+    }
+  }
+}

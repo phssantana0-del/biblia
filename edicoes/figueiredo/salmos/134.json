@@ -1,0 +1,41 @@
+{
+  "num": 134,
+  "sumario": "Salmo gratulatório. Dão-se graças a Deus por haver escolhido a Israel por seu povo: e se demonstra a superstição e falsidade dos ídolos.",
+  "versiculos": [
+    { "n": 1, "texto": "Aleluia.<br>Louvai o nome do Senhor, louvai, servos, ao Senhor.", "nota": "fn134_1" },
+    { "n": 2, "texto": "Vós que persistis na casa do Senhor, nos átrios da casa do nosso Deus." },
+    { "n": 3, "texto": "Louvai ao Senhor, porque o Senhor é bom: Cantai salmos ao seu nome, porque é suave." },
+    { "n": 4, "texto": "Porquanto o Senhor escolheu para si a Jacó: A Israel em possessão para si." },
+    { "n": 5, "texto": "Porque eu conheci que o Senhor é grande, e que o nosso Deus é sôbre todos os deuses." },
+    { "n": 6, "texto": "Quantas coisas quis, tôdas fêz o Senhor no céu, na terra, no mar, e em todos os abismos." },
+    { "n": 7, "texto": "Êle que faz subir as nuvens das extremidades da terra: Fêz os relâmpagos para a chuva.<br>Êle o que produz os ventos dos seus tesouros:" },
+    { "n": 8, "texto": "O que feriu aos primogénitos do Egito desde o homem até ao animal." },
+    { "n": 9, "texto": "E enviou sinais, e prodígios no meio de ti, ó Egito: Contra Faraó, e contra todos os seus servos." },
+    { "n": 10, "texto": "O que feriu a muitas gentes: E matou a reis fortes:" },
+    { "n": 11, "texto": "A Seon rei dos amorreus, e a Og rei de Basan, e a todos os reinos de Canaã." },
+    { "n": 12, "texto": "E deu a terra dêles em herança, por herança a Israel seu povo." },
+    { "n": 13, "texto": "Senhor, o teu nome subsistirá eternamente: Senhor, a memória da tua glória conservar-se-á em tôdas as gerações." },
+    { "n": 14, "texto": "Porque o Senhor julgará ao seu povo: E se deixará vencer dos rogos dos seus servos.", "nota": "fn134_14" },
+    { "n": 15, "texto": "Os simulacros das gentes não são mais que prata, e ouro, obras das mãos de homens." },
+    { "n": 16, "texto": "Bôca têm, e não falarão: Olhos têm e não verão." },
+    { "n": 17, "texto": "Ouvidos têm, e não ouvirão: Porque não há respiro na sua bôca." },
+    { "n": 18, "texto": "Sejam semelhantes a êles os que os fazem: E todos os que confiam nêles." },
+    { "n": 19, "texto": "Casa de Israel, bendizei ao Senhor: Casa de Aarão, bendizei ao Senhor." },
+    { "n": 20, "texto": "Casa de Levi, bendizei ao Senhor: Vós os que temeis ao Senhor, bendizei ao Senhor." },
+    { "n": 21, "texto": "Desde Sião se bendiga ao Senhor, que habita em Jerusalém.", "nota": "fn134_21" }
+  ],
+  "notas": {
+    "fn134_1": {
+      "rotulo": "Aleluia",
+      "texto": "Tem êste salmo seis estrofes. Primeira (1-4). Exortação a louvar a Deus. Segunda (5-7). Porque é o Senhor da natureza. Terceira (8-12). Que livrou o seu povo da escravidão do Egito e lhe deu a terra de Canaã. Quarta (13-14). É cheio de glória e salva o seu povo. Quinta (15-18). Enquanto que os deuses dos pagãos nada são. Sexta (19-21). Que todo o Israel louve o Eterno."
+    },
+    "fn134_14": {
+      "rotulo": "E se deixará vencer",
+      "texto": "O hebreu diz: se arrependera, converterá os efeitos de severidade nos de benignidade, clemência e misericórdia: modo de falar ao humano, que é mui frequente na Escritura. O deprecabitur da Vulgata se toma em sentido passivo, e é o mesmo que exorabitur: e assim o traslada S. Jerônimo: se fará aplacável com os seus servos. — P. Seio."
+    },
+    "fn134_21": {
+      "rotulo": "Que habita",
+      "texto": "Em Sião estava o tabernáculo e a Arca da aliança, de onde se manifestava o Senhor ao seu povo, e protegia com especialíssimos prodígios e privilégios a Jerusalém, como se nela estivera o trono da sua misericórdia. No hebreu se acrescenta no fim: Halelu iah, que na Vulgata vem no princípio do seguinte salmo. — Pereira."
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "num": 82,
+  "sumario": "Salmo deprecatório. Pede o profeta neste salmo que os inimigos do povo de Deus conjurados em grande número contra êle sejam dissipados pelo Senhor, assim como a palha pelo vento.",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico de salmo de Asaf.", "nota": "fn82_1" },
+    { "n": 2, "texto": "Ó Deus, quem será semelhante a ti? não estejas em silêncio, nem te detenhas, ó Deus.", "nota": "fn82_2" },
+    { "n": 3, "texto": "Pois vês que os teus inimigos têm feito ruído: E os que te aborrecem, levantaram a cabeça:" },
+    { "n": 4, "texto": "Sôbre o teu povo tiveram desígnios maliciosos: E maquinaram contra os teus santos.", "nota": "fn82_4" },
+    { "n": 5, "texto": "Disseram: Vinde, e arruinemos aos desta nação e não haja mais memória do nome de Israel." },
+    { "n": 6, "texto": "Porque maquinaram unânimes: Todos juntos formaram liga contra ti," },
+    { "n": 7, "texto": "as tendas dos idumeus, e os ismaelitas:<br>Moab, e os Agarenos," },
+    { "n": 8, "texto": "Gebal, e Amon, e Amalec: Os estrangeiros com os moradores de Tiro.", "nota": "fn82_8" },
+    { "n": 9, "texto": "Até veio Assur com êles: Ajuntaram-se para auxiliarem aos filhos de Ló.", "nota": "fn82_9" },
+    { "n": 10, "texto": "Faz-lhes a êles como aos filhos de Madian, e a Sisara: Como a Jabin no ribeiro de Cisson.", "nota": "fn82_10" },
+    { "n": 11, "texto": "Acabaram em Endor: Foram feitos como escória da terra." },
+    { "n": 12, "texto": "Trata aos comandantes dêles como a Oréb, e Zeb, e a Zebee, e a Salmana:<br>A todos os comandantes daqueles" },
+    { "n": 13, "texto": "que disseram: Tomemos por herança o Santuário de Deus." },
+    { "n": 14, "texto": "Ó meu Deus, põe-nos tu a êles como uma roda: E como uma palhinha diante da fúria do vento.", "nota": "fn82_14" },
+    { "n": 15, "texto": "Como fogo, que queima uma selva: E como chama que abrasa os montes:" },
+    { "n": 16, "texto": "Assim os perseguirás com a tua tempestade: E com a tua ira os conturbarás." },
+    { "n": 17, "texto": "Enche os seus rostos de ignomínia: E então buscarão o teu nome, Senhor." },
+    { "n": 18, "texto": "Sejam afrontados, e turbados para sempre: E sejam confundidos, e pereçam." },
+    { "n": 19, "texto": "E conheçam que te é próprio o nome de Senhor: Que tu só és o Altíssimo em tôda a terra." }
+  ],
+  "notas": {
+    "fn82_1": {
+      "rotulo": "Cântico de salmo de Asaf",
+      "texto": "Os idumeus, os árabes, os moabitas e os outros povos vizinhos, uniram-se para atacar o reino de Judá. É provàvelmente a liga de que se fala 2. Par 20, 1, do tempo de Josafá, 895 A. C. O salmista pede a Deus que o livre dos inimigos do povo de Deus. Tem nove estrofes. A sequência das idéias é fácil de perceber."
+    },
+    "fn82_2": {
+      "rotulo": "Não estejas em silêncio",
+      "texto": "NÃO ESTEJAS EM SILÊNCIO — Quer dizer, não fiques em repouso, nem deixes de exercer a tua justiça contra os teus inimigos."
+    },
+    "fn82_4": {
+      "rotulo": "Contra os teus santos",
+      "texto": "CONTRA OS TEUS SANTOS — O hebreu diz: \"Sôbre os teus escondidos,\" sôbre o que tu cobres com a tua sombra. Sl 30, 21, Teodoreto interpreta: \"Contra o seu Cristo.\" — P. Seio."
+    },
+    "fn82_8": {
+      "rotulo": "Os estrangeiros / Gebal",
+      "texto": "OS ESTRANGEIROS — São os filisteus. GEBAL — Segundo uns, é uma cidade no pôrto da Fenícia, a que os gregos chamavam Biblos, ao norte do Tiro e do Beirute; mas o que é mais seguido é que Gebal designa o país montanhoso que se estende desde o mar Morto a Petra, capital da Iduméia. Ainda hoje conserva o nome Djebal, palavra que significa montanha. Os seus habitantes unir-se-iam aos amonitas, que habitavam a este do mar Morto; aos amalecitas, tribo nômada da península do Sinai, vizinha da Iduméia."
+    },
+    "fn82_9": {
+      "rotulo": "Filhos de Ló",
+      "texto": "FILHOS DE LÓ — São moabitas e amonitas, que descendiam de Moab, e Amon, filhos de Ló."
+    },
+    "fn82_10": {
+      "rotulo": "Filhos de Madian / Jabin",
+      "texto": "FILHOS DE MADIAN — Aos madianitas, que foram inteiramente derrotados por Gedeão. Jz 7, 21. COMO A JABIN — Sisara, capitão de Jabin, um dos reis de Canaã, foi vencido por Débora e Barac junto do monte Tabor, ao pé do ribeiro de Cisson. Jz 4. — Pereira."
+    },
+    "fn82_14": {
+      "rotulo": "Como uma roda",
+      "texto": "COMO UMA RODA — Sem consistência, numa agitação constante."
+    }
+  }
+}

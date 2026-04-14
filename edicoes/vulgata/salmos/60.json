@@ -1,0 +1,45 @@
+{
+  "num": 60,
+  "sumario": "Preces regis pro vita et regno; fiducia in Deo turri fortitudinis",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "In finem, in Hymnis David."
+    },
+    {
+      "n": 2,
+      "texto": "Exaudi, Deus, deprecationem meam ; intende orationi meæ."
+    },
+    {
+      "n": 3,
+      "texto": "A finibus terræ ad te clamavi, dum anxiaretur cor meum ; in petra exaltasti me."
+    },
+    {
+      "n": 4,
+      "texto": "Deduxisti me, quia factus es spes mea, turris fortitudinis a facie inimici."
+    },
+    {
+      "n": 5,
+      "texto": "Inhabitabo in tabernaculo tuo in sæcula ; protegar in velamento alarum tuarum."
+    },
+    {
+      "n": 6,
+      "texto": "Quoniam tu, Deus meus, exaudisti orationem meam ; dedisti hæreditatem timentibus nomen tuum."
+    },
+    {
+      "n": 7,
+      "texto": "Dies super dies regis adjicies ; annos ejus usque in diem generationis et generationis."
+    },
+    {
+      "n": 8,
+      "texto": "Permanet in æternum in conspectu Dei ; misericordiam et veritatem ejus quis requiret ?"
+    },
+    {
+      "n": 9,
+      "texto": "Sic psalmum dicam nomini tuo in sæculum sæculi, ut reddam vota mea de die in diem."
+    }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

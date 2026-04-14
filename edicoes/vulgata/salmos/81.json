@@ -1,0 +1,17 @@
+{
+  "num": 81,
+  "sumario": "Psalmus Asaph.",
+  "versiculos": [
+    { "n": 1, "texto": "Psalmus Asaph." },
+    { "n": 2, "texto": "Deus stetit in synagoga deorum; in medio autem deos dijudicat." },
+    { "n": 3, "texto": "Usquequo judicatis iniquitatem, et facies peccatorum sumitis?" },
+    { "n": 4, "texto": "Judicate egeno et pupillo; humilem et pauperem justificate." },
+    { "n": 5, "texto": "Eripite pauperem, et egenum de manu peccatoris liberate." },
+    { "n": 6, "texto": "Nescierunt, neque intellexerunt; in tenebris ambulant: movebuntur omnia fundamenta terræ." },
+    { "n": 7, "texto": "Ego dixi: Dii estis, et filii Excelsi omnes." },
+    { "n": 8, "texto": "Vos autem sicut homines moriemini, et sicut unus de principibus cadetis." },
+    { "n": 9, "texto": "Surge, Deus, judica terram, quoniam tu hæreditabis in omnibus gentibus." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

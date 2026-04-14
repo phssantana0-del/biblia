@@ -1,0 +1,75 @@
+{
+  "num": 113,
+  "sumario": "Salmo histórico. Grandeza de Deus na liberdade que deu ao seu povo. Vaidade dos ídolos. O Senhor é protetor dos que o temem. Aleluia.",
+  "versiculos": [
+    { "n": 1, "texto": "Quando Israel saiu do Egito, a casa de Jacó do meio de um povo bárbaro:", "nota": "fn113_1" },
+    { "n": 2, "texto": "Consagrou Deus a Judeia ao seu serviço, e estabeleceu em Israel o seu império.", "nota": "fn113_2" },
+    { "n": 3, "texto": "O mar o viu, e fugiu:<br>E o Jordão recuou para trás.", "nota": "fn113_3" },
+    { "n": 4, "texto": "Os montes saltaram de alegria como carneiros:<br>E as colinas como cordeiros do rebanho." },
+    { "n": 5, "texto": "Que tiveste tu, ó mar, que fugiste:<br>E tu, Jordão, para retrocederes?" },
+    { "n": 6, "texto": "Ó montes, que saltais de prazer como carneiros, e vós colinas como cordeiros de rebanho." },
+    { "n": 7, "texto": "Comoveu-se a terra na presença do Senhor:<br>Perante o Deus de Jacó." },
+    { "n": 8, "texto": "Que converteu as pedras em tanques de águas, e o rochedo em fontes de águas.", "nota": "fn113_8" }
+  ],
+  "bis": {
+    "sumario": "Salmo 113 bis",
+    "versiculos": [
+      { "n": 1, "texto": "Não a nós, Senhor, não a nós:<br>Mas ao teu nome dá a glória.", "nota": "fn113bis_1" },
+      { "n": 2, "texto": "Para fazeres resplandecer a tua misericórdia, e a tua verdade:<br>Para que nunca digam as nações: Onde está o seu Deus?" },
+      { "n": 3, "texto": "Mas o nosso Deus está no céu:<br>Tudo quanto quis, fêz." },
+      { "n": 4, "texto": "Os ídolos das gentes não são senão prata, e ouro, obras de mãos de homens." },
+      { "n": 5, "texto": "Têm bôca, e não falarão:<br>Têm olhos e não verão." },
+      { "n": 6, "texto": "Têm ouvidos, e não ouvirão:<br>Têm narizes, e não cheirarão." },
+      { "n": 7, "texto": "Têm mãos, e não apalparão:<br>Têm pés, e não andarão:<br>Não clamarão com a sua garganta." },
+      { "n": 8, "texto": "Sejam semelhantes a êles os que os fazem:<br>E todos os que confiam nêles.", "nota": "fn113bis_8" },
+      { "n": 9, "texto": "A casa de Israel esperou no Senhor:<br>Êle é seu favorecedor e seu protetor.", "nota": "fn113bis_9" },
+      { "n": 10, "texto": "A casa de Aarão esperou no Senhor:<br>Êle é seu favorecedor e seu protetor." },
+      { "n": 11, "texto": "Os que temem ao Senhor, esperaram no Senhor:<br>Êle é seu favorecedor e seu protetor." },
+      { "n": 12, "texto": "O Senhor se lembrou de nós:<br>E nos abençoou.<br>Abençoou a casa de Israel:<br>Abençoou a casa de Aarão." },
+      { "n": 13, "texto": "Abençoou a todos os que temem ao Senhor, aos pequenos como aos grandes." },
+      { "n": 14, "texto": "Acrescenta o Senhor bênção sôbre vós:<br>Sôbre vós, e sôbre vossos filhos." },
+      { "n": 15, "texto": "Sêde benditos do Senhor, que fêz o céu e a terra." },
+      { "n": 16, "texto": "O mais alto dos céus é para o Senhor:<br>Mas a terra a deu aos filhos dos homens.", "nota": "fn113bis_16" },
+      { "n": 17, "texto": "Os mortos, Senhor, não te louvarão:<br>Nem algum dos que descem ao inferno." },
+      { "n": 18, "texto": "Mas nós que vivemos, bendizemos ao Senhor, desde agora e por todos os séculos." }
+    ]
+  },
+  "notas": {
+    "fn113_0": {
+      "rotulo": "Aleluia",
+      "texto": "Êste salmo resume os milagres que o Senhor operou para libertar o seu povo do jugo de Faraó. Os egípcios são designados por povo bárbaro, no sentido primitivo da palavra, antigo têrmo barbaras, análogo a balbus, o que fala uma língua estrangeira. Tem quatro estrofes, e é, no original, um modêlo de paralelismo sinonímico."
+    },
+    "fn113_1": {
+      "rotulo": "Quando Israel",
+      "texto": "QUANDO ISRAEL — É muito provável que fôsse Davi o autor dêste salmo, e que o compôs com o destino de pôr à vista do povo a grandeza com que o Senhor o tirou do Egito, e introduziu na terra prometida para conhecer por êste meio a eficácia da sua proteção. Os hebreus dividem êste salmo em dois, começando o segundo pelo vers. 9 da Vulgata."
+    },
+    "fn113_2": {
+      "rotulo": "Consagrou Deus a Judeia ao seu serviço",
+      "texto": "CONSAGROU DEUS A JUDÉIA AO SEU SERVIÇO — Em conformidade do que êle tinha prometido ao mesmo povo, estando ainda no deserto, quando lhe disse por Moisés, Êx 19, 5-6: Eritis mihi peculium de cunctis populis . . . et in regnum sacerdotale, et gens sancta. Vós sereis a minha própria e particular herança, e em vós estabelecerei eu o meu reino e o meu sacerdócio. É de advertir que no presente lugar do salmo, onde a Vulgata diz Facta est Judæa sanctificatio ejus, tem S. Jerônimo com o hebreu: Factus est Iudas in sanctificatione ejus. De onde se vê que já no tempo da saída do povo do cativeiro do Egito, era Judas, ou a sua tribo, a que denominava tôda a nação. — Pereira."
+    },
+    "fn113_3": {
+      "rotulo": "O mar o viu",
+      "texto": "O MAR O VIU — Quando apareceu por meio do anjo na coluna de nuvem. Tudo isto são têrmos e imagens poéticas. — Pereira. RECUOU PARA TRÁS — Quando passaram os israelitas. Jos 3, 16. — Pereira."
+    },
+    "fn113_8": {
+      "rotulo": "E o rochedo",
+      "texto": "E O ROCHEDO — O que aconteceu no deserto para dar água ao povo sedento, Êx 15, 25. Núm 20, 8. — Pereira."
+    },
+    "fn113bis_1": {
+      "rotulo": "Não a nós",
+      "texto": "NÃO A NÓS — No texto hebreu se dá aqui princípio a outro salmo; porém na versão dos Setenta, na siríaca, arábica, etiópica, e em tôdas as cópias da Vulgata, antes e depois da correção, não se reconhece senão um só salmo, e o confirma o seu contexto. É uma oração de Israel, dirigida a Deus para obter o seu socorro."
+    },
+    "fn113bis_8": {
+      "rotulo": "Sejam semelhantes",
+      "texto": "SEJAM SEMELHANTES — Os que forjam tais deuses semelhantes são a êles pela sua estupidez e cegueira, pois adoram as obras das suas próprias mãos e dos seus caprichos e põem vãmente nelas a sua esperança. — Pereira."
+    },
+    "fn113bis_9": {
+      "rotulo": "A casa de Israel",
+      "texto": "A CASA DE ISRAEL — Pela casa de Israel se entende aqui tôda a nação dos judeus; pela de Aarão todos os da linhagem sacerdotal; e pelos que temem ao Senhor e esperam nêle, todos os fiéis em geral de qualquer nação, estado e condição que sejam. Desta mesma sorte se distinguia a Igreja em dois estados: de clero e povo. — P. Seio."
+    },
+    "fn113bis_16": {
+      "rotulo": "O mais alto dos céus",
+      "texto": "O MAIS ALTO DOS CÉUS — À letra: O Céu do Céu. O Céu empíreo, ou o mais elevado dos Céus, no que se nos dá a entender a infinita distância e elevação que tem o Senhor sôbre todo o criado. — P. Seio."
+    }
+  }
+}

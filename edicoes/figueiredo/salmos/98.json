@@ -1,0 +1,41 @@
+{
+  "num": 98,
+  "sumario": "Salmo gratulatório. O salmista celebra o reino do Senhor, e de seu Cristo, convida a todos os homens a reconhecer a êste Deus supremo, a quem serviram Moisés, Aarão e os demais profetas.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo do mesmo Davi.<br>O Senhor reinou, estremeceram de cólera os povos: Reinou o que está sentado sôbre querubins, abala-se a terra.", "nota": "fn98_1" },
+    { "n": 2, "texto": "O Senhor é grande em Sião: E é exaltado sôbre todos os povos." },
+    { "n": 3, "texto": "Deem glória ao teu grande nome: Porquanto é terrível, e santo:" },
+    { "n": 4, "texto": "E a honra do rei está em amar a justiça.<br>Tu preparaste leis retíssimas: Tu fizeste juízo e justiça em Jacó.", "nota": "fn98_4" },
+    { "n": 5, "texto": "Exaltai ao Senhor nosso Deus, e adorai o escabelo de seus pés: Porque êle é santo.", "nota": "fn98_5" },
+    { "n": 6, "texto": "Moisés e Aarão entre os seus sacerdotes: E Samuel entre aqueles que invocam o seu nome:<br>Invocavam o Senhor, e êle os atendia:", "nota": "fn98_6" },
+    { "n": 7, "texto": "Em coluna de nuvem lhes falava.<br>Guardavam os seus mandamentos, e o preceito que lhes deu.", "nota": "fn98_7" },
+    { "n": 8, "texto": "Senhor nosso Deus, tu os atendias: Ó Deus, tu lhes fôste favorável e vingador de tôdas as maquinações que lhes faziam." },
+    { "n": 9, "texto": "Exaltai ao Senhor nosso Deus, e adorai-o no seu santo monte: Porque santo é o Senhor nosso Deus.", "nota": "fn98_9" }
+  ],
+  "notas": {
+    "fn98_1": {
+      "rotulo": "Êste salmo / Querubins",
+      "texto": "(1) Êste salmo foi composto provàvelmente para a cerimónia da trasladação da arca para Jerusalém. No original não tem êste título. Tem quatro estrofes. A 1.ª e 2.ª terminam por <em>Sanctum est</em>; a 4.ª por <em>sanctus Dominus Deus noster</em>, o que faz dizer aos exegetas que se encontram aqui de alguma maneira as três vêzes santo de Isaías. Primeira estrofe (1-3). A realeza de Deus faz tremer os gentios e a própria terra; é preciso louvá-lo, porque é poderoso e santo; Segunda (4-5). Porque governa Israel com justiça; Terceira (6-7). Ouviu os santos; Quarta (8-9). É necessário adorar sôbre Sião a montanha santa. É o terceiro dos salmos que começam por <em>Dominus regnavit</em>. (2) QUERUBINS — Os querubins da arca da aliança, que é como o trono de Deus."
+    },
+    "fn98_4": {
+      "rotulo": "Tu fizeste juízo",
+      "texto": "TU FIZESTE JUÍZO — Tu estabeleceste justíssimas leis para o govêrno do povo de Jacó, sinalaste com seus filhos a tua justiça, castigando os seus pecados, e o teu juízo e misericórdia tirando-os das suas angústias e misérias. — Santo Agostinho."
+    },
+    "fn98_5": {
+      "rotulo": "E adorai o escabelo",
+      "texto": "E ADORAI O ESCABELO — Por êste escabelo entende Bossuet, no sentido histórico, a arca do testamento."
+    },
+    "fn98_6": {
+      "rotulo": "E Samuel",
+      "texto": "E SAMUEL — Samuel não se numera entre os sacerdotes, porque foi sòmente levita. 1 Par 6. Veja-se o 1 Rs 2. — Pereira."
+    },
+    "fn98_7": {
+      "rotulo": "Em coluna de nuvem lhes falava",
+      "texto": "EM COLUNA DE NUVEM LHES FALAVA — Alude ao que se refere no Êx 13, 21. — Pereira."
+    },
+    "fn98_9": {
+      "rotulo": "No seu santo monte",
+      "texto": "NO SEU SANTO MONTE — O monte onde estava a arca; aplicam os exegetas à Igreja católica, que só é santa. — P. Seio."
+    }
+  }
+}

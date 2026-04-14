@@ -1,0 +1,43 @@
+{
+  "num": 87,
+  "sumario": "Salmo deprecatório. Êste salmo é uma admirável oração, na qual o profeta patenteia a Deus a grandeza dos seus trabalhos, e implora com instância o seu socorro. Cântico de salmo. Ao regente do côro.",
+  "versiculos": [
+    { "n": 1, "texto": "Dos filhos de Coré, sôbre Makhalath para cantar-se alternativamente, para entendimento de Eman ezraita.", "nota": "fn87_1" },
+    { "n": 2, "texto": "Senhor Deus da minha salvação, de dia e de noite clamei diante de ti." },
+    { "n": 3, "texto": "Entre à tua presença a minha oração: Inclina o teu ouvido ao meu rogo:" },
+    { "n": 4, "texto": "Porquanto a minha alma está repleta de males: E a minha vida está perto do sepulcro." },
+    { "n": 5, "texto": "Tenho sido contado com os que descem ao lago: Cheguei a ser como homem sem socorro,", "nota": "fn87_5" },
+    { "n": 6, "texto": "livre entre os mortos.<br>Assim como os feridos que dormem nos sepulcros, de quem jamais te não lembras: E êles são desamparados da tua mão.", "nota": "fn87_6" },
+    { "n": 7, "texto": "Puseram-me em um fôsso profundo. Em lugares tenebrosos, e na sombra da morte.", "nota": "fn87_7" },
+    { "n": 8, "texto": "Sôbre mim descarregou o teu furor: E tôdas as tuas ondas fizeste vir sôbre mim." },
+    { "n": 9, "texto": "Alongaste de mim os meus conhecidos: Puseram-me como objeto da sua abominação.<br>Entregue fui, e não tinha saída:" },
+    { "n": 10, "texto": "Os meus olhos desfaleceram de miséria.<br>A ti, Senhor, clamei todo o dia: Para ti estendi as minhas mãos." },
+    { "n": 11, "texto": "Porventura farás maravilhas com os mortos: Ou os médicos os ressuscitarão, e te darão a ti louvor?" },
+    { "n": 12, "texto": "Acaso narrará algum na sepultura a tua misericórdia, e a tua verdade na perdição?" },
+    { "n": 13, "texto": "Porventura serão conhecidas nas trevas as tuas maravilhas: E a tua justiça na terra do esquecimento?" },
+    { "n": 14, "texto": "E eu a ti, Senhor, clamei: E pela manhã se antecipará diante de ti a minha oração." },
+    { "n": 15, "texto": "Por que rejeitas, Senhor, a minha oração, e apartas de mim a tua face?" },
+    { "n": 16, "texto": "Eu sou pobre, e vivo em trabalhos desde a minha mocidade: E depois de exaltado fui humilhado, e conturbado." },
+    { "n": 17, "texto": "Por cima de mim passaram as tuas iras: E os teus terrores me conturbaram." },
+    { "n": 18, "texto": "Cercaram-me assim como água todo o dia: Cercaram-me juntos." },
+    { "n": 19, "texto": "Alongaste de mim ao amigo, e ao parente: E aos meus conhecidos por causa da minha miséria." }
+  ],
+  "notas": {
+    "fn87_1": {
+      "rotulo": "Makhalath / Eman",
+      "texto": "MAKHALATH — Têrmo desconhecido, que alguns traduzem para uma doença. Vigouroux, Manuel Biblique. EMAN — Certamente é o autor do salmo. Sabe-se que Eman ou Heman era um dos principais músicos do templo, regente dos cantores, da família de Coré, do tempo de Davi. O sentido do salmo é claro; é uma prece dirigida a Deus, rogando a cura duma enfermidade, talvez a lepra, pelo que se lê no versículo 9. Tem cinco estrofes."
+    },
+    "fn87_5": {
+      "rotulo": "Lago",
+      "texto": "LAGO — É sinónimo de sepultura."
+    },
+    "fn87_6": {
+      "rotulo": "Livre entre os mortos",
+      "texto": "LIVRE ENTRE OS MORTOS — Os Padres, o acomodam a Cristo, que só era livre entre os mortos, enquanto só êle tinha na sua mão o morrer, e o ressurgir. Potestatem habeo ponendi eam et potestatem habeo iterum sumendi eam. Jo 10, 18. — Bossuet."
+    },
+    "fn87_7": {
+      "rotulo": "Puseram-me em um fôsso profundo",
+      "texto": "PUSERAM-ME EM UM FÔSSO PROFUNDO — Êste vers. 7, e o 15, e o 16, comparado com o 5, tem grande analogia com o que Jeremias, metido num lago, escrevia de si em pessoa de Cristo, Thren. III, 1, 2, 6, 7, 8, 17. — Bossuet."
+    }
+  }
+}

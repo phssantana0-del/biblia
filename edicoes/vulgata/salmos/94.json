@@ -1,0 +1,19 @@
+{
+  "num": 94,
+  "sumario": "Laus cantici ipsi David.",
+  "versiculos": [
+    { "n": 1, "texto": "Venite, exsultemus Domino, jubilemus Deo salutari nostro:" },
+    { "n": 2, "texto": "præoccupemus faciem ejus in confessione, et in psalmis jubilemus ei." },
+    { "n": 3, "texto": "Quoniam Deus magnus Dominus, et Rex magnus super omnes deos." },
+    { "n": 4, "texto": "Quia in manu ejus sunt omnes fines terræ, et altitudines montium ipse conspicit." },
+    { "n": 5, "texto": "Quoniam ipsius est mare, et ipse fecit illud, et aridam fundaverunt manus ejus." },
+    { "n": 6, "texto": "Venite, adoremus, et procidamus ante Deum: ploremus coram Domino qui fecit nos:" },
+    { "n": 7, "texto": "quia ipse est Dominus Deus noster; nos autem populus ejus, et oves pascuæ ejus." },
+    { "n": 8, "texto": "Hodie si vocem ejus audieritis, nolite obdurare corda vestra:" },
+    { "n": 9, "texto": "sicut in exacerbatione secundum diem tentationis in deserto: ubi tentaverunt me patres vestri, probaverunt et viderunt opera mea." },
+    { "n": 10, "texto": "Quadraginta annis proximus fui generationi huic, et dixi: Semper hi errant corde." },
+    { "n": 11, "texto": "Ipsi vero non cognoverunt vias meas: quibus juravi in ira mea: Si introibunt in requiem meam." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

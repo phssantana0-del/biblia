@@ -1,0 +1,41 @@
+{
+  "num": 83,
+  "sumario": "Salmo didático. Declara o profeta as ardentes ânsias, que o inflamavam de estar no tabernáculo do Senhor, do qual se achava desviado. Ao regente do côro: Com a cítara de Get.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo para os filhos de Coré.", "nota": "fn83_1" },
+    { "n": 2, "texto": "Quão amáveis são os teus tabernáculos, Senhor dos exércitos!" },
+    { "n": 3, "texto": "A minha alma suspira, e desfalece pelos átrios do Senhor.<br>O meu coração, e a minha carne se regozijarão no Deus vivo." },
+    { "n": 4, "texto": "Ainda o passarinho acha casa para si: E a rôla ninho para si, onde ponha seus filhinhos.<br>Os teus Altares, Senhor dos exércitos: Rei meu, e Deus meu.", "nota": "fn83_4" },
+    { "n": 5, "texto": "Bem-aventurados, Senhor, os que moram na tua casa: Pelos séculos dos séculos te louvarão." },
+    { "n": 6, "texto": "Bem-aventurado o varão, que de ti espera socorro: Que dispôs elevações no seu coração," },
+    { "n": 7, "texto": "neste vale das lágrimas no lugar que Deus destinou para si.", "nota": "fn83_7" },
+    { "n": 8, "texto": "Porque o legislador lhe dará a sua bênção, irão de virtude em virtude: Será visto o Deus dos deuses em Sião.", "nota": "fn83_8" },
+    { "n": 9, "texto": "Senhor Deus dos exércitos, atende à minha oração: Percebe-a nos teus ouvidos, ó Deus de Jacó." },
+    { "n": 10, "texto": "Ó Deus nosso protetor, olha para nós: E põe os olhos no rosto do teu Cristo:", "nota": "fn83_10" },
+    { "n": 11, "texto": "Porque melhor é um dia nos teus átrios que milhares:<br>Escolhi ser o último na casa do meu Deus: Antes que morar nas tendas dos pecadores." },
+    { "n": 12, "texto": "Porque Deus ama a misericórdia, e a verdade: O Senhor dará a graça, e a glória." },
+    { "n": 13, "texto": "Não privará de bens àqueles que andam em inocência: Senhor dos exércitos, bem-aventurado o homem que espera em ti." }
+  ],
+  "notas": {
+    "fn83_1": {
+      "rotulo": "Para os filhos de Coré",
+      "texto": "PARA OS FILHOS DE CORÉ — Para ser cantado por êstes, ou composto pelos descendentes de Coré. Êste salmo é semelhante aos 42.43. Foi composto talvez por algum dos companheiros de Davi na sua fuga, por ocasião da revolta de Absalão. Tem três estrofes: Primeira (2-5). Sentimentos do salmista a respeito da casa de Deus. Segunda (6-9). É obscura. Feliz o homem reto. Pode visitar Deus em Sião. Terceira (10-13). Felicidade que se goza junto do altar de Deus, fruto de graça e glória."
+    },
+    "fn83_4": {
+      "rotulo": "Os teus Altares",
+      "texto": "OS TEUS ALTARES — Os teus Altares, Senhor dos exércitos, são a minha casa e o meu ninho: ou também se pode suprir: os teus Altares é que desejo. Se o vers. 4 é uma continuação do 3, como no hebreu, pode também expor-se dêste outro modo: Sou de pior condição que o pardal, a rôla, e a andorinha, porque estas aves podem avizinhar-se aos teus altares, fazendo seus ninhos nas casas e telhados vizinhos a êles; mas eu não posso fazê-lo pela perseguição, e destêrro em que me vejo."
+    },
+    "fn83_7": {
+      "rotulo": "Vale das lágrimas",
+      "texto": "VALE DAS LÁGRIMAS — Julga-se ser o vale que tem o nome de Baca, ou das lágrimas."
+    },
+    "fn83_8": {
+      "rotulo": "O legislador lhe dará a sua bênção",
+      "texto": "O LEGISLADOR LHE DARÁ A SUA BÊNÇÃO — O que está no original é: — A chuva do outono dará a sua bênção — o que quer dizer uma chuva abundante e salutar tornará fértil o Vale das Lágrimas. Porém o sentido fica sempre obscuro, o que sucede com quase todos os salmos dos filhos de Coré, e além desta obscuridade acresce a divergência entre o hebreu e a Vulgata, que não é mais inteligível. Boulleret apresenta a seguinte tradução literal do original dos versículos 6 a 8. Beatus homo cui est robur in te; itinera in corde eorum; transeuntes in valle fletus, fontem possunt eam, etiam stagna cooperit pluvia autunnalis; vadunt ab antemurali ad antemurale; apparet adeum in Sion, ob. cit."
+    },
+    "fn83_10": {
+      "rotulo": "Teu Cristo",
+      "texto": "TEU CRISTO — Isto é, o Messias, segundo uns, Davi, ou Zorobabel, ou o povo judeu, segundo outros."
+    }
+  }
+}

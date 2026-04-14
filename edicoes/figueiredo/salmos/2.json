@@ -1,0 +1,31 @@
+{
+  "num": 2,
+  "sumario": "Salmo profético em que se descreve o estabelecimento do reino de Jesus Cristo, contra todos os esforços dos homens. A Cristo rei de todas as nações hão de obedecer todos os que desejam a salvação.",
+  "versiculos": [
+    { "n": 1, "texto": "Por que se embraveceram as nações, e os povos meditaram coisas vãs?", "nota": "fn2_1" },
+    { "n": 2, "texto": "Os reis da terra se sublevaram, e os príncipes se coligaram contra o Senhor, e contra o seu Cristo.", "nota": "fn2_2" },
+    { "n": 3, "texto": "Rompamos as algemas com que nos prendem: E sacudamos de nós o seu jugo.", "nota": "fn2_3" },
+    { "n": 4, "texto": "Aquele que habita no céu zombará deles, o Senhor os escarnecerá.", "nota": "fn2_4" },
+    { "n": 5, "texto": "Êle lhes falará então na sua ira, e os encherá de turbação no seu furor." },
+    { "n": 6, "texto": "Eu porém fui por êle constituído rei sôbre Sião, seu monte santo, para promulgar o seu decreto." },
+    { "n": 7, "texto": "O Senhor disse para mim: Tu és meu Filho, eu te gerei hoje.", "nota": "fn2_7" },
+    { "n": 8, "texto": "Pede-me, e eu te darei as nações em tua herança, e em tua possessão as extremidades da terra.", "nota": "fn2_8" },
+    { "n": 9, "texto": "Tu as governarás com uma vara de ferro, e quebrá-las-ás como um vaso de frágil barro." },
+    { "n": 10, "texto": "E agora, ó reis, entendei: Instruí-vos, os que julgais a terra.", "nota": "fn2_10" },
+    { "n": 11, "texto": "Servi ao Senhor em temor: E alegrai-vos nêle com tremor.", "nota": "fn2_11" },
+    { "n": 12, "texto": "Rendei-lhe homenagem para que não suceda que se ire o Senhor, e vos aparteis do caminho da justiça.", "nota": "fn2_12" },
+    { "n": 13, "texto": "Quando daqui a pouco se incender a sua ira, bem-aventurados todos os que confiam nêle." }
+  ],
+  "notas": {
+    "fn2_0": { "rotulo": "Sobre êste Salmo", "texto": "Também êste Salmo não tem título; mas do contexto depreende-se que Davi é o seu autor. O seu sentido é, segundo a opinião dos mais sábios intérpretes, relativo a Jesus Cristo e ao poder do reino Messiânico. Compreende quatro estrofes, respectivamente de 7, 6, 7 e 8 versos. — 1.ª (Compreende os vv. 1-3). Os gentios querem em vão revoltar-se contra Deus. — 2.ª (4 a 6). Deus desdenha dos seus esforços. — 3.ª (7 a 9.) Discurso do Messias, sua eternidade e Onipotência. — 4.ª (10 a 13). Conclusão do Salmista. É necessário obedecer ao Messias, e proclamar venturoso o que nêle se confia. Êste Salmo é muitas vêzes citado no Novo Testamento. Os Atos 4, 25, 28, indicam a realização desta profecia na coligação feita entre judeus e gentios contra Jesus Cristo e a sua Igreja. S. Paulo aos hebreus, 1, 5 e 5, 5, cita-o para provar a Geração Eterna do Verbo." },
+    "fn2_1": { "rotulo": "Por que", "texto": "Esta interrogação indica a sem razão da revolta e o seu insucesso." },
+    "fn2_2": { "rotulo": "Contra o seu Cristo", "texto": "Tem-se escrito muito por causa desta palavra. A quem se pode aplicar o têrmo Cristo, que quer dizer ungido? O têrmo hebraico <em>mashiah</em>, do verbo <em>mashiah unxit</em>, aplica-se aos Patriarcas, Sl 55, 15; aos Profetas, 3 Rs 19, 16; aos Sumos Sacerdotes, aos reis, por exemplo, a Saul 1 Rs 12, 3, mas aplica-se antonomàsticamente a Jesus Cristo, porque é o Ungido por excelência — Sacerdote e rei. — E como êste lugar não pode convir a Davi, como lhe não convém o v. 7, pois não há razão alguma que justifique tal interpretação, podemos concluir com Lapide que só ao Messias se devem referir estas palavras." },
+    "fn2_3": { "rotulo": "Rompamos as algemas", "texto": "É dito em nome e na pessoa dos ímpios, que pretendem sacudir o jugo dos mandamentos de Deus e do seu Cristo. — Pereira." },
+    "fn2_4": { "rotulo": "Aquêle que habita", "texto": "Quer dizer o que preside, como juiz que há de ditar a lei e proferir a sentença. Deus está em tôda a parte em ato e essencialmente." },
+    "fn2_7": { "rotulo": "Tu és meu Filho", "texto": "Meu Filho, próprio e verdadeiro; que isso quer dizer aquêle <em>eu te gerei</em>; meu Filho gerado <em>ab æterno</em> e sempre gerado, que isso quer dizer aquêle <em>hoje</em>, que na frase da Escritura significa eternidade, a que tudo é presente, nada pretérito, nem futuro. Por isso dêste texto prova S. Paulo na epístola aos hebreus, 1, 5, a divindade e geração eterna de Jesus Cristo." },
+    "fn2_8": { "rotulo": "Eu te darei as nações em tua herança", "texto": "Esta é aquela generalidade da extensão, que nos escritos de Santo Agostinho e dos teólogos polêmicos mostra a catolicidade da Igreja Cristã, e forma uma das suas notas mais características — Pereira." },
+    "fn2_10": { "rotulo": "Julgais a terra", "texto": "A Vulgata traduziu por <em>Judicare</em> o verbo hebraico <em>shaphath</em>, que significa também governar, porque uma das atribuições dos governantes é a administração da justiça." },
+    "fn2_11": { "rotulo": "Em temor / Com tremor", "texto": "Isto é, temendo a justiça indefectível de Deus. — COM TREMOR — Quer dizer: Que se alegrem com santo júbilo, auxiliado pela graça divina, não confiando em si, e receando a queda na culpa, que lhes atraia a inimizade de Deus." },
+    "fn2_12": { "rotulo": "Rendei-lhe homenagem", "texto": "Na Vulgata está <em>Apprehendite disciplinam</em>, que o padre Pereira traduziu: 'Tomai o ensino'; mas o que está no original é: Beijai o Filho, o que com Vigouroux traduzimos — Rendei-lhe homenagem." }
+  }
+}

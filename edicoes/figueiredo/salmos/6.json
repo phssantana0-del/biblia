@@ -1,0 +1,24 @@
+{
+  "num": 6,
+  "sumario": "Salmo impetratório. Davi ultrajado por seus inimigos se volta a Deus implorando a sua misericórdia: conta com a vitória confiando na divina proteção. Primeiro dos Salmos Penitenciais.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, com acompanhamento de instrumentos de corda, salmo de Davi, com vozes graves.", "nota": "fn6_1" },
+    { "n": 2, "texto": "Senhor, não me arguas no teu furor, nem me castigues na tua ira." },
+    { "n": 3, "texto": "Tem misericórdia de mim, Senhor, porque sou enfêrmo: Sara-me, Senhor, porque os meus ossos estão comovidos." },
+    { "n": 4, "texto": "E a minha alma se turbou em extremo: Mas tu, Senhor, até quando?" },
+    { "n": 5, "texto": "Volta-te, Senhor, e livra a minha alma: Salva-me pela tua misericórdia." },
+    { "n": 6, "texto": "Porque na morte não há quem se lembre de ti: E no inferno quem te louvará?", "nota": "fn6_6" },
+    { "n": 7, "texto": "Trabalhado me vejo no meu gemido, lavarei todas as noites o meu leito: Regarei com minhas lágrimas o meu estrado." },
+    { "n": 8, "texto": "O meu ôlho se turvou à vista do furor: Tenho envelhecido no meio de todos os meus inimigos.", "nota": "fn6_8" },
+    { "n": 9, "texto": "Apartai-vos de mim todos os que obrais iniquidade: Porque o Senhor ouviu a voz do meu pranto." },
+    { "n": 10, "texto": "O Senhor ouviu o meu humilde rogo, o Senhor recebeu a minha oração." },
+    { "n": 11, "texto": "Sejam confundidos, e em extremo conturbados todos os meus inimigos: Convertam-se, e sejam cobertos de ignomínia num instante.", "nota": "fn6_11" }
+  ],
+  "notas": {
+    "fn6_0": { "rotulo": "Sobre êste Salmo", "texto": "O objeto dêste Salmo é pedir a Deus que abrande o rigor da sua justiça. Alguns expositores entendem que o Salmista dirigira êste cântico ao Senhor, sofrendo de alguma grave moléstia; outros pensam que foi composto quando sôbre êle pesava o castigo de adultério que tinha cometido, e da cruel morte de Urias. Como quer que seja, êle é a nobre expressão do coração aflito, que só do Senhor espera alívio ao seu padecimento. Tem 3 estrofes. É o primeiro dos Salmos Penitenciais, e o que nêle se encontra tanto pode ser repetido por um pecador arrependido das suas faltas, como por um justo vergado ao pêso do infortúnio. Na primeira estrofe (2-4) Davi apela para a Misericórdia Divina. Na segunda (5-8) reza ao Senhor que por piedade lhe anime o semivivo peito. A terceira (9-11) é a chamada estrofe do triunfo — Deus escutou a prece, e triunfa dos seus inimigos." },
+    "fn6_1": { "rotulo": "Com vozes graves", "texto": "Voz do baixo, é o que quer dizer o têrmo hebraico <em>scheminith</em>, que a Vulgata traduziu <em>pro octava</em>." },
+    "fn6_6": { "rotulo": "Na morte não há quem se lembre de ti", "texto": "Esta expressão é frequente nos Salmos; encontra-se nos 113, 17; 114, 9; 145, 4; 29, 10; 87, 6.11.13. As palavras do salmista não são uma negação da Imortalidade da alma ou da vida futura, mas sim a afirmação de que não podiam louvar a Deus no limbo. Demais é também certo que antes da vinda de Jesus Cristo estavam privados da Bem-aventurança e da visão beatífica, e por consequência a morte tinha um horror particular. Bossuet, <em>Dissertatio in Psalmis</em>, 101, 10. — E NO INFERNO — Inferno aqui, assim como noutros muitos lugares da Escritura, toma-se pelo sepulcro. — Bossuet e Duhamel." },
+    "fn6_8": { "rotulo": "À vista do furor", "texto": "Isto é, pelo furor dos meus inimigos. S. Jerônimo verte do hebreu: <em>Calignavit præ amaritudine</em>, o meu ôlho cegou por causa da amargura; isto é, pela cópia de lágrimas, que êles me faziam chorar. — Bossuet e Duhamel." },
+    "fn6_11": { "rotulo": "Num instante", "texto": "A palavra hebraica significa logo logo e se declara bem exatamente com o <em>valde velociter</em> da Vulgata. A palavra <em>convertantur</em> uns a entendem da 'conversão' a Deus, que deseja Davi a seus inimigos, como figura daquele que disse desde a cruz: <em>Parce illis</em>. Outros pelo mesmo que voltar, pedindo que fujam logo os que combatiam o seu sossêgo espiritual e temporal. — P. Seio." }
+  }
+}

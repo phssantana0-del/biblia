@@ -1,0 +1,51 @@
+{
+  "num": 49,
+  "sumario": "Salmo didático. O salmista anuncia a vinda do Senhor: mostra a insuficiência dos sacrifícios da lei antiga: e repreende aos ímpios as suas prevaricações.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Asaf. O Deus dos Deuses, o Senhor falou: E convocou a terra. Desde o oriente do sol até ao seu ocaso:", "nota": "fn49_1" },
+    { "n": 2, "texto": "De Sião é que vem o resplendor da sua formosura." },
+    { "n": 3, "texto": "Deus virá manifestamente: Deus nosso, e não guardará silêncio. Fogo se incenderá na sua presença: E em roda dêle tempestade forte.", "nota": "fn49_3" },
+    { "n": 4, "texto": "Chamará de cima ao céu: E a terra para julgar ao seu povo." },
+    { "n": 5, "texto": "Congregai junto dêle os seus santos: Que compõem aliança com êle sôbre sacrifícios.", "nota": "fn49_5" },
+    { "n": 6, "texto": "E anunciaram os céus a justiça dêle: Porquanto Deus é o juiz." },
+    { "n": 7, "texto": "Ouve, povo meu, e eu falarei: Ouve, Israel, e testificarei contra ti: Deus, o teu Deus sou eu.", "nota": "fn49_7" },
+    { "n": 8, "texto": "Não te arguirei sôbre os teus sacrifícios: Porque os teus holocaustos estão sempre adiante de mim." },
+    { "n": 9, "texto": "Não receberei de tua casa bezerros: Nem cabritos dos teus rebanhos." },
+    { "n": 10, "texto": "Porque minhas são tôdas as feras das selvas, os animais nos montes e bois." },
+    { "n": 11, "texto": "Conheço tôdas as aves do céu: E a formosura do campo comigo está." },
+    { "n": 12, "texto": "Se tiver fome não to direi a ti: Porque minha é a redondeza da terra, e a sua plenidão." },
+    { "n": 13, "texto": "Porventura comerei carnes de touros? ou beberei sangue de cabritos?" },
+    { "n": 14, "texto": "Oferece a Deus sacrifício de louvor: E paga ao Altíssimo os teus votos." },
+    { "n": 15, "texto": "E invoca-me no dia da tribulação: Livrar-te-ei, e honrar-me-ás." },
+    { "n": 16, "texto": "Mas ao pecador disse Deus: Por que falas tu dos meus mandamentos, e tomas o meu testamento na tua bôca?" },
+    { "n": 17, "texto": "Pôsto que tu tens aborrecido a disciplina: E postergaste as minhas palavras." },
+    { "n": 18, "texto": "Se vias um ladrão, corrias com êle: E com os adúlteros fazias sociedade." },
+    { "n": 19, "texto": "A tua bôca abundou de malícia: E a tua língua urdia enganos." },
+    { "n": 20, "texto": "Estando sentado falavas contra teu irmão, e punhas tropeço contra o filho da tua mãe:" },
+    { "n": 21, "texto": "Isto fizeste, e eu me calei. Creste a iniquidade, que serei tal como tu: Argüir-te-ei, e to porei diante da tua cara.", "nota": "fn49_21" },
+    { "n": 22, "texto": "Entendei isto os que vos esqueceis de Deus: Não suceda que vos arrebate, e não haja quem vos livre." },
+    { "n": 23, "texto": "Sacrifício de louvor me honrará: E ali o caminho, por onde lhe mostrarei a salvação de Deus." }
+  ],
+  "notas": {
+    "fn49_1": {
+      "rotulo": "Salmo de Asaf",
+      "texto": "Êste salmo é destinado a inculcar a inutilidade dum culto puramente exterior. Tem três estrofes. Primeira (1-6) Descrição da aparição de Deus que vai falar. Segunda (7-15) Discurso de Deus aos fiéis, a quem recomenda que deseja um sacrifício que traduza a adoração do coração. Terceira (16-23) Discurso aos judeus pecadores, que esperam obter o perdão das suas culpas só pela oblação dos sacrifícios: Deus só perdoa aos que se arrependem."
+    },
+    "fn49_3": {
+      "rotulo": "Deus virá manifestamente / Fogo se incenderá",
+      "texto": "Cheio de majestade, e de glória, e não como na sua primeira vinda, em traje humilde, e conhecido de mui poucos. — Calmet. — Fogo se incenderá: Um fogo abrasador precederá a sua vinda, que reduzirá tudo a cinza; e ao redor espantosas tempestades, que porão em consternação ao mundo. — P. Seio."
+    },
+    "fn49_5": {
+      "rotulo": "Que compõem aliança",
+      "texto": "O hebreu diz: \"Que têm feito comigo ato com sacrifício.\" S. Jerônimo diz: Qui feriunt pactum meum. A nova aliança foi selada com o sangue do cordeiro. — P. Seio."
+    },
+    "fn49_7": {
+      "rotulo": "Ouve, povo meu",
+      "texto": "Aqui principia a falar o juiz até o fim do salmo. — Pereira."
+    },
+    "fn49_21": {
+      "rotulo": "Creste a iniquidade",
+      "texto": "Alguns o traduzem como advérbio: existimasti inique, creste nèsciamente; e é mais conforme aos Setenta, onde se lê: existimasti iniquitatem: e o hebreu: Creste que certamente seria eu semelhante a ti. — Pereira."
+    }
+  }
+}

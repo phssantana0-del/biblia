@@ -1,0 +1,49 @@
+{
+  "num": 76,
+  "sumario": "Salmo deprecatório. A alma se recreia santamente lembrando-se das obras maravilhosas do Senhor.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, para Iditum, salmo de Asaf.", "nota": "fn76_1" },
+    { "n": 2, "texto": "Com a minha voz clamei ao Senhor: Levantei a minha voz a Deus, e êle me atendeu." },
+    { "n": 3, "texto": "No dia da minha tribulação busquei a Deus, estendi as minhas mãos de noite para êle: E não fiquei defraudado.<br>Recusou consolar a minha alma.", "nota": "fn76_3" },
+    { "n": 4, "texto": "Lembrei-me de Deus, e me deleitei, e me exercitei: E desmaiou o meu espírito." },
+    { "n": 5, "texto": "Adiantaram-se às vigílias os meus olhos: Fiquei perturbado, e não falei." },
+    { "n": 6, "texto": "Pensei nos dias antigos: E tive na mente os anos eternos." },
+    { "n": 7, "texto": "E meditei de noite no meu coração, e me exercitava, e purificava o meu espírito.", "nota": "fn76_7" },
+    { "n": 8, "texto": "Porventura nos desamparará Deus para sempre: E não se mostrará ainda inclinado a aplacar-se?" },
+    { "n": 9, "texto": "Ou cortará para sempre a sua misericórdia, de geração em geração?" },
+    { "n": 10, "texto": "Ou se esquecerá Deus de usar clemência? Ou demorará com a sua ira as suas misericórdias?" },
+    { "n": 11, "texto": "E disse: Agora começo! Esta mudança vem da destra do Altíssimo." },
+    { "n": 12, "texto": "Lembrei-me das obras do Senhor: Porque me lembrei das tuas maravilhas desde o princípio." },
+    { "n": 13, "texto": "E meditarei em tôdas as tuas obras: E considerarei em todos os teus conselhos." },
+    { "n": 14, "texto": "O teu caminho, ó Deus, é em santidade: Que Deus há grande como o nosso Deus?" },
+    { "n": 15, "texto": "Tu és o Deus que obras maravilhas.<br>Fizeste conhecer nos povos o teu poder:" },
+    { "n": 16, "texto": "Redimiste com teu braço ao teu povo, aos filhos de Jacó e de José." },
+    { "n": 17, "texto": "Viram-te as águas, ó Deus, viram-te as águas: E temeram, e foram turbados os abismos.", "nota": "fn76_17" },
+    { "n": 18, "texto": "Com grandíssimo estrondo caíram as águas: As nuvens fizeram soar a voz.<br>Porque as tuas setas traspassam os ares:", "nota": "fn76_18" },
+    { "n": 19, "texto": "A voz do teu trovão fuzilou sôbre as rodas.<br>Fulguraram os teus relâmpagos pela redondeza da terra: Estremeceu e tremeu a terra." },
+    { "n": 20, "texto": "No mar abriste o teu caminho, e os teus atalhos no meio das muitas águas: E não serão conhecidos os teus vestígios." },
+    { "n": 21, "texto": "Conduziste o teu povo como ovelhas, pela mão de Moisés e de Aarão." }
+  ],
+  "notas": {
+    "fn76_1": {
+      "rotulo": "Iditum",
+      "texto": "IDITUM — É provàvelmente o mesmo que o Idithum do 1.° livro dos Par 16, 41. É impossível determinar em que circunstâncias foi composto êste salmo; pode porém conjecturar-se que é coevo da ruína do reino das dez tribos. Tem seis estrofes. As duas primeiras são como que o exórdio e exprimem um sentimento de tristeza e angústia causado pelos males da nação. As três seguintes pedem o socorro de Deus, o Eterno libertador de Israel. E há aqui uma bela descrição da passagem do Mar Vermelho, com o fim de mostrar como na história do povo de Deus há exemplos da proteção divina, que alentam ainda hoje as nações mais oprimidas pelas desgraças. Reus, Le Psautier, 1875."
+    },
+    "fn76_3": {
+      "rotulo": "Recusou consolar",
+      "texto": "RECUSOU CONSOLAR — No meio do meu cativeiro, esmagado pela dor, não pude encontrar consolação alguma."
+    },
+    "fn76_7": {
+      "rotulo": "E me exercitava",
+      "texto": "E ME EXERCITAVA — No hebreu está: \"Foi perscrutado o meu espírito\", mas já S. Jerônimo traduziu na primeira pessoa, Scrutabar. O sentido porém é, no entender de muitos e autorizados exegetas, êste: — Inquiriu o que se passava em meu espírito; tentava conhecer os meus pensamentos íntimos. Sensu omnes conveniunt: inquirebat animus meus, excutiebam ipse me, perspicere intima mea conabar. Weitenauer, Lexicon Biblicum, 1866."
+    },
+    "fn76_17": {
+      "rotulo": "Viram-te as águas",
+      "texto": "VIRAM-TE AS ÁGUAS — Alude às do Mar Vermelho."
+    },
+    "fn76_18": {
+      "rotulo": "Os ares",
+      "texto": "OS ARES — É uma adição de Glaire, para esclarecer o sentido, visto que a frase \"as setas de Deus\" significa os raios e os relâmpagos. La Sainte Bible."
+    }
+  }
+}

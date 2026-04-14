@@ -1,0 +1,48 @@
+{
+  "num": 90,
+  "sumario": "Salmo didático. Exorta o salmista a que ponhamos tôda a nossa esperança no Senhor, porque estão livres de todo o perigo aquêles que Deus toma por sua conta. Louvor de cântico de Davi.",
+  "versiculos": [
+    { "n": 1, "texto": "O que habita à sombra do Altíssimo, na proteção do Deus do céu descansará.", "nota": "fn90_1" },
+    { "n": 2, "texto": "Dirá ao Senhor: Tu és o meu amparador, e o meu refúgio: É o meu Deus, nêle esperarei." },
+    { "n": 3, "texto": "Porque êle me livrou do laço dos caçadores, e da palavra áspera.", "nota": "fn90_3" },
+    { "n": 4, "texto": "Com as suas espáduas te fará sombra: E debaixo das suas asas esperarás." },
+    { "n": 5, "texto": "Com escudo te cercará a sua verdade: Não terás temor de espanto noturno." },
+    { "n": 6, "texto": "De seta que voa de dia, de nenhuma coisa que ande em trevas: De assalto, nem de demónio do meio-dia.", "nota": "fn90_6" },
+    { "n": 7, "texto": "Cairão mil ao teu lado, e dez mil à tua destra: Mas a ti não se chegará." },
+    { "n": 8, "texto": "Certamente com os teus olhos contemplarás: Verás a paga dos pecadores." },
+    { "n": 9, "texto": "Porque tu és, Senhor, a minha esperança: Puseste por teu refúgio ao Altíssimo:", "nota": "fn90_9" },
+    { "n": 10, "texto": "Não se chegará a ti mal: E o flagelo não se aproximará à tua tenda." },
+    { "n": 11, "texto": "Porquanto mandou aos Anjos acerca de ti: Que te guardem em todos os teus caminhos." },
+    { "n": 12, "texto": "Êles te levarão nas suas mãos: Para que não suceda que o teu pé tropece em pedra." },
+    { "n": 13, "texto": "Sôbre o áspide, e basilisco andarás: E pisarás ao leão e ao dragão.", "nota": "fn90_13" },
+    { "n": 14, "texto": "Porquanto em mim esperou, livrá-lo-ei: Protegê-lo-ei, porquanto conheceu o meu Nome." },
+    { "n": 15, "texto": "Clamará a mim, e eu o ouvirei, com êle estou na tribulação: Livrá-lo-ei, e glorificá-lo-ei." },
+    { "n": 16, "texto": "Saciá-lo-ei com diuturnidade de dias: E mostrar-lhe-ei o meu Salvador." }
+  ],
+  "notas": {
+    "fn90_0": {
+      "rotulo": "Êste título",
+      "texto": "Êste título não está no original. Deve ter sido composto por ocasião da peste, pela qual Deus puniu o recenseamento de Israel, feito por Davi. 2 Rs 24, 15-17. Cfr. Sl 3, 6-7. Há neste salmo uma particularidade notável, é a frequente mudança de pessoas. Esta mudança explica-se com facilidade, se, com J. D. Michaelis, se supuser dois coros cantando alternadamente: o primeiro côro os vv. 1 e 2, depois o primeiro hemistíquio do v. 9 e os versículos seguintes, até ao v. 14, em que intervém o próprio Deus e fala até ao fim."
+    },
+    "fn90_1": {
+      "rotulo": "Na proteção",
+      "texto": "NA PROTEÇÃO — O hebreu diz: \"no esconderijo,\" debaixo do amparo: o mesmo hebreu, em lugar de <em>commorabitur</em>, diz \"pernoitarás\". — P. Seio."
+    },
+    "fn90_3": {
+      "rotulo": "Palavra áspera",
+      "texto": "PALAVRA ÁSPERA — <em>Verbum asperum</em> é um idiotismo hebraico, e significa o mesmo que \"negócio adverso\" como \"calúnia, morte aleivosa, peste\" ou qualquer outro mal ou perigo. — Pereira."
+    },
+    "fn90_6": {
+      "rotulo": "Demónio do meio-dia",
+      "texto": "DEMÓNIO DO MEIO-DIA — Os orientais representam a peste sob a forma dum espírito mau, que exerce a sua maléfica ação de dia e de noite, escolhendo a hora da sesta, em que todos estão em repouso para colhêr as suas prêsas. Entre os gregos e latinos vigoraram as mesmas idéias; e alguns autores entendem que prevaleceram também entre os judeus, justificando assim esta expressão dos Setenta e a Vulgata. Na verdade, o texto hebreu só fala da peste e contágio; porém a paráfrase caldaica, Áquila, Symmaco e a versão siríaca fazem menção expressa do demónio do meio-dia."
+    },
+    "fn90_9": {
+      "rotulo": "Puseste por teu refúgio",
+      "texto": "PUSESTE POR TEU REFÚGIO — Na versão aplicamos o <em>refugium tuum</em> em sentido passivo, pondo estas palavras na bôca do Profeta, que fala com o justo. Outros as expõem de modo que manifestam um sentido ativo, na bôca do justo que fala com o Senhor: \"Puseste muito alto o teu refúgio.\" — Pereira."
+    },
+    "fn90_13": {
+      "rotulo": "Basilisco",
+      "texto": "BASILISCO — Serpente muito venenosa."
+    }
+  }
+}

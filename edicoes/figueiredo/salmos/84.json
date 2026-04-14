@@ -1,0 +1,42 @@
+{
+  "num": 84,
+  "sumario": "Salmo gratulatório. Louva o Senhor que tem livrado o seu povo da escravidão.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, salmo dos filhos de Coré.", "nota": "fn84_1" },
+    { "n": 2, "texto": "Abençoaste, Senhor, a tua terra: Apartaste o cativeiro de Jacó.", "nota": "fn84_2" },
+    { "n": 3, "texto": "Perdoaste a maldade do teu povo: Cobriste todos os pecados dêles." },
+    { "n": 4, "texto": "Mitigaste tôda a tua ira: Suspendeste o furor da tua indignação." },
+    { "n": 5, "texto": "Converte-nos, ó Deus Salvador nosso: E aparta de nós a tua ira." },
+    { "n": 6, "texto": "Porventura estarás para sempre irado contra nós? Ou estenderás a tua ira de geração em geração?" },
+    { "n": 7, "texto": "Ó Deus, tu voltado para nós nos darás vida: E o teu povo se alegrará em ti." },
+    { "n": 8, "texto": "Mostra-nos, Senhor, a tua misericórdia: E dá-nos o teu Salvador." },
+    { "n": 9, "texto": "Eu ouvirei o que o Senhor Deus me falar: Porque êle me anunciará a paz para o seu povo.<br>E para os seus santos: E para aqueles que se voltam para o coração.", "nota": "fn84_9" },
+    { "n": 10, "texto": "Certamente a salvação dêle está perto dos que o temem: Para que habite a glória na nossa terra." },
+    { "n": 11, "texto": "A misericórdia, e a verdade se encontraram: A justiça, e a paz se deram ósculo.", "nota": "fn84_11" },
+    { "n": 12, "texto": "A verdade nasceu da terra: E a justiça olhou desde o céu.", "nota": "fn84_12" },
+    { "n": 13, "texto": "Porque o Senhor dará a sua benignidade: E a nossa terra produzirá o seu fruto." },
+    { "n": 14, "texto": "A justiça irá diante dêle: E porá no caminho os seus passos." }
+  ],
+  "notas": {
+    "fn84_1": {
+      "rotulo": "Salmo dos filhos de Coré",
+      "texto": "Êste salmo parece ter sido composto depois do regresso do cativeiro. Cfr. Aggen. I e II. II, 16-20. Tem quatro estrofes. Primeira (2-4). Recorda a misericórdia de Deus para com o seu povo. Segunda (6-8). Suplica para que se ostente de novo essa infinita misericórdia. Terceira (9-11). Espera que a sua prece seja ouvida. Quarta (12-14). Quadro de futura prosperidade."
+    },
+    "fn84_2": {
+      "rotulo": "Abençoaste",
+      "texto": "ABENÇOASTE — No hebreu está \"fôste benigno\"."
+    },
+    "fn84_9": {
+      "rotulo": "Que se voltam",
+      "texto": "QUE SE VOLTAM — Isto é: para os que, detestando as suas culpas, se convertem ao Senhor de todo o seu coração. O hebreu tem: \"e fará que não se voltem à loucura,\" dando-lhes o espírito de verdadeira sabedoria, para que se guardem de novas ofensas contra o seu Deus. Boulleret, ob. cit."
+    },
+    "fn84_11": {
+      "rotulo": "A justiça, e a paz",
+      "texto": "A JUSTIÇA, E A PAZ — A justiça, ou a verdade do Padre pedia o castigo do homem pecador, porém a paz, e a misericórdia do Filho instava pela sua reconciliação. A encarnação do Verbo uniu estas duas coisas para nossa salvação, e redenção: e Jesus Cristo, tomando sôbre si todos os pecados dos homens, se pôs em estado de satisfazer à justiça de seu Pai. O Pai recebeu uma comprida e condigna satisfação por meio da morte de um homem que era Deus, igual ao mesmo Pai; e a misericórdia do Filho, morrendo, desarmou a justiça do Pai. — P. Seio."
+    },
+    "fn84_12": {
+      "rotulo": "A verdade nasceu da terra",
+      "texto": "A VERDADE NASCEU DA TERRA — O que por essência é a mesma verdade, nasceu na terra, fazendo-se homem; isto é, Cristo, Filho de Deus e Filho da Virgem. — Pereira."
+    }
+  }
+}

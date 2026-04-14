@@ -1,0 +1,23 @@
+{
+  "num": 13,
+  "sumario": "Salmo didático. Davi, depois de descrever ao vivo a geral corrupção, e extrema impiedade que reinava no mundo, e a cruel perseguição que êste pratica contra os fiéis, intima o terrível juízo de Deus aos mundanos, e conclui profetizando a vinda do Messias para salvar o seu povo.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, salmo de Davi. O insensato disse no seu coração: Não há Deus. Corromperam-se, e se fizeram abomináveis nos seus desejos: Não há quem faça o bem, não há nem sequer um.", "nota": "fn13_1" },
+    { "n": 2, "texto": "O Senhor olhou desde o céu para os filhos dos homens, para ver se há quem tenha inteligência, ou quem busque a Deus." },
+    { "n": 3, "texto": "Todos se desviaram, à uma se fizeram inúteis: Não há quem faça o bem, não há nem sequer um. A sua garganta é sepulcro aberto: Com as suas línguas urdiam enganos, veneno de áspides debaixo dos seus lábios. Cuja bôca está cheia de maldição e de amargura: Os seus pés são ligeiros para derramar sangue. Aflição e calamidade nos caminhos dêles, e não conheceram o caminho da paz: Não há temor de Deus diante de seus olhos." },
+    { "n": 4, "texto": "Acaso não terão conhecimento todos os que obraram a iniquidade, os que devoram o meu povo, como um pedaço de pão." },
+    { "n": 5, "texto": "Não invocaram o Senhor, ali tremeram de mêdo, onde não havia que temer." },
+    { "n": 6, "texto": "Porque Deus está com a geração dos justos, confundiste o conselho do pobre: porque o Senhor é a sua esperança." },
+    { "n": 7, "texto": "Quem dará de Sião a salvação de Israel? Quando o Senhor puser fim ao cativeiro do seu povo, exultará Jacó, e alegrar-se-á Israel.", "nota": "fn13_7" }
+  ],
+  "notas": {
+    "fn13_1": {
+      "rotulo": "Salmo de Davi",
+      "texto": "Dizem os críticos, e com razão, que tudo é incerteza a respeito dêste Salmo; incerteza do autor, incerteza do tempo em que foi composto, do motivo que ocasionou a sua composição, e incerteza sôbre a sua integridade. O que é certo é que o que se encontra na Vulgata não corresponde ao original hebraico. Nesta há mais os seguintes versos: Sepulchrum patens, etc., que estão assim traduzidos: A sua garganta é sepulcro aberto: com as suas línguas urdiam enganos, veneno de áspides debaixo dos seus lábios. Cuja bôca está coberta de maldição e de amargura; os seus pés são ligeiros para derramar sangue. Aflição e calamidade nos caminhos dêles e não conheceram o caminho da paz; não há temor de Deus diante dos seus olhos. Êstes versos porém encontram-se citados por S. Paulo na epístola aos Romanos, 3, 20, sendo certamente esta a causa da sua inclusão na Vulgata. S. Jerônimo explica êste fato dizendo que nessa Epístola são frequentes as passagens do Antigo Testamento, e que o Santo Apóstolo, sem seguir ordenadamente a cópia dêste Salmo, o interpolou com êstes versos, que se encontram respectivamente no Salmo 5, 139, 9, e com um trecho de Isaías. Muitos críticos rejeitam a opinião de S. Jerônimo, porém esta é a mais seguida. O texto hebraico compreende seis estrofes de 4 versos cada. As três primeiras (1-2-3) descrevem o quadro da maldade dos homens; a 4.ª (4-5) descreve o castigo, que os fará reconhecer a Onipotência do Senhor, cuja existência negam; 5.ª (5-6) aterrorizam-se os maus, temendo Deus que protege os justos; 6.ª (7) que venha a salvação de Sião a Israel e que Jacó se alegre findo o cativeiro."
+    },
+    "fn13_7": {
+      "rotulo": "Ao cativeiro do seu povo",
+      "texto": "Bossuet o entende da redução do povo à obediência de Davi, depois que Absalão o sublevara. Outros, a quem segue o padre de Carrières, o entendem do cativeiro de Babilónia. Calmet não só refere êste verso ao cativeiro de Babilónia, mas, sem se embaraçar com o título que lemos na Vulgata, é de opinião que todo êste salmo fôra composto no tempo do mesmo cativeiro. — Pereira."
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "num": 26,
+  "sumario": "Salmo deprecatório. Davi protesta que a fé que tem no Senhor o põe a salvo do terror que lhe poderiam causar os seus inimigos, e mostra o ardente desejo que tem de habitar sempre no Templo.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi antes de ser ungido. O Senhor é a minha luz, e a minha salvação, a quem temerei? O Senhor é o defensor da minha vida, de quem tremerei?", "nota": "fn26_1" },
+    { "n": 2, "texto": "Enquanto se chegam a mim os daninhos, para comer as minhas carnes: Êstes meus inimigos que me angustiam, êles mesmos se debilitaram e caíram." },
+    { "n": 3, "texto": "Ainda que se levantem exércitos contra mim, não temerá o meu coração. Ainda quando se levante batalha contra mim, nisto mesmo esperarei eu." },
+    { "n": 4, "texto": "Uma só coisa pedi ao Senhor, esta tornarei a pedir, que habite eu na casa do Senhor todos os dias da minha vida. Para ver as delícias do Senhor, e visitar o seu templo." },
+    { "n": 5, "texto": "Porquanto me escondeu no seu tabernáculo; no dia dos males me pôs a coberto no escondido do seu tabernáculo.", "nota": "fn26_5" },
+    { "n": 6, "texto": "Na pedra me exaltou: E agora tem exaltado a minha cabeça sôbre os meus inimigos. Dei voltas, e sacrifiquei no seu tabernáculo hóstia com vozes de júbilo: cantarei, e direi salmo ao Senhor.", "nota": "fn26_6" },
+    { "n": 7, "texto": "Ouve, Senhor, a minha voz, com que clamei a ti: tem compaixão de mim, e ouve-me." },
+    { "n": 8, "texto": "O meu coração te falou a ti, os meus olhos te buscaram: teu rosto hei-de buscar, Senhor." },
+    { "n": 9, "texto": "Não apartes de mim a tua face. E não te retires do teu servo na tua ira. Sê minha ajuda: Não me deixes, nem me desprezes, ó Deus meu Salvador." },
+    { "n": 10, "texto": "Porque meu pai, e minha mãe me deixaram: Mas o Senhor me recolheu.", "nota": "fn26_10" },
+    { "n": 11, "texto": "Prescreve-me, Senhor, a lei no teu caminho: E guia-me pela vereda direita por causa dos meus inimigos." },
+    { "n": 12, "texto": "Não me entregues às almas dos que me atribulam: Porque se têm levantado contra mim testemunhas falsas, mas a iniquidade mentiu em seu dano.", "nota": "fn26_12" },
+    { "n": 13, "texto": "Creio ver os bens do Senhor na terra dos viventes." },
+    { "n": 14, "texto": "Espera ao Senhor, porta-te varonilmente: E fortifique-se o teu coração, e está firme esperando ao Senhor.", "nota": "fn26_14" }
+  ],
+  "notas": {
+    "fn26_1": {
+      "rotulo": "Antes de ser ungido",
+      "texto": "Estas palavras não estão no original, mas mostram que êste Salmo foi composto antes da submissão de Israel. Tem duas partes e compreende onze estrofes. Primeira parte: É como que o cântico de confiança triunfante. Segunda parte: É o cântico da confiança suplicante."
+    },
+    "fn26_5": {
+      "rotulo": "No dia dos males",
+      "texto": "O hebreu lê todo o texto que se segue no futuro. Porquanto me esconderás, etc. — Sacy."
+    },
+    "fn26_6": {
+      "rotulo": "Dei voltas",
+      "texto": "No hebreu se lê esta palavra unida com a precedente, dêste modo: E agora exalçará a minha cabeça sôbre os meus inimigos que me cercam, ou que estão em roda de mim. — Bossuet e De Carrières."
+    },
+    "fn26_10": {
+      "rotulo": "Porque meu pai e minha mãe me deixaram",
+      "texto": "Isto pode entender-se de quando, havendo corrido a êle seu pai, sua mãe e todos os seus, se viu na precisão de os deixar em Masfa, debaixo da proteção dos moabitas, e de voltar logo só a Odolão, de onde teve que sair pouco depois por insinuação do profeta Gad. 1 Rs 22, 3. 4. 5. Ou em sentido figurado, com esta expressão se considerava Davi como um órfão destituído de todo o socorro humano; e neste conceito esperava únicamente do Senhor todo o auxílio, como o explica, com outros, Calmet."
+    },
+    "fn26_12": {
+      "rotulo": "Porque se têm levantado contra mim testemunhas falsas",
+      "texto": "As mesmas que diziam a Saul: David quaeret malum adversum te; Davi intenta fazer-te mal. 1 Rs 24, 10. — Bossuet."
+    },
+    "fn26_14": {
+      "rotulo": "Espera ao Senhor",
+      "texto": "Palavras de quem exorta a sua alma. — Bossuet."
+    }
+  }
+}

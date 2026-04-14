@@ -1,0 +1,115 @@
+{
+  "num": 58,
+  "sumario": "Davi, em perigo de Saul, pede a Deus vingança e promete louvor.",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "Ao regente do côro."
+    },
+    {
+      "n": 1,
+      "texto": "Al'thaschekcheth de Davi Miktham quando enviou Saul, e pôs guardas à sua casa para o matar. (1 Rs 19, 11.)"
+    },
+    {
+      "n": 2,
+      "texto": "Livra-me, meu Deus, de meus inimigos: E livra-me dos que se levantam contra mim."
+    },
+    {
+      "n": 3,
+      "texto": "Livra-me dos que obram iniquidade: E salva-me dos varões sanguinários."
+    },
+    {
+      "n": 4,
+      "texto": "Pois eis-aqui que fizeram prêsa da minha alma: Vieram sôbre mim os fortes.",
+      "nota": "fn58_4"
+    },
+    {
+      "n": 5,
+      "texto": "Nem maldade minha, nem pecado meu é causa disto, Senhor: Sem injustiça corri, e ordenei os meus passos."
+    },
+    {
+      "n": 6,
+      "texto": "Levanta-te ao meu encontro, e considera: E tu, Senhor Deus das virtudes, Deus de Israel, atende a visitar tôdas as gentes, não uses de piedade com todos os que obram iniquidade.",
+      "nota": "fn58_6"
+    },
+    {
+      "n": 7,
+      "texto": "Voltarão junto à tarde: E padecerão fome como cães, e rodearão a cidade.",
+      "nota": "fn58_7"
+    },
+    {
+      "n": 8,
+      "texto": "Eis-aqui falarão com a sua bôca, e espada está nos lábios dêles: Porque quem tem ouvido?",
+      "nota": "fn58_8"
+    },
+    {
+      "n": 9,
+      "texto": "Mas tu, Senhor, zombarás dêles: Olharás como um nada tôdas as gentes."
+    },
+    {
+      "n": 10,
+      "texto": "Depositarei em ti a minha fortaleza, porque tu és Deus amparador meu:"
+    },
+    {
+      "n": 11,
+      "texto": "Deus meu, a misericórdia dêle se antecipará."
+    },
+    {
+      "n": 12,
+      "texto": "Deus me dará a conhecer acerca dos meus inimigos, não os mates: Porque talvez não se esqueçam os meus povos. Espalha-os com o teu poder: E abate-os, Senhor, protetor meu!",
+      "nota": "fn58_12"
+    },
+    {
+      "n": 13,
+      "texto": "Pelo pecado da sua bôca, pelas palavras dos seus lábios: E que fiquem presos na sua mesma soberba. E pela sua execração e mentira serão mostrados,"
+    },
+    {
+      "n": 14,
+      "texto": "no dia da consumação: Serão convencidos pela tua ira, e não subsistirão mais. E saberão que Deus dominará a Jacó: E aos confins da terra."
+    },
+    {
+      "n": 15,
+      "texto": "Voltarão à tarde e padecerão fome como cães: E rodearão a cidade."
+    },
+    {
+      "n": 16,
+      "texto": "Êles mesmos andarão dispersos para comer: E se não se fartarem, ainda murmurarão.",
+      "nota": "fn58_16"
+    },
+    {
+      "n": 17,
+      "texto": "Mas eu cantarei a tua fortaleza: E me regozijarei pela manhã da tua misericórdia. Porque te fizeste meu amparador, e meu refúgio, no dia da minha tribulação."
+    },
+    {
+      "n": 18,
+      "texto": "Eu te cantarei a ti, favorecedor meu, porque és Deus amparador meu: Deus meu, misericórdia minha."
+    }
+  ],
+  "notas": {
+    "fn58_4": {
+      "rotulo": "VIERAM SÔBRE MIM OS FORTES",
+      "texto": "Os soldados e gente que havia enviado Saul, para o prender na sua mesma casa. O hebreu diz: \"se juntaram sôbre mim fortes.\" — Pereira."
+    },
+    "fn58_6": {
+      "rotulo": "LEVANTA-TE AO MEU ENCONTRO",
+      "texto": "Corre prontamente a defender-me. Tu és, Senhor, o Deus de Israel, o Deus dos exércitos. Castiga exemplarmente êstes ímpios, que cada dia acrescentam delitos, e se fazem indignos da tua misericórdia. — Pereira."
+    },
+    "fn58_7": {
+      "rotulo": "E RODEARÃO A CIDADE",
+      "texto": "Descreve o cuidado, e ousadia dos ministros de Saul para surpreender a Davi, e os compara a cães danados. — P. Seio."
+    },
+    "fn58_8": {
+      "rotulo": "PORQUE QUEM TEM OUVIDO?",
+      "texto": "Alguns explicam êste lugar dêste modo: bem podemos falar com liberdade; porque ninguém nos ouve nem há quem disto possa dar aviso a Davi. O hebreu diz: \"Porque quem há que a ouça?\" O que muitos aplicam aos que não crêem que há Providência, ou juízo de Deus. — P. Seio."
+    },
+    "fn58_12": {
+      "rotulo": "DEUS ME DARÁ A CONHECER",
+      "texto": "Isto é, me dará indícios do castigo com que determina tratar meus inimigos. O hebreu tem: \"Deus me fará ver nos meus êmulos o castigo desejado.\" — P. Seio. NÃO OS MATES: PORQUE TALVEZ — É o mesmo que dizer: Não os mates, mas seja durável o seu castigo, para que os meus povos o tenham sempre na memória. Dito profético, em que Santo Agostinho, e outros Padres, consideram vaticinada a dispersão do povo judaico, para exemplo dos cristãos. — Bossuet."
+    },
+    "fn58_16": {
+      "rotulo": "AINDA MURMURARÃO",
+      "texto": "Andarão de porta em porta, como mendigos buscando o pão, porquanto sucederá frequentemente que por falta dêle não possam saciar a fome; cheios de impaciência murmurarão. — P. Seio."
+    }
+  }
+}

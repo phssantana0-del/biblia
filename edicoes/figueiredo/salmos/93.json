@@ -1,0 +1,51 @@
+{
+  "num": 93,
+  "sumario": "Salmo didático. Anuncia Davi o castigo dos maus, e o prémio dos bons, que são protegidos pelo Senhor. Salmo do mesmo Davi, para o dia quarto da semana.",
+  "versiculos": [
+    { "n": 1, "texto": "O Deus das vinganças é o Senhor: O Deus das vinganças sempre obrou livremente.", "nota": "fn93_1" },
+    { "n": 2, "texto": "Exalta-te tu que julgas a terra: Dá a retribuição aos soberbos." },
+    { "n": 3, "texto": "Até quando os pecadores, Senhor: Até quando os pecadores se hão de gloriar:" },
+    { "n": 4, "texto": "Pronunciarão, e falarão iniquidade: E falarão todos os que obram injustiça?", "nota": "fn93_4" },
+    { "n": 5, "texto": "Ao teu povo, Senhor, humilharam: E à tua herança maltrataram." },
+    { "n": 6, "texto": "À viúva, e ao estrangeiro mataram: E aos órfãos tiraram a vida." },
+    { "n": 7, "texto": "E disseram: Não o verá o Senhor, nem o saberá o Deus de Jacó." },
+    { "n": 8, "texto": "Entendei, insensatos do povo: E vós, néscios, entrai uma vez em prudência." },
+    { "n": 9, "texto": "O que plantou o ouvido, não ouvirá? Ou o que formou o ôlho, não verá?" },
+    { "n": 10, "texto": "O que castiga as gentes, não repreenderá: Êle que ensina ao homem ciência?" },
+    { "n": 11, "texto": "O Senhor conhece os pensamentos dos homens, que são vãos.", "nota": "fn93_11" },
+    { "n": 12, "texto": "Bem-aventurado o homem, a quem tu instruíres, Senhor: E na tua lei amestrares." },
+    { "n": 13, "texto": "A fim de o pôr em descanso nos dias maus: Entretanto que se abre a cova para o pecador." },
+    { "n": 14, "texto": "Porque o Senhor não repelirá o seu povo: Nem abandonará a sua herança." },
+    { "n": 15, "texto": "Até que a justiça venha a fazer juízo: E que estejam perto dela todos os que são retos de coração.", "nota": "fn93_15" },
+    { "n": 16, "texto": "Quem se levantará a meu favor contra os malignos? Ou quem estará comigo contra os que obram iniquidade?" },
+    { "n": 17, "texto": "Se não fôsse porque o Senhor me valeu: Quase que a minha alma houvera caído no inferno." },
+    { "n": 18, "texto": "Se dizia: Está vacilante o meu pé: A tua misericórdia, Senhor, me sustentava." },
+    { "n": 19, "texto": "Segundo as muitas dores que provou o meu coração, as tuas consolações alegraram a minha alma." },
+    { "n": 20, "texto": "Acaso tem união contigo a cadeira da iniquidade: Quando tu nos impões mandamentos penosos?" },
+    { "n": 21, "texto": "Êles irão à caça da alma do justo: E condenarão o inocente." },
+    { "n": 22, "texto": "Mas o Senhor me serviu de refúgio: E o meu Deus de socorro da minha esperança." },
+    { "n": 23, "texto": "E fará cair sôbre êles a sua iniquidade: E na sua malícia os destruirá: Destrui-los-á a êles o Senhor nosso Deus." }
+  ],
+  "notas": {
+    "fn93_0": {
+      "rotulo": "Para o dia quarto",
+      "texto": "PARA O DIA QUARTO — Isto é, para a quarta, dia em que ainda hoje é recitado na sinagoga. Devia ter sido composto durante a revolta de Absalão. Tem seis estrofes. Primeira (1-3). Invocação contra os maus. Segunda (4-7). Quadro da sua tirania. Terceira (8-11). Deus conhece os desígnios dos maus. Quarta (12-15). O povo será defendido pelo seu Deus. Quinta (16-19). No meio das adversidades o salmista não perdeu a confiança em Deus. Sexta (20-23). Deus castigará os maus. Cfr. Huyser. Revue des Sciences ecclésiastiques. 1878."
+    },
+    "fn93_1": {
+      "rotulo": "Sempre obrou livremente",
+      "texto": "SEMPRE OBROU LIVREMENTE — Vinga o Senhor, principalmente os ultrajes feitos aos seus servos, e obra livremente de tal sorte que ninguém pode resistir à sua vontade, e não há coisa que possa opor-se aos seus desígnios. — Pereira."
+    },
+    "fn93_4": {
+      "rotulo": "E falarão",
+      "texto": "E FALARÃO — O hebreu tem: \"Falarão coisas duras,\" palavras insofríveis: porque hás de tolerar que acrescentem sacrílegas blasfêmias, com que ultrajam o teu Augusto Nome, às violências com que nos tiranizam. — Pereira."
+    },
+    "fn93_11": {
+      "rotulo": "Que são vãos",
+      "texto": "QUE SÃO VÃOS — Aqui vãos se pode também tomar no sentido de pecaminosos, porque na Escritura <em>vanitas</em> se toma frequentemente pelo pecado. — Pereira."
+    },
+    "fn93_15": {
+      "rotulo": "E que estejam perto dela",
+      "texto": "E QUE ESTEJAM PERTO DELA — O P. Calmet observa que as palavras hebraicas podem também trasladar-se mais claramente: \"Até que o justo se assente em juízo, entre a reinar, e junto dêle todos os retos de coração.\" O que em sentido literal se aplica a Ciro, que devia restituir a liberdade aos prisioneiros, e destruir o império de Babilónia; e no sentido, mais sublime ao Messias desejado. — Pereira."
+    }
+  }
+}

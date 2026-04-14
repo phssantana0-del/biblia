@@ -1,0 +1,41 @@
+{
+  "num": 61,
+  "sumario": "Salmo deprecatório. Davi se consola no Senhor anunciando o total extermínio de seus perseguidores: e exorta aos fiéis a que, apartando a sua confiança das coisas mundanas, em que sòmente se acha vaidade, a ponham e fixem só em Deus, a quem pertence o poder e a misericórdia. Ao regente do côro.",
+  "versiculos": [
+    { "n": 1, "texto": "Para Iditum, salmo de Davi.", "nota": "fn61_1" },
+    { "n": 2, "texto": "Porventura a minha alma não estará sujeita a Deus? Pois que dêle é a minha salvação." },
+    { "n": 3, "texto": "Porquanto êle mesmo é meu Deus, e meu Salvador: Meu amparador, não serei comovido jamais." },
+    { "n": 4, "texto": "Até quando arremetereis contra um homem? Ajuntai-vos todos para acabar com êle, como a parede inclinada, e muro abalado?", "nota": "fn61_4" },
+    { "n": 5, "texto": "Certamente meditaram tirar-me a minha dignidade, corri sedento: Com a sua bôca me bendiziam, e com o seu coração me maldiziam.", "nota": "fn61_5" },
+    { "n": 6, "texto": "Mas tu, ó alma minha, conserva-te sujeita a Deus: Porque dêle é que vém a minha paciência." },
+    { "n": 7, "texto": "Porque êle é meu Deus, e meu salvador: Meu favorecedor, não me comoverei." },
+    { "n": 8, "texto": "Em Deus está a minha salvação, e a minha glória: De Deus é que espero o meu socorro, e a minha esperança em Deus está." },
+    { "n": 9, "texto": "Esperai nêle tôda a congregação do povo, derramai ante êle os vossos corações: Deus é o nosso favorecedor eternamente." },
+    { "n": 10, "texto": "Certamente vãos são os filhos dos homens, mentirosos os filhos dos homens em balanças: Êles conspiram concordemente em vaidade para usar de enganos.", "nota": "fn61_10" },
+    { "n": 11, "texto": "Não queirais confiar na iniquidade, nem queirais cobiçar rapinas: Se abundardes em riquezas, não queirais pôr nelas o coração." },
+    { "n": 12, "texto": "Uma vez falou Deus, estas duas coisas tenho ouvido que o poder é de Deus,", "nota": "fn61_12" },
+    { "n": 13, "texto": "e a ti, Senhor, a misericórdia: Porque tu retribuirás a cada um segundo as suas obras." }
+  ],
+  "notas": {
+    "fn61_1": {
+      "rotulo": "Iditum",
+      "texto": "IDITUM — Era um dos três regentes do côro do tempo de Davi. 1 Par 16, 41. Foi composto êste salmo durante a revolta de Absalão. Contém cinco estrofes. Primeira (2-3). Ato de confiança em Deus. Segunda (4-5). Projetos dos inimigos de Davi contra a sua pessoa. Terceira (6-8). Novo ato de confiança em Deus. Quarta (9-11). Discurso ao povo para que espere em Deus o seu auxílio, para o que deve evitar o mal e praticar o bem. Quinta (12-13). Deus remunerador, recompensando cada um segundo os seus merecimentos."
+    },
+    "fn61_4": {
+      "rotulo": "Até quando arremetereis",
+      "texto": "ATÉ QUANDO ARREMETEREIS — É uma apóstrofe que faz Davi aos seus inimigos e perseguidores: O hebreu: \"Até quando maquinareis contra um homem\", pondo-lhe ciladas? \"Sereis mortos todos quantos sois semelhantes a uma parede inclinada, e a um valado desfeito,\" e que está para arruinar-se. — Pereira."
+    },
+    "fn61_5": {
+      "rotulo": "Corri sedento",
+      "texto": "CORRI SEDENTO — Os Setenta cucurri in siti, como na Vulgata: ou também cucurrerunt in siti aplicando-o aos perseguidores: correram após de mim sedentos de beber-me o sangue. No hebreu não há equivocação alguma porque o verbo está na terceira pessoa do plural. — P. Seio."
+    },
+    "fn61_10": {
+      "rotulo": "Certamente vãos são os filhos dos homens",
+      "texto": "CERTAMENTE VÃOS SÃO OS FILHOS DOS HOMENS — Isto é: são tão vãos, e de tão pouca substancia os filhos dos homens, que se todos êles juntos se pusessem em uma balança, e a mesma vaidade em outra, ainda se conheceria, que pesavam menos que a vaidade. O sentido da Vulgata se pode também reduzir a êste mesmo: são tão vãos os filhos dos homens, que postos todos juntos em balanças, se encontrará que são mais vãos do que se pode crer, ou imaginar. Outros o explicam das balanças enganadoras, ou pesos falsos nos comércios e contratos. — Pereira."
+    },
+    "fn61_12": {
+      "rotulo": "Uma vez falou Deus",
+      "texto": "UMA VEZ — A palavra de Deus é imutável, e o que uma vez disse é irrevogável. — S. Jerônimo. ESTAS DUAS COISAS — Para que ninguém use de meios injustos para adquirir riquezas, e para que ninguém ponha o seu coração nas mesmas, quero dar-vos certeza do que revelou a nossos pais, e que tem feito uma forte impressão na minha alma, e são duas coisas: Primeira: que Deus é onipotente, para que o homem sòmente nêle confie; e ao mesmo tempo é misericordioso, para assistir com a riqueza, e abundância das suas graças aos que o amam. E a outra: que êle é justíssimo para premiar aos bons, e castigar aos ímpios. No que se alude ao que Deus disse, quando falou ao povo sôbre o Sinai, Êx 20, 5. 6. — P. Seio."
+    }
+  }
+}

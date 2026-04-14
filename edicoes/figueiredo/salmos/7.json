@@ -1,0 +1,32 @@
+{
+  "num": 7,
+  "sumario": "Salmo didático. Davi patenteando ao Senhor as injúrias que recebe de seus perseguidores, lhe pede o seu socorro, e anuncia a sua ruína: com o que se prepara para mostrar o seu agradecimento, e cantar-lhe os devidos louvores.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo de Davi, que cantou ao Senhor, por causa das palavras de Cus o benjamita (2 Rs, 16).", "nota": "fn7_1" },
+    { "n": 2, "texto": "Senhor, Deus meu, em ti esperei: Salva-me de todos os que me perseguem, e livra-me." },
+    { "n": 3, "texto": "Para que como leão não arrebate ultimamente a minha alma, quando não haja quem me livre, nem quem me salve." },
+    { "n": 4, "texto": "Senhor Deus meu, se eu fiz isso, se há iniquidade nas minhas mãos:", "nota": "fn7_4" },
+    { "n": 5, "texto": "Se paguei mal aos que mo faziam, caia eu com razão debaixo dos meus inimigos sem esperança." },
+    { "n": 6, "texto": "Persiga o inimigo a minha alma, e apodere-se dela, e pise juntamente com a terra a minha vida, e reduza minha glória." },
+    { "n": 7, "texto": "Levanta-te, Senhor, na tua ira: Mostra a tua grandeza no meio dos meus inimigos. E levanta-te, Senhor, Deus meu, segundo o preceito que tu ordenaste:", "nota": "fn7_7" },
+    { "n": 8, "texto": "E a multidão dos povos se unirá em roda de ti. E por amor desta remonta-te ao alto:" },
+    { "n": 9, "texto": "O Senhor julga os povos. Julga-me, Senhor, segundo a minha justiça, e segundo a inocência que há em mim." },
+    { "n": 10, "texto": "Será consumida a malícia dos pecadores, e caminharás ao justo, ó Deus, que sondas os corações e as entranhas.", "nota": "fn7_10" },
+    { "n": 11, "texto": "Justo é o meu auxílio que vem do Senhor, o qual salva os retos de coração." },
+    { "n": 12, "texto": "Deus, Juiz justo, forte, e paciente: Ira-se acaso todos os dias?" },
+    { "n": 13, "texto": "Se vós vos não converterdes, vibrará a sua espada: Armou o seu arco, e o tem pronto." },
+    { "n": 14, "texto": "Já pôs nêle os instrumentos da morte; já preparou as suas setas ardentes.", "nota": "fn7_14" },
+    { "n": 15, "texto": "Olha como êle causou a injustiça: Concebeu dor, e produziu a iniquidade." },
+    { "n": 16, "texto": "O fôsso abriu, e o cavou: Mas precipitou-se na cova por si aberta." },
+    { "n": 17, "texto": "A sua dor se voltará contra a sua cabeça: E sôbre a sua fronte recairá a sua iniquidade." },
+    { "n": 18, "texto": "Glorificarei ao Senhor seguindo a sua justiça: E exaltarei o seu nome Santo, sôbre as altas nuvens, até ao Céu." }
+  ],
+  "notas": {
+    "fn7_0": { "rotulo": "Sobre êste Salmo", "texto": "Assim traduziu a Vulgata o têrmo hebraico <em>Schuiggyôn</em> o qual é diferente do <em>mizmor — psalmus</em>. Parece designar uma ode irregular e ditirâmbica, em que o autor, arrastado pelo entusiasmo, não se prendeu com a ligação das idéias, nem com a uniformidade do ritmo. <em>Cantio errática</em> lhe chamaram. — CUS O BENJAMITA — É desconhecido o personagem da tribo de Benjamim, a quem se refere o salmista. Davi pede a Deus que vingue as injúrias do mau. Tem seis estrofes de número variado de versos. A primeira (2-3) é uma invocação a Deus para que o salve dos seus inimigos. A segunda (4-6) é um protesto contra a falsa acusação que lhe imputa Cus. Terceira (7-9) Que Deus o julgue e lhe faça justiça. Quarta (10-11) Que Deus, seu socorro e salvador, ponha fim à injustiça. Quinta (12-14) Deus é justo, e castiga o pecador. Sexta (15-18) O pecador tem a sorte que merece; cai no abismo que cavou. Deus louvado." },
+    "fn7_1": { "rotulo": "Salmo / Cus o benjamita", "texto": "Assim traduziu a Vulgata o têrmo hebraico <em>Schuiggyôn</em>. Parece designar uma ode irregular e ditirâmbica. Cus equivale a etiópico. É desconhecido o personagem da tribo de Benjamim; alguns entendem que fôsse Semei; outros alguns dos partidários de Saul, que aproveitassem a ausência de Davi caluniando-o, e excitassem contra êle a cólera do rei." },
+    "fn7_4": { "rotulo": "Se eu fiz isso", "texto": "Isto que Saul suspeita de mim, que é que eu lhe procuro fazer mal. A qual suspeita o mesmo Davi remove de si. 1 Rs 24, 10-12. — Bossuet." },
+    "fn7_7": { "rotulo": "Segundo o preceito", "texto": "Segundo o decreto que tu ordenaste para que eu fôsse rei de todo o Israel. Vatablo. Ou também: esta oração de Davi nos representa a Ressurreição e triunfo de Jesus Cristo. Levanta-te, segundo o eterno decreto com que estabeleceste ressuscitar ao Filho, depois de morrer pela salvação de todos os homens. — Seio." },
+    "fn7_10": { "rotulo": "E as entranhas", "texto": "À letra: os 'rins' ou já sejam os afetos e os movimentos da vontade. — Pereira." },
+    "fn7_14": { "rotulo": "As suas setas ardentes", "texto": "Quer dizer: os seus juízos." }
+  }
+}

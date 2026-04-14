@@ -1,0 +1,26 @@
+{
+  "num": 150,
+  "sumario": "Salmo gratulatório. Que se há de louvar o Senhor, porque só êle é digno de que se louve de tôdas as maneiras.",
+  "versiculos": [
+    { "n": 1, "texto": "Aleluia.<br>Louvai ao Senhor no seu santuário: Louvai-o no firmamento da sua virtude.", "nota": "fn150_1" },
+    { "n": 2, "texto": "Louvai-o nas virtudes dêle: Louvai-o segundo a multidão da sua grandeza." },
+    { "n": 3, "texto": "Louvai-o ao som da trombeta: Louvai-o com saltério e cítara." },
+    { "n": 4, "texto": "Louvai-o com adufe e flauta: Louvai-o com cordas, e órgão.", "nota": "fn150_4" },
+    { "n": 5, "texto": "Louvai-o com címbalos sonoros: Louvai-o com címbalos de júbilo:", "nota": "fn150_5" },
+    { "n": 6, "texto": "Todo o espírito louve o Senhor. Aleluia." }
+  ],
+  "notas": {
+    "fn150_1": {
+      "rotulo": "Aleluia / No seu santuário",
+      "texto": "Êste salmo é uma magnífica doxologia, na qual o salmista convida treze vêzes, compreendendo neste número as aleluias inicial e final, a louvar a Deus no seu templo, por causa da sua grandeza, com tôda a espécie de instrumentos de música, terminando com esta frase digna de fechar e resumir todo o saltério: Omnis spiritus laudet Dominum Alleluia. Kimchi diz que êstes treze louvores correspondem aos treze atributos que a sinagoga reconhecia em Deus, segundo o Êx 34, 6-7. — NO SEU SANTUÁRIO — In sanctis está no gênero neutro, e corresponde ao hebreu, onde se lê: no santo ou santidade dêle: isto é: ou no Céu, que é como santuário, e o trono do seu poder, ou sôbre a terra nos efeitos da sua virtude... Outros explicam isto referindo o primeiro versículo aos espíritos celestiais, desta maneira: \"Louvai ao Senhor, vós que estais no seu santuário: Louvai-o os que estais no firmamento, onde resplandece o seu poder;\" e o segundo versículo aos homens, desta maneira: Louvai-o, israelitas, nas provas que faz ver da sua virtude onipotente: Louvai-o pelo grande número de testemunhos que vos dá de sua grandeza infinita. — Pereira."
+    },
+    "fn150_4": {
+      "rotulo": "E flauta / E órgão",
+      "texto": "E FLAUTA — Assim de Carrières, o que na Vulgata se diz, et choro. Onde o nome chorus, como já antes tinha advertido Duhamel, não se deve tomar por ajuntamento de cantores, mas por um certo género de dança. Est tibiae genus, non Coetus canentium. E isto mesmo se colhe do que na nota precedente ouvimos a Orígenes dos oito instrumentos músicos. — Pereira. E ÓRGÃO — Já do seu tempo dizia Santo Agostinho, que o órgão, de que falam os salmos, não devia ser como o nosso órgão de foles. Calmet crê que não era outra coisa mais do que um composto de flautas de cana, pegadas com grude uma às outras, que sucessivamente se corriam pelos beiços, e faziam um som harmonioso. Nêle se pode ver a sua figura, como a dos mais instrumentos músicos, de que usaram os antigos. — Pereira."
+    },
+    "fn150_5": {
+      "rotulo": "Com címbalos",
+      "texto": "COM CÍMBALOS — O profeta exortando aos israelitas a cantar os louvores do Senhor com tôda esta diversidade de instrumentos, nos adverte que o façamos de uma maneira muito mais santa; isto é, com todos os membros do nosso corpo, e com tôdas as potências e afetos da nossa alma. — S. João Crisóstomo."
+    }
+  }
+}

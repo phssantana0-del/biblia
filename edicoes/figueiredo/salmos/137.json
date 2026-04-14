@@ -1,0 +1,28 @@
+{
+  "num": 137,
+  "sumario": "Salmo gratulatório. Davi dá graças a Deus pelos benefícios recebidos da sua bondade, e diz que contará sempre com a divina assistência.",
+  "versiculos": [
+    { "n": 1, "texto": "Do mesmo Davi.<br>Eu te glorificarei a ti, Senhor, de todo o meu coração: Porque ouviste as palavras da minha bôca.<br>À vista dos anjos te cantarei salmos:", "nota": "fn137_1" },
+    { "n": 2, "texto": "Eu te adorarei no teu santo Templo, e glorificarei o teu nome.<br>Sôbre a tua misericórdia, e a tua verdade: Porque engrandeceste sôbre tudo o teu santo nome.", "nota": "fn137_2" },
+    { "n": 3, "texto": "Em qualquer dia que te invocar, ouve-me: Tu aumentarás na minha alma a fortaleza." },
+    { "n": 4, "texto": "Louvem-te, Senhor, todos os reis da terra: Porque ouviram tôdas as palavras da tua bôca." },
+    { "n": 5, "texto": "E cantem nos caminhos do Senhor: Que a glória do Senhor é grande." },
+    { "n": 6, "texto": "Porque o Senhor é excelso, e olha para as coisas humildes: E conhece de longe as coisas altas." },
+    { "n": 7, "texto": "Se eu andar no meio da tribulação, me farás viver: E sôbre a ira dos meus inimigos estendeste a tua mão, e me salvou a tua direita." },
+    { "n": 8, "texto": "O Senhor retribuirá por mim: Senhor, a tua misericórdia é para sempre: Não desprezes as obras das tuas mãos.", "nota": "fn137_8" }
+  ],
+  "notas": {
+    "fn137_1": {
+      "rotulo": "Do mesmo Davi",
+      "texto": "Êste salmo tem por fim agradecer a Deus a promessa de fazer nascer o Messias no povo de Israel, e de assegurar a eternidade ao reinado Messiânico. 2 Rs 7; 1 Par 17. Tem três estrofes. Primeira (1-3). O salmista agradece a Deus a promessa. Segunda (4-6). Todos os reis da terra glorificarão ao Senhor quando ela se realizar. Terceira (7-8). A sua confiança no Senhor é ilimitada."
+    },
+    "fn137_2": {
+      "rotulo": "Engrandeceste o teu santo nome",
+      "texto": "Em vez de nomen sanctum tuum, está no original hebraico verbum tuum. Êste verbum é a promessa da perpetuidade da raça de Davi na pessoa do Messias. É certo, contudo, que com esta interpretação, que é de Vigouroux, não concorda Boulleret, que entende que se não deve restringir a significação do têrmo verbum."
+    },
+    "fn137_8": {
+      "rotulo": "Retribuirá",
+      "texto": "Outros trasladam assim êste lugar: O Senhor tomará a minha defensa, responderá por mim, será meu fiador, conforme o hebreu: Obrará por mim. — Pereira."
+    }
+  }
+}

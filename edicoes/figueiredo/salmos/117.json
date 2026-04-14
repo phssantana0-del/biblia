@@ -1,0 +1,73 @@
+{
+  "num": 117,
+  "sumario": "Salmo gratulatório. Êste salmo parece ser um diálogo, em que se considera a Davi da porta do Templo, convidando a todos a entrar nêle para dar a Deus solenes graças pelos seus benefícios. E para obter a sua bênção para o futuro. Aleluia.",
+  "versiculos": [
+    { "n": 1, "texto": "Louvai ao Senhor, porque êle é bom:<br>Porque a sua misericórdia se estende a todos os séculos.", "nota": "fn117_1" },
+    { "n": 2, "texto": "Diga agora Israel que o Senhor é bom:<br>Porque a sua misericórdia se estende a todos os séculos." },
+    { "n": 3, "texto": "Diga agora a casa de Aarão:<br>Que a sua misericórdia se estende a todos os séculos." },
+    { "n": 4, "texto": "Digam agora os que temem ao Senhor:<br>Que a sua misericórdia se estende a todos os séculos.", "nota": "fn117_4" },
+    { "n": 5, "texto": "No meio da tribulação invoquei ao Senhor:<br>E me atendeu o mesmo Senhor desafrontando-me.", "nota": "fn117_5" },
+    { "n": 6, "texto": "O Senhor é o meu amparo:<br>Não temerei o que me possa fazer o homem." },
+    { "n": 7, "texto": "O Senhor é o meu amparo:<br>E eu desprezarei aos meus inimigos." },
+    { "n": 8, "texto": "Bom é confiar no Senhor, antes que esperar no homem.", "nota": "fn117_8" },
+    { "n": 9, "texto": "Bom é esperar no Senhor, antes que esperar nos príncipes." },
+    { "n": 10, "texto": "Tôdas as gentes me cercaram:<br>Mas eu tomei vingança delas em Nome do Senhor.", "nota": "fn117_10" },
+    { "n": 11, "texto": "Pondo-se à roda de mim me cercaram:<br>E eu tomei vingança dêles em Nome do Senhor." },
+    { "n": 12, "texto": "Cercaram-me como abelhas, e se incendiaram como fogo em espinhos:<br>E eu tomei vingança dêles em Nome do Senhor.", "nota": "fn117_12" },
+    { "n": 13, "texto": "Tendo sido impedido fui transtornado para cair:<br>Mas o Senhor me susteve." },
+    { "n": 14, "texto": "O Senhor é a minha fortaleza, e o meu louvor:<br>E se tornou para mim em salvação.", "nota": "fn117_14" },
+    { "n": 15, "texto": "Voz de júbilo e de salvação soam nas tendas dos justos." },
+    { "n": 16, "texto": "A destra do Senhor fêz proezas:<br>A destra do Senhor me exaltou, a destra do Senhor fêz proezas." },
+    { "n": 17, "texto": "Não morrerei mas viverei:<br>E referirei as obras do Senhor." },
+    { "n": 18, "texto": "O Senhor me deu castigo severo:<br>Mas não me entregou à morte." },
+    { "n": 19, "texto": "Abri-me as portas da justiça:<br>Depois de entrar por elas, louvarei ao Senhor:" },
+    { "n": 20, "texto": "Esta é a porta do Senhor, os justos entrarão por ela:" },
+    { "n": 21, "texto": "A ti te louvarei porque me ouviste:<br>E te tornaste para mim em salvação." },
+    { "n": 22, "texto": "A pedra, que desprezaram os edificadores:<br>Foi posta por cabeça do ângulo.", "nota": "fn117_22" },
+    { "n": 23, "texto": "Pelo Senhor foi feito isto:<br>E é coisa admirável nos nossos olhos." },
+    { "n": 24, "texto": "Êste é o dia que fêz o Senhor:<br>Regozijemo-nos, e alegremo-nos nêle." },
+    { "n": 25, "texto": "Ó Senhor salva-me, ó Senhor, faze que tenha prosperidade:", "nota": "fn117_25" },
+    { "n": 26, "texto": "Bendito o que vem em Nome do Senhor.<br>Nós vos bendizemos a vós que sois da casa do Senhor:" },
+    { "n": 27, "texto": "O Senhor é Deus, e nos manifestou a sua luz.<br>Estabelecei dia solene com ramos frondosos, até ao ângulo do altar." },
+    { "n": 28, "texto": "Tu és o meu Deus, e a ti te louvarei:<br>Tu és o meu Deus, e a ti te exaltarei.<br>A ti te louvarei, porque me atendeste:<br>E te tornaste para mim em salvação." },
+    { "n": 29, "texto": "Louvai ao Senhor porque é bom:<br>Porque a sua misericórdia é para sempre." }
+  ],
+  "notas": {
+    "fn117_1": {
+      "rotulo": "Aleluia",
+      "texto": "Alguns expositores assentam que Davi compôs êste salmo para que se cantasse na festa dos Tabernáculos, e que contém um como diálogo entre Davi, o povo e os sacerdotes. Outros são de parecer que se cantou no ato de trasladar a Arca para o monte de Sião, e depois de haver conseguido Davi a reunião de tôdas as tribos debaixo do seu domínio e reino. Todos os Santos Padres aplicam êste salmo a Jesus Cristo e à Igreja, o que está fundado no testemunho dos apóstolos, At 6, 11 e 1 Pdr 4, 7, e ainda do mesmo Jesus Cristo. Mt 21, 42. — P. Seio."
+    },
+    "fn117_4": {
+      "rotulo": "Os que temem ao Senhor",
+      "texto": "OS QUE TEMEM AO SENHOR — A todos convidou Davi para que louvassem ao Senhor, porque é bom por essência, e porque nos faz bons pela comunicação da sua graça, e porque a sua misericórdia, pela qual se dignou visitar-nos, descendo do alto é objeto de eterno louvor. — Pereira."
+    },
+    "fn117_5": {
+      "rotulo": "Desafrontando-me",
+      "texto": "DESAFRONTANDO-ME — Tirando-me o Senhor da angústia, e do apêrto, para a liberdade."
+    },
+    "fn117_8": {
+      "rotulo": "Bom é confiar",
+      "texto": "BOM É CONFIAR — Isto é um idiotismo hebraico em lugar de melius est, melhor é, ou mais vale. — P. Seio."
+    },
+    "fn117_10": {
+      "rotulo": "Tôdas as gentes",
+      "texto": "TÔDAS AS GENTES — Os povos vizinhos da Palestina, os idumeus, os moabitas, os amonitas, os síros, e os filisteus que o atacaram por todos os lados, e com particularidade no princípio do seu reinado. — Pereira."
+    },
+    "fn117_12": {
+      "rotulo": "E se incendiaram",
+      "texto": "E SE INCENDIARAM — Como em um enxame de irritadas abelhas, e ardendo em implacável ira, como o fogo quando se ceva nos espinhos, me tinham tomado todos os passos com desejo de me dar fim à minha vida: voltei-me outra vez ao meu Deus, invoquei-o de novo, e num instante me vi livre de todos os seus esforços. — Pereira."
+    },
+    "fn117_14": {
+      "rotulo": "E se tornou para mim",
+      "texto": "E SE TORNOU PARA MIM — Êle foi só o que me salvou, e vingou de todos os meus inimigos, e a êle só lhe devo a honra e a glória de tôdas as minhas vitórias. Êste versículo é tomado do Cântico de Moisés. Êx 16, 2. — Pereira."
+    },
+    "fn117_22": {
+      "rotulo": "A pedra, que desprezaram os edificadores",
+      "texto": "A PEDRA, QUE DESPREZARAM OS EDIFICADORES — Dado que êste dito, ou provérbio se possa entender de Davi, que depois de reprovado por Saul, e por tôdas as doze tribos, à exceção da de Judá, veio por último a ser o Príncipe de tôdas: Jesus Cristo aplicando-o a si no Evangelho, Mt 21, 42, claramente nos ensina que o que se dissera de Davi fôra em figura do mesmo Jesus Cristo, que sendo desprezado dos judeus, e dos gentios, veio por fim a ser a pedra angular, que uniu num mesmo edifício, que é a Igreja, os mesmos dois povos, judaico e gentílico. Cfr. Mc 12, 10; Lc 20, 17; Ef 2, 20; 1 Pdr 2, 6-7."
+    },
+    "fn117_25": {
+      "rotulo": "Ó Senhor, faze que tenha prosperidade",
+      "texto": "Ó SENHOR, FAZE QUE TENHA PROSPERIDADE — Nem o hebreu, nem os Setenta, nem a Vulgata exprimem o sujeito para quem se pede a prosperidade. Sacy e de Carrières a referem para o Cristo do Senhor, vertendo assim: \"Ó Senhor, faze próspero o Reino do teu Cristo.\" Calmet para os mesmos aclamadores, verte assim. \"Ó Senhor, dá-nos um feliz sucesso\". O certo é que dêste lugar é que o povo judaico tomou as festivas aclamações, com que ao entrar Jesus Cristo em Jerusalém, dizia a gritos: Hossanna filio David: benedictus qui venit in nomine Domini. (Mt 21, 9.) Hosana ao filho de Davi, bendito o que vem em Nome do Senhor. \"Hosana\" quer dizer \"Salvação e glória\". E com efeito o hebreu traz aqui \"Hosana\" onde o autor da Vulgata pôs salvum me fac, salva-me. — Pereira."
+    }
+  }
+}

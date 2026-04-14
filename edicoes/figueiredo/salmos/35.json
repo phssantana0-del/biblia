@@ -1,0 +1,28 @@
+{
+  "num": 35,
+  "sumario": "Salmo didático. A profunda malícia dos ímpios: os profundos juízos de Deus sôbre os maus, e a sua grande misericórdia para com os bons.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, do mesmo Davi servo do Senhor.", "nota": "fn35_1" },
+    { "n": 2, "texto": "Disse o injusto entre si mesmo, que êle delinquiria: Não há temor de Deus ante seus olhos." },
+    { "n": 3, "texto": "Porque êle obrou dolosamente na sua presença: De sorte que a sua iniquidade o fêz objeto do ódio.", "nota": "fn35_3" },
+    { "n": 4, "texto": "As palavras da sua bôca são iniquidade e engano: Não quis instruir-se para fazer o bem." },
+    { "n": 5, "texto": "Meditou a iniquidade na sua cama: Deixou-se estar em todos os caminhos que não eram bons, e não aborreceu a malícia." },
+    { "n": 6, "texto": "Senhor, a tua misericórdia está no céu e a tua verdade até às nuvens." },
+    { "n": 7, "texto": "A tua justiça é como os montes de Deus: Os teus juízos são um abismo profundo. Tu, Senhor, salvarás os homens, e as bestas:", "nota": "fn35_7" },
+    { "n": 8, "texto": "Segundo tens multiplicado a tua misericórdia, ó Deus. Mas os filhos dos homens esperarão à sombra das tuas asas.", "nota": "fn35_8" },
+    { "n": 9, "texto": "Embriagar-se-ão da abundância da tua casa: E os farás beber na torrente das tuas delícias." },
+    { "n": 10, "texto": "Porque em ti está a fonte da vida: E no teu lume veremos o lume.", "nota": "fn35_10" },
+    { "n": 11, "texto": "Estende antes a tua misericórdia sôbre os que te conhecem, e a tua justiça sôbre aqueles que têm o coração reto." },
+    { "n": 12, "texto": "Não venha sôbre mim pé de soberba: E mão de pecador não me comova.", "nota": "fn35_12" },
+    { "n": 13, "texto": "Ali caíram os que obram a iniquidade: Foram empurrados, e não se puderam levantar.", "nota": "fn35_13" }
+  ],
+  "notas": {
+    "fn35_1": { "rotulo": "1", "texto": "O objeto dêste Salmo é descrever a perversidade dos incrédulos, e mostrar a Infinita Misericórdia de Deus, que por tantos modos o chama para o caminho da verdade e salvação. Tem três estrofes. A 1.ª (2-5) é o retrato do ímpio, na 2.ª (6-9) exalta a bondade de Deus, a 3.ª (10-13) é uma súplica para obter a graça de permanecer fiel no serviço do Senhor e evitar assim a desgraça do mau." },
+    "fn35_3": { "rotulo": "2", "texto": "DE SORTE QUE A SUA INIQUIDADE O FÊZ OBJETO DO ÓDIO — Objeto do ódio de Deus, que especialmente aborrece aos pecados que se cometem, não por ignorância ou fragilidade, mas com um ânimo deliberado e por mera malícia, como os do ímpio, de que fala o verso antecedente. — Bossuet." },
+    "fn35_7": { "rotulo": "3", "texto": "OS MONTES DE DEUS — Isto é: Os montes os mais altos. Na Escritura é frequente êste epíteto, quando quer significar alguma coisa grande ou extraordinária, como já em outras notas advertimos. — Pereira. | TU, SENHOR, SALVARÁS OS HOMENS E AS BÊSTAS — Quer dizer: A tua providência se estende aos homens e às bêstas, e isto em utilidade dos homens, a quem elas servem. No sentido alegórico significa que Deus é o Salvador não só do homem justo, mas também do sensual, que é comparável a uma bêsta, e dos pecadores, contanto que se convertam à penitência. E também se pode isto aplicar aos filhos de Israel, que vivem como homens e como racionais, e aos gentios, que, entregues aos seus apetites, vivem sem razão e como bêstas, e de todos o Senhor é Salvador. — P. Seio." },
+    "fn35_8": { "rotulo": "4", "texto": "SEGUNDO TENS MULTIPLICADO — Neste tom de admiração e de exclamação é que o hebreu exprime o que na Vulgata se diz com menos energia: Quemadmodum multiplicasti misericordiam tuam, Deus. — Pereira." },
+    "fn35_10": { "rotulo": "5", "texto": "E NO TEU LUME VEREMOS O LUME — Os teólogos explicam assim: E pelo lume da glória que tu produzirás nos espíritos bem-aventurados, veremos nós o lume incriado, que és tu. Alguns Padres, depois de Orígenes, lêem assim: E no teu Verbo, que é um lume do lume, te veremos nós a ti, que és o pai dos lumes." },
+    "fn35_12": { "rotulo": "6", "texto": "NÃO VENHA SÔBRE MIM PÉ DE SOBERBA — Não me torne a meter debaixo dos pés o soberbo Saul. — Calmet." },
+    "fn35_13": { "rotulo": "7", "texto": "ALI CAÍRAM, ETC. — Ali, isto é, naquele miserável estado, naquela extrema infelicidade, em que êles me queriam precipitar, nessa caíram êles. É o que sucedeu ao pervèrsissimo Saul, quando desesperado disse ao seu escudeiro: Sta super me, et interfice me. \"Chega-te a mim e mata-me.\" — Bossuet." }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "num": 8,
+  "sumario": "In finem, pro torcularibus. Psalmus David.",
+  "versiculos": [
+    { "n": 1, "texto": "In finem, pro torcularibus. Psalmus David." },
+    { "n": 2, "texto": "Domine Dominus noster, quam admirabile est nomen tuum in universa terra! Quoniam elevata est magnificentia tua, super cælos." },
+    { "n": 3, "texto": "Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, ut destruas inimicum et ultorem." },
+    { "n": 4, "texto": "Quoniam videbo cælos tuos, opera digitorum tuorum : lunam et stellas, quæ tu fundasti." },
+    { "n": 5, "texto": "Quid est homo quod memor es ejus? aut filius hominis, quoniam visitas eum?" },
+    { "n": 6, "texto": "Minuisti eum paulo minus ab angelis, gloria et honore coronasti eum :" },
+    { "n": 7, "texto": "et constituisti eum super opera manuum tuarum." },
+    { "n": 8, "texto": "Omnia subjecisti sub pedibus ejus, oves et boves universas : insuper et pecora campi." },
+    { "n": 9, "texto": "Volucres cæli, et pisces maris, qui perambulant semitas maris." },
+    { "n": 10, "texto": "Domine Dominus noster, quam admirabile est nomen tuum in universa terra!" }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

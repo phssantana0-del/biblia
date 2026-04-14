@@ -1,0 +1,16 @@
+{
+  "num": 123,
+  "sumario": "Canticum graduum.",
+  "versiculos": [
+    { "n": 1, "texto": "Nisi quia Dominus erat in nobis, dicat nunc Israel:" },
+    { "n": 2, "texto": "nisi quia Dominus erat in nobis, cum exsurgerent homines in nos," },
+    { "n": 3, "texto": "forte vivos deglutissent nos: cum irasceretur furor eorum in nos," },
+    { "n": 4, "texto": "forsitan aqua absorbuisset nos." },
+    { "n": 5, "texto": "Torrentem pertransivit anima nostra: forsitan pertransisset anima nostra aquam intolerabilem." },
+    { "n": 6, "texto": "Benedictus Dominus qui non dedit nos, in captionem dentibus eorum." },
+    { "n": 7, "texto": "Anima nostra sicut passer erepta est de laqueo venantium: laqueus contritus est, et nos liberati sumus." },
+    { "n": 8, "texto": "Adjutorium nostrum in nomine Domini, qui fecit cælum et terram." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}

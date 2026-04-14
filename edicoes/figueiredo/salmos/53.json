@@ -1,0 +1,64 @@
+{
+  "num": 53,
+  "sumario": "Davi, cercado por inimigos, pede socorro a Deus e promete louvor.",
+  "versiculos": [
+    {
+      "n": 0,
+      "tipo": "epigrafe",
+      "texto": "Ao regente do côro com acompanhamentos de instrumentos de corda."
+    },
+    {
+      "n": 1,
+      "texto": "Para instrução de Davi,"
+    },
+    {
+      "n": 2,
+      "texto": "quando vieram os zifeus, e disseram a Saul: Pois que não está Davi escondido na nossa terra? (1 Rs 23, 19; 26, 1.)",
+      "nota": "fn53_2"
+    },
+    {
+      "n": 3,
+      "texto": "Salva-me, ó Deus, em teu Nome: E com o teu poder julga a minha causa."
+    },
+    {
+      "n": 4,
+      "texto": "Escuta, ó Deus, a minha oração: Percebe nos teus ouvidos as palavras da minha bôca."
+    },
+    {
+      "n": 5,
+      "texto": "Porque os estranhos se têm levantado contra mim, e os fortes buscaram a minha alma: E não puseram a Deus diante de si.",
+      "nota": "fn53_5"
+    },
+    {
+      "n": 6,
+      "texto": "Mas eis-aqui Deus me favorece: E o Senhor é o protetor da minha alma."
+    },
+    {
+      "n": 7,
+      "texto": "Faze voltar os males sôbre os meus inimigos: E na tua verdade destrói-os."
+    },
+    {
+      "n": 8,
+      "texto": "Eu te oferecerei um sacrifício voluntário, e louvarei o teu nome, Senhor: Porque é bom."
+    },
+    {
+      "n": 9,
+      "texto": "Porquanto de tôda a tribulação me tens livrado: E os meus olhos olharam com desprêzo sôbre os meus inimigos.",
+      "nota": "fn53_9"
+    }
+  ],
+  "notas": {
+    "fn53_2": {
+      "rotulo": "ZIFEUS",
+      "texto": "Foi composto por ocasião da traição dos zifeus 1 Rs 13, 19. Tem duas estrofes: a primeira é uma queixa; a segunda a confiança no Céu."
+    },
+    "fn53_5": {
+      "rotulo": "PORQUE OS ESTRANHOS",
+      "texto": "Assim chama Saul, aos do seu partido, e aos zifeus, ainda que êstes eram da tribo de Judá, porque se portavam com êle sem humanidade alguma, como bárbaros, e totalmente estranhos. Sl 17, 4; 142, 3. Is 1, 7. Como a palavra hostis não significa outra coisa senão estrangeiro, forasteiro, os romanos mostravam a sua moderação em dar êste nome a um inimigo. Cicer. de Offic. Lib. I. — Pereira."
+    },
+    "fn53_9": {
+      "rotulo": "OLHARAM COM DESPRÊZO",
+      "texto": "O hebreu e os Setenta têm expressões, que com tôda a propriedade significam \"olhar para o que está debaixo, ou olhar para baixo, e com desprêzo;\" e esta é a fôrça do verbo de que usa a Vulgata despexit: porque Davi confiado em Deus podia ver e olhar para seus inimigos sem os temer, e também se pode dizer que com desprêzo. — Pereira."
+    }
+  }
+}

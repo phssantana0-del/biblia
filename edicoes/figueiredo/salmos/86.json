@@ -1,0 +1,43 @@
+{
+  "num": 86,
+  "sumario": "Das excelências de Jerusalém. Figura da cidade de Deus, ou da Igreja de Cristo.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo dos filhos de Coré. Cântico.<br>Os fundamentos dela estão sôbre os montes Santos:", "nota": ["fn86_1a", "fn86_1b"] },
+    { "n": 2, "texto": "Ama o Senhor as portas de Sião sôbre todos os Tabernáculos de Jacó.", "nota": "fn86_2" },
+    { "n": 3, "texto": "Coisas gloriosas se têm dito de ti, ó cidade de Deus." },
+    { "n": 4, "texto": "Lembrar-me-ei de Raab, e de Babilónia, que me conhecem.<br>Eis-aqui os estrangeiros, e Tiro, e o povo dos etíopes, êstes estiveram ali.", "nota": ["fn86_4a", "fn86_4b"] },
+    { "n": 5, "texto": "Porventura não se dirá a Sião: Homem e homem nasceu nela: E o mesmo Altíssimo a fundou?", "nota": "fn86_5" },
+    { "n": 6, "texto": "O Senhor nas descrições dos povos, e dos príncipes dirá o número daqueles que estiverem nela." },
+    { "n": 7, "texto": "Alegram-se todos os que habitam em ti.", "nota": "fn86_7" }
+  ],
+  "notas": {
+    "fn86_1a": {
+      "rotulo": "Salmo dos filhos de Coré",
+      "texto": "Eusébio diz, com razão, que êste salmo é extremamente obscuro. A principal causa desta obscuridade está no grande número de elipses, e depois nas diferenças das traduções. Tem-se traduzido de vinte maneiras diversas. Boulleret — Les Psaumes selon la Vulgate. Uns consideram-no como um hino de glória a Jerusalém e uma profecia de conversão dos gentios; outros a ruína de Senaquerib. A tradução que mais se aproxima do original é esta: \"Fundada pelo Senhor sôbre as santas montanhas (onde está o templo) O Senhor ama as suas portas Mais do que tôdas as tendas de Jacó. Dizem de ti coisas gloriosas, cidade de Deus: — Eu contarei o Egito e a Babilónia entre aquêles (que me conhecem). — Eis aqui os filisteus (alienigenae), Tiro com a Etiópia. — Nasceram ali (em Jerusalém) E disseram a Sião: — Uma multidão de homens aí foi criada. — Foi o altíssimo que a fundou. O Senhor conta e inscreve os povos. Nasceram lá. E cantores e músicos (exclamou), — Tu és a origem de nossas (alegrias). A Igreja aplica na sua liturgia êste salmo à Virgem."
+    },
+    "fn86_1b": {
+      "rotulo": "Montes Santos",
+      "texto": "MONTES SANTOS — São principalmente Sião e Moriá, sôbre os quais foi construído o templo de Jerusalém."
+    },
+    "fn86_2": {
+      "rotulo": "As portas de Sião",
+      "texto": "AS PORTAS DE SIÃO — Por uma figura muito frequente no estilo bíblico, tomam-se por tôda a cidade de Sião. A montanha de Sião devia passar com Davi à posteridade. Por mais árido que fôsse, dali deviam brotar as torrentes de ensino, que iam saciar as almas sequiosas de verdade. Cfr. Herder, Histoire de la poésie hébraïque, trad. por Carlwitz."
+    },
+    "fn86_4a": {
+      "rotulo": "Raab",
+      "texto": "RAAB — Esta palavra hebraica significa primordialmente o orgulho, a altivez, mas aqui, como no Sl 88, 11, e Is 25, 11; 51, 9, significa o Egito."
+    },
+    "fn86_4b": {
+      "rotulo": "Os estrangeiros",
+      "texto": "OS ESTRANGEIROS — Os filisteus."
+    },
+    "fn86_5": {
+      "rotulo": "Homem e homem",
+      "texto": "HOMEM E HOMEM — Uma grande multidão de homens."
+    },
+    "fn86_7": {
+      "rotulo": "Os que habitam",
+      "texto": "OS QUE HABITAM — Êste último verso é muito difícil de traduzir: servindo-nos da analogia de Is 12, 3, traduzimos maeynîm por fontes, e então segundo o original traduzir-se-ia como atrás ficou apontado \"Tu és a fonte de tôdas as nossas alegrias.\" Na tradução seguimos Boulleret."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "num": 121,
+  "sumario": "Salmo deprecatório. O autor exprime neste salmo a alegria que sentiram os judeus cativos em Babilónia, quando lhes foi permitido voltar a Jerusalém. (Glaire).",
+  "versiculos": [
+    { "n": 1, "texto": "Cântico gradual. Eu me alegrei nisto que me foi dito: À casa do Senhor iremos.", "nota": "fn121_1" },
+    { "n": 2, "texto": "Nossos pés estavam postos nos teus átrios, Jerusalém.", "nota": "fn121_2" },
+    { "n": 3, "texto": "Jerusalém que se edifica como uma cidade: Cuja participação está na união consigo." },
+    { "n": 4, "texto": "Porque lá subirão as tribos, as tribos do Senhor: Como se mandou a Israel para louvar o Nome do Senhor." },
+    { "n": 5, "texto": "Porque ali se colocarão os tribunais e tronos sôbre a casa de Davi.", "nota": "fn121_5" },
+    { "n": 6, "texto": "Pedi o que conduz para a paz de Jerusalém: E a abundância para os que a amam." },
+    { "n": 7, "texto": "Seja feita a paz no teu exército: E abundância nas tuas torres." },
+    { "n": 8, "texto": "Por causa de meus irmãos, e de meus vizinhos, pedi eu a paz para ti:" },
+    { "n": 9, "texto": "Por amor da casa do Senhor nosso Deus, procurei bens para ti." }
+  ],
+  "notas": {
+    "fn121_1": { "rotulo": "Cântico gradual", "texto": "Querem alguns que êste salmo tivesse sido composto durante a revolta de Absalão. Tem três estrofes. Primeira (1-3). Alegria pela partida para Jerusalém. Segunda (4-5). As tribos de Israel vão em peregrinação à casa do Senhor. Terceira (6-9). Vela pela felicidade de Jerusalém." },
+    "fn121_2": { "rotulo": "Nossos pés", "texto": "O hebreu diz: \"Os nossos pés estiveram,\" estarão, \"nas tuas portas, Jerusalém\". — Pereira." },
+    "fn121_5": { "rotulo": "Tribunais", "texto": "A Vulgata empregou a mesma palavra sedes, mas que tem estas duas significações. — Glaire." }
+  }
+}

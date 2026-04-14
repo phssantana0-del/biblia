@@ -1,0 +1,33 @@
+{
+  "num": 27,
+  "sumario": "Salmo deprecatório. Davi cercado de seus inimigos põe a sua confiança em Deus, para não perecer com êles; e vendo o bom efeito das suas orações, rende graças ao Senhor, e lhe roga por todo o povo.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo do mesmo Davi. A ti clamarei, Senhor Deus meu, não estejas em silêncio comigo: Não suceda que, calando tu, seja eu como aqueles que descem à sepultura.", "nota": "fn27_1" },
+    { "n": 2, "texto": "Ouve, Senhor, a voz da minha deprecação quando a ti oro: Quando levanto as minhas mãos ao teu santo Templo.", "nota": "fn27_2" },
+    { "n": 3, "texto": "Não me arrastes juntamente com os pecadores: E não me percas com os que obram a iniquidade: Os quais falam de paz com o seu próximo. E nos seus corações só cuidam em lhe fazer mal." },
+    { "n": 4, "texto": "Dá-lhes a êles segundo as suas obras, e segundo a malignidade dos seus projetos. Dá-lhes a êles segundo as obras das suas mãos: Dá-lhes a recompensa que lhes é devida." },
+    { "n": 5, "texto": "Porquanto não compreenderam as obras do Senhor, nem o que fizeram as mãos dêle, tu os destruirás; e não os restabelecerás." },
+    { "n": 6, "texto": "Bendito o Senhor: Porque ouviu a voz da minha deprecação." },
+    { "n": 7, "texto": "O Senhor é a minha ajuda, e o meu protetor: Nêle esperou o meu coração, eu fui ajudado: E refloresceu a minha carne: E do meu coração o louvarei.", "nota": "fn27_7" },
+    { "n": 8, "texto": "O Senhor é a fortaleza do seu povo: E o protetor que salva ao seu Ungido.", "nota": "fn27_8" },
+    { "n": 9, "texto": "Salva, Senhor, ao teu povo, e abençoa a tua herança: Conduze-o, e exalta-o até à eternidade." }
+  ],
+  "notas": {
+    "fn27_1": {
+      "rotulo": "Salmo do mesmo Davi",
+      "texto": "Provàvelmente foi composto quando saiu de Jerusalém, pela rebelião de Absalão. Tem oito estrofes de quatro versos."
+    },
+    "fn27_2": {
+      "rotulo": "Ao teu santo Templo",
+      "texto": "O hebreu lê: \"Ao Oráculo da Santidade, ao Sanctum Sanctorum\", ou ao Santuário onde descansa a tua arca. Sempre que se fala de Templo, quando Salomão não o havia ainda edificado, se há de entender do tabernáculo, e do lugar que ocupava. — Sacy."
+    },
+    "fn27_7": {
+      "rotulo": "E refloresceu a minha carne / E do meu coração o louvarei",
+      "texto": "E REFLORESCEU A MINHA CARNE — Os Padres reconhecem nestas palavras a Ressurreição gloriosa do Divino Salvador. — P. Seio. E DO MEU CORAÇÃO O LOUVAREI — O hebreu lê: \"E se regozijou o meu coração e do meu cântico o louvarei\". — Sacy."
+    },
+    "fn27_8": {
+      "rotulo": "O Senhor é a fortaleza do seu povo",
+      "texto": "Êste versículo e o seguinte são o cântico de louvores ao Senhor. Tudo o que aqui se diz se aplica literalmente a Jesus Cristo, que é a fortaleza e a glória do novo povo de Israel. Pede a seu eterno padre que, pois salvou e glorificou ao seu Ungido, salve também ao seu povo, que é uma nova herança. — P. Seio."
+    }
+  }
+}

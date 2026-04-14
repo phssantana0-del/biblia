@@ -1,0 +1,37 @@
+{
+  "num": 29,
+  "sumario": "Salmo gratulatório. Davi convida a todos os povos a que se unam a êle para dar graças ao Senhor, pelo ter livrado de grandes tribulações, e da morte, de que estava ameaçado.",
+  "versiculos": [
+    { "n": 1, "texto": "Salmo ou Cântico de Davi. Na dedicação da casa de Davi.", "nota": "fn29_1" },
+    { "n": 2, "texto": "Eu te glorificarei, Senhor, porque me recebeste: E não comprazeste a meus inimigos em meu dano." },
+    { "n": 3, "texto": "Senhor meu Deus, eu clamei a ti, e tu me saraste." },
+    { "n": 4, "texto": "Senhor, tiraste do inferno a minha alma: Puseste-me a salvo dos que descem ao lago." },
+    { "n": 5, "texto": "Santos do Senhor, cantai-lhe hinos: E celebrai a memória da sua santidade." },
+    { "n": 6, "texto": "Porque êle nos fere na sua ira: E êle nos dá a vida na sua boa vontade. De tarde estaremos em lágrimas: E de manhã em alegria.", "nota": "fn29_6" },
+    { "n": 7, "texto": "Ora eu tinha dito na minha abundância: Não terei jamais mudança.", "nota": "fn29_7" },
+    { "n": 8, "texto": "Senhor, por teu querer deste firmeza à minha prosperidade. Apartaste de mim teu rosto, e eu fiquei conturbado.", "nota": "fn29_8" },
+    { "n": 9, "texto": "A ti, Senhor, clamarei: E ao meu Deus rogarei." },
+    { "n": 10, "texto": "Que proveito há no meu sangue, se desço à corrupção? Porventura dirá o pó o teu louvor, ou publicará êle a tua verdade?" },
+    { "n": 11, "texto": "O Senhor me ouviu, e se compadeceu de mim: O Senhor se fêz meu ajudador." },
+    { "n": 12, "texto": "Tu converteste o meu pranto em gôzo: Tu rasgaste o meu saco, e todo me cercaste de alegria:" },
+    { "n": 13, "texto": "Para que te cante na minha glória: E eu não tenha penas: Senhor Deus meu, eu te louvarei eternamente." }
+  ],
+  "notas": {
+    "fn29_1": {
+      "rotulo": "Na dedicação da casa de Davi",
+      "texto": "Talvez depois da revolta de Absalão e a seguir a uma doença. O Cardeal Belarmino sustenta que êste cântico foi composto para celebrar a primeira dedicação da casa edificada por Davi sôbre o monte Sion, depois que conquistara Jerusalém aos jebuseus. Esta opinião é perfilhada por Aben-Esra. Calmet opina que êste cântico foi entoado quando Davi dedicou ao Senhor um altar em memória da misericórdia que usou com o seu povo, na casa de Ornan, edificada sôbre o monte Sion."
+    },
+    "fn29_6": {
+      "rotulo": "Porque êle nos fere na sua ira / De tarde estaremos em lágrimas",
+      "texto": "PORQUE ÊLE NOS FERE NA SUA IRA — O hebreu lê: \"Porque a sua ira é momentânea\". Eu segui a versão de Calmet, por me parecer mais simples, e desembaraçada. — Pereira. DE TARDE ESTAREMOS EM LÁGRIMAS — Neste sentido disse Jesus Cristo aos seus apóstolos: \"Mas a vossa tristeza se converterá em gôzo\". E com esta comparação se confirma o que fica dito no antecedente verso. — Sacy."
+    },
+    "fn29_7": {
+      "rotulo": "Na minha abundância",
+      "texto": "O hebreu tem: no estado da minha prosperidade; e assim o exprimiu Le Gros. — Pereira."
+    },
+    "fn29_8": {
+      "rotulo": "Deste firmeza à minha prosperidade",
+      "texto": "O hebreu tem: \"Senhor, por tua vontade, e favor, fizeste estar na minha mente a fortaleza; deste estado firme ao meu reino, cujo assento estava no monte de Sião. — P. Seio."
+    }
+  }
+}

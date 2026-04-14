@@ -1,0 +1,36 @@
+{
+  "num": 45,
+  "sumario": "Salmo didático. O autor dêste salmo engrandecendo uma sinalada vitória da Igreja, toma daqui argumento, e assunto, para que se ponha em Deus tôda confiança: e convida a todos os homens a que contemplem as suas grandes obras, e por elas lhe dêem glória e louvor.",
+  "versiculos": [
+    { "n": 1, "texto": "Ao regente do côro, dos filhos de Coré. Para voz de soprano. Salmo.", "nota": "fn45_1" },
+    { "n": 2, "texto": "O nosso Deus é refúgio, e esforço: Favorecedor nas tribulações, que com excesso nos tem compreendido." },
+    { "n": 3, "texto": "Por isso não temeremos ainda que seja comovida a terra: E trasladados os montes ao meio do mar." },
+    { "n": 4, "texto": "Bramaram, e turbaram-se as suas águas: Estremeceram os montes pela sua fortaleza." },
+    { "n": 5, "texto": "O ímpeto do rio alegra a cidade de Deus: Santificou o seu Tabernáculo o Altíssimo." },
+    { "n": 6, "texto": "Deus está no meio dela, ela não será comovida: Deus a ajudará desde o raiar da manhã.", "nota": "fn45_6" },
+    { "n": 7, "texto": "As nações se conturbaram, e os reinos se humilharam: Deu a sua voz, moveu-se a terra.", "nota": "fn45_7" },
+    { "n": 8, "texto": "O Senhor dos exércitos é conosco: Nosso amparador o Deus de Jacó." },
+    { "n": 9, "texto": "Vinde, e vêde as obras do Senhor, as maravilhas, que pôs sôbre a terra:" },
+    { "n": 10, "texto": "Que aparta as guerras até à extremidade da terra. Quebrará o arco, e romperá as armas: E queimará ao fogo os escudos.", "nota": "fn45_10" },
+    { "n": 11, "texto": "Cessai, e vêde que eu sou o Deus: Serei exaltado entre as gentes, e serei exaltado na terra." },
+    { "n": 12, "texto": "O Senhor dos exércitos é conosco: Nosso amparador o Deus de Jacó." }
+  ],
+  "notas": {
+    "fn45_1": {
+      "rotulo": "Para voz de soprano",
+      "texto": "É o que significa, na opinião dos melhores intérpretes, a palavra hebraica Alamoth, que a Vulgata traduziu por pro arcanis. Êste salmo naturalmente foi composto por ocasião da guerra dos moabitas, dos amonitas e dos idumeus, no tempo de Josafá. Tem três estrofes. Primeira (2-4), Deus é o nosso socorro no meio das tempestades e perigos. Segunda (5-7), Jerusalém é inatacável, porque Deus a protege. Terceira (9-11), Deus destrói todos os seus inimigos. No original hebraico, no fim do último versículo está a palavra Selah, que se encontra 71 vêzes em 39 salmos. A significação não é perfeitamente conhecida; uns querem que seja um sinal musical correspondente ao forte da música moderna, outros que indique uma pausa."
+    },
+    "fn45_6": {
+      "rotulo": "Desde o raiar",
+      "texto": "Nunca será comovida a Igreja, cidade de Deus, porque Deus está no meio dela, e lhe assiste e assistirá em tôdas as ocasiões, e no tempo oportuno, como assistiu já ao seu povo outras vêzes, nas suas tribulações. — Pereira."
+    },
+    "fn45_7": {
+      "rotulo": "Deu a sua voz / Moveu-se a terra",
+      "texto": "Descrição figurada do milagroso socorro de Deus sem meios humanos. Sl 17, 3. — P. Seio. — Moveu-se a terra: O hebreu tem: \"Tremeu a terra, e à voz dos seus trovões\"; isto é, dos seus prodígios, e sinais da sua ira, ficaram hirtos de espanto os habitadores da terra. — P. Seio."
+    },
+    "fn45_10": {
+      "rotulo": "E queimará ao fogo os escudos",
+      "texto": "A palavra hebraica significa pròpriamente uma coisa redonda; e daqui uns trasladam escudos, e outros rodas, e destas por Sinédoque entendem os carros. Esta profecia principiou a ter seu cumprimento quando se converteram à fé de Cristo os imperadores romanos, especialmente Constantino; quando arruinados os ídolos, e acabadas as perseguições, todo o mundo se fêz cristão. — P. Seio."
+    }
+  }
+}

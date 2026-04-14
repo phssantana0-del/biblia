@@ -1,0 +1,28 @@
+{
+  "num": 96,
+  "sumario": "Salmo gratulatório. Mostra Davi o poder de Deus. A vaidade dos ídolos.",
+  "versiculos": [
+    { "n": 1, "texto": "O mesmo Davi.<br>Quando foi restabelecida a sua terra.<br>O Senhor reinou, regozije-se a terra: Alegrem-se as muitas ilhas.", "nota": "fn96_1" },
+    { "n": 2, "texto": "Nuvens e escuridão estão ao redor dêle: Justiça e juízo são a base do seu trono.", "nota": "fn96_2" },
+    { "n": 3, "texto": "Fogo irá diante dêle, e abrasará ao redor os seus inimigos." },
+    { "n": 4, "texto": "Alumiaram os seus relâmpagos a redondeza da terra: Viu-os a terra, e foi abalada." },
+    { "n": 5, "texto": "Os montes como cera se derreterão ante a face do Senhor: Diante do Senhor tôda a terra." },
+    { "n": 6, "texto": "Anunciaram os céus a sua justiça: E viram todos os povos a sua glória." },
+    { "n": 7, "texto": "Confundidos sejam todos os que adoram ídolos: E os que se gloriam nos seus simulacros.<br>Adorai ao Senhor todos os seus anjos:" },
+    { "n": 8, "texto": "Ouviu-o, e alegrou-se Sião.<br>E regozijaram-se as filhas de Judá, pelos teus juízos, Senhor:" },
+    { "n": 9, "texto": "Porque tu és o Senhor Altíssimo sôbre tôda a terra: Tu és em grande maneira exaltado sôbre todos os deuses." },
+    { "n": 10, "texto": "Os que amais ao Senhor, aborrecei o mal: Guarda o Senhor as almas dos seus santos, da mão do pecador os livrará." },
+    { "n": 11, "texto": "A luz é nascida para os justos, e a alegria para os retos de coração." },
+    { "n": 12, "texto": "Alegrai-vos, justos, no Senhor: E celebrai a memória da sua santidade." }
+  ],
+  "notas": {
+    "fn96_1": {
+      "rotulo": "O mesmo Davi / Restabelecida a sua terra / Ilhas",
+      "texto": "(1) Como o antecedente, êste salmo não tem título no original. É o assunto do anterior. Tem quatro estrofes. (2) RESTABELECIDA A SUA TERRA — Estas palavras indicam a época em que Davi foi reconhecido rei por tôdas as tribos. (3) ILHAS — A palavra hebraica que a Vulgata traduziu por Ilhas, significa pròpriamente região longínqua, paragem afastada; sentido que convém perfeitamente a esta passagem."
+    },
+    "fn96_2": {
+      "rotulo": "A base do seu trono",
+      "texto": "A BASE DO SEU TRONO — Onde a Vulgata diz: <em>correctio sedis ejus</em>, traz S. Jerônimo do hebreu: <em>firmamentum solis ejus</em>. — Bossuet."
+    }
+  }
+}

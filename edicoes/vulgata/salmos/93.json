@@ -1,0 +1,31 @@
+{
+  "num": 93,
+  "sumario": "Psalmus ipsi David, quarta sabbati.",
+  "versiculos": [
+    { "n": 1, "texto": "Deus ultionum Dominus: Deus ultionum libere egit." },
+    { "n": 2, "texto": "Exaltare, qui judicas terram: redde retributionem superbis." },
+    { "n": 3, "texto": "Usquequo peccatores, Domine, usquequo peccatores gloriabuntur:" },
+    { "n": 4, "texto": "effabuntur, et loquentur iniquitatem: loquentur omnes qui operantur injustitiam?" },
+    { "n": 5, "texto": "Populum tuum, Domine, humiliaverunt, et hæreditatem tuam vexaverunt." },
+    { "n": 6, "texto": "Viduam et advenam interfecerunt, et pupillos occiderunt." },
+    { "n": 7, "texto": "Et dixerunt: Non videbit Dominus, nec intelliget Deus Jacob." },
+    { "n": 8, "texto": "Intelligite, insipientes in populo: et stulti, aliquando sapite." },
+    { "n": 9, "texto": "Qui plantavit aurem, non audiet? aut qui finxit oculum, non considerat?" },
+    { "n": 10, "texto": "Qui corripit gentes, non arguet: qui docet hominem scientiam?" },
+    { "n": 11, "texto": "Dominus scit cogitationes hominum, quoniam vanæ sunt." },
+    { "n": 12, "texto": "Beatus homo quem tu erudieris, Domine, et de lege tua docueris eum:" },
+    { "n": 13, "texto": "ut mitiges ei a diebus malis, donec fodiatur peccatori fovea." },
+    { "n": 14, "texto": "Quia non repellet Dominus plebem suam, et hæreditatem suam non derelinquet:" },
+    { "n": 15, "texto": "quoadusque justitia convertatur in judicium, et qui juxta illam, omnes qui recto sunt corde." },
+    { "n": 16, "texto": "Quis consurget mihi adversus malignantes? aut quis stabit mecum adversus operantes iniquitatem?" },
+    { "n": 17, "texto": "Nisi quia Dominus adjuvit me, paulo minus habitasset in inferno anima mea." },
+    { "n": 18, "texto": "Si dicebam: Motus est pes meus: misericordia tua, Domine, adjuvabat me." },
+    { "n": 19, "texto": "Secundum multitudinem dolorum meorum in corde meo, consolationes tuæ lætificaverunt animam meam." },
+    { "n": 20, "texto": "Numquid adhæret tibi sedes iniquitatis, qui fingis laborem in præcepto?" },
+    { "n": 21, "texto": "Captabunt in animam justi, et sanguinem innocentem condemnabunt." },
+    { "n": 22, "texto": "Et factus est mihi Dominus in refugium, et Deus meus in adjutorium spei meæ." },
+    { "n": 23, "texto": "Et reddet illis iniquitatem ipsorum, et in malitia eorum disperdet eos: disperdet illos Dominus Deus noster." }
+  ],
+  "notas": {},
+  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+}
