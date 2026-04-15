@@ -5,7 +5,12 @@
     {
       "n": 0,
       "tipo": "epigrafe",
-      "texto": "In finem, in Carminibus. Intellectus David."
+      "texto": "In finem, in Carminibus."
+    },
+    {
+      "n": 1,
+      "tipo": "epigrafe",
+      "texto": "Intellectus David."
     },
     {
       "n": 2,

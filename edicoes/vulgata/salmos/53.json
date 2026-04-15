@@ -5,7 +5,17 @@
     {
       "n": 0,
       "tipo": "epigrafe",
-      "texto": "In finem, in Carminibus. Intellectus David, cum venissent Ziphæi, et dixissent ad Saul : Nonne David absconditus est apud nos ?"
+      "texto": "In finem, in Carminibus."
+    },
+    {
+      "n": 1,
+      "tipo": "epigrafe",
+      "texto": "Intellectus David,"
+    },
+    {
+      "n": 2,
+      "tipo": "epigrafe",
+      "texto": "cum venissent Ziphæi, et dixissent ad Saul : Nonne David absconditus est apud nos ?"
     },
     {
       "n": 3,

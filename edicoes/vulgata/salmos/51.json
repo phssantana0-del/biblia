@@ -5,7 +5,17 @@
     {
       "n": 0,
       "tipo": "epigrafe",
-      "texto": "In finem, Intellectus David, cum venit Doëg Idumæus, et nuntiavit Sauli : Venit David in domum Achimelech."
+      "texto": "In finem."
+    },
+    {
+      "n": 1,
+      "tipo": "epigrafe",
+      "texto": "Intellectus David,"
+    },
+    {
+      "n": 2,
+      "tipo": "epigrafe",
+      "texto": "cum venit Doëg Idumæus, et nuntiavit Sauli : Venit David in domum Achimelech."
     },
     {
       "n": 3,

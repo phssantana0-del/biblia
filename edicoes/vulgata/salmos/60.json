@@ -5,7 +5,12 @@
     {
       "n": 0,
       "tipo": "epigrafe",
-      "texto": "In finem, in Hymnis David."
+      "texto": "In finem."
+    },
+    {
+      "n": 1,
+      "tipo": "epigrafe",
+      "texto": "In hymnis David."
     },
     {
       "n": 2,

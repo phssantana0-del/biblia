@@ -5,7 +5,17 @@
     {
       "n": 0,
       "tipo": "epigrafe",
-      "texto": "In finem, pro iis qui immutabuntur. In tituli inscriptionem ipsi David, in doctrinam, cum succendit Mesopotamiam Syriæ et Sobal, et convertit Joab, et percussit Idumæam in Valle salinarum duodecim millia."
+      "texto": "In finem, pro his qui immutabuntur,"
+    },
+    {
+      "n": 1,
+      "tipo": "epigrafe",
+      "texto": "in tituli inscriptionem ipsi David, in doctrinam,"
+    },
+    {
+      "n": 2,
+      "tipo": "epigrafe",
+      "texto": "cum succendit Mesopotamiam Syriæ et Sobal, et convertit Joab, et percussit Idumæam in valle Salinarum duodecim millia."
     },
     {
       "n": 3,
