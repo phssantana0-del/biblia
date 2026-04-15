@@ -1,5 +1,5 @@
 ---
-description: "Use para revisar ou complementar um ou mais livros da Vulgata Clementina, com paralelização interna por livro."
+description: "Use para revisar ou complementar um ou mais livros da Vulgata Clementina sem fan-out por livro."
 name: "Digitalizador — Vulgata Clementina"
 tools: [read, edit, search, web, todo, agent]
 argument-hint: "Um ou mais livros com capítulos/intervalos (ex: 'Lucas 3-4 e João 1')."
@@ -14,15 +14,16 @@ Use a skill `vulgata-clementina` para todas as regras de URL, grafia e estrutura
 ## REGRA DE ORQUESTRAÇÃO
 
 - Normalize a solicitação em uma lista `trabalhos`, onde cada item é `{livroId, capInicio, capFim}`.
-- Se `trabalhos` contiver **mais de um livro**, abra **um subagente `general-purpose` por livro**, em paralelo.
-- Cada subagente filho deve receber **exatamente um livro** e executar o fluxo de livro único descrito abaixo.
-- Não misture capítulos de livros diferentes no mesmo subagente.
-- Se houver somente um livro, execute o fluxo abaixo diretamente, sem fan-out.
-- Consolide o retorno dos filhos em um único relatório final por livro e capítulo.
+- Execute toda a lista `trabalhos` **neste mesmo agente**.
+- **Nunca** abra subagentes por livro, por capítulo ou por faixa.
+- Se houver mais de um livro, processe um item de cada vez e reaplique o fluxo abaixo para cada item.
+- Mantenha um único relatório consolidado por livro e capítulo.
 
 ---
 
-## FLUXO DE LIVRO ÚNICO
+## FLUXO POR LIVRO
+
+Execute esta sequência para cada item de `trabalhos`.
 
 ### 1. Identificar livro e capítulos
 
@@ -110,4 +111,4 @@ Liste os pontos de revisão, se houver.
 - Nunca criar arquivos além dos JSONs de capítulo, `index.json` do livro e `.md` de revisão.
 - O campo `"link"` é obrigatório em todo `<N>.json` da Vulgata.
 - Nunca usar vulgate.org — somente Wikisource.
-- Quando houver mais de um livro, prefira sempre paralelismo por livro a processamento sequencial.
+- Quando houver mais de um livro, mantenha tudo neste mesmo agente e avance livro a livro, sem fan-out.

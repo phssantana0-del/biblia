@@ -1,5 +1,5 @@
 ---
-description: "Use para transcrever um ou mais livros da edição Figueiredo atual, com paralelização interna por livro."
+description: "Use para transcrever um ou mais livros da edição Figueiredo atual sem fan-out por livro."
 name: "Digitalizador — Figueiredo Atual"
 tools: [read, edit, search, execute, todo, agent]
 argument-hint: "Um ou mais livros com capítulos/intervalos (ex: 'Marcos 3-6 e Lucas 1-2')."
@@ -12,15 +12,16 @@ A raiz do projeto é o workspace atual do repositório. Trabalhe sempre com cami
 ## REGRA DE ORQUESTRAÇÃO
 
 - Normalize a solicitação em uma lista `trabalhos`, onde cada item é `{livroId, capInicio, capFim}`.
-- Se `trabalhos` contiver **mais de um livro**, abra **um subagente `general-purpose` por livro**, em paralelo.
-- Cada subagente filho deve receber **exatamente um livro** e executar o fluxo de livro único descrito abaixo.
-- Não misture capítulos de livros diferentes no mesmo subagente.
-- Se houver somente um livro, execute o fluxo abaixo diretamente, sem fan-out.
-- Consolide o retorno dos filhos em um único relatório final por livro e capítulo.
+- Execute toda a lista `trabalhos` **neste mesmo agente**.
+- **Nunca** abra subagentes por livro, por capítulo ou por faixa.
+- Se houver mais de um livro, processe um item de cada vez e reaplique o fluxo abaixo para cada item.
+- Mantenha um único relatório consolidado por livro e capítulo.
 
 ---
 
-## FLUXO DE LIVRO ÚNICO
+## FLUXO POR LIVRO
+
+Execute esta sequência para cada item de `trabalhos`.
 
 ### 1. Identificar livro e capítulos
 
@@ -113,4 +114,4 @@ Liste os pontos de revisão manual, se houver.
 - Execute terminal diretamente quando necessário.
 - Não processe Vulgata nem edição antiga.
 - Nunca crie arquivos auxiliares fora dos JSONs, PDFs e `.md` de revisão.
-- Quando houver mais de um livro, prefira sempre paralelismo por livro a processamento sequencial.
+- Quando houver mais de um livro, mantenha tudo neste mesmo agente e avance livro a livro, sem fan-out.

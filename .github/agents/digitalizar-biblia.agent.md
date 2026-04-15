@@ -1,5 +1,5 @@
 ---
-description: "Use para digitalizar um ou mais livros da Bíblia com orquestração paralela por edição e por livro."
+description: "Use para digitalizar um ou mais livros da Bíblia com paralelismo limitado por edição."
 name: "Digitalizador — Bíblia"
 tools: [read, edit, search, web, todo, agent]
 agents:
@@ -25,11 +25,13 @@ Após concluir as pré-condições sequenciais, **delegue** as tarefas A, B e C 
 - Normalize a solicitação em uma lista `trabalhos`, onde cada item é `{livroId, capInicio, capFim}`.
 - Se houver **mais de um livro**, trate cada item de `trabalhos` como unidade independente.
 - Faça as pré-condições **por livro**. Não bloqueie os demais livros por causa de um único item inválido ou sem PDF original.
-- Assim que a lista estiver validada, dispare **em paralelo**:
+- Assim que a lista estiver validada, dispare **em paralelo, no máximo um subagente por edição**:
   - um subagente **Digitalizador — Figueiredo Atual** com todos os livros válidos;
   - um subagente **Digitalizador — Vulgata Clementina** com todos os livros válidos;
   - um subagente **Digitalizador — Figueiredo Edição Antiga** apenas com os livros cujo `edicoes/figueiredo-original/<livroId>/index.pdf` exista.
-- Os subagentes de edição devem fazer o fan-out interno por livro. **Não serialize livros no orquestrador da Bíblia.**
+- **Nunca** abra subagentes por livro, por capítulo ou por faixa de capítulos.
+- Cada subagente de edição deve processar internamente sua própria lista de livros no mesmo contexto, sem fan-out adicional.
+- Não abra um segundo subagente da mesma edição só para dividir carga.
 - Aguarde os retornos e consolide o relatório final.
 - Se um subagente falhar ou não estiver disponível, informe isso explicitamente no relatório final.
 
@@ -87,15 +89,15 @@ Após validadas as pré-condições, execute as três tarefas abaixo de forma in
 
 ### TAREFA A — Figueiredo: transcrição + PDF recente
 
-Delegue ao **Digitalizador — Figueiredo Atual** os itens executáveis. Esse subagente deve aceitar um ou mais livros e, se receber mais de um, abrir subtarefas paralelas por livro.
+Delegue ao **Digitalizador — Figueiredo Atual** os itens executáveis. Esse subagente deve aceitar um ou mais livros e processá-los no mesmo contexto, sem abrir filhos por livro.
 
 ### TAREFA B — Vulgata Clementina
 
-Delegue ao **Digitalizador — Vulgata Clementina** os itens executáveis. Esse subagente deve aceitar um ou mais livros e, se receber mais de um, abrir subtarefas paralelas por livro.
+Delegue ao **Digitalizador — Vulgata Clementina** os itens executáveis. Esse subagente deve aceitar um ou mais livros e processá-los no mesmo contexto, sem abrir filhos por livro.
 
 ### TAREFA C — Figueiredo Original: PDF da edição original
 
-Delegue ao **Digitalizador — Figueiredo Edição Antiga** apenas os livros cujo `edicoes/figueiredo-original/<livroId>/index.pdf` exista. Esse subagente deve aceitar um ou mais livros e, se receber mais de um, abrir subtarefas paralelas por livro.
+Delegue ao **Digitalizador — Figueiredo Edição Antiga** apenas os livros cujo `edicoes/figueiredo-original/<livroId>/index.pdf` exista. Esse subagente deve aceitar um ou mais livros e processá-los no mesmo contexto, sem abrir filhos por livro.
 
 ---
 
@@ -132,4 +134,4 @@ Liste os pontos de revisão agrupados por edição e por livro.
 - Nunca crie arquivos além dos JSONs de capítulo, `index.json` de livro e `.md` de revisão.
 - Nunca rascunhe JSON em arquivo auxiliar.
 - Quando uma decisão puder ser inferida (metadados canônicos, posição no array, ordem canônica), tome-a e informe brevemente ao usuário.
-- Quando houver mais de um livro, prefira sempre paralelismo por livro a processamento sequencial.
+- Mantenha o paralelismo limitado a **um subagente por edição**. Livros múltiplos devem ser processados dentro do mesmo subagente especializado.
