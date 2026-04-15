@@ -1,6 +1,5 @@
 {
   "num": 17,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -106,5 +105,6 @@
       "n": 26,
       "texto": "Et notum feci eis nomen tuum, et notum faciam : ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_17"
 }

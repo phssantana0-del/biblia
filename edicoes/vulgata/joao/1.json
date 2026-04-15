@@ -1,6 +1,5 @@
 {
   "num": 1,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -206,5 +205,6 @@
       "n": 51,
       "texto": "Et dicit ei : Amen, amen dico vobis, videbitis cælum apertum, et angelos Dei ascendentes, et descendentes supra Filium hominis."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_1"
 }

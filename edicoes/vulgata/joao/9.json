@@ -1,6 +1,5 @@
 {
   "num": 9,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -166,5 +165,6 @@
       "n": 41,
       "texto": "Dixit eis Jesus : Si cæci essetis, non haberetis peccatum. Nunc vero dicitis, Quia videmus : peccatum vestrum manet."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_9"
 }

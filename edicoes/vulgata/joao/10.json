@@ -1,6 +1,5 @@
 {
   "num": 10,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -170,5 +169,6 @@
       "n": 42,
       "texto": "Omnia autem quæcumque dixit Joannes de hoc, vera erant. Et multi crediderunt in eum."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_10"
 }

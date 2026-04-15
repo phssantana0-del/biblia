@@ -2,25 +2,79 @@
   "num": 131,
   "sumario": "Canticum graduum.",
   "versiculos": [
-    { "n": 1,  "texto": "Memento, Domine, David, et omnis mansuetudinis ejus:" },
-    { "n": 2,  "texto": "sicut juravit Domino, votum vovit Deo Jacob:" },
-    { "n": 3,  "texto": "Si introiero in tabernaculum domus meæ; si ascendero in lectum strati mei:" },
-    { "n": 4,  "texto": "si dedero somnum oculis meis, et palpebris meis dormitationem;" },
-    { "n": 5,  "texto": "et requiem temporibus meis: donec inveniam locum Domino, tabernaculum Deo Jacob." },
-    { "n": 6,  "texto": "Ecce audivimus eam in Ephrata: invenimus eam in campis silvæ." },
-    { "n": 7,  "texto": "Introibimus in tabernaculum ejus: adorabimus in loco ubi steterunt pedes ejus." },
-    { "n": 8,  "texto": "Surge, Domine, in requiem tuam, tu et arca sanctificationis tuæ." },
-    { "n": 9,  "texto": "Sacerdotes tui induantur justitiam: et sancti tui exsultent." },
-    { "n": 10, "texto": "Propter David, servum tuum, non avertas faciem christi tui." },
-    { "n": 11, "texto": "Juravit Dominus David veritatem, et non frustrabitur eam: De fructu ventris tui ponam super sedem tuam." },
-    { "n": 12, "texto": "Si custodierint filii tui testamentum meum, et testimonia mea hæc, quæ docebo eos: et filii eorum usque in sæculum sedebunt super sedem tuam." },
-    { "n": 13, "texto": "Quoniam elegit Dominus Sion: elegit eam in habitationem sibi." },
-    { "n": 14, "texto": "Hæc requies mea in sæculum sæculi: hic habitabo quoniam elegi eam." },
-    { "n": 15, "texto": "Viduam ejus benedicens benedicam: pauperes ejus saturabo panibus." },
-    { "n": 16, "texto": "Sacerdotes ejus induam salutari: et sancti ejus exsultatione exsultabunt." },
-    { "n": 17, "texto": "Illuc producam cornu David: paravi lucernam christo meo." },
-    { "n": 18, "texto": "Inimicos ejus induam confusione: super ipsum autem efflorebit sanctificatio mea." }
+    {
+      "n": 1,
+      "texto": "Memento, Domine, David, et omnis mansuetudinis ejus:"
+    },
+    {
+      "n": 2,
+      "texto": "sicut juravit Domino, votum vovit Deo Jacob:"
+    },
+    {
+      "n": 3,
+      "texto": "Si introiero in tabernaculum domus meæ; si ascendero in lectum strati mei:"
+    },
+    {
+      "n": 4,
+      "texto": "si dedero somnum oculis meis, et palpebris meis dormitationem;"
+    },
+    {
+      "n": 5,
+      "texto": "et requiem temporibus meis: donec inveniam locum Domino, tabernaculum Deo Jacob."
+    },
+    {
+      "n": 6,
+      "texto": "Ecce audivimus eam in Ephrata: invenimus eam in campis silvæ."
+    },
+    {
+      "n": 7,
+      "texto": "Introibimus in tabernaculum ejus: adorabimus in loco ubi steterunt pedes ejus."
+    },
+    {
+      "n": 8,
+      "texto": "Surge, Domine, in requiem tuam, tu et arca sanctificationis tuæ."
+    },
+    {
+      "n": 9,
+      "texto": "Sacerdotes tui induantur justitiam: et sancti tui exsultent."
+    },
+    {
+      "n": 10,
+      "texto": "Propter David, servum tuum, non avertas faciem christi tui."
+    },
+    {
+      "n": 11,
+      "texto": "Juravit Dominus David veritatem, et non frustrabitur eam: De fructu ventris tui ponam super sedem tuam."
+    },
+    {
+      "n": 12,
+      "texto": "Si custodierint filii tui testamentum meum, et testimonia mea hæc, quæ docebo eos: et filii eorum usque in sæculum sedebunt super sedem tuam."
+    },
+    {
+      "n": 13,
+      "texto": "Quoniam elegit Dominus Sion: elegit eam in habitationem sibi."
+    },
+    {
+      "n": 14,
+      "texto": "Hæc requies mea in sæculum sæculi: hic habitabo quoniam elegi eam."
+    },
+    {
+      "n": 15,
+      "texto": "Viduam ejus benedicens benedicam: pauperes ejus saturabo panibus."
+    },
+    {
+      "n": 16,
+      "texto": "Sacerdotes ejus induam salutari: et sancti ejus exsultatione exsultabunt."
+    },
+    {
+      "n": 17,
+      "texto": "Illuc producam cornu David: paravi lucernam christo meo."
+    },
+    {
+      "n": 18,
+      "texto": "Inimicos ejus induam confusione: super ipsum autem efflorebit sanctificatio mea."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_131"
 }

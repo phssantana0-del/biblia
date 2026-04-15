@@ -2,18 +2,51 @@
   "num": 6,
   "sumario": "In finem, in carminibus. Psalmus David, pro octava.",
   "versiculos": [
-    { "n": 1, "texto": "In finem, in carminibus. Psalmus David, pro octava." },
-    { "n": 2, "texto": "Domine, ne in furore tuo arguas me, neque in ira tua corripias me." },
-    { "n": 3, "texto": "Miserere mei, Domine, quoniam infirmus sum : sana me, Domine, quoniam conturbata sunt ossa mea." },
-    { "n": 4, "texto": "Et anima mea turbata est valde : sed tu, Domine, usquequo?" },
-    { "n": 5, "texto": "Convertere, Domine, et eripe animam meam : salvum me fac propter misericordiam tuam." },
-    { "n": 6, "texto": "Quoniam non est in morte qui memor sit tui : in inferno autem quis confitebitur tibi?" },
-    { "n": 7, "texto": "Laboravi in gemitu meo, lavabo per singulas noctes lectum meum : lacrimis meis stratum meum rigabo." },
-    { "n": 8, "texto": "Turbatus est a furore oculus meus : inveteravi inter omnes inimicos meos." },
-    { "n": 9, "texto": "Discedite a me, omnes, qui operamini iniquitatem : quoniam exaudivit Dominus vocem fletus mei." },
-    { "n": 10, "texto": "Exaudivit Dominus deprecationem meam, Dominus orationem meam suscepit." },
-    { "n": 11, "texto": "Erubescant, et conturbentur vehementer omnes inimici mei : convertantur et erubescant valde velociter." }
+    {
+      "n": 1,
+      "texto": "In finem, in carminibus. Psalmus David, pro octava."
+    },
+    {
+      "n": 2,
+      "texto": "Domine, ne in furore tuo arguas me, neque in ira tua corripias me."
+    },
+    {
+      "n": 3,
+      "texto": "Miserere mei, Domine, quoniam infirmus sum : sana me, Domine, quoniam conturbata sunt ossa mea."
+    },
+    {
+      "n": 4,
+      "texto": "Et anima mea turbata est valde : sed tu, Domine, usquequo?"
+    },
+    {
+      "n": 5,
+      "texto": "Convertere, Domine, et eripe animam meam : salvum me fac propter misericordiam tuam."
+    },
+    {
+      "n": 6,
+      "texto": "Quoniam non est in morte qui memor sit tui : in inferno autem quis confitebitur tibi?"
+    },
+    {
+      "n": 7,
+      "texto": "Laboravi in gemitu meo, lavabo per singulas noctes lectum meum : lacrimis meis stratum meum rigabo."
+    },
+    {
+      "n": 8,
+      "texto": "Turbatus est a furore oculus meus : inveteravi inter omnes inimicos meos."
+    },
+    {
+      "n": 9,
+      "texto": "Discedite a me, omnes, qui operamini iniquitatem : quoniam exaudivit Dominus vocem fletus mei."
+    },
+    {
+      "n": 10,
+      "texto": "Exaudivit Dominus deprecationem meam, Dominus orationem meam suscepit."
+    },
+    {
+      "n": 11,
+      "texto": "Erubescant, et conturbentur vehementer omnes inimici mei : convertantur et erubescant valde velociter."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_6"
 }

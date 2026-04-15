@@ -1,6 +1,5 @@
 {
   "num": 45,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi",
   "sumario": "Deus noster refugium et virtus",
   "versiculos": [
     {
@@ -52,5 +51,6 @@
       "texto": "Dominus virtutum nobiscum; susceptor noster Deus Jacob."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_45"
 }

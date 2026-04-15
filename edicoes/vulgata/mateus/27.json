@@ -1,74 +1,272 @@
 {
   "num": 27,
   "sumario": "Traditio Pilato. Judas se suspendit. Barabbas dimissus. Flagellatio et coronatio. Crucifixio in Calvario. Mors Domini. Sepultura. Custodes ad sepulcrum.",
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum",
   "versiculos": [
-    { "n": 1,  "texto": "Mane autem facto, consilium inierunt omnes principes sacerdotum et seniores populi adversus Jesum, ut eum morti traderent." },
-    { "n": 2,  "texto": "Et vinctum adduxerunt eum, et tradiderunt Pontio Pilato præsidi." },
-    { "n": 3,  "texto": "Tunc videns Judas, qui eum tradidit, quod damnatus esset, pœnitentia ductus retulit triginta argenteos principibus sacerdotum et senioribus," },
-    { "n": 4,  "texto": "dicens : Peccavi, tradens sanguinem justum. At illi dixerunt : Quid ad nos ? tu videris." },
-    { "n": 5,  "texto": "Et projectis argenteis in templo, recessit : et abiens laqueo se suspendit." },
-    { "n": 6,  "texto": "Principes autem sacerdotum, acceptis argenteis, dixerunt : Non licet eos mittere in corbonam : quia pretium sanguinis est." },
-    { "n": 7,  "texto": "Consilio autem inito, emerunt ex illis agrum figuli, in sepulturam peregrinorum." },
-    { "n": 8,  "texto": "Propter hoc vocatus est ager ille, Haceldama, hoc est, ager sanguinis, usque in hodiernum diem." },
-    { "n": 9,  "texto": "Tunc adimpletum est quod dictum est per Jeremiam prophetam, dicentem : Et acceperunt triginta argenteos, pretium appretiati, quem appretiaverunt a filiis Israël :" },
-    { "n": 10, "texto": "et dederunt eos in agrum figuli, sicut constituit mihi Dominus." },
-    { "n": 11, "texto": "Jesus autem stetit ante præsidem, et interrogavit eum præses, dicens : Tu es Rex Judæorum ? Dicit illi Jesus : Tu dicis." },
-    { "n": 12, "texto": "Et cum accusaretur a principibus sacerdotum et senioribus, nihil respondit." },
-    { "n": 13, "texto": "Tunc dicit ei Pilatus : Non audis quanta adversum te dicunt testimonia ?" },
-    { "n": 14, "texto": "Et non respondit ei ad ullum verbum, ita ut miraretur præses vehementer." },
-    { "n": 15, "texto": "Per diem autem solemnem consueverat præses dimittere populo unum vinctum, quem voluissent." },
-    { "n": 16, "texto": "Habebat autem tunc vinctum insignem, qui dicebatur Barabbas." },
-    { "n": 17, "texto": "Congregatis ergo illis, dixit Pilatus : Quem vultis dimittam vobis ? Barabbam, an Jesum, qui dicitur Christus ?" },
-    { "n": 18, "texto": "Sciebat enim quod per invidiam tradidissent eum." },
-    { "n": 19, "texto": "Sedente autem illo pro tribunali, misit ad illum uxor ejus, dicens : Nihil tibi et justo illi : multa enim passa sum hodie per visum propter eum." },
-    { "n": 20, "texto": "Principes autem sacerdotum et seniores persuaserunt populis ut peterent Barabbam, Jesum vero perderent." },
-    { "n": 21, "texto": "Respondens autem præses ait illis : Quem vultis vobis de duobus dimitti ? At illi dixerunt : Barabbam." },
-    { "n": 22, "texto": "Dicit illis Pilatus : Quid igitur faciam de Jesu, qui dicitur Christus ? Dicunt omnes : Crucifigatur." },
-    { "n": 23, "texto": "Ait illis præses : Quid enim mali fecit ? At illi magis clamabant, dicentes : Crucifigatur." },
-    { "n": 24, "texto": "Videns autem Pilatus quia nihil proficeret, sed magis tumultus fieret : accepta aqua, lavit manus coram populo, dicens : Innocens ego sum a sanguine justi hujus : vos videritis." },
-    { "n": 25, "texto": "Et respondens universus populus dixit : Sanguis ejus super nos, et super filios nostros." },
-    { "n": 26, "texto": "Tunc dimisit illis Barabbam : Jesum autem flagellatum tradidit eis ut crucifigeretur." },
-    { "n": 27, "texto": "Tunc milites præsidis suscipientes Jesum in prætorium, congregaverunt ad eum universam cohortem :" },
-    { "n": 28, "texto": "et exuentes eum, chlamydem coccineam circumdederunt ei," },
-    { "n": 29, "texto": "et plectentes coronam de spinis, posuerunt super caput ejus, et arundinem in dextera ejus. Et genu flexo ante eum, illudebant ei, dicentes : Ave, Rex Judæorum." },
-    { "n": 30, "texto": "Et exspuentes in eum, acceperunt arundinem, et percutiebant caput ejus." },
-    { "n": 31, "texto": "Et postquam illuserunt ei, exuerunt eum chlamyde, et induerunt eum vestimentis ejus, et duxerunt eum ut crucifigerent." },
-    { "n": 32, "texto": "Exeuntes autem invenerunt hominem Cyrenæum nomine Simonem : hunc angariaverunt ut tolleret crucem ejus." },
-    { "n": 33, "texto": "Et venerunt in locum qui dicitur Golgotha, quod est Calvariæ locus." },
-    { "n": 34, "texto": "Et dederunt ei vinum bibere cum felle mixtum. Et cum gustasset, noluit bibere." },
-    { "n": 35, "texto": "Postquam autem crucifixerunt eum, diviserunt vestimenta ejus, sortem mittentes : ut impleretur quod dictum est per prophetam, dicentem : Diviserunt sibi vestimenta mea, et super vestem meam miserunt sortem." },
-    { "n": 36, "texto": "Et sedentes servabant eum." },
-    { "n": 37, "texto": "Et imposuerunt super caput ejus causam ipsius scriptam : Hic est Jesus Rex Judæorum." },
-    { "n": 38, "texto": "Tunc crucifixi sunt cum eo duo latrones : unus a dextris, et unus a sinistris." },
-    { "n": 39, "texto": "Prætereuntes autem blasphemabant eum, moventes capita sua," },
-    { "n": 40, "texto": "et dicentes : Vah, qui destruis templum Dei, et in triduo illud reaedificas : salva temetipsum : si Filius Dei es, descende de cruce." },
-    { "n": 41, "texto": "Similiter et principes sacerdotum illudentes cum scribis et senioribus dicebant :" },
-    { "n": 42, "texto": "Alios salvos fecit, seipsum non potest salvum facere : si Rex Israël est, descendat nunc de cruce, et credimus ei." },
-    { "n": 43, "texto": "Confidit in Deo : liberet nunc eum si vult : dixit enim : Quia Filius Dei sum." },
-    { "n": 44, "texto": "Idipsum autem et latrones, qui crucifixi erant cum eo, improperabant ei." },
-    { "n": 45, "texto": "A sexta autem hora tenebræ factæ sunt super universam terram usque ad horam nonam." },
-    { "n": 46, "texto": "Et circa horam nonam clamavit Jesus voce magna, dicens : Eli, Eli, lamma sabacthani ? hoc est : Deus meus, Deus meus, ut quid dereliquisti me ?" },
-    { "n": 47, "texto": "Quidam autem illic stantes et audientes dicebant : Eliam vocat iste." },
-    { "n": 48, "texto": "Et continuo currens unus ex eis, acceptam spongiam implevit aceto, et imposuit arundini, et dabat ei bibere." },
-    { "n": 49, "texto": "Ceteri vero dicebant : Sine, videamus an veniat Elias liberans eum." },
-    { "n": 50, "texto": "Jesus autem iterum clamans voce magna, emisit spiritum." },
-    { "n": 51, "texto": "Et ecce velum templi scissum est in duas partes a summo usque deorsum : et terra mota est, et petræ scissæ sunt," },
-    { "n": 52, "texto": "et monumenta aperta sunt : et multa corpora sanctorum, qui dormierant, surrexerunt." },
-    { "n": 53, "texto": "Et exeuntes de monumentis post resurrectionem ejus, venerunt in sanctam civitatem, et apparuerunt multis." },
-    { "n": 54, "texto": "Centurio autem et qui cum eo erant, custodientes Jesum, viso terræmotu et his quæ fiebant, timuerunt valde, dicentes : Vere Filius Dei erat iste." },
-    { "n": 55, "texto": "Erant autem ibi mulieres multæ a longe, quæ secutæ erant Jesum a Galilæa, ministrantes ei :" },
-    { "n": 56, "texto": "inter quas erat Maria Magdalene, et Maria Jacobi et Joseph mater, et mater filiorum Zebedæi." },
-    { "n": 57, "texto": "Cum autem sero factum esset, venit quidam homo dives ab Arimathæa, nomine Joseph, qui et ipse discipulus erat Jesu." },
-    { "n": 58, "texto": "Hic accessit ad Pilatum, et petiit corpus Jesu. Tunc Pilatus jussit reddi corpus." },
-    { "n": 59, "texto": "Et accepto corpore, Joseph involvit illud in sindone munda :" },
-    { "n": 60, "texto": "et posuit illud in monumento suo novo, quod exciderat in petra. Et advolvit saxum magnum ad ostium monumenti, et abiit." },
-    { "n": 61, "texto": "Erat autem ibi Maria Magdalene, et altera Maria, sedentes contra sepulcrum." },
-    { "n": 62, "texto": "Altera autem die, quæ est post Parasceven, convenerunt principes sacerdotum et pharisæi ad Pilatum," },
-    { "n": 63, "texto": "dicentes : Domine, recordati sumus, quia seductor ille dixit adhuc vivens : Post triduum resurgam." },
-    { "n": 64, "texto": "Jube ergo custodiri sepulcrum usque in diem tertium : ne forte veniant discipuli ejus, et furentur eum, et dicant plebi : Surrexit a mortuis : et erit novissimus error pejor priore." },
-    { "n": 65, "texto": "Ait illis Pilatus : Habetis custodiam, ite, custodite sicut scitis." },
-    { "n": 66, "texto": "Illi autem abeuntes, munierunt sepulcrum, signantes lapidem, cum custodibus." }
+    {
+      "n": 1,
+      "texto": "Mane autem facto, consilium inierunt omnes principes sacerdotum et seniores populi adversus Jesum, ut eum morti traderent."
+    },
+    {
+      "n": 2,
+      "texto": "Et vinctum adduxerunt eum, et tradiderunt Pontio Pilato præsidi."
+    },
+    {
+      "n": 3,
+      "texto": "Tunc videns Judas, qui eum tradidit, quod damnatus esset, pœnitentia ductus retulit triginta argenteos principibus sacerdotum et senioribus,"
+    },
+    {
+      "n": 4,
+      "texto": "dicens : Peccavi, tradens sanguinem justum. At illi dixerunt : Quid ad nos ? tu videris."
+    },
+    {
+      "n": 5,
+      "texto": "Et projectis argenteis in templo, recessit : et abiens laqueo se suspendit."
+    },
+    {
+      "n": 6,
+      "texto": "Principes autem sacerdotum, acceptis argenteis, dixerunt : Non licet eos mittere in corbonam : quia pretium sanguinis est."
+    },
+    {
+      "n": 7,
+      "texto": "Consilio autem inito, emerunt ex illis agrum figuli, in sepulturam peregrinorum."
+    },
+    {
+      "n": 8,
+      "texto": "Propter hoc vocatus est ager ille, Haceldama, hoc est, ager sanguinis, usque in hodiernum diem."
+    },
+    {
+      "n": 9,
+      "texto": "Tunc adimpletum est quod dictum est per Jeremiam prophetam, dicentem : Et acceperunt triginta argenteos, pretium appretiati, quem appretiaverunt a filiis Israël :"
+    },
+    {
+      "n": 10,
+      "texto": "et dederunt eos in agrum figuli, sicut constituit mihi Dominus."
+    },
+    {
+      "n": 11,
+      "texto": "Jesus autem stetit ante præsidem, et interrogavit eum præses, dicens : Tu es Rex Judæorum ? Dicit illi Jesus : Tu dicis."
+    },
+    {
+      "n": 12,
+      "texto": "Et cum accusaretur a principibus sacerdotum et senioribus, nihil respondit."
+    },
+    {
+      "n": 13,
+      "texto": "Tunc dicit ei Pilatus : Non audis quanta adversum te dicunt testimonia ?"
+    },
+    {
+      "n": 14,
+      "texto": "Et non respondit ei ad ullum verbum, ita ut miraretur præses vehementer."
+    },
+    {
+      "n": 15,
+      "texto": "Per diem autem solemnem consueverat præses dimittere populo unum vinctum, quem voluissent."
+    },
+    {
+      "n": 16,
+      "texto": "Habebat autem tunc vinctum insignem, qui dicebatur Barabbas."
+    },
+    {
+      "n": 17,
+      "texto": "Congregatis ergo illis, dixit Pilatus : Quem vultis dimittam vobis ? Barabbam, an Jesum, qui dicitur Christus ?"
+    },
+    {
+      "n": 18,
+      "texto": "Sciebat enim quod per invidiam tradidissent eum."
+    },
+    {
+      "n": 19,
+      "texto": "Sedente autem illo pro tribunali, misit ad illum uxor ejus, dicens : Nihil tibi et justo illi : multa enim passa sum hodie per visum propter eum."
+    },
+    {
+      "n": 20,
+      "texto": "Principes autem sacerdotum et seniores persuaserunt populis ut peterent Barabbam, Jesum vero perderent."
+    },
+    {
+      "n": 21,
+      "texto": "Respondens autem præses ait illis : Quem vultis vobis de duobus dimitti ? At illi dixerunt : Barabbam."
+    },
+    {
+      "n": 22,
+      "texto": "Dicit illis Pilatus : Quid igitur faciam de Jesu, qui dicitur Christus ? Dicunt omnes : Crucifigatur."
+    },
+    {
+      "n": 23,
+      "texto": "Ait illis præses : Quid enim mali fecit ? At illi magis clamabant, dicentes : Crucifigatur."
+    },
+    {
+      "n": 24,
+      "texto": "Videns autem Pilatus quia nihil proficeret, sed magis tumultus fieret : accepta aqua, lavit manus coram populo, dicens : Innocens ego sum a sanguine justi hujus : vos videritis."
+    },
+    {
+      "n": 25,
+      "texto": "Et respondens universus populus dixit : Sanguis ejus super nos, et super filios nostros."
+    },
+    {
+      "n": 26,
+      "texto": "Tunc dimisit illis Barabbam : Jesum autem flagellatum tradidit eis ut crucifigeretur."
+    },
+    {
+      "n": 27,
+      "texto": "Tunc milites præsidis suscipientes Jesum in prætorium, congregaverunt ad eum universam cohortem :"
+    },
+    {
+      "n": 28,
+      "texto": "et exuentes eum, chlamydem coccineam circumdederunt ei,"
+    },
+    {
+      "n": 29,
+      "texto": "et plectentes coronam de spinis, posuerunt super caput ejus, et arundinem in dextera ejus. Et genu flexo ante eum, illudebant ei, dicentes : Ave, Rex Judæorum."
+    },
+    {
+      "n": 30,
+      "texto": "Et exspuentes in eum, acceperunt arundinem, et percutiebant caput ejus."
+    },
+    {
+      "n": 31,
+      "texto": "Et postquam illuserunt ei, exuerunt eum chlamyde, et induerunt eum vestimentis ejus, et duxerunt eum ut crucifigerent."
+    },
+    {
+      "n": 32,
+      "texto": "Exeuntes autem invenerunt hominem Cyrenæum nomine Simonem : hunc angariaverunt ut tolleret crucem ejus."
+    },
+    {
+      "n": 33,
+      "texto": "Et venerunt in locum qui dicitur Golgotha, quod est Calvariæ locus."
+    },
+    {
+      "n": 34,
+      "texto": "Et dederunt ei vinum bibere cum felle mixtum. Et cum gustasset, noluit bibere."
+    },
+    {
+      "n": 35,
+      "texto": "Postquam autem crucifixerunt eum, diviserunt vestimenta ejus, sortem mittentes : ut impleretur quod dictum est per prophetam, dicentem : Diviserunt sibi vestimenta mea, et super vestem meam miserunt sortem."
+    },
+    {
+      "n": 36,
+      "texto": "Et sedentes servabant eum."
+    },
+    {
+      "n": 37,
+      "texto": "Et imposuerunt super caput ejus causam ipsius scriptam : Hic est Jesus Rex Judæorum."
+    },
+    {
+      "n": 38,
+      "texto": "Tunc crucifixi sunt cum eo duo latrones : unus a dextris, et unus a sinistris."
+    },
+    {
+      "n": 39,
+      "texto": "Prætereuntes autem blasphemabant eum, moventes capita sua,"
+    },
+    {
+      "n": 40,
+      "texto": "et dicentes : Vah, qui destruis templum Dei, et in triduo illud reaedificas : salva temetipsum : si Filius Dei es, descende de cruce."
+    },
+    {
+      "n": 41,
+      "texto": "Similiter et principes sacerdotum illudentes cum scribis et senioribus dicebant :"
+    },
+    {
+      "n": 42,
+      "texto": "Alios salvos fecit, seipsum non potest salvum facere : si Rex Israël est, descendat nunc de cruce, et credimus ei."
+    },
+    {
+      "n": 43,
+      "texto": "Confidit in Deo : liberet nunc eum si vult : dixit enim : Quia Filius Dei sum."
+    },
+    {
+      "n": 44,
+      "texto": "Idipsum autem et latrones, qui crucifixi erant cum eo, improperabant ei."
+    },
+    {
+      "n": 45,
+      "texto": "A sexta autem hora tenebræ factæ sunt super universam terram usque ad horam nonam."
+    },
+    {
+      "n": 46,
+      "texto": "Et circa horam nonam clamavit Jesus voce magna, dicens : Eli, Eli, lamma sabacthani ? hoc est : Deus meus, Deus meus, ut quid dereliquisti me ?"
+    },
+    {
+      "n": 47,
+      "texto": "Quidam autem illic stantes et audientes dicebant : Eliam vocat iste."
+    },
+    {
+      "n": 48,
+      "texto": "Et continuo currens unus ex eis, acceptam spongiam implevit aceto, et imposuit arundini, et dabat ei bibere."
+    },
+    {
+      "n": 49,
+      "texto": "Ceteri vero dicebant : Sine, videamus an veniat Elias liberans eum."
+    },
+    {
+      "n": 50,
+      "texto": "Jesus autem iterum clamans voce magna, emisit spiritum."
+    },
+    {
+      "n": 51,
+      "texto": "Et ecce velum templi scissum est in duas partes a summo usque deorsum : et terra mota est, et petræ scissæ sunt,"
+    },
+    {
+      "n": 52,
+      "texto": "et monumenta aperta sunt : et multa corpora sanctorum, qui dormierant, surrexerunt."
+    },
+    {
+      "n": 53,
+      "texto": "Et exeuntes de monumentis post resurrectionem ejus, venerunt in sanctam civitatem, et apparuerunt multis."
+    },
+    {
+      "n": 54,
+      "texto": "Centurio autem et qui cum eo erant, custodientes Jesum, viso terræmotu et his quæ fiebant, timuerunt valde, dicentes : Vere Filius Dei erat iste."
+    },
+    {
+      "n": 55,
+      "texto": "Erant autem ibi mulieres multæ a longe, quæ secutæ erant Jesum a Galilæa, ministrantes ei :"
+    },
+    {
+      "n": 56,
+      "texto": "inter quas erat Maria Magdalene, et Maria Jacobi et Joseph mater, et mater filiorum Zebedæi."
+    },
+    {
+      "n": 57,
+      "texto": "Cum autem sero factum esset, venit quidam homo dives ab Arimathæa, nomine Joseph, qui et ipse discipulus erat Jesu."
+    },
+    {
+      "n": 58,
+      "texto": "Hic accessit ad Pilatum, et petiit corpus Jesu. Tunc Pilatus jussit reddi corpus."
+    },
+    {
+      "n": 59,
+      "texto": "Et accepto corpore, Joseph involvit illud in sindone munda :"
+    },
+    {
+      "n": 60,
+      "texto": "et posuit illud in monumento suo novo, quod exciderat in petra. Et advolvit saxum magnum ad ostium monumenti, et abiit."
+    },
+    {
+      "n": 61,
+      "texto": "Erat autem ibi Maria Magdalene, et altera Maria, sedentes contra sepulcrum."
+    },
+    {
+      "n": 62,
+      "texto": "Altera autem die, quæ est post Parasceven, convenerunt principes sacerdotum et pharisæi ad Pilatum,"
+    },
+    {
+      "n": 63,
+      "texto": "dicentes : Domine, recordati sumus, quia seductor ille dixit adhuc vivens : Post triduum resurgam."
+    },
+    {
+      "n": 64,
+      "texto": "Jube ergo custodiri sepulcrum usque in diem tertium : ne forte veniant discipuli ejus, et furentur eum, et dicant plebi : Surrexit a mortuis : et erit novissimus error pejor priore."
+    },
+    {
+      "n": 65,
+      "texto": "Ait illis Pilatus : Habetis custodiam, ite, custodite sicut scitis."
+    },
+    {
+      "n": 66,
+      "texto": "Illi autem abeuntes, munierunt sepulcrum, signantes lapidem, cum custodibus."
+    }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum#Caput_27"
 }

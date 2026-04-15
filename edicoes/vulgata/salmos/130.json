@@ -2,10 +2,19 @@
   "num": 130,
   "sumario": "Canticum graduum David.",
   "versiculos": [
-    { "n": 1, "texto": "Domine, non est exaltatum cor meum: neque elati sunt oculi mei. Neque ambulavi in magnis: neque in mirabilibus super me." },
-    { "n": 2, "texto": "Si non humiliter sentiebam: sed exaltavi animam meam: sicut ablactatus est super matre sua, ita retributio in anima mea." },
-    { "n": 3, "texto": "Speret Israel in Domino, ex hoc nunc et usque in sæculum." }
+    {
+      "n": 1,
+      "texto": "Domine, non est exaltatum cor meum: neque elati sunt oculi mei. Neque ambulavi in magnis: neque in mirabilibus super me."
+    },
+    {
+      "n": 2,
+      "texto": "Si non humiliter sentiebam: sed exaltavi animam meam: sicut ablactatus est super matre sua, ita retributio in anima mea."
+    },
+    {
+      "n": 3,
+      "texto": "Speret Israel in Domino, ex hoc nunc et usque in sæculum."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_130"
 }

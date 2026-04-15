@@ -1,54 +1,192 @@
 {
   "num": 22,
   "sumario": "Parabola regis et nuptiarum. Tributum Cæsari reddendum. De resurrectione mortuorum. Mandatum primum et magnum. Christus Dominus et filius David.",
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum",
   "versiculos": [
-    { "n": 1,  "texto": "Et respondens Jesus, dixit iterum in parabolis eis, dicens :" },
-    { "n": 2,  "texto": "Simile factum est regnum cælorum homini regi, qui fecit nuptias filio suo." },
-    { "n": 3,  "texto": "Et misit servos suos vocare invitatos ad nuptias, et nolebant venire." },
-    { "n": 4,  "texto": "Iterum misit alios servos, dicens : Dicite invitatis : Ecce prandium meum paravi, tauri mei et altilia occisa sunt, et omnia parata : venite ad nuptias." },
-    { "n": 5,  "texto": "Illi autem neglexerunt : et abierunt, alius in villam suam, alius vero ad negotiationem suam :" },
-    { "n": 6,  "texto": "reliqui vero tenuerunt servos ejus, et contumeliis affectos occiderunt." },
-    { "n": 7,  "texto": "Rex autem cum audisset, iratus est : et missis exercitibus suis, perdidit homicidas illos, et civitatem illorum succendit." },
-    { "n": 8,  "texto": "Tunc ait servis suis : Nuptiæ quidem paratæ sunt, sed qui invitati erant, non fuerunt digni." },
-    { "n": 9,  "texto": "Ite ergo ad exitus viarum, et quoscumque inveneritis, vocate ad nuptias." },
-    { "n": 10, "texto": "Et egressi servi ejus in vias, congregaverunt omnes quos invenerunt, malos et bonos : et impletæ sunt nuptiæ discumbentium." },
-    { "n": 11, "texto": "Intravit autem rex ut videret discumbentes, et vidit ibi hominem non vestitum veste nuptiali." },
-    { "n": 12, "texto": "Et ait illi : Amice, quomodo huc intrasti non habens vestem nuptialem ? At ille obmutuit." },
-    { "n": 13, "texto": "Tunc dixit rex ministris : Ligatis manibus et pedibus ejus, mittite eum in tenebras exteriores : ibi erit fletus, et stridor dentium." },
-    { "n": 14, "texto": "Multi enim sunt vocati, pauci vero electi." },
-    { "n": 15, "texto": "Tunc abeuntes pharisæi, consilium inierunt ut caperent eum in sermone." },
-    { "n": 16, "texto": "Et mittunt ei discipulos suos cum herodianis, dicentes : Magister, scimus quia verax es, et viam Dei in veritate doces, et non est tibi cura de aliquo : non enim respicis personam hominum." },
-    { "n": 17, "texto": "Dic ergo nobis quid tibi videtur : licet censum dare Cæsari, an non ?" },
-    { "n": 18, "texto": "Cognita autem Jesus nequitia eorum, ait : Quid me tentatis, hypocritæ ?" },
-    { "n": 19, "texto": "Ostendite mihi nomisma census. At illi obtulerunt ei denarium." },
-    { "n": 20, "texto": "Et ait illis Jesus : Cujus est imago hæc, et superscriptio ?" },
-    { "n": 21, "texto": "Dicunt ei : Cæsaris. Tunc ait illis : Reddite ergo quæ sunt Cæsaris Cæsari : et quæ sunt Dei, Deo." },
-    { "n": 22, "texto": "Et audientes mirati sunt, et relicto eo, abierunt." },
-    { "n": 23, "texto": "In illo die accesserunt ad eum sadducæi, qui dicunt non esse resurrectionem : et interrogaverunt eum," },
-    { "n": 24, "texto": "dicentes : Magister, Moyses dixit : Si quis mortuus fuerit non habens filium, ut ducat frater ejus uxorem illius, et suscitet semen fratri suo." },
-    { "n": 25, "texto": "Erant autem apud nos septem fratres : et primus, uxore ducta, mortuus est : et non habens semen, reliquit uxorem suam fratri suo." },
-    { "n": 26, "texto": "Similiter secundus, et tertius, usque ad septimum." },
-    { "n": 27, "texto": "Novissime autem omnium et mulier defuncta est." },
-    { "n": 28, "texto": "In resurrectione ergo, cujus erit de septem uxor ? omnes enim habuerunt eam." },
-    { "n": 29, "texto": "Respondens autem Jesus, ait illis : Erratis, nescientes Scripturas, neque virtutem Dei." },
-    { "n": 30, "texto": "In resurrectione enim neque nubent, neque nubentur : sed erunt sicut angeli Dei in cælo." },
-    { "n": 31, "texto": "De resurrectione autem mortuorum non legistis quod dictum est a Deo dicente vobis :" },
-    { "n": 32, "texto": "Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob ? Non est Deus mortuorum, sed viventium." },
-    { "n": 33, "texto": "Et audientes turbæ mirabantur in doctrina ejus." },
-    { "n": 34, "texto": "Pharisæi autem audientes quod silentium imposuisset sadducæis, convenerunt in unum :" },
-    { "n": 35, "texto": "et interrogavit unus ex eis legis doctor, tentans eum :" },
-    { "n": 36, "texto": "Magister, quod est mandatum magnum in lege ?" },
-    { "n": 37, "texto": "Ait illi Jesus : Diliges Dominum Deum tuum ex toto corde tuo, et in tota anima tua, et in tota mente tua." },
-    { "n": 38, "texto": "Hoc est maximum, et primum mandatum." },
-    { "n": 39, "texto": "Secundum autem simile est huic : Diliges proximum tuum sicut teipsum." },
-    { "n": 40, "texto": "In his duobus mandatis universa lex pendet, et prophetæ." },
-    { "n": 41, "texto": "Congregatis autem pharisæis, interrogavit eos Jesus," },
-    { "n": 42, "texto": "dicens : Quid vobis videtur de Christo ? cujus filius est ? Dicunt ei : David." },
-    { "n": 43, "texto": "Ait illis : Quomodo ergo David in spiritu vocat eum Dominum, dicens :" },
-    { "n": 44, "texto": "Dixit Dominus Domino meo : Sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum ?" },
-    { "n": 45, "texto": "Si ergo David vocat eum Dominum, quomodo filius ejus est ?" },
-    { "n": 46, "texto": "Et nemo poterat ei respondere verbum : neque ausus fuit quisquam ex illa die eum amplius interrogare." }
+    {
+      "n": 1,
+      "texto": "Et respondens Jesus, dixit iterum in parabolis eis, dicens :"
+    },
+    {
+      "n": 2,
+      "texto": "Simile factum est regnum cælorum homini regi, qui fecit nuptias filio suo."
+    },
+    {
+      "n": 3,
+      "texto": "Et misit servos suos vocare invitatos ad nuptias, et nolebant venire."
+    },
+    {
+      "n": 4,
+      "texto": "Iterum misit alios servos, dicens : Dicite invitatis : Ecce prandium meum paravi, tauri mei et altilia occisa sunt, et omnia parata : venite ad nuptias."
+    },
+    {
+      "n": 5,
+      "texto": "Illi autem neglexerunt : et abierunt, alius in villam suam, alius vero ad negotiationem suam :"
+    },
+    {
+      "n": 6,
+      "texto": "reliqui vero tenuerunt servos ejus, et contumeliis affectos occiderunt."
+    },
+    {
+      "n": 7,
+      "texto": "Rex autem cum audisset, iratus est : et missis exercitibus suis, perdidit homicidas illos, et civitatem illorum succendit."
+    },
+    {
+      "n": 8,
+      "texto": "Tunc ait servis suis : Nuptiæ quidem paratæ sunt, sed qui invitati erant, non fuerunt digni."
+    },
+    {
+      "n": 9,
+      "texto": "Ite ergo ad exitus viarum, et quoscumque inveneritis, vocate ad nuptias."
+    },
+    {
+      "n": 10,
+      "texto": "Et egressi servi ejus in vias, congregaverunt omnes quos invenerunt, malos et bonos : et impletæ sunt nuptiæ discumbentium."
+    },
+    {
+      "n": 11,
+      "texto": "Intravit autem rex ut videret discumbentes, et vidit ibi hominem non vestitum veste nuptiali."
+    },
+    {
+      "n": 12,
+      "texto": "Et ait illi : Amice, quomodo huc intrasti non habens vestem nuptialem ? At ille obmutuit."
+    },
+    {
+      "n": 13,
+      "texto": "Tunc dixit rex ministris : Ligatis manibus et pedibus ejus, mittite eum in tenebras exteriores : ibi erit fletus, et stridor dentium."
+    },
+    {
+      "n": 14,
+      "texto": "Multi enim sunt vocati, pauci vero electi."
+    },
+    {
+      "n": 15,
+      "texto": "Tunc abeuntes pharisæi, consilium inierunt ut caperent eum in sermone."
+    },
+    {
+      "n": 16,
+      "texto": "Et mittunt ei discipulos suos cum herodianis, dicentes : Magister, scimus quia verax es, et viam Dei in veritate doces, et non est tibi cura de aliquo : non enim respicis personam hominum."
+    },
+    {
+      "n": 17,
+      "texto": "Dic ergo nobis quid tibi videtur : licet censum dare Cæsari, an non ?"
+    },
+    {
+      "n": 18,
+      "texto": "Cognita autem Jesus nequitia eorum, ait : Quid me tentatis, hypocritæ ?"
+    },
+    {
+      "n": 19,
+      "texto": "Ostendite mihi nomisma census. At illi obtulerunt ei denarium."
+    },
+    {
+      "n": 20,
+      "texto": "Et ait illis Jesus : Cujus est imago hæc, et superscriptio ?"
+    },
+    {
+      "n": 21,
+      "texto": "Dicunt ei : Cæsaris. Tunc ait illis : Reddite ergo quæ sunt Cæsaris Cæsari : et quæ sunt Dei, Deo."
+    },
+    {
+      "n": 22,
+      "texto": "Et audientes mirati sunt, et relicto eo, abierunt."
+    },
+    {
+      "n": 23,
+      "texto": "In illo die accesserunt ad eum sadducæi, qui dicunt non esse resurrectionem : et interrogaverunt eum,"
+    },
+    {
+      "n": 24,
+      "texto": "dicentes : Magister, Moyses dixit : Si quis mortuus fuerit non habens filium, ut ducat frater ejus uxorem illius, et suscitet semen fratri suo."
+    },
+    {
+      "n": 25,
+      "texto": "Erant autem apud nos septem fratres : et primus, uxore ducta, mortuus est : et non habens semen, reliquit uxorem suam fratri suo."
+    },
+    {
+      "n": 26,
+      "texto": "Similiter secundus, et tertius, usque ad septimum."
+    },
+    {
+      "n": 27,
+      "texto": "Novissime autem omnium et mulier defuncta est."
+    },
+    {
+      "n": 28,
+      "texto": "In resurrectione ergo, cujus erit de septem uxor ? omnes enim habuerunt eam."
+    },
+    {
+      "n": 29,
+      "texto": "Respondens autem Jesus, ait illis : Erratis, nescientes Scripturas, neque virtutem Dei."
+    },
+    {
+      "n": 30,
+      "texto": "In resurrectione enim neque nubent, neque nubentur : sed erunt sicut angeli Dei in cælo."
+    },
+    {
+      "n": 31,
+      "texto": "De resurrectione autem mortuorum non legistis quod dictum est a Deo dicente vobis :"
+    },
+    {
+      "n": 32,
+      "texto": "Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob ? Non est Deus mortuorum, sed viventium."
+    },
+    {
+      "n": 33,
+      "texto": "Et audientes turbæ mirabantur in doctrina ejus."
+    },
+    {
+      "n": 34,
+      "texto": "Pharisæi autem audientes quod silentium imposuisset sadducæis, convenerunt in unum :"
+    },
+    {
+      "n": 35,
+      "texto": "et interrogavit unus ex eis legis doctor, tentans eum :"
+    },
+    {
+      "n": 36,
+      "texto": "Magister, quod est mandatum magnum in lege ?"
+    },
+    {
+      "n": 37,
+      "texto": "Ait illi Jesus : Diliges Dominum Deum tuum ex toto corde tuo, et in tota anima tua, et in tota mente tua."
+    },
+    {
+      "n": 38,
+      "texto": "Hoc est maximum, et primum mandatum."
+    },
+    {
+      "n": 39,
+      "texto": "Secundum autem simile est huic : Diliges proximum tuum sicut teipsum."
+    },
+    {
+      "n": 40,
+      "texto": "In his duobus mandatis universa lex pendet, et prophetæ."
+    },
+    {
+      "n": 41,
+      "texto": "Congregatis autem pharisæis, interrogavit eos Jesus,"
+    },
+    {
+      "n": 42,
+      "texto": "dicens : Quid vobis videtur de Christo ? cujus filius est ? Dicunt ei : David."
+    },
+    {
+      "n": 43,
+      "texto": "Ait illis : Quomodo ergo David in spiritu vocat eum Dominum, dicens :"
+    },
+    {
+      "n": 44,
+      "texto": "Dixit Dominus Domino meo : Sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum ?"
+    },
+    {
+      "n": 45,
+      "texto": "Si ergo David vocat eum Dominum, quomodo filius ejus est ?"
+    },
+    {
+      "n": 46,
+      "texto": "Et nemo poterat ei respondere verbum : neque ausus fuit quisquam ex illa die eum amplius interrogare."
+    }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum#Caput_22"
 }

@@ -2,16 +2,43 @@
   "num": 149,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1, "texto": "Cantate Domino canticum novum: laus ejus in ecclesia sanctorum." },
-    { "n": 2, "texto": "Lætetur Israel in eo qui fecit eum, et filii Sion exsultent in rege suo." },
-    { "n": 3, "texto": "Laudent nomen ejus in choro: in tympano et psalterio psallant ei." },
-    { "n": 4, "texto": "Quia beneplacitum est Domino in populo suo, et exaltabit mansuetos in salutem." },
-    { "n": 5, "texto": "Exsultabunt sancti in gloria; lætabuntur in cubilibus suis." },
-    { "n": 6, "texto": "Exaltationes Dei in gutture eorum, et gladii ancipites in manibus eorum:" },
-    { "n": 7, "texto": "ad faciendam vindictam in nationibus, increpationes in populis;" },
-    { "n": 8, "texto": "ad alligandos reges eorum in compedibus, et nobiles eorum in manicis ferreis;" },
-    { "n": 9, "texto": "ut faciant in eis judicium conscriptum: gloria hæc est omnibus sanctis ejus." }
+    {
+      "n": 1,
+      "texto": "Cantate Domino canticum novum: laus ejus in ecclesia sanctorum."
+    },
+    {
+      "n": 2,
+      "texto": "Lætetur Israel in eo qui fecit eum, et filii Sion exsultent in rege suo."
+    },
+    {
+      "n": 3,
+      "texto": "Laudent nomen ejus in choro: in tympano et psalterio psallant ei."
+    },
+    {
+      "n": 4,
+      "texto": "Quia beneplacitum est Domino in populo suo, et exaltabit mansuetos in salutem."
+    },
+    {
+      "n": 5,
+      "texto": "Exsultabunt sancti in gloria; lætabuntur in cubilibus suis."
+    },
+    {
+      "n": 6,
+      "texto": "Exaltationes Dei in gutture eorum, et gladii ancipites in manibus eorum:"
+    },
+    {
+      "n": 7,
+      "texto": "ad faciendam vindictam in nationibus, increpationes in populis;"
+    },
+    {
+      "n": 8,
+      "texto": "ad alligandos reges eorum in compedibus, et nobiles eorum in manicis ferreis;"
+    },
+    {
+      "n": 9,
+      "texto": "ut faciant in eis judicium conscriptum: gloria hæc est omnibus sanctis ejus."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_149"
 }

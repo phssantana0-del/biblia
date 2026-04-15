@@ -2,10 +2,19 @@
   "num": 132,
   "sumario": "Canticum graduum. David.",
   "versiculos": [
-    { "n": 1, "texto": "Ecce quam bonum, et quam jucundum habitare fratres in unum!" },
-    { "n": 2, "texto": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti ejus:" },
-    { "n": 3, "texto": "sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum." }
+    {
+      "n": 1,
+      "texto": "Ecce quam bonum, et quam jucundum habitare fratres in unum!"
+    },
+    {
+      "n": 2,
+      "texto": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti ejus:"
+    },
+    {
+      "n": 3,
+      "texto": "sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_132"
 }

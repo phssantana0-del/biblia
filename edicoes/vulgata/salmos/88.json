@@ -2,60 +2,219 @@
   "num": 88,
   "sumario": "Intellectus Ethan Ezrahitæ.",
   "versiculos": [
-    { "n": 1,  "texto": "Intellectus Ethan Ezrahitæ." },
-    { "n": 2,  "texto": "Misericordias Domini in æternum cantabo. In generationem et generationem annuntiabo veritatem tuam in ore meo." },
-    { "n": 3,  "texto": "Quoniam dixisti: In æternum misericordia ædificabitur in cælis; præparabitur veritas tua in eis." },
-    { "n": 4,  "texto": "Disposui testamentum electis meis; juravi David servo meo:" },
-    { "n": 5,  "texto": "Usque in æternum præparabo semen tuum, et ædificabo in generationem et generationem sedem tuam." },
-    { "n": 6,  "texto": "Confitebuntur cæli mirabilia tua, Domine; etenim veritatem tuam in ecclesia sanctorum." },
-    { "n": 7,  "texto": "Quoniam quis in nubibus æquabitur Domino? similis erit Deo in filiis Dei?" },
-    { "n": 8,  "texto": "Deus, qui glorificatur in consilio sanctorum, magnus et terribilis super omnes qui in circuitu ejus sunt." },
-    { "n": 9,  "texto": "Domine Deus virtutum, quis similis tibi? potens es, Domine, et veritas tua in circuitu tuo." },
-    { "n": 10, "texto": "Tu dominaris potestati maris; motum autem fluctuum ejus tu mitigas." },
-    { "n": 11, "texto": "Tu humiliasti sicut vulneratum, superbum; in brachio virtutis tuæ dispersisti inimicos tuos." },
-    { "n": 12, "texto": "Tui sunt cæli, et tua est terra; orbem terræ et plenitudinem ejus tu fundasti." },
-    { "n": 13, "texto": "Aquilonem et mare tu creasti. Thabor et Hermon in nomine tuo exsultabunt:" },
-    { "n": 14, "texto": "tuum brachium cum potentia. Firmetur manus tua, et exaltetur dextera tua:" },
-    { "n": 15, "texto": "justitia et judicium præparatio sedis tuæ. Misericordia et veritas præcedent faciem tuam:" },
-    { "n": 16, "texto": "beatus populus qui scit jubilationem. Domine, in lumine vultus tui ambulabunt," },
-    { "n": 17, "texto": "et in nomine tuo exsultabunt tota die, et in justitia tua exaltabuntur." },
-    { "n": 18, "texto": "Quoniam gloria virtutis eorum tu es, et in beneplacito tuo exaltabitur cornu nostrum:" },
-    { "n": 19, "texto": "quia Domini est assumptio nostra, et Sancti Israel regis nostri." },
-    { "n": 20, "texto": "Tunc locutus es in visione sanctis tuis, et dixisti: Posui adjutorium in potente, et exaltavi electum de plebe mea." },
-    { "n": 21, "texto": "Inveni David servum meum; oleo sancto meo unxi eum." },
-    { "n": 22, "texto": "Manus enim mea auxiliabitur ei, et brachium meum confortabit eum." },
-    { "n": 23, "texto": "Nihil proficiet inimicus in eo, et filius iniquitatis non apponet nocere ei." },
-    { "n": 24, "texto": "Et concidam a facie ipsius inimicos ejus, et odientes eum in fugam convertam." },
-    { "n": 25, "texto": "Et veritas mea et misericordia mea cum ipso, et in nomine meo exaltabitur cornu ejus." },
-    { "n": 26, "texto": "Et ponam in mari manum ejus, et in fluminibus dexteram ejus." },
-    { "n": 27, "texto": "Ipse invocabit me: Pater meus es tu, Deus meus, et susceptor salutis meæ." },
-    { "n": 28, "texto": "Et ego primogenitum ponam illum, excelsum præ regibus terræ." },
-    { "n": 29, "texto": "In æternum servabo illi misericordiam meam, et testamentum meum fidele ipsi." },
-    { "n": 30, "texto": "Et ponam in sæculum sæculi semen ejus, et thronum ejus sicut dies cæli." },
-    { "n": 31, "texto": "Si autem dereliquerint filii ejus legem meam, et in judiciis meis non ambulaverint;" },
-    { "n": 32, "texto": "si justitias meas profanaverint, et mandata mea non custodierint:" },
-    { "n": 33, "texto": "visitabo in virga iniquitates eorum, et in verberibus peccata eorum;" },
-    { "n": 34, "texto": "misericordiam autem meam non dispergam ab eo, neque nocebo in veritate mea;" },
-    { "n": 35, "texto": "neque profanabo testamentum meum, et quæ procedunt de labiis meis non faciam irrita." },
-    { "n": 36, "texto": "Semel juravi in sancto meo, si David mentiar:" },
-    { "n": 37, "texto": "semen ejus in æternum manebit." },
-    { "n": 38, "texto": "Et thronus ejus sicut sol in conspectu meo, et sicut luna perfecta in æternum, et testis in cælo fidelis." },
-    { "n": 39, "texto": "Tu vero repulisti et despexisti, distulisti christum tuum." },
-    { "n": 40, "texto": "Evertisti testamentum servi tui; profanasti in terra sanctuarium ejus." },
-    { "n": 41, "texto": "Destruxisti omnes sepes ejus; posuisti firmamentum ejus formidinem." },
-    { "n": 42, "texto": "Diripuerunt eum omnes transeuntes viam; factus est opprobrium vicinis suis." },
-    { "n": 43, "texto": "Exaltasti dexteram deprimentium eum; lætificasti omnes inimicos ejus." },
-    { "n": 44, "texto": "Avertisti adjutorium gladii ejus, et non es auxiliatus ei in bello." },
-    { "n": 45, "texto": "Destruxisti eum ab emundatione, et sedem ejus in terram collisisti." },
-    { "n": 46, "texto": "Minorasti dies temporis ejus; perfudisti eum confusione." },
-    { "n": 47, "texto": "Usquequo, Domine, avertis in finem? exardescet sicut ignis ira tua?" },
-    { "n": 48, "texto": "Memorare quæ mea substantia: numquid enim vane constituisti omnes filios hominum?" },
-    { "n": 49, "texto": "Quis est homo qui vivet, et non videbit mortem? eruet animam suam de manu inferi?" },
-    { "n": 50, "texto": "Ubi sunt misericordiæ tuæ antiquæ, Domine, sicut jurasti David in veritate tua?" },
-    { "n": 51, "texto": "Memor esto, Domine, opprobrii servorum tuorum (quod continui in sinu meo) multarum gentium;" },
-    { "n": 52, "texto": "quod exprobraverunt inimici tui, Domine, quod exprobraverunt commutationem christi tui." },
-    { "n": 53, "texto": "Benedictus Dominus in æternum. Fiat, fiat." }
+    {
+      "n": 1,
+      "texto": "Intellectus Ethan Ezrahitæ."
+    },
+    {
+      "n": 2,
+      "texto": "Misericordias Domini in æternum cantabo. In generationem et generationem annuntiabo veritatem tuam in ore meo."
+    },
+    {
+      "n": 3,
+      "texto": "Quoniam dixisti: In æternum misericordia ædificabitur in cælis; præparabitur veritas tua in eis."
+    },
+    {
+      "n": 4,
+      "texto": "Disposui testamentum electis meis; juravi David servo meo:"
+    },
+    {
+      "n": 5,
+      "texto": "Usque in æternum præparabo semen tuum, et ædificabo in generationem et generationem sedem tuam."
+    },
+    {
+      "n": 6,
+      "texto": "Confitebuntur cæli mirabilia tua, Domine; etenim veritatem tuam in ecclesia sanctorum."
+    },
+    {
+      "n": 7,
+      "texto": "Quoniam quis in nubibus æquabitur Domino? similis erit Deo in filiis Dei?"
+    },
+    {
+      "n": 8,
+      "texto": "Deus, qui glorificatur in consilio sanctorum, magnus et terribilis super omnes qui in circuitu ejus sunt."
+    },
+    {
+      "n": 9,
+      "texto": "Domine Deus virtutum, quis similis tibi? potens es, Domine, et veritas tua in circuitu tuo."
+    },
+    {
+      "n": 10,
+      "texto": "Tu dominaris potestati maris; motum autem fluctuum ejus tu mitigas."
+    },
+    {
+      "n": 11,
+      "texto": "Tu humiliasti sicut vulneratum, superbum; in brachio virtutis tuæ dispersisti inimicos tuos."
+    },
+    {
+      "n": 12,
+      "texto": "Tui sunt cæli, et tua est terra; orbem terræ et plenitudinem ejus tu fundasti."
+    },
+    {
+      "n": 13,
+      "texto": "Aquilonem et mare tu creasti. Thabor et Hermon in nomine tuo exsultabunt:"
+    },
+    {
+      "n": 14,
+      "texto": "tuum brachium cum potentia. Firmetur manus tua, et exaltetur dextera tua:"
+    },
+    {
+      "n": 15,
+      "texto": "justitia et judicium præparatio sedis tuæ. Misericordia et veritas præcedent faciem tuam:"
+    },
+    {
+      "n": 16,
+      "texto": "beatus populus qui scit jubilationem. Domine, in lumine vultus tui ambulabunt,"
+    },
+    {
+      "n": 17,
+      "texto": "et in nomine tuo exsultabunt tota die, et in justitia tua exaltabuntur."
+    },
+    {
+      "n": 18,
+      "texto": "Quoniam gloria virtutis eorum tu es, et in beneplacito tuo exaltabitur cornu nostrum:"
+    },
+    {
+      "n": 19,
+      "texto": "quia Domini est assumptio nostra, et Sancti Israel regis nostri."
+    },
+    {
+      "n": 20,
+      "texto": "Tunc locutus es in visione sanctis tuis, et dixisti: Posui adjutorium in potente, et exaltavi electum de plebe mea."
+    },
+    {
+      "n": 21,
+      "texto": "Inveni David servum meum; oleo sancto meo unxi eum."
+    },
+    {
+      "n": 22,
+      "texto": "Manus enim mea auxiliabitur ei, et brachium meum confortabit eum."
+    },
+    {
+      "n": 23,
+      "texto": "Nihil proficiet inimicus in eo, et filius iniquitatis non apponet nocere ei."
+    },
+    {
+      "n": 24,
+      "texto": "Et concidam a facie ipsius inimicos ejus, et odientes eum in fugam convertam."
+    },
+    {
+      "n": 25,
+      "texto": "Et veritas mea et misericordia mea cum ipso, et in nomine meo exaltabitur cornu ejus."
+    },
+    {
+      "n": 26,
+      "texto": "Et ponam in mari manum ejus, et in fluminibus dexteram ejus."
+    },
+    {
+      "n": 27,
+      "texto": "Ipse invocabit me: Pater meus es tu, Deus meus, et susceptor salutis meæ."
+    },
+    {
+      "n": 28,
+      "texto": "Et ego primogenitum ponam illum, excelsum præ regibus terræ."
+    },
+    {
+      "n": 29,
+      "texto": "In æternum servabo illi misericordiam meam, et testamentum meum fidele ipsi."
+    },
+    {
+      "n": 30,
+      "texto": "Et ponam in sæculum sæculi semen ejus, et thronum ejus sicut dies cæli."
+    },
+    {
+      "n": 31,
+      "texto": "Si autem dereliquerint filii ejus legem meam, et in judiciis meis non ambulaverint;"
+    },
+    {
+      "n": 32,
+      "texto": "si justitias meas profanaverint, et mandata mea non custodierint:"
+    },
+    {
+      "n": 33,
+      "texto": "visitabo in virga iniquitates eorum, et in verberibus peccata eorum;"
+    },
+    {
+      "n": 34,
+      "texto": "misericordiam autem meam non dispergam ab eo, neque nocebo in veritate mea;"
+    },
+    {
+      "n": 35,
+      "texto": "neque profanabo testamentum meum, et quæ procedunt de labiis meis non faciam irrita."
+    },
+    {
+      "n": 36,
+      "texto": "Semel juravi in sancto meo, si David mentiar:"
+    },
+    {
+      "n": 37,
+      "texto": "semen ejus in æternum manebit."
+    },
+    {
+      "n": 38,
+      "texto": "Et thronus ejus sicut sol in conspectu meo, et sicut luna perfecta in æternum, et testis in cælo fidelis."
+    },
+    {
+      "n": 39,
+      "texto": "Tu vero repulisti et despexisti, distulisti christum tuum."
+    },
+    {
+      "n": 40,
+      "texto": "Evertisti testamentum servi tui; profanasti in terra sanctuarium ejus."
+    },
+    {
+      "n": 41,
+      "texto": "Destruxisti omnes sepes ejus; posuisti firmamentum ejus formidinem."
+    },
+    {
+      "n": 42,
+      "texto": "Diripuerunt eum omnes transeuntes viam; factus est opprobrium vicinis suis."
+    },
+    {
+      "n": 43,
+      "texto": "Exaltasti dexteram deprimentium eum; lætificasti omnes inimicos ejus."
+    },
+    {
+      "n": 44,
+      "texto": "Avertisti adjutorium gladii ejus, et non es auxiliatus ei in bello."
+    },
+    {
+      "n": 45,
+      "texto": "Destruxisti eum ab emundatione, et sedem ejus in terram collisisti."
+    },
+    {
+      "n": 46,
+      "texto": "Minorasti dies temporis ejus; perfudisti eum confusione."
+    },
+    {
+      "n": 47,
+      "texto": "Usquequo, Domine, avertis in finem? exardescet sicut ignis ira tua?"
+    },
+    {
+      "n": 48,
+      "texto": "Memorare quæ mea substantia: numquid enim vane constituisti omnes filios hominum?"
+    },
+    {
+      "n": 49,
+      "texto": "Quis est homo qui vivet, et non videbit mortem? eruet animam suam de manu inferi?"
+    },
+    {
+      "n": 50,
+      "texto": "Ubi sunt misericordiæ tuæ antiquæ, Domine, sicut jurasti David in veritate tua?"
+    },
+    {
+      "n": 51,
+      "texto": "Memor esto, Domine, opprobrii servorum tuorum (quod continui in sinu meo) multarum gentium;"
+    },
+    {
+      "n": 52,
+      "texto": "quod exprobraverunt inimici tui, Domine, quod exprobraverunt commutationem christi tui."
+    },
+    {
+      "n": 53,
+      "texto": "Benedictus Dominus in æternum. Fiat, fiat."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_88"
 }

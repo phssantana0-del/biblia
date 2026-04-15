@@ -2,16 +2,43 @@
   "num": 3,
   "sumario": "Psalmus David, cum fugeret a facie Absalom filii sui.",
   "versiculos": [
-    { "n": 1, "texto": "Psalmus David, cum fugeret a facie Absalom filii sui." },
-    { "n": 2, "texto": "Domine, quid multiplicati sunt qui tribulant me? multi insurgunt adversum me." },
-    { "n": 3, "texto": "Multi dicunt animæ meæ : Non est salus ipsi in Deo ejus." },
-    { "n": 4, "texto": "Tu autem, Domine, susceptor meus es, gloria mea, et exaltans caput meum." },
-    { "n": 5, "texto": "Voce mea ad Dominum clamavi : et exaudivit me de monte sancto suo." },
-    { "n": 6, "texto": "Ego dormivi, et soporatus sum : et exsurrexi, quia Dominus suscepit me." },
-    { "n": 7, "texto": "Non timebo millia populi circumdantis me : exsurge, Domine, salvum me fac, Deus meus." },
-    { "n": 8, "texto": "Quoniam tu percussisti omnes adversantes mihi sine causa : dentes peccatorum contrivisti." },
-    { "n": 9, "texto": "Domini est salus : et super populum tuum benedictio tua." }
+    {
+      "n": 1,
+      "texto": "Psalmus David, cum fugeret a facie Absalom filii sui."
+    },
+    {
+      "n": 2,
+      "texto": "Domine, quid multiplicati sunt qui tribulant me? multi insurgunt adversum me."
+    },
+    {
+      "n": 3,
+      "texto": "Multi dicunt animæ meæ : Non est salus ipsi in Deo ejus."
+    },
+    {
+      "n": 4,
+      "texto": "Tu autem, Domine, susceptor meus es, gloria mea, et exaltans caput meum."
+    },
+    {
+      "n": 5,
+      "texto": "Voce mea ad Dominum clamavi : et exaudivit me de monte sancto suo."
+    },
+    {
+      "n": 6,
+      "texto": "Ego dormivi, et soporatus sum : et exsurrexi, quia Dominus suscepit me."
+    },
+    {
+      "n": 7,
+      "texto": "Non timebo millia populi circumdantis me : exsurge, Domine, salvum me fac, Deus meus."
+    },
+    {
+      "n": 8,
+      "texto": "Quoniam tu percussisti omnes adversantes mihi sine causa : dentes peccatorum contrivisti."
+    },
+    {
+      "n": 9,
+      "texto": "Domini est salus : et super populum tuum benedictio tua."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_3"
 }

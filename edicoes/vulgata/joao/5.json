@@ -1,6 +1,5 @@
 {
   "num": 5,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -190,5 +189,6 @@
       "n": 47,
       "texto": "Si autem illius litteris non creditis, quomodo verbis meis credetis ?"
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_5"
 }

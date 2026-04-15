@@ -2,21 +2,63 @@
   "num": 26,
   "sumario": "Fiducia in Dominum illuminatorem et protectorem vitæ",
   "versiculos": [
-    { "n": 1, "texto": "Psalmus David, priusquam liniretur. Dominus illuminatio mea et salus mea : quem timebo? Dominus protector vitæ meæ : a quo trepidabo?" },
-    { "n": 2, "texto": "Dum appropriant super me nocentes, ut edant carnes meas, qui tribulant me inimici mei, ipsi infirmati sunt, et ceciderunt." },
-    { "n": 3, "texto": "Si consistant adversum me castra, non timebit cor meum ; si exsurgat adversum me prælium, in hoc ego sperabo." },
-    { "n": 4, "texto": "Unam petii a Domino, hanc requiram : ut inhabitem in domo Domini omnibus diebus vitæ meæ ; ut videam voluptatem Domini, et visitem templum ejus." },
-    { "n": 5, "texto": "Quoniam abscondit me in tabernaculo suo ; in die malorum protexit me in abscondito tabernaculi sui." },
-    { "n": 6, "texto": "In petra exaltavit me ; et nunc exaltavit caput meum super inimicos meos. Circuivi, et immolavi in tabernaculo ejus hostiam vociferationis ; cantabo, et psalmum dicam Domino." },
-    { "n": 7, "texto": "Exaudi, Domine, vocem meam qua clamavi ad te : miserere mei, et exaudi me." },
-    { "n": 8, "texto": "Tibi dixit cor meum ; exquisivit te facies mea : faciem tuam, Domine, requiram." },
-    { "n": 9, "texto": "Ne avertas faciem tuam a me ; ne declines in ira a servo tuo. Adjutor meus esto ; ne derelinquas me, neque despicias me, Deus salutaris meus." },
-    { "n": 10, "texto": "Quoniam pater meus et mater mea dereliquerunt me ; Dominus autem assumpsit me." },
-    { "n": 11, "texto": "Legem pone mihi, Domine, in via tua, et dirige me in semitam rectam propter inimicos meos." },
-    { "n": 12, "texto": "Ne tradideris me in animas tribulantium me, quoniam insurrexerunt in me testes iniqui, et mentita est iniquitas sibi." },
-    { "n": 13, "texto": "Credo videre bona Domini in terra viventium." },
-    { "n": 14, "texto": "Exspecta Dominum, viriliter age, et confortetur cor tuum, et sustine Dominum." }
+    {
+      "n": 1,
+      "texto": "Psalmus David, priusquam liniretur. Dominus illuminatio mea et salus mea : quem timebo? Dominus protector vitæ meæ : a quo trepidabo?"
+    },
+    {
+      "n": 2,
+      "texto": "Dum appropriant super me nocentes, ut edant carnes meas, qui tribulant me inimici mei, ipsi infirmati sunt, et ceciderunt."
+    },
+    {
+      "n": 3,
+      "texto": "Si consistant adversum me castra, non timebit cor meum ; si exsurgat adversum me prælium, in hoc ego sperabo."
+    },
+    {
+      "n": 4,
+      "texto": "Unam petii a Domino, hanc requiram : ut inhabitem in domo Domini omnibus diebus vitæ meæ ; ut videam voluptatem Domini, et visitem templum ejus."
+    },
+    {
+      "n": 5,
+      "texto": "Quoniam abscondit me in tabernaculo suo ; in die malorum protexit me in abscondito tabernaculi sui."
+    },
+    {
+      "n": 6,
+      "texto": "In petra exaltavit me ; et nunc exaltavit caput meum super inimicos meos. Circuivi, et immolavi in tabernaculo ejus hostiam vociferationis ; cantabo, et psalmum dicam Domino."
+    },
+    {
+      "n": 7,
+      "texto": "Exaudi, Domine, vocem meam qua clamavi ad te : miserere mei, et exaudi me."
+    },
+    {
+      "n": 8,
+      "texto": "Tibi dixit cor meum ; exquisivit te facies mea : faciem tuam, Domine, requiram."
+    },
+    {
+      "n": 9,
+      "texto": "Ne avertas faciem tuam a me ; ne declines in ira a servo tuo. Adjutor meus esto ; ne derelinquas me, neque despicias me, Deus salutaris meus."
+    },
+    {
+      "n": 10,
+      "texto": "Quoniam pater meus et mater mea dereliquerunt me ; Dominus autem assumpsit me."
+    },
+    {
+      "n": 11,
+      "texto": "Legem pone mihi, Domine, in via tua, et dirige me in semitam rectam propter inimicos meos."
+    },
+    {
+      "n": 12,
+      "texto": "Ne tradideris me in animas tribulantium me, quoniam insurrexerunt in me testes iniqui, et mentita est iniquitas sibi."
+    },
+    {
+      "n": 13,
+      "texto": "Credo videre bona Domini in terra viventium."
+    },
+    {
+      "n": 14,
+      "texto": "Exspecta Dominum, viriliter age, et confortetur cor tuum, et sustine Dominum."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_26"
 }

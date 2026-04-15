@@ -1,6 +1,5 @@
 {
   "num": 3,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam",
   "versiculos": [
     {
       "n": 1,
@@ -155,5 +154,6 @@
       "texto": "qui fuit Henos, qui fuit Seth, qui fuit Adam, qui fuit Dei."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam#Caput_3"
 }

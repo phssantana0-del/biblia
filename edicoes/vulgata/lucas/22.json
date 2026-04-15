@@ -1,78 +1,291 @@
 {
   "num": 22,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam",
   "versiculos": [
-    { "n": 1, "texto": "Appropinquabat autem dies festus azymorum, qui dicitur Pascha :" },
-    { "n": 2, "texto": "et quærebant principes sacerdotum, et scribæ, quomodo Jesum interficerent : timebant vero plebem." },
-    { "n": 3, "texto": "Intravit autem Satanas in Judam, qui cognominabatur Iscariotes, unum de duodecim :" },
-    { "n": 4, "texto": "et abiit, et locutus est cum principibus sacerdotum, et magistratibus, quemadmodum illum traderet eis." },
-    { "n": 5, "texto": "Et gavisi sunt, et pacti sunt pecuniam illi dare." },
-    { "n": 6, "texto": "Et spopondit. Et quærebat opportunitatem ut traderet illum sine turbis." },
-    { "n": 7, "texto": "Venit autem dies azymorum, in qua necesse erat occidi Pascha." },
-    { "n": 8, "texto": "Et misit Petrum et Joannem, dicens : Euntes parate nobis Pascha, ut manducemus." },
-    { "n": 9, "texto": "At illi dixerunt : Ubi vis paremus ?" },
-    { "n": 10, "texto": "Et dixit ad eos : Ecce introeuntibus vobis in civitatem, occurret vobis homo quidam amphoram aquæ portans : sequimini eum in domum, in quam intrat," },
-    { "n": 11, "texto": "et dicetis patrifamilias domus : Dicit tibi Magister : Ubi est diversorium, ubi Pascha cum discipulis meis manducem ?" },
-    { "n": 12, "texto": "Et ipse ostendet vobis cœnaculum magnum stratum : et ibi parate." },
-    { "n": 13, "texto": "Euntes autem invenerunt sicut dixit illis, et paraverunt Pascha." },
-    { "n": 14, "texto": "Et cum facta esset hora, discubuit, et duodecim apostoli cum eo." },
-    { "n": 15, "texto": "Et ait illis : Desiderio desideravi hoc Pascha manducare vobiscum, antequam patiar." },
-    { "n": 16, "texto": "Dico enim vobis, quia ex hoc non manducabo illud, donec impleatur in regno Dei." },
-    { "n": 17, "texto": "Et accepto calice gratias egit, et dixit : Accipite, et dividite inter vos." },
-    { "n": 18, "texto": "Dico enim vobis quod non bibam de generatione vitis, donec regnum Dei veniat." },
-    { "n": 19, "texto": "Et accepto pane gratias egit, et fregit, et dedit eis, dicens : Hoc est corpus meum, quod pro vobis datur : hoc facite in meam commemorationem." },
-    { "n": 20, "texto": "Similiter et calicem, postquam cœnavit, dicens : Hic est calix novum testamentum in sanguine meo, qui pro vobis fundetur." },
-    { "n": 21, "texto": "Verumtamen ecce manus tradentis me, mecum est in mensa." },
-    { "n": 22, "texto": "Et quidem Filius hominis, secundum quod definitum est, vadit : verumtamen væ homini illi per quem tradetur !" },
-    { "n": 23, "texto": "Et ipsi cœperunt quærere inter se, quis esset ex eis qui hoc facturus esset." },
-    { "n": 24, "texto": "Facta est autem et contentio inter eos, quis eorum videretur esse major." },
-    { "n": 25, "texto": "Dixit autem eis : Reges gentium dominantur eorum : et qui potestatem habent super eos, benefici vocantur." },
-    { "n": 26, "texto": "Vos autem non sic : sed qui major est in vobis, fiat sicut minor : et qui præcessor est, sicut ministrator." },
-    { "n": 27, "texto": "Nam quis major est, qui recumbit, an qui ministrat ? nonne qui recumbit ? Ego autem in medio vestrum sum, sicut qui ministrat :" },
-    { "n": 28, "texto": "vos autem estis, qui permansistis mecum in tentationibus meis :" },
-    { "n": 29, "texto": "et ego dispono vobis sicut disposuit mihi Pater meus regnum," },
-    { "n": 30, "texto": "ut edatis et bibatis super mensam meam in regno meo : et sedeatis super thronos judicantes duodecim tribus Israël." },
-    { "n": 31, "texto": "Ait autem Dominus : Simon, Simon, ecce Satanas expetivit vos ut cribraret sicut triticum :" },
-    { "n": 32, "texto": "ego autem rogavi pro te ut non deficiat fides tua : et tu aliquando conversus, confirma fratres tuos." },
-    { "n": 33, "texto": "Qui dixit ei : Domine, tecum paratus sum et in carcerem et in mortem ire." },
-    { "n": 34, "texto": "Et ille dixit : Dico tibi, Petre, non cantabit hodie gallus, donec ter abneges nosse me." },
-    { "n": 35, "texto": "Et dixit eis : Quando misi vos sine sacculo, et pera, et calceamentis, numquid aliquid defuit vobis ?" },
-    { "n": 36, "texto": "At illi dixerunt : Nihil. Dixit ergo eis : Sed nunc, qui habet sacculum, tollat similiter et peram : et qui non habet, vendat tunicam suam, et emat gladium." },
-    { "n": 37, "texto": "Dico enim vobis, quoniam adhuc hoc quod scriptum est, oportet impleri in me : Et cum iniquis deputatus est. Etenim ea quæ sunt de me finem habent." },
-    { "n": 38, "texto": "At illi dixerunt : Domine, ecce duo gladii hic. At ille dixit eis : Satis est." },
-    { "n": 39, "texto": "Et egressus ibat secundum consuetudinem in montem Olivarum. Secuti sunt autem illum et discipuli." },
-    { "n": 40, "texto": "Et cum pervenisset ad locum, dixit illis : Orate ne intretis in tentationem." },
-    { "n": 41, "texto": "Et ipse avulsus est ab eis quantum jactus est lapidis : et positis genibus orabat," },
-    { "n": 42, "texto": "dicens : Pater, si vis, transfer calicem istum a me : verumtamen non mea voluntas, sed tua fiat." },
-    { "n": 43, "texto": "Apparuit autem illi angelus de cælo, confortans eum. Et factus in agonia, prolixius orabat." },
-    { "n": 44, "texto": "Et factus est sudor ejus sicut guttæ sanguinis decurrentis in terram." },
-    { "n": 45, "texto": "Et cum surrexisset ab oratione et venisset ad discipulos suos, invenit eos dormientes præ tristitia." },
-    { "n": 46, "texto": "Et ait illis : Quid dormitis ? surgite, orate, ne intretis in tentationem." },
-    { "n": 47, "texto": "Adhuc eo loquente, ecce turba : et qui vocabatur Judas, unus de duodecim, antecedebat eos, et appropinquavit Jesu ut oscularetur eum." },
-    { "n": 48, "texto": "Jesus autem dixit illi : Juda, osculo Filium hominis tradis ?" },
-    { "n": 49, "texto": "Videntes autem hi qui circa ipsum erant, quod futurum erat, dixerunt ei : Domine, si percutimus in gladio ?" },
-    { "n": 50, "texto": "Et percussit unus ex illis servum principis sacerdotum, et amputavit auriculam ejus dexteram." },
-    { "n": 51, "texto": "Respondens autem Jesus, ait : Sinite usque huc. Et cum tetigisset auriculam ejus, sanavit eum." },
-    { "n": 52, "texto": "Dixit autem Jesus ad eos qui venerant ad se, principes sacerdotum, et magistratus templi, et seniores : Quasi ad latronem existis cum gladiis et fustibus ?" },
-    { "n": 53, "texto": "cum quotidie vobiscum fuerim in templo, non extendistis manus in me : sed hæc est hora vestra, et potestas tenebrarum." },
-    { "n": 54, "texto": "Comprehendentes autem eum, duxerunt ad domum principis sacerdotum : Petrus vero sequebatur a longe." },
-    { "n": 55, "texto": "Accenso autem igne in medio atrii, et circumsedentibus illis, erat Petrus in medio eorum." },
-    { "n": 56, "texto": "Quem cum vidisset ancilla quædam sedentem ad lumen, et eum fuisset intuita, dixit : Et hic cum illo erat." },
-    { "n": 57, "texto": "At ille negavit eum, dicens : Mulier, non novi illum." },
-    { "n": 58, "texto": "Et post pusillum alius videns eum, dixit : Et tu de illis es. Petrus vero ait : O homo, non sum." },
-    { "n": 59, "texto": "Et intervallo facto quasi horæ unius, alius quidam affirmabat, dicens : Vere et hic cum illo erat : nam et Galilæus est." },
-    { "n": 60, "texto": "Et ait Petrus : Homo, nescio quid dicis. Et continuo adhuc illo loquente cantavit gallus." },
-    { "n": 61, "texto": "Et conversus Dominus respexit Petrum. Et recordatus est Petrus verbi Domini, sicut dixerat : Quia priusquam gallus cantet, ter me negabis." },
-    { "n": 62, "texto": "Et egressus foras Petrus flevit amare." },
-    { "n": 63, "texto": "Et viri qui tenebant illum, illudebant ei, cædentes." },
-    { "n": 64, "texto": "Et velaverunt eum, et percutiebant faciem ejus : et interrogabant eum, dicentes : Prophetiza, quis est qui te percussit ?" },
-    { "n": 65, "texto": "Et alia multa blasphemantes dicebant in eum." },
-    { "n": 66, "texto": "Et ut factus est dies, convenerunt seniores plebis, et principes sacerdotum, et scribæ, et duxerunt illum in concilium suum, dicentes : Si tu es Christus, dic nobis." },
-    { "n": 67, "texto": "Et ait illis : Si vobis dixero, non credetis mihi :" },
-    { "n": 68, "texto": "si autem et interrogavero, non respondebitis mihi, neque dimittetis." },
-    { "n": 69, "texto": "Ex hoc autem erit Filius hominis sedens a dextris virtutis Dei." },
-    { "n": 70, "texto": "Dixerunt autem omnes : Tu ergo es Filius Dei ? Qui dixit : Vos dicitis, quia ego sum." },
-    { "n": 71, "texto": "At illi dixerunt : Quid adhuc desideramus testimonium ? ipsi enim audivimus de ore ejus." }
+    {
+      "n": 1,
+      "texto": "Appropinquabat autem dies festus azymorum, qui dicitur Pascha :"
+    },
+    {
+      "n": 2,
+      "texto": "et quærebant principes sacerdotum, et scribæ, quomodo Jesum interficerent : timebant vero plebem."
+    },
+    {
+      "n": 3,
+      "texto": "Intravit autem Satanas in Judam, qui cognominabatur Iscariotes, unum de duodecim :"
+    },
+    {
+      "n": 4,
+      "texto": "et abiit, et locutus est cum principibus sacerdotum, et magistratibus, quemadmodum illum traderet eis."
+    },
+    {
+      "n": 5,
+      "texto": "Et gavisi sunt, et pacti sunt pecuniam illi dare."
+    },
+    {
+      "n": 6,
+      "texto": "Et spopondit. Et quærebat opportunitatem ut traderet illum sine turbis."
+    },
+    {
+      "n": 7,
+      "texto": "Venit autem dies azymorum, in qua necesse erat occidi Pascha."
+    },
+    {
+      "n": 8,
+      "texto": "Et misit Petrum et Joannem, dicens : Euntes parate nobis Pascha, ut manducemus."
+    },
+    {
+      "n": 9,
+      "texto": "At illi dixerunt : Ubi vis paremus ?"
+    },
+    {
+      "n": 10,
+      "texto": "Et dixit ad eos : Ecce introeuntibus vobis in civitatem, occurret vobis homo quidam amphoram aquæ portans : sequimini eum in domum, in quam intrat,"
+    },
+    {
+      "n": 11,
+      "texto": "et dicetis patrifamilias domus : Dicit tibi Magister : Ubi est diversorium, ubi Pascha cum discipulis meis manducem ?"
+    },
+    {
+      "n": 12,
+      "texto": "Et ipse ostendet vobis cœnaculum magnum stratum : et ibi parate."
+    },
+    {
+      "n": 13,
+      "texto": "Euntes autem invenerunt sicut dixit illis, et paraverunt Pascha."
+    },
+    {
+      "n": 14,
+      "texto": "Et cum facta esset hora, discubuit, et duodecim apostoli cum eo."
+    },
+    {
+      "n": 15,
+      "texto": "Et ait illis : Desiderio desideravi hoc Pascha manducare vobiscum, antequam patiar."
+    },
+    {
+      "n": 16,
+      "texto": "Dico enim vobis, quia ex hoc non manducabo illud, donec impleatur in regno Dei."
+    },
+    {
+      "n": 17,
+      "texto": "Et accepto calice gratias egit, et dixit : Accipite, et dividite inter vos."
+    },
+    {
+      "n": 18,
+      "texto": "Dico enim vobis quod non bibam de generatione vitis, donec regnum Dei veniat."
+    },
+    {
+      "n": 19,
+      "texto": "Et accepto pane gratias egit, et fregit, et dedit eis, dicens : Hoc est corpus meum, quod pro vobis datur : hoc facite in meam commemorationem."
+    },
+    {
+      "n": 20,
+      "texto": "Similiter et calicem, postquam cœnavit, dicens : Hic est calix novum testamentum in sanguine meo, qui pro vobis fundetur."
+    },
+    {
+      "n": 21,
+      "texto": "Verumtamen ecce manus tradentis me, mecum est in mensa."
+    },
+    {
+      "n": 22,
+      "texto": "Et quidem Filius hominis, secundum quod definitum est, vadit : verumtamen væ homini illi per quem tradetur !"
+    },
+    {
+      "n": 23,
+      "texto": "Et ipsi cœperunt quærere inter se, quis esset ex eis qui hoc facturus esset."
+    },
+    {
+      "n": 24,
+      "texto": "Facta est autem et contentio inter eos, quis eorum videretur esse major."
+    },
+    {
+      "n": 25,
+      "texto": "Dixit autem eis : Reges gentium dominantur eorum : et qui potestatem habent super eos, benefici vocantur."
+    },
+    {
+      "n": 26,
+      "texto": "Vos autem non sic : sed qui major est in vobis, fiat sicut minor : et qui præcessor est, sicut ministrator."
+    },
+    {
+      "n": 27,
+      "texto": "Nam quis major est, qui recumbit, an qui ministrat ? nonne qui recumbit ? Ego autem in medio vestrum sum, sicut qui ministrat :"
+    },
+    {
+      "n": 28,
+      "texto": "vos autem estis, qui permansistis mecum in tentationibus meis :"
+    },
+    {
+      "n": 29,
+      "texto": "et ego dispono vobis sicut disposuit mihi Pater meus regnum,"
+    },
+    {
+      "n": 30,
+      "texto": "ut edatis et bibatis super mensam meam in regno meo : et sedeatis super thronos judicantes duodecim tribus Israël."
+    },
+    {
+      "n": 31,
+      "texto": "Ait autem Dominus : Simon, Simon, ecce Satanas expetivit vos ut cribraret sicut triticum :"
+    },
+    {
+      "n": 32,
+      "texto": "ego autem rogavi pro te ut non deficiat fides tua : et tu aliquando conversus, confirma fratres tuos."
+    },
+    {
+      "n": 33,
+      "texto": "Qui dixit ei : Domine, tecum paratus sum et in carcerem et in mortem ire."
+    },
+    {
+      "n": 34,
+      "texto": "Et ille dixit : Dico tibi, Petre, non cantabit hodie gallus, donec ter abneges nosse me."
+    },
+    {
+      "n": 35,
+      "texto": "Et dixit eis : Quando misi vos sine sacculo, et pera, et calceamentis, numquid aliquid defuit vobis ?"
+    },
+    {
+      "n": 36,
+      "texto": "At illi dixerunt : Nihil. Dixit ergo eis : Sed nunc, qui habet sacculum, tollat similiter et peram : et qui non habet, vendat tunicam suam, et emat gladium."
+    },
+    {
+      "n": 37,
+      "texto": "Dico enim vobis, quoniam adhuc hoc quod scriptum est, oportet impleri in me : Et cum iniquis deputatus est. Etenim ea quæ sunt de me finem habent."
+    },
+    {
+      "n": 38,
+      "texto": "At illi dixerunt : Domine, ecce duo gladii hic. At ille dixit eis : Satis est."
+    },
+    {
+      "n": 39,
+      "texto": "Et egressus ibat secundum consuetudinem in montem Olivarum. Secuti sunt autem illum et discipuli."
+    },
+    {
+      "n": 40,
+      "texto": "Et cum pervenisset ad locum, dixit illis : Orate ne intretis in tentationem."
+    },
+    {
+      "n": 41,
+      "texto": "Et ipse avulsus est ab eis quantum jactus est lapidis : et positis genibus orabat,"
+    },
+    {
+      "n": 42,
+      "texto": "dicens : Pater, si vis, transfer calicem istum a me : verumtamen non mea voluntas, sed tua fiat."
+    },
+    {
+      "n": 43,
+      "texto": "Apparuit autem illi angelus de cælo, confortans eum. Et factus in agonia, prolixius orabat."
+    },
+    {
+      "n": 44,
+      "texto": "Et factus est sudor ejus sicut guttæ sanguinis decurrentis in terram."
+    },
+    {
+      "n": 45,
+      "texto": "Et cum surrexisset ab oratione et venisset ad discipulos suos, invenit eos dormientes præ tristitia."
+    },
+    {
+      "n": 46,
+      "texto": "Et ait illis : Quid dormitis ? surgite, orate, ne intretis in tentationem."
+    },
+    {
+      "n": 47,
+      "texto": "Adhuc eo loquente, ecce turba : et qui vocabatur Judas, unus de duodecim, antecedebat eos, et appropinquavit Jesu ut oscularetur eum."
+    },
+    {
+      "n": 48,
+      "texto": "Jesus autem dixit illi : Juda, osculo Filium hominis tradis ?"
+    },
+    {
+      "n": 49,
+      "texto": "Videntes autem hi qui circa ipsum erant, quod futurum erat, dixerunt ei : Domine, si percutimus in gladio ?"
+    },
+    {
+      "n": 50,
+      "texto": "Et percussit unus ex illis servum principis sacerdotum, et amputavit auriculam ejus dexteram."
+    },
+    {
+      "n": 51,
+      "texto": "Respondens autem Jesus, ait : Sinite usque huc. Et cum tetigisset auriculam ejus, sanavit eum."
+    },
+    {
+      "n": 52,
+      "texto": "Dixit autem Jesus ad eos qui venerant ad se, principes sacerdotum, et magistratus templi, et seniores : Quasi ad latronem existis cum gladiis et fustibus ?"
+    },
+    {
+      "n": 53,
+      "texto": "cum quotidie vobiscum fuerim in templo, non extendistis manus in me : sed hæc est hora vestra, et potestas tenebrarum."
+    },
+    {
+      "n": 54,
+      "texto": "Comprehendentes autem eum, duxerunt ad domum principis sacerdotum : Petrus vero sequebatur a longe."
+    },
+    {
+      "n": 55,
+      "texto": "Accenso autem igne in medio atrii, et circumsedentibus illis, erat Petrus in medio eorum."
+    },
+    {
+      "n": 56,
+      "texto": "Quem cum vidisset ancilla quædam sedentem ad lumen, et eum fuisset intuita, dixit : Et hic cum illo erat."
+    },
+    {
+      "n": 57,
+      "texto": "At ille negavit eum, dicens : Mulier, non novi illum."
+    },
+    {
+      "n": 58,
+      "texto": "Et post pusillum alius videns eum, dixit : Et tu de illis es. Petrus vero ait : O homo, non sum."
+    },
+    {
+      "n": 59,
+      "texto": "Et intervallo facto quasi horæ unius, alius quidam affirmabat, dicens : Vere et hic cum illo erat : nam et Galilæus est."
+    },
+    {
+      "n": 60,
+      "texto": "Et ait Petrus : Homo, nescio quid dicis. Et continuo adhuc illo loquente cantavit gallus."
+    },
+    {
+      "n": 61,
+      "texto": "Et conversus Dominus respexit Petrum. Et recordatus est Petrus verbi Domini, sicut dixerat : Quia priusquam gallus cantet, ter me negabis."
+    },
+    {
+      "n": 62,
+      "texto": "Et egressus foras Petrus flevit amare."
+    },
+    {
+      "n": 63,
+      "texto": "Et viri qui tenebant illum, illudebant ei, cædentes."
+    },
+    {
+      "n": 64,
+      "texto": "Et velaverunt eum, et percutiebant faciem ejus : et interrogabant eum, dicentes : Prophetiza, quis est qui te percussit ?"
+    },
+    {
+      "n": 65,
+      "texto": "Et alia multa blasphemantes dicebant in eum."
+    },
+    {
+      "n": 66,
+      "texto": "Et ut factus est dies, convenerunt seniores plebis, et principes sacerdotum, et scribæ, et duxerunt illum in concilium suum, dicentes : Si tu es Christus, dic nobis."
+    },
+    {
+      "n": 67,
+      "texto": "Et ait illis : Si vobis dixero, non credetis mihi :"
+    },
+    {
+      "n": 68,
+      "texto": "si autem et interrogavero, non respondebitis mihi, neque dimittetis."
+    },
+    {
+      "n": 69,
+      "texto": "Ex hoc autem erit Filius hominis sedens a dextris virtutis Dei."
+    },
+    {
+      "n": 70,
+      "texto": "Dixerunt autem omnes : Tu ergo es Filius Dei ? Qui dixit : Vos dicitis, quia ego sum."
+    },
+    {
+      "n": 71,
+      "texto": "At illi dixerunt : Quid adhuc desideramus testimonium ? ipsi enim audivimus de ore ejus."
+    }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam#Caput_22"
 }

@@ -2,38 +2,131 @@
   "num": 108,
   "sumario": "In finem. Psalmus David.",
   "versiculos": [
-    { "n": 1,  "texto": "In finem. Psalmus David." },
-    { "n": 2,  "texto": "Deus, laudem meam ne tacueris: quia os peccatoris, et os dolosi super me apertum est." },
-    { "n": 3,  "texto": "Locuti sunt adversum me lingua dolosa, et sermonibus odii circumdederunt me: et expugnaverunt me gratis." },
-    { "n": 4,  "texto": "Pro eo ut me diligerent, detrahebant mihi: ego autem orabam." },
-    { "n": 5,  "texto": "Et posuerunt adversum me mala pro bonis: et odium pro dilectione mea." },
-    { "n": 6,  "texto": "Constitue super eum peccatorem: et diabolus stet a dextris ejus." },
-    { "n": 7,  "texto": "Cum judicatur, exeat condemnatus: et oratio ejus fiat in peccatum." },
-    { "n": 8,  "texto": "Fiant dies ejus pauci: et episcopatum ejus accipiat alter." },
-    { "n": 9,  "texto": "Fiant filii ejus orphani, et uxor ejus vidua." },
-    { "n": 10, "texto": "Nutantes transferantur filii ejus, et mendicent: et ejiciantur de habitationibus suis." },
-    { "n": 11, "texto": "Scrutetur fœnerator omnem substantiam ejus: et diripiant alieni labores ejus." },
-    { "n": 12, "texto": "Non sit illi adjutor: nec sit qui misereatur pupillis ejus." },
-    { "n": 13, "texto": "Fiant nati ejus in interitum: in generatione una deleatur nomen ejus." },
-    { "n": 14, "texto": "In memoriam redeat iniquitas patrum ejus in conspectu Domini: et peccatum matris ejus non deleatur." },
-    { "n": 15, "texto": "Fiant contra Dominum semper, et dispereat de terra memoria eorum:" },
-    { "n": 16, "texto": "pro eo quod non est recordatus facere misericordiam." },
-    { "n": 17, "texto": "Et persecutus est hominem inopem, et mendicum, et compunctum corde mortificare." },
-    { "n": 18, "texto": "Et dilexit maledictionem, et veniet ei: et noluit benedictionem, et elongabitur ab eo. Et induit maledictionem sicut vestimentum, et intravit sicut aqua in interiora ejus, et sicut oleum in ossibus ejus." },
-    { "n": 19, "texto": "Fiat ei sicut vestimentum quo operitur: et sicut zona qua semper præcingitur." },
-    { "n": 20, "texto": "Hoc opus eorum qui detrahunt mihi apud Dominum: et qui loquuntur mala adversus animam meam." },
-    { "n": 21, "texto": "Et tu, Domine, Domine, fac mecum propter nomen tuum: quia suavis est misericordia tua. Libera me," },
-    { "n": 22, "texto": "quia egenus et pauper ego sum: et cor meum conturbatum est intra me." },
-    { "n": 23, "texto": "Sicut umbra cum declinat, ablatus sum: et excussus sum sicut locustæ." },
-    { "n": 24, "texto": "Genua mea infirmata sunt a jejunio: et caro mea immutata est propter oleum." },
-    { "n": 25, "texto": "Et ego factus sum opprobrium illis: viderunt me, et moverunt capita sua." },
-    { "n": 26, "texto": "Adjuva me, Domine Deus meus: salvum me fac secundum misericordiam tuam." },
-    { "n": 27, "texto": "Et sciant quia manus tua hæc: et tu, Domine, fecisti eam." },
-    { "n": 28, "texto": "Maledicent illi, et tu benedices: qui insurgunt in me, confundantur: servus autem tuus lætabitur." },
-    { "n": 29, "texto": "Induantur qui detrahunt mihi pudore: et operiantur sicut diploide confusione sua." },
-    { "n": 30, "texto": "Confitebor Domino nimis in ore meo: et in medio multorum laudabo eum:" },
-    { "n": 31, "texto": "quia adstitit a dextris pauperis, ut salvam faceret a persequentibus animam meam." }
+    {
+      "n": 1,
+      "texto": "In finem. Psalmus David."
+    },
+    {
+      "n": 2,
+      "texto": "Deus, laudem meam ne tacueris: quia os peccatoris, et os dolosi super me apertum est."
+    },
+    {
+      "n": 3,
+      "texto": "Locuti sunt adversum me lingua dolosa, et sermonibus odii circumdederunt me: et expugnaverunt me gratis."
+    },
+    {
+      "n": 4,
+      "texto": "Pro eo ut me diligerent, detrahebant mihi: ego autem orabam."
+    },
+    {
+      "n": 5,
+      "texto": "Et posuerunt adversum me mala pro bonis: et odium pro dilectione mea."
+    },
+    {
+      "n": 6,
+      "texto": "Constitue super eum peccatorem: et diabolus stet a dextris ejus."
+    },
+    {
+      "n": 7,
+      "texto": "Cum judicatur, exeat condemnatus: et oratio ejus fiat in peccatum."
+    },
+    {
+      "n": 8,
+      "texto": "Fiant dies ejus pauci: et episcopatum ejus accipiat alter."
+    },
+    {
+      "n": 9,
+      "texto": "Fiant filii ejus orphani, et uxor ejus vidua."
+    },
+    {
+      "n": 10,
+      "texto": "Nutantes transferantur filii ejus, et mendicent: et ejiciantur de habitationibus suis."
+    },
+    {
+      "n": 11,
+      "texto": "Scrutetur fœnerator omnem substantiam ejus: et diripiant alieni labores ejus."
+    },
+    {
+      "n": 12,
+      "texto": "Non sit illi adjutor: nec sit qui misereatur pupillis ejus."
+    },
+    {
+      "n": 13,
+      "texto": "Fiant nati ejus in interitum: in generatione una deleatur nomen ejus."
+    },
+    {
+      "n": 14,
+      "texto": "In memoriam redeat iniquitas patrum ejus in conspectu Domini: et peccatum matris ejus non deleatur."
+    },
+    {
+      "n": 15,
+      "texto": "Fiant contra Dominum semper, et dispereat de terra memoria eorum:"
+    },
+    {
+      "n": 16,
+      "texto": "pro eo quod non est recordatus facere misericordiam."
+    },
+    {
+      "n": 17,
+      "texto": "Et persecutus est hominem inopem, et mendicum, et compunctum corde mortificare."
+    },
+    {
+      "n": 18,
+      "texto": "Et dilexit maledictionem, et veniet ei: et noluit benedictionem, et elongabitur ab eo. Et induit maledictionem sicut vestimentum, et intravit sicut aqua in interiora ejus, et sicut oleum in ossibus ejus."
+    },
+    {
+      "n": 19,
+      "texto": "Fiat ei sicut vestimentum quo operitur: et sicut zona qua semper præcingitur."
+    },
+    {
+      "n": 20,
+      "texto": "Hoc opus eorum qui detrahunt mihi apud Dominum: et qui loquuntur mala adversus animam meam."
+    },
+    {
+      "n": 21,
+      "texto": "Et tu, Domine, Domine, fac mecum propter nomen tuum: quia suavis est misericordia tua. Libera me,"
+    },
+    {
+      "n": 22,
+      "texto": "quia egenus et pauper ego sum: et cor meum conturbatum est intra me."
+    },
+    {
+      "n": 23,
+      "texto": "Sicut umbra cum declinat, ablatus sum: et excussus sum sicut locustæ."
+    },
+    {
+      "n": 24,
+      "texto": "Genua mea infirmata sunt a jejunio: et caro mea immutata est propter oleum."
+    },
+    {
+      "n": 25,
+      "texto": "Et ego factus sum opprobrium illis: viderunt me, et moverunt capita sua."
+    },
+    {
+      "n": 26,
+      "texto": "Adjuva me, Domine Deus meus: salvum me fac secundum misericordiam tuam."
+    },
+    {
+      "n": 27,
+      "texto": "Et sciant quia manus tua hæc: et tu, Domine, fecisti eam."
+    },
+    {
+      "n": 28,
+      "texto": "Maledicent illi, et tu benedices: qui insurgunt in me, confundantur: servus autem tuus lætabitur."
+    },
+    {
+      "n": 29,
+      "texto": "Induantur qui detrahunt mihi pudore: et operiantur sicut diploide confusione sua."
+    },
+    {
+      "n": 30,
+      "texto": "Confitebor Domino nimis in ore meo: et in medio multorum laudabo eum:"
+    },
+    {
+      "n": 31,
+      "texto": "quia adstitit a dextris pauperis, ut salvam faceret a persequentibus animam meam."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_108"
 }

@@ -1,6 +1,5 @@
 {
   "num": 47,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi",
   "sumario": "Gloria Sion, civitatis Dei magni",
   "versiculos": [
     {
@@ -64,5 +63,6 @@
       "texto": "Quoniam hic est Deus, Deus noster in æternum et in sæculum sæculi; ipse reget nos in sæcula."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_47"
 }

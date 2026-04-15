@@ -1,6 +1,5 @@
 {
   "num": 8,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -238,5 +237,6 @@
       "n": 59,
       "texto": "Tulerunt ergo lapides, ut jacerent in eum : Jesus autem abscondit se, et exivit de templo."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_8"
 }

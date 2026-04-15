@@ -2,23 +2,71 @@
   "num": 91,
   "sumario": "Psalmus cantici, in diem sabbati.",
   "versiculos": [
-    { "n": 1, "texto": "Psalmus cantici, in diem sabbati." },
-    { "n": 2, "texto": "Bonum est confiteri Domino, et psallere nomini tuo, Altissime:" },
-    { "n": 3, "texto": "ad annuntiandum mane misericordiam tuam, et veritatem tuam per noctem:" },
-    { "n": 4, "texto": "in decachordo, psalterio, cum cantico, in cithara." },
-    { "n": 5, "texto": "Quia delectasti me, Domine, in factura tua: et in operibus manuum tuarum exsultabo." },
-    { "n": 6, "texto": "Quam magnificata sunt opera tua, Domine! nimis profundæ factæ sunt cogitationes tuæ." },
-    { "n": 7, "texto": "Vir insipiens non cognoscet, et stultus non intelliget hæc." },
-    { "n": 8, "texto": "Cum exorti fuerint peccatores sicut fœnum, et apparuerint omnes qui operantur iniquitatem: ut intereant in sæculum sæculi:" },
-    { "n": 9, "texto": "tu autem Altissimus in æternum, Domine." },
-    { "n": 10, "texto": "Quoniam ecce inimici tui, Domine, quoniam ecce inimici tui peribunt: et dispergentur omnes qui operantur iniquitatem." },
-    { "n": 11, "texto": "Et exaltabitur sicut unicornis cornu meum, et senectus mea in misericordia uberi." },
-    { "n": 12, "texto": "Et despexit oculus meus inimicos meos, et in insurgentibus in me malignantibus audiet auris mea." },
-    { "n": 13, "texto": "Justus ut palma florebit: sicut cedrus Libani multiplicabitur." },
-    { "n": 14, "texto": "Plantati in domo Domini, in atriis domus Dei nostri florebunt." },
-    { "n": 15, "texto": "Adhuc multiplicabuntur in senecta uberi, et bene patientes erunt:" },
-    { "n": 16, "texto": "ut annuntient quoniam rectus Dominus Deus noster, et non est iniquitas in eo." }
+    {
+      "n": 1,
+      "texto": "Psalmus cantici, in diem sabbati."
+    },
+    {
+      "n": 2,
+      "texto": "Bonum est confiteri Domino, et psallere nomini tuo, Altissime:"
+    },
+    {
+      "n": 3,
+      "texto": "ad annuntiandum mane misericordiam tuam, et veritatem tuam per noctem:"
+    },
+    {
+      "n": 4,
+      "texto": "in decachordo, psalterio, cum cantico, in cithara."
+    },
+    {
+      "n": 5,
+      "texto": "Quia delectasti me, Domine, in factura tua: et in operibus manuum tuarum exsultabo."
+    },
+    {
+      "n": 6,
+      "texto": "Quam magnificata sunt opera tua, Domine! nimis profundæ factæ sunt cogitationes tuæ."
+    },
+    {
+      "n": 7,
+      "texto": "Vir insipiens non cognoscet, et stultus non intelliget hæc."
+    },
+    {
+      "n": 8,
+      "texto": "Cum exorti fuerint peccatores sicut fœnum, et apparuerint omnes qui operantur iniquitatem: ut intereant in sæculum sæculi:"
+    },
+    {
+      "n": 9,
+      "texto": "tu autem Altissimus in æternum, Domine."
+    },
+    {
+      "n": 10,
+      "texto": "Quoniam ecce inimici tui, Domine, quoniam ecce inimici tui peribunt: et dispergentur omnes qui operantur iniquitatem."
+    },
+    {
+      "n": 11,
+      "texto": "Et exaltabitur sicut unicornis cornu meum, et senectus mea in misericordia uberi."
+    },
+    {
+      "n": 12,
+      "texto": "Et despexit oculus meus inimicos meos, et in insurgentibus in me malignantibus audiet auris mea."
+    },
+    {
+      "n": 13,
+      "texto": "Justus ut palma florebit: sicut cedrus Libani multiplicabitur."
+    },
+    {
+      "n": 14,
+      "texto": "Plantati in domo Domini, in atriis domus Dei nostri florebunt."
+    },
+    {
+      "n": 15,
+      "texto": "Adhuc multiplicabuntur in senecta uberi, et bene patientes erunt:"
+    },
+    {
+      "n": 16,
+      "texto": "ut annuntient quoniam rectus Dominus Deus noster, et non est iniquitas in eo."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_91"
 }

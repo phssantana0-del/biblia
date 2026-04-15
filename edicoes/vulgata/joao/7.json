@@ -1,6 +1,5 @@
 {
   "num": 7,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -214,5 +213,6 @@
       "n": 53,
       "texto": "Et reversi sunt unusquisque in domum suam."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_7"
 }

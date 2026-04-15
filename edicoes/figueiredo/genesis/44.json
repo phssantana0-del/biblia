@@ -1,0 +1,54 @@
+{
+  "num": 44,
+  "sumario": "Faz José meter a sua taça no saco de Benjamim. Trata a seus irmãos, como se êles fossem uns ladrões. Judá se oferece a ficar escravo em lugar de Benjamim.",
+  "versiculos": [
+    { "n": 1, "texto": "Ora José deu esta ordem ao dispenseiro de sua casa, e lhe disse: Mete nos sacos destes homens quanto trigo êles puderem levar, e o dinheiro de cada um no cimo dos sacos;" },
+    { "n": 2, "texto": "e mete a minha taça de prata na bôca do saco do mais moço com o dinheiro, que deu pelo seu trigo. E assim se fêz.", "nota": "fn44_1" },
+    { "n": 3, "texto": "E ao outro dia pela manhã deixaram-nos ir com os seus burros." },
+    { "n": 4, "texto": "Quando êles tinham saído da cidade, e tinham já caminhado um pedaço, chamou José o dispenseiro de sua casa, e lhe disse: Corre depressa atrás daqueles homens, e suspende-os do caminho, e dize-lhes: Por que tornastes vós mal por bem?" },
+    { "n": 5, "texto": "A taça, que vós furtastes, é aquela, por onde bebe meu senhor, e a de que êle se serve para as suas adivinhações. Vós fizestes uma coisa malíssima.", "nota": "fn44_2" },
+    { "n": 6, "texto": "Fêz o dispenseiro o que lhe fôra mandado; e tendo-os embargado, disse-lhes tudo o que lhe fôra ordenado que dissesse." },
+    { "n": 7, "texto": "Êles lhe responderam: Por que fala nosso Senhor assim a seus servos, e os julga capazes de cometer uma ação tão vergonhosa?" },
+    { "n": 8, "texto": "Nós tornamos-te a trazer o dinheiro, que achamos na bôca dos nossos sacos. Como podia logo ser, que nós furtássemos da casa de teu senhor ouro, ou prata?" },
+    { "n": 9, "texto": "Aquêle de teus servos, qualquer que êle seja, a quem se achar o que tu buscas, morra; e nós seremos escravos de nosso senhor." },
+    { "n": 10, "texto": "Êle lhes disse: Faça-se conforme vós sentenciastes. Qualquer, a quem fôr achado o que eu busco, seja meu escravo: e quanto a vós outros, vós sereis inocentes." },
+    { "n": 11, "texto": "Descarregaram êles pois logo os seus sacos em terra, e cada um abriu o seu." },
+    { "n": 12, "texto": "O dispenseiro tendo-os examinado todos, começando desde o mais velho até ao mais moço, achou a taça no saco de Benjamim." },
+    { "n": 13, "texto": "Então êles, rasgados os seus vestidos, e tornados a carregar os seus burros, voltaram outra vez para a cidade." },
+    { "n": 14, "texto": "Judá foi o primeiro, que se apresentou com seus irmãos diante de José, o qual se não tinha ainda arredado do lugar, onde estava; e todos juntos se prostraram em terra diante dêle." },
+    { "n": 15, "texto": "José lhes disse: Por que vos houvestes vós assim comigo? Vós não sabeis que não há ninguém, que me iguale na ciência de adivinhar?" },
+    { "n": 16, "texto": "Disse-lhe Judá: Que responderemos nós a nosso Senhor? Que lhe diremos nós, e que lhe poderemos nós representar, que tenha alguma sombra de justiça para nossa defesa? Deus achou a iniquidade dos teus servos: eis-aqui somos nós escravos de meu senhor, nós, e aquêle, a quem foi achado o copo." },
+    { "n": 17, "texto": "Respondeu José: Deus me defenda de tal fazer. Aquêle, que me furtou a minha taça, êsse seja meu escravo; e vós outros ide com tôda a liberdade para vosso pai." },
+    { "n": 18, "texto": "Então Judá chegando-se mais para José, lhe disse confiadamente: meu senhor, permite, te peço, a teu servo, que êle te fale, e não te agastes com o teu servo. Porque abaixo de Faraó" },
+    { "n": 19, "texto": "tu é que és meu senhor. Tu perguntaste no princípio a teus servos: Vós tendes ainda pai, ou algum outro irmão?" },
+    { "n": 20, "texto": "E nós te respondemos: Meu senhor, nós temos um pai, que é velho, e um irmão pequeno, que êle houve na sua velhice: outro irmão, que tinha nascido da mesma mãe, é já morto. Só a mãe não tem senão êste, e seu pai o ama ternamente." },
+    { "n": 21, "texto": "Então disseste tu a teus servos: Trazei-mo cá, que gostarei de o ver;" },
+    { "n": 22, "texto": "Mas nós te respondemos: Meu senhor, o menino não pode largar a seu pai; porque se o largar morrerá o pai." },
+    { "n": 23, "texto": "Disseste tu a teus servos: Se o mais pequeno de vossos irmãos não vier convosco, vós não me tornareis mais a ver a cara." },
+    { "n": 24, "texto": "Quando pois voltamos para nosso pai, teu servo, nós lhe contamos tudo o que meu senhor nos dissera." },
+    { "n": 25, "texto": "E nosso pai nos disse: Tornai a ir, para nos comprardes um pouco de trigo." },
+    { "n": 26, "texto": "Nós lhe dissemos: Nós não podemos ir: se nosso irmão mais moço vier conosco, iremos todos juntos: mas sem êle vir, nós nos não atrevemos a aparecer diante daquele homem." },
+    { "n": 27, "texto": "Êle nos respondeu: Vós sabeis que eu tive dois filhos de minha mulher." },
+    { "n": 28, "texto": "Tendo um dêles saído ao campo, dissestes vós que uma bêsta fera o tinha devorado: e até agora não aparece." },
+    { "n": 29, "texto": "Se vós levardes também êste outro, e lhe suceder alguma coisa no caminho, vós com a pena, que isto me causará, dareis com êste pobre velho na sepultura." },
+    { "n": 30, "texto": "Se eu pois chegar a meu pai, teu servo, e não lhe aparecer êste menino; como a sua vida depende da de seu filho," },
+    { "n": 31, "texto": "quando êle vir que o menino não vem conosco, morrerá; e teus servos causarão à sua velhice uma dor, que o leve à cova." },
+    { "n": 32, "texto": "Seja eu pois antes o que fique por teu escravo, pois que me obriguei a dar conta dêste menino, e isso prometi a meu pai, dizendo: Se eu to não tornar a trazer, não se me dará que meu pai me impute esta falta, e que êle ma não perdoe nunca." },
+    { "n": 33, "texto": "Assim eu ficarei teu escravo, e servirei a meu senhor em lugar dêste menino, para que êle volte com seus irmãos." },
+    { "n": 34, "texto": "Porque eu não posso tornar para meu pai, sem que vá êste menino; por não suceder que vá, eu mesmo ser testemunha da extrema aflição, que acabará a meu pai.", "nota": "fn44_3" }
+  ],
+  "notas": {
+    "fn44_1": {
+      "rotulo": "A MINHA TAÇA",
+      "texto": "As taças de que os egípcios se serviam tinham considerável valor, não só material, como artístico. Os investigadores têm encontrado em muitos túmulos muitos dêsses valiosos objetos, guardados religiosamente nos mais célebres museus da Europa. No museu do Louvre existe um belo exemplar em ouro."
+    },
+    "fn44_2": {
+      "rotulo": "DE QUE ÊLE SE SERVE PARA AS SUAS ADIVINHAÇÕES",
+      "texto": "A adivinhação pela taça era costume praticado em todo o Oriente. Deitavam água numa taça; depois de cheia lançavam-se bocados de ouro, prata, pérolas, pedras preciosas, e observando as diferentes figuras que se produziam no líquido julgavam poder daí deduzir o conhecimento do futuro, ou explicar coisas ocultas. S. Tomás interpreta esta passagem, dizendo que José procedia assim e falava assim, para não ir de encontro à opinião que a seu respeito vogava no Egito, sem que, contudo, praticasse a magia."
+    },
+    "fn44_3": {
+      "rotulo": "NÃO POSSO TORNAR PARA MEU PAI",
+      "texto": "Em tudo o que se passou, José só quis certificar que seus irmãos não tinham para com Benjamim os sentimentos que para com êle tiveram. O modo de falar de Judá provou-lhe que seus irmãos estavam emendados; a angústia que deixavam transparecer mostrava quanto êles eram diversos dos invejosos que venderam seu irmão, e os sentimentos de arrependimento de que se achavam possuídos."
+    }
+  }
+}

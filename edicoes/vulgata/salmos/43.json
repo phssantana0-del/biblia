@@ -1,6 +1,5 @@
 {
   "num": 43,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi",
   "sumario": "Preces populi afflicti pro liberatione",
   "versiculos": [
     {
@@ -112,5 +111,6 @@
       "texto": "Exsurge, Domine, adjuva nos, et redime nos propter nomen tuum."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_43"
 }

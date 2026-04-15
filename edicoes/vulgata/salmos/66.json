@@ -2,15 +2,39 @@
   "num": 66,
   "sumario": "In finem, in hymnis. Psalmus cantici David.",
   "versiculos": [
-    { "n": 1, "texto": "In finem, in hymnis. Psalmus cantici David." },
-    { "n": 2, "texto": "Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri:" },
-    { "n": 3, "texto": "ut cognoscamus in terra viam tuam, in omnibus gentibus salutare tuum." },
-    { "n": 4, "texto": "Confiteantur tibi populi, Deus: confiteantur tibi populi omnes." },
-    { "n": 5, "texto": "Lætentur et exsultent gentes: quoniam judicas populos in æquitate, et gentes in terra dirigis." },
-    { "n": 6, "texto": "Confiteantur tibi populi, Deus; confiteantur tibi populi omnes:" },
-    { "n": 7, "texto": "terra dedit fructum suum. Benedicat nos Deus, Deus noster," },
-    { "n": 8, "texto": "benedicat nos Deus: et metuant eum omnes fines terræ." }
+    {
+      "n": 1,
+      "texto": "In finem, in hymnis. Psalmus cantici David."
+    },
+    {
+      "n": 2,
+      "texto": "Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri:"
+    },
+    {
+      "n": 3,
+      "texto": "ut cognoscamus in terra viam tuam, in omnibus gentibus salutare tuum."
+    },
+    {
+      "n": 4,
+      "texto": "Confiteantur tibi populi, Deus: confiteantur tibi populi omnes."
+    },
+    {
+      "n": 5,
+      "texto": "Lætentur et exsultent gentes: quoniam judicas populos in æquitate, et gentes in terra dirigis."
+    },
+    {
+      "n": 6,
+      "texto": "Confiteantur tibi populi, Deus; confiteantur tibi populi omnes:"
+    },
+    {
+      "n": 7,
+      "texto": "terra dedit fructum suum. Benedicat nos Deus, Deus noster,"
+    },
+    {
+      "n": 8,
+      "texto": "benedicat nos Deus: et metuant eum omnes fines terræ."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_66"
 }

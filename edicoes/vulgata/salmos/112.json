@@ -2,16 +2,43 @@
   "num": 112,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1, "texto": "Laudate, pueri, Dominum: laudate nomen Domini." },
-    { "n": 2, "texto": "Sit nomen Domini benedictum, ex hoc nunc et usque in sæculum." },
-    { "n": 3, "texto": "A solis ortu usque ad occasum, laudabile nomen Domini." },
-    { "n": 4, "texto": "Excelsus super omnes gentes Dominus, et super cælos gloria ejus." },
-    { "n": 5, "texto": "Quis sicut Dominus Deus noster, qui in altis habitat," },
-    { "n": 6, "texto": "et humilia respicit in cælo et in terra?" },
-    { "n": 7, "texto": "Suscitans a terra inopem, et de stercore erigens pauperem:" },
-    { "n": 8, "texto": "ut collocet eum cum principibus, cum principibus populi sui." },
-    { "n": 9, "texto": "Qui habitare facit sterilem in domo, matrem filiorum lætantem." }
+    {
+      "n": 1,
+      "texto": "Laudate, pueri, Dominum: laudate nomen Domini."
+    },
+    {
+      "n": 2,
+      "texto": "Sit nomen Domini benedictum, ex hoc nunc et usque in sæculum."
+    },
+    {
+      "n": 3,
+      "texto": "A solis ortu usque ad occasum, laudabile nomen Domini."
+    },
+    {
+      "n": 4,
+      "texto": "Excelsus super omnes gentes Dominus, et super cælos gloria ejus."
+    },
+    {
+      "n": 5,
+      "texto": "Quis sicut Dominus Deus noster, qui in altis habitat,"
+    },
+    {
+      "n": 6,
+      "texto": "et humilia respicit in cælo et in terra?"
+    },
+    {
+      "n": 7,
+      "texto": "Suscitans a terra inopem, et de stercore erigens pauperem:"
+    },
+    {
+      "n": 8,
+      "texto": "ut collocet eum cum principibus, cum principibus populi sui."
+    },
+    {
+      "n": 9,
+      "texto": "Qui habitare facit sterilem in domo, matrem filiorum lætantem."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_112"
 }

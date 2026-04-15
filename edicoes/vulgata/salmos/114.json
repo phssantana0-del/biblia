@@ -2,16 +2,43 @@
   "num": 114,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1, "texto": "Dilexi, quoniam exaudiet Dominus vocem orationis meæ." },
-    { "n": 2, "texto": "Quia inclinavit aurem suam mihi: et in diebus meis invocabo." },
-    { "n": 3, "texto": "Circumdederunt me dolores mortis: et pericula inferni invenerunt me. Tribulationem et dolorem inveni:" },
-    { "n": 4, "texto": "et nomen Domini invocavi. O Domine, libera animam meam:" },
-    { "n": 5, "texto": "misericors Dominus, et justus, et Deus noster miseretur." },
-    { "n": 6, "texto": "Custodiens parvulos Dominus: humiliatus sum, et liberavit me." },
-    { "n": 7, "texto": "Convertere, anima mea, in requiem tuam: quia Dominus benefecit tibi." },
-    { "n": 8, "texto": "Quia eripuit animam meam de morte: oculos meos a lacrimis, pedes meos a lapsu." },
-    { "n": 9, "texto": "Placebo Domino in regione vivorum." }
+    {
+      "n": 1,
+      "texto": "Dilexi, quoniam exaudiet Dominus vocem orationis meæ."
+    },
+    {
+      "n": 2,
+      "texto": "Quia inclinavit aurem suam mihi: et in diebus meis invocabo."
+    },
+    {
+      "n": 3,
+      "texto": "Circumdederunt me dolores mortis: et pericula inferni invenerunt me. Tribulationem et dolorem inveni:"
+    },
+    {
+      "n": 4,
+      "texto": "et nomen Domini invocavi. O Domine, libera animam meam:"
+    },
+    {
+      "n": 5,
+      "texto": "misericors Dominus, et justus, et Deus noster miseretur."
+    },
+    {
+      "n": 6,
+      "texto": "Custodiens parvulos Dominus: humiliatus sum, et liberavit me."
+    },
+    {
+      "n": 7,
+      "texto": "Convertere, anima mea, in requiem tuam: quia Dominus benefecit tibi."
+    },
+    {
+      "n": 8,
+      "texto": "Quia eripuit animam meam de morte: oculos meos a lacrimis, pedes meos a lapsu."
+    },
+    {
+      "n": 9,
+      "texto": "Placebo Domino in regione vivorum."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_114"
 }

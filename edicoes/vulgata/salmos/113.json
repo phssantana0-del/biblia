@@ -2,33 +2,111 @@
   "num": 113,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1, "texto": "In exitu Israel de Ægypto, domus Jacob de populo barbaro:" },
-    { "n": 2, "texto": "facta est Judæa sanctificatio ejus, Israel potestas ejus." },
-    { "n": 3, "texto": "Mare vidit, et fugit: Jordanis conversus est retrorsum." },
-    { "n": 4, "texto": "Montes exsultaverunt ut arietes, et colles sicut agni ovium." },
-    { "n": 5, "texto": "Quid est tibi, mare, quod fugisti? et tu, Jordanis, quia conversus es retrorsum?" },
-    { "n": 6, "texto": "Montes, exsultastis sicut arietes, et colles, sicut agni ovium?" },
-    { "n": 7, "texto": "A facie Domini mota est terra, a facie Dei Jacob:" },
-    { "n": 8, "texto": "qui convertit petram in stagna aquarum, et rupem in fontes aquarum." },
-    { "n": 9, "texto": "Non nobis, Domine, non nobis: sed nomini tuo da gloriam." },
-    { "n": 10, "texto": "Super misericordia tua, et veritate tua: nequando dicant gentes: Ubi est Deus eorum?" },
-    { "n": 11, "texto": "Deus autem noster in cælo: omnia quæcumque voluit, fecit." },
-    { "n": 12, "texto": "Simulacra gentium argentum et aurum, opera manuum hominum." },
-    { "n": 13, "texto": "Os habent, et non loquentur: oculos habent, et non videbunt." },
-    { "n": 14, "texto": "Aures habent, et non audient: nares habent, et non odorabunt." },
-    { "n": 15, "texto": "Manus habent, et non palpabunt: pedes habent, et non ambulabunt: non clamabunt in gutture suo." },
-    { "n": 16, "texto": "Similes illis fiant qui faciunt ea: et omnes qui confidunt in eis." },
-    { "n": 17, "texto": "Domus Israel speravit in Domino: adjutor eorum et protector eorum est." },
-    { "n": 18, "texto": "Domus Aaron speravit in Domino: adjutor eorum et protector eorum est." },
-    { "n": 19, "texto": "Qui timent Dominum, speraverunt in Domino: adjutor eorum et protector eorum est." },
-    { "n": 20, "texto": "Dominus memor fuit nostri, et benedixit nobis. Benedixit domui Israel: benedixit domui Aaron." },
-    { "n": 21, "texto": "Benedixit omnibus qui timent Dominum, pusillis cum majoribus." },
-    { "n": 22, "texto": "Adjiciat Dominus super vos: super vos, et super filios vestros." },
-    { "n": 23, "texto": "Benedicti vos a Domino, qui fecit cælum et terram." },
-    { "n": 24, "texto": "Cælum cæli Domino: terram autem dedit filiis hominum." },
-    { "n": 25, "texto": "Non mortui laudabunt te, Domine: neque omnes qui descendunt in infernum." },
-    { "n": 26, "texto": "Sed nos qui vivimus, benedicimus Domino, ex hoc nunc et usque in sæculum." }
+    {
+      "n": 1,
+      "texto": "In exitu Israel de Ægypto, domus Jacob de populo barbaro:"
+    },
+    {
+      "n": 2,
+      "texto": "facta est Judæa sanctificatio ejus, Israel potestas ejus."
+    },
+    {
+      "n": 3,
+      "texto": "Mare vidit, et fugit: Jordanis conversus est retrorsum."
+    },
+    {
+      "n": 4,
+      "texto": "Montes exsultaverunt ut arietes, et colles sicut agni ovium."
+    },
+    {
+      "n": 5,
+      "texto": "Quid est tibi, mare, quod fugisti? et tu, Jordanis, quia conversus es retrorsum?"
+    },
+    {
+      "n": 6,
+      "texto": "Montes, exsultastis sicut arietes, et colles, sicut agni ovium?"
+    },
+    {
+      "n": 7,
+      "texto": "A facie Domini mota est terra, a facie Dei Jacob:"
+    },
+    {
+      "n": 8,
+      "texto": "qui convertit petram in stagna aquarum, et rupem in fontes aquarum."
+    },
+    {
+      "n": 9,
+      "texto": "Non nobis, Domine, non nobis: sed nomini tuo da gloriam."
+    },
+    {
+      "n": 10,
+      "texto": "Super misericordia tua, et veritate tua: nequando dicant gentes: Ubi est Deus eorum?"
+    },
+    {
+      "n": 11,
+      "texto": "Deus autem noster in cælo: omnia quæcumque voluit, fecit."
+    },
+    {
+      "n": 12,
+      "texto": "Simulacra gentium argentum et aurum, opera manuum hominum."
+    },
+    {
+      "n": 13,
+      "texto": "Os habent, et non loquentur: oculos habent, et non videbunt."
+    },
+    {
+      "n": 14,
+      "texto": "Aures habent, et non audient: nares habent, et non odorabunt."
+    },
+    {
+      "n": 15,
+      "texto": "Manus habent, et non palpabunt: pedes habent, et non ambulabunt: non clamabunt in gutture suo."
+    },
+    {
+      "n": 16,
+      "texto": "Similes illis fiant qui faciunt ea: et omnes qui confidunt in eis."
+    },
+    {
+      "n": 17,
+      "texto": "Domus Israel speravit in Domino: adjutor eorum et protector eorum est."
+    },
+    {
+      "n": 18,
+      "texto": "Domus Aaron speravit in Domino: adjutor eorum et protector eorum est."
+    },
+    {
+      "n": 19,
+      "texto": "Qui timent Dominum, speraverunt in Domino: adjutor eorum et protector eorum est."
+    },
+    {
+      "n": 20,
+      "texto": "Dominus memor fuit nostri, et benedixit nobis. Benedixit domui Israel: benedixit domui Aaron."
+    },
+    {
+      "n": 21,
+      "texto": "Benedixit omnibus qui timent Dominum, pusillis cum majoribus."
+    },
+    {
+      "n": 22,
+      "texto": "Adjiciat Dominus super vos: super vos, et super filios vestros."
+    },
+    {
+      "n": 23,
+      "texto": "Benedicti vos a Domino, qui fecit cælum et terram."
+    },
+    {
+      "n": 24,
+      "texto": "Cælum cæli Domino: terram autem dedit filiis hominum."
+    },
+    {
+      "n": 25,
+      "texto": "Non mortui laudabunt te, Domine: neque omnes qui descendunt in infernum."
+    },
+    {
+      "n": 26,
+      "texto": "Sed nos qui vivimus, benedicimus Domino, ex hoc nunc et usque in sæculum."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_113"
 }

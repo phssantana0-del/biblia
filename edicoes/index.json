@@ -4,6 +4,7 @@
     "edicao": "Bíblia Sagrada — Trad. Pe. Figueiredo",
     "idioma": "pt-BR",
     "livros": [
+      "edicoes/figueiredo/genesis/index.json",
       "edicoes/figueiredo/salmos/index.json",
       "edicoes/figueiredo/mateus/index.json",
       "edicoes/figueiredo/marcos/index.json",
@@ -16,6 +17,7 @@
     "edicao": "Vulgata Latina",
     "idioma": "la",
     "livros": [
+      "edicoes/vulgata/genesis/index.json",
       "edicoes/vulgata/salmos/index.json",
       "edicoes/vulgata/mateus/index.json",
       "edicoes/vulgata/marcos/index.json",

@@ -1,6 +1,5 @@
 {
   "num": 21,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -102,5 +101,6 @@
       "n": 25,
       "texto": "Sunt autem et alia multa quæ fecit Jesus : quæ si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros. Receptum de \"https://la.wikisource.org/w/index.php?title=Vulgata_Clementina/Evangelium_Secundum_Joannem&oldid=147264\" <div"
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_21"
 }

@@ -2,33 +2,111 @@
   "num": 135,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1,  "texto": "Confitemini Domino quoniam bonus: quoniam in æternum misericordia ejus." },
-    { "n": 2,  "texto": "Confitemini Deo deorum: quoniam in æternum misericordia ejus." },
-    { "n": 3,  "texto": "Confitemini Domino dominorum: quoniam in æternum misericordia ejus." },
-    { "n": 4,  "texto": "Qui facit mirabilia magna solus: quoniam in æternum misericordia ejus." },
-    { "n": 5,  "texto": "Qui fecit cælos in intellectu: quoniam in æternum misericordia ejus." },
-    { "n": 6,  "texto": "Qui firmavit terram super aquas: quoniam in æternum misericordia ejus." },
-    { "n": 7,  "texto": "Qui fecit luminaria magna: quoniam in æternum misericordia ejus." },
-    { "n": 8,  "texto": "Solem in potestatem diei: quoniam in æternum misericordia ejus." },
-    { "n": 9,  "texto": "Lunam et stellas in potestatem noctis: quoniam in æternum misericordia ejus." },
-    { "n": 10, "texto": "Qui percussit Ægyptum cum primogenitis eorum: quoniam in æternum misericordia ejus." },
-    { "n": 11, "texto": "Qui eduxit Israel de medio eorum: quoniam in æternum misericordia ejus." },
-    { "n": 12, "texto": "In manu potenti, et brachio excelso: quoniam in æternum misericordia ejus." },
-    { "n": 13, "texto": "Qui divisit Mare Rubrum in divisiones: quoniam in æternum misericordia ejus." },
-    { "n": 14, "texto": "Et eduxit Israel per medium ejus: quoniam in æternum misericordia ejus." },
-    { "n": 15, "texto": "Et excussit Pharaonem et virtutem ejus in Mari Rubro: quoniam in æternum misericordia ejus." },
-    { "n": 16, "texto": "Qui traduxit populum suum per desertum: quoniam in æternum misericordia ejus." },
-    { "n": 17, "texto": "Qui percussit reges magnos: quoniam in æternum misericordia ejus." },
-    { "n": 18, "texto": "Et occidit reges fortes: quoniam in æternum misericordia ejus." },
-    { "n": 19, "texto": "Sehon, regem Amorrhæorum: quoniam in æternum misericordia ejus." },
-    { "n": 20, "texto": "Et Og, regem Basan: quoniam in æternum misericordia ejus." },
-    { "n": 21, "texto": "Et dedit terram eorum hæreditatem: quoniam in æternum misericordia ejus." },
-    { "n": 22, "texto": "Hæreditatem Israel, servo suo: quoniam in æternum misericordia ejus." },
-    { "n": 23, "texto": "Quia in humilitate nostra memor fuit nostri: quoniam in æternum misericordia ejus." },
-    { "n": 24, "texto": "Et redemit nos ab inimicis nostris: quoniam in æternum misericordia ejus." },
-    { "n": 25, "texto": "Qui dat escam omni carni: quoniam in æternum misericordia ejus." },
-    { "n": 26, "texto": "Confitemini Deo cæli: quoniam in æternum misericordia ejus." }
+    {
+      "n": 1,
+      "texto": "Confitemini Domino quoniam bonus: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 2,
+      "texto": "Confitemini Deo deorum: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 3,
+      "texto": "Confitemini Domino dominorum: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 4,
+      "texto": "Qui facit mirabilia magna solus: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 5,
+      "texto": "Qui fecit cælos in intellectu: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 6,
+      "texto": "Qui firmavit terram super aquas: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 7,
+      "texto": "Qui fecit luminaria magna: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 8,
+      "texto": "Solem in potestatem diei: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 9,
+      "texto": "Lunam et stellas in potestatem noctis: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 10,
+      "texto": "Qui percussit Ægyptum cum primogenitis eorum: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 11,
+      "texto": "Qui eduxit Israel de medio eorum: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 12,
+      "texto": "In manu potenti, et brachio excelso: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 13,
+      "texto": "Qui divisit Mare Rubrum in divisiones: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 14,
+      "texto": "Et eduxit Israel per medium ejus: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 15,
+      "texto": "Et excussit Pharaonem et virtutem ejus in Mari Rubro: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 16,
+      "texto": "Qui traduxit populum suum per desertum: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 17,
+      "texto": "Qui percussit reges magnos: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 18,
+      "texto": "Et occidit reges fortes: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 19,
+      "texto": "Sehon, regem Amorrhæorum: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 20,
+      "texto": "Et Og, regem Basan: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 21,
+      "texto": "Et dedit terram eorum hæreditatem: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 22,
+      "texto": "Hæreditatem Israel, servo suo: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 23,
+      "texto": "Quia in humilitate nostra memor fuit nostri: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 24,
+      "texto": "Et redemit nos ab inimicis nostris: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 25,
+      "texto": "Qui dat escam omni carni: quoniam in æternum misericordia ejus."
+    },
+    {
+      "n": 26,
+      "texto": "Confitemini Deo cæli: quoniam in æternum misericordia ejus."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_135"
 }

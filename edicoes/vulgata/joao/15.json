@@ -1,6 +1,5 @@
 {
   "num": 15,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -110,5 +109,6 @@
       "n": 27,
       "texto": "et vos testimonium perhibebitis, quia ab initio mecum estis."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_15"
 }

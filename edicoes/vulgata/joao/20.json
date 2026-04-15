@@ -1,6 +1,5 @@
 {
   "num": 20,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -126,5 +125,6 @@
       "n": 31,
       "texto": "Hæc autem scripta sunt ut credatis, quia Jesus est Christus Filius Dei : et ut credentes, vitam habeatis in nomine ejus."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_20"
 }

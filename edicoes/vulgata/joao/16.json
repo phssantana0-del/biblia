@@ -1,6 +1,5 @@
 {
   "num": 16,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -134,5 +133,6 @@
       "n": 33,
       "texto": "Hæc locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis : sed confidite, ego vici mundum."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_16"
 }

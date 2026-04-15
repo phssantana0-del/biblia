@@ -2,55 +2,199 @@
   "num": 105,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1,  "texto": "Alleluia. Confitemini Domino, quoniam bonus: quoniam in sæculum misericordia ejus." },
-    { "n": 2,  "texto": "Quis loquetur potentias Domini, auditas faciet omnes laudes ejus?" },
-    { "n": 3,  "texto": "Beati qui custodiunt judicium, et faciunt justitiam in omni tempore." },
-    { "n": 4,  "texto": "Memento nostri, Domine, in beneplacito populi tui: visita nos in salutari tuo:" },
-    { "n": 5,  "texto": "ad videndum in bonitate electorum tuorum, ad lætandum in lætitia gentis tuæ: ut lauderis cum hæreditate tua." },
-    { "n": 6,  "texto": "Peccavimus cum patribus nostris: injuste egimus, iniquitatem fecimus." },
-    { "n": 7,  "texto": "Patres nostri in Ægypto non intellexerunt mirabilia tua: non fuerunt memores multitudinis misericordiæ tuæ. Et irritaverunt ascendentes in mare, Mare Rubrum." },
-    { "n": 8,  "texto": "Et salvavit eos propter nomen suum, ut notam faceret potentiam suam." },
-    { "n": 9,  "texto": "Et increpuit Mare Rubrum, et exsiccatum est: et deduxit eos in abyssis sicut in deserto." },
-    { "n": 10, "texto": "Et salvavit eos de manu odientium: et redemit eos de manu inimici." },
-    { "n": 11, "texto": "Et operuit aqua tribulantes eos: unus ex eis non remansit." },
-    { "n": 12, "texto": "Et crediderunt verbis ejus: et laudaverunt laudem ejus." },
-    { "n": 13, "texto": "Cito fecerunt, obliti sunt operum ejus: et non sustinuerunt consilium ejus." },
-    { "n": 14, "texto": "Et concupierunt concupiscentiam in deserto: et tentaverunt Deum in inaquoso." },
-    { "n": 15, "texto": "Et dedit eis petitionem ipsorum: et misit saturitatem in animas eorum." },
-    { "n": 16, "texto": "Et irritaverunt Moysen in castris: Aaron, sanctum Domini." },
-    { "n": 17, "texto": "Aperta est terra, et deglutivit Dathan: et operuit super congregationem Abiron." },
-    { "n": 18, "texto": "Et exarsit ignis in synagoga eorum: flamma combussit peccatores." },
-    { "n": 19, "texto": "Et fecerunt vitulum in Horeb: et adoraverunt sculptile." },
-    { "n": 20, "texto": "Et mutaverunt gloriam suam in similitudinem vituli comedentis fœnum." },
-    { "n": 21, "texto": "Obliti sunt Deum, qui salvavit eos, qui fecit magnalia in Ægypto," },
-    { "n": 22, "texto": "mirabilia in terra Cham: terribilia in Mari Rubro." },
-    { "n": 23, "texto": "Et dixit ut disperderet eos: si non Moyses, electus ejus, stetisset in confractione in conspectu ejus: ut averteret iram ejus ne disperderet eos:" },
-    { "n": 24, "texto": "et pro nihilo habuerunt terram desiderabilem. Non crediderunt verbo ejus," },
-    { "n": 25, "texto": "et murmuraverunt in tabernaculis suis: non exaudierunt vocem Domini." },
-    { "n": 26, "texto": "Et elevavit manum suam super eos, ut prosterneret eos in deserto:" },
-    { "n": 27, "texto": "et ut dejiceret semen eorum in nationibus, et dispergeret eos in regionibus." },
-    { "n": 28, "texto": "Et initiati sunt Beelphegor: et comederunt sacrificia mortuorum." },
-    { "n": 29, "texto": "Et irritaverunt eum in adinventionibus suis: et multiplicata est in eis ruina." },
-    { "n": 30, "texto": "Et stetit Phinees, et placavit: et cessavit quassatio." },
-    { "n": 31, "texto": "Et reputatum est ei in justitiam, in generationem et generationem usque in sempiternum." },
-    { "n": 32, "texto": "Et irritaverunt eum ad Aquas Contradictionis: et vexatus est Moyses propter eos:" },
-    { "n": 33, "texto": "quia exacerbaverunt spiritum ejus. Et distinxit in labiis suis:" },
-    { "n": 34, "texto": "non disperdiderunt gentes, quas dixit Dominus illis." },
-    { "n": 35, "texto": "Et commisti sunt inter gentes, et didicerunt opera eorum:" },
-    { "n": 36, "texto": "et servierunt sculptilibus eorum, et factum est illis in scandalum." },
-    { "n": 37, "texto": "Et immolaverunt filios suos et filias suas dæmoniis." },
-    { "n": 38, "texto": "Et effuderunt sanguinem innocentem: sanguinem filiorum suorum et filiarum suarum, quas sacrificaverunt sculptilibus Chanaan. Et infecta est terra in sanguinibus," },
-    { "n": 39, "texto": "et contaminata est in operibus eorum: et fornicati sunt in adinventionibus suis." },
-    { "n": 40, "texto": "Et iratus est furore Dominus in populum suum: et abominatus est hæreditatem suam." },
-    { "n": 41, "texto": "Et tradidit eos in manus gentium: et dominati sunt eorum qui oderunt eos." },
-    { "n": 42, "texto": "Et tribulaverunt eos inimici eorum, et humiliati sunt sub manibus eorum:" },
-    { "n": 43, "texto": "sæpe liberavit eos. Ipsi autem exacerbaverunt eum in consilio suo: et humiliati sunt in iniquitatibus suis." },
-    { "n": 44, "texto": "Et vidit cum tribularentur: et audivit orationem eorum." },
-    { "n": 45, "texto": "Et memor fuit testamenti sui: et pœnituit eum secundum multitudinem misericordiæ suæ." },
-    { "n": 46, "texto": "Et dedit eos in misericordias, in conspectu omnium qui ceperant eos." },
-    { "n": 47, "texto": "Salvos fac nos, Domine Deus noster, et congrega nos de nationibus: ut confiteamur nomini sancto tuo, et gloriemur in laude tua." },
-    { "n": 48, "texto": "Benedictus Dominus, Deus Israel, a sæculo et usque in sæculum: et dicet omnis populus: Fiat, fiat." }
+    {
+      "n": 1,
+      "texto": "Alleluia. Confitemini Domino, quoniam bonus: quoniam in sæculum misericordia ejus."
+    },
+    {
+      "n": 2,
+      "texto": "Quis loquetur potentias Domini, auditas faciet omnes laudes ejus?"
+    },
+    {
+      "n": 3,
+      "texto": "Beati qui custodiunt judicium, et faciunt justitiam in omni tempore."
+    },
+    {
+      "n": 4,
+      "texto": "Memento nostri, Domine, in beneplacito populi tui: visita nos in salutari tuo:"
+    },
+    {
+      "n": 5,
+      "texto": "ad videndum in bonitate electorum tuorum, ad lætandum in lætitia gentis tuæ: ut lauderis cum hæreditate tua."
+    },
+    {
+      "n": 6,
+      "texto": "Peccavimus cum patribus nostris: injuste egimus, iniquitatem fecimus."
+    },
+    {
+      "n": 7,
+      "texto": "Patres nostri in Ægypto non intellexerunt mirabilia tua: non fuerunt memores multitudinis misericordiæ tuæ. Et irritaverunt ascendentes in mare, Mare Rubrum."
+    },
+    {
+      "n": 8,
+      "texto": "Et salvavit eos propter nomen suum, ut notam faceret potentiam suam."
+    },
+    {
+      "n": 9,
+      "texto": "Et increpuit Mare Rubrum, et exsiccatum est: et deduxit eos in abyssis sicut in deserto."
+    },
+    {
+      "n": 10,
+      "texto": "Et salvavit eos de manu odientium: et redemit eos de manu inimici."
+    },
+    {
+      "n": 11,
+      "texto": "Et operuit aqua tribulantes eos: unus ex eis non remansit."
+    },
+    {
+      "n": 12,
+      "texto": "Et crediderunt verbis ejus: et laudaverunt laudem ejus."
+    },
+    {
+      "n": 13,
+      "texto": "Cito fecerunt, obliti sunt operum ejus: et non sustinuerunt consilium ejus."
+    },
+    {
+      "n": 14,
+      "texto": "Et concupierunt concupiscentiam in deserto: et tentaverunt Deum in inaquoso."
+    },
+    {
+      "n": 15,
+      "texto": "Et dedit eis petitionem ipsorum: et misit saturitatem in animas eorum."
+    },
+    {
+      "n": 16,
+      "texto": "Et irritaverunt Moysen in castris: Aaron, sanctum Domini."
+    },
+    {
+      "n": 17,
+      "texto": "Aperta est terra, et deglutivit Dathan: et operuit super congregationem Abiron."
+    },
+    {
+      "n": 18,
+      "texto": "Et exarsit ignis in synagoga eorum: flamma combussit peccatores."
+    },
+    {
+      "n": 19,
+      "texto": "Et fecerunt vitulum in Horeb: et adoraverunt sculptile."
+    },
+    {
+      "n": 20,
+      "texto": "Et mutaverunt gloriam suam in similitudinem vituli comedentis fœnum."
+    },
+    {
+      "n": 21,
+      "texto": "Obliti sunt Deum, qui salvavit eos, qui fecit magnalia in Ægypto,"
+    },
+    {
+      "n": 22,
+      "texto": "mirabilia in terra Cham: terribilia in Mari Rubro."
+    },
+    {
+      "n": 23,
+      "texto": "Et dixit ut disperderet eos: si non Moyses, electus ejus, stetisset in confractione in conspectu ejus: ut averteret iram ejus ne disperderet eos:"
+    },
+    {
+      "n": 24,
+      "texto": "et pro nihilo habuerunt terram desiderabilem. Non crediderunt verbo ejus,"
+    },
+    {
+      "n": 25,
+      "texto": "et murmuraverunt in tabernaculis suis: non exaudierunt vocem Domini."
+    },
+    {
+      "n": 26,
+      "texto": "Et elevavit manum suam super eos, ut prosterneret eos in deserto:"
+    },
+    {
+      "n": 27,
+      "texto": "et ut dejiceret semen eorum in nationibus, et dispergeret eos in regionibus."
+    },
+    {
+      "n": 28,
+      "texto": "Et initiati sunt Beelphegor: et comederunt sacrificia mortuorum."
+    },
+    {
+      "n": 29,
+      "texto": "Et irritaverunt eum in adinventionibus suis: et multiplicata est in eis ruina."
+    },
+    {
+      "n": 30,
+      "texto": "Et stetit Phinees, et placavit: et cessavit quassatio."
+    },
+    {
+      "n": 31,
+      "texto": "Et reputatum est ei in justitiam, in generationem et generationem usque in sempiternum."
+    },
+    {
+      "n": 32,
+      "texto": "Et irritaverunt eum ad Aquas Contradictionis: et vexatus est Moyses propter eos:"
+    },
+    {
+      "n": 33,
+      "texto": "quia exacerbaverunt spiritum ejus. Et distinxit in labiis suis:"
+    },
+    {
+      "n": 34,
+      "texto": "non disperdiderunt gentes, quas dixit Dominus illis."
+    },
+    {
+      "n": 35,
+      "texto": "Et commisti sunt inter gentes, et didicerunt opera eorum:"
+    },
+    {
+      "n": 36,
+      "texto": "et servierunt sculptilibus eorum, et factum est illis in scandalum."
+    },
+    {
+      "n": 37,
+      "texto": "Et immolaverunt filios suos et filias suas dæmoniis."
+    },
+    {
+      "n": 38,
+      "texto": "Et effuderunt sanguinem innocentem: sanguinem filiorum suorum et filiarum suarum, quas sacrificaverunt sculptilibus Chanaan. Et infecta est terra in sanguinibus,"
+    },
+    {
+      "n": 39,
+      "texto": "et contaminata est in operibus eorum: et fornicati sunt in adinventionibus suis."
+    },
+    {
+      "n": 40,
+      "texto": "Et iratus est furore Dominus in populum suum: et abominatus est hæreditatem suam."
+    },
+    {
+      "n": 41,
+      "texto": "Et tradidit eos in manus gentium: et dominati sunt eorum qui oderunt eos."
+    },
+    {
+      "n": 42,
+      "texto": "Et tribulaverunt eos inimici eorum, et humiliati sunt sub manibus eorum:"
+    },
+    {
+      "n": 43,
+      "texto": "sæpe liberavit eos. Ipsi autem exacerbaverunt eum in consilio suo: et humiliati sunt in iniquitatibus suis."
+    },
+    {
+      "n": 44,
+      "texto": "Et vidit cum tribularentur: et audivit orationem eorum."
+    },
+    {
+      "n": 45,
+      "texto": "Et memor fuit testamenti sui: et pœnituit eum secundum multitudinem misericordiæ suæ."
+    },
+    {
+      "n": 46,
+      "texto": "Et dedit eos in misericordias, in conspectu omnium qui ceperant eos."
+    },
+    {
+      "n": 47,
+      "texto": "Salvos fac nos, Domine Deus noster, et congrega nos de nationibus: ut confiteamur nomini sancto tuo, et gloriemur in laude tua."
+    },
+    {
+      "n": 48,
+      "texto": "Benedictus Dominus, Deus Israel, a sæculo et usque in sæculum: et dicet omnis populus: Fiat, fiat."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_105"
 }

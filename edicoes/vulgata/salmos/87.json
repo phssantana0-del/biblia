@@ -2,26 +2,83 @@
   "num": 87,
   "sumario": "Canticum Psalmi filiis Core. In finem, pro Maheleth ad respondendum. Intellectus Eman Ezrahitæ.",
   "versiculos": [
-    { "n": 1,  "texto": "Canticum Psalmi filiis Core. In finem, pro Maheleth ad respondendum. Intellectus Eman Ezrahitæ." },
-    { "n": 2,  "texto": "Domine Deus salutis meæ, in die clamavi, et nocte coram te." },
-    { "n": 3,  "texto": "Intret in conspectu tuo oratio mea; inclina aurem tuam ad precem meam." },
-    { "n": 4,  "texto": "Quia repleta est malis anima mea, et vita mea inferno appropinquavit." },
-    { "n": 5,  "texto": "Æstimatus sum cum descendentibus in lacum; factus sum sicut homo sine adjutorio," },
-    { "n": 6,  "texto": "inter mortuos liber: sicut vulnerati dormientes in sepulchris, quorum non es memor amplius, et ipsi de manu tua repulsi sunt." },
-    { "n": 7,  "texto": "Posuerunt me in lacu inferiori, in tenebrosis, et in umbra mortis." },
-    { "n": 8,  "texto": "Super me confirmatus est furor tuus, et omnes fluctus tuos induxisti super me." },
-    { "n": 9,  "texto": "Longe fecisti notos meos a me; posuerunt me abominationem sibi. Traditus sum, et non egrediebar;" },
-    { "n": 10, "texto": "oculi mei languerunt præ inopia. Clamavi ad te, Domine, tota die; expandi ad te manus meas." },
-    { "n": 11, "texto": "Numquid mortuis facies mirabilia? aut medici suscitabunt, et confitebuntur tibi?" },
-    { "n": 12, "texto": "Numquid narrabit aliquis in sepulchro misericordiam tuam, et veritatem tuam in perditione?" },
-    { "n": 13, "texto": "Numquid cognoscentur in tenebris mirabilia tua, et justitia tua in terra oblivionis?" },
-    { "n": 14, "texto": "Et ego ad te, Domine, clamavi; et mane oratio mea præveniet te." },
-    { "n": 15, "texto": "Ut quid, Domine, repellis orationem meam? avertis faciem tuam a me?" },
-    { "n": 16, "texto": "Pauper sum ego, et in laboribus a juventute mea; exaltatus autem, humiliatus sum et conturbatus." },
-    { "n": 17, "texto": "In me transierunt iræ tuæ, et terrores tui conturbaverunt me." },
-    { "n": 18, "texto": "Circumdederunt me sicut aqua tota die; circumdederunt me simul." },
-    { "n": 19, "texto": "Elongasti a me amicum et proximum, et notos meos a miseria." }
+    {
+      "n": 1,
+      "texto": "Canticum Psalmi filiis Core. In finem, pro Maheleth ad respondendum. Intellectus Eman Ezrahitæ."
+    },
+    {
+      "n": 2,
+      "texto": "Domine Deus salutis meæ, in die clamavi, et nocte coram te."
+    },
+    {
+      "n": 3,
+      "texto": "Intret in conspectu tuo oratio mea; inclina aurem tuam ad precem meam."
+    },
+    {
+      "n": 4,
+      "texto": "Quia repleta est malis anima mea, et vita mea inferno appropinquavit."
+    },
+    {
+      "n": 5,
+      "texto": "Æstimatus sum cum descendentibus in lacum; factus sum sicut homo sine adjutorio,"
+    },
+    {
+      "n": 6,
+      "texto": "inter mortuos liber: sicut vulnerati dormientes in sepulchris, quorum non es memor amplius, et ipsi de manu tua repulsi sunt."
+    },
+    {
+      "n": 7,
+      "texto": "Posuerunt me in lacu inferiori, in tenebrosis, et in umbra mortis."
+    },
+    {
+      "n": 8,
+      "texto": "Super me confirmatus est furor tuus, et omnes fluctus tuos induxisti super me."
+    },
+    {
+      "n": 9,
+      "texto": "Longe fecisti notos meos a me; posuerunt me abominationem sibi. Traditus sum, et non egrediebar;"
+    },
+    {
+      "n": 10,
+      "texto": "oculi mei languerunt præ inopia. Clamavi ad te, Domine, tota die; expandi ad te manus meas."
+    },
+    {
+      "n": 11,
+      "texto": "Numquid mortuis facies mirabilia? aut medici suscitabunt, et confitebuntur tibi?"
+    },
+    {
+      "n": 12,
+      "texto": "Numquid narrabit aliquis in sepulchro misericordiam tuam, et veritatem tuam in perditione?"
+    },
+    {
+      "n": 13,
+      "texto": "Numquid cognoscentur in tenebris mirabilia tua, et justitia tua in terra oblivionis?"
+    },
+    {
+      "n": 14,
+      "texto": "Et ego ad te, Domine, clamavi; et mane oratio mea præveniet te."
+    },
+    {
+      "n": 15,
+      "texto": "Ut quid, Domine, repellis orationem meam? avertis faciem tuam a me?"
+    },
+    {
+      "n": 16,
+      "texto": "Pauper sum ego, et in laboribus a juventute mea; exaltatus autem, humiliatus sum et conturbatus."
+    },
+    {
+      "n": 17,
+      "texto": "In me transierunt iræ tuæ, et terrores tui conturbaverunt me."
+    },
+    {
+      "n": 18,
+      "texto": "Circumdederunt me sicut aqua tota die; circumdederunt me simul."
+    },
+    {
+      "n": 19,
+      "texto": "Elongasti a me amicum et proximum, et notos meos a miseria."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_87"
 }

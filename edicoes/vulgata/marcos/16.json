@@ -1,27 +1,87 @@
 {
   "num": 16,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Marcum",
   "versiculos": [
-    { "n": 1, "texto": "Et cum transisset sabbatum, Maria Magdalene, et Maria Jacobi, et Salome emerunt aromata ut venientes ungerent Jesum." },
-    { "n": 2, "texto": "Et valde mane una sabbatorum, veniunt ad monumentum, orto jam sole." },
-    { "n": 3, "texto": "Et dicebant ad invicem : Quis revolvet nobis lapidem ab ostio monumenti ?" },
-    { "n": 4, "texto": "Et respicientes viderunt revolutum lapidem. Erat quippe magnus valde." },
-    { "n": 5, "texto": "Et introeuntes in monumentum viderunt juvenem sedentem in dextris, coopertum stola candida, et obstupuerunt." },
-    { "n": 6, "texto": "Qui dicit illis : Nolite expavescere : Jesum quæritis Nazarenum, crucifixum : surrexit, non est hic, ecce locus ubi posuerunt eum." },
-    { "n": 7, "texto": "Sed ite, dicite discipulis ejus, et Petro, quia præcedit vos in Galilæam : ibi eum videbitis, sicut dixit vobis." },
-    { "n": 8, "texto": "At illæ exeuntes, fugerunt de monumento : invaserat enim eas tremor et pavor : et nemini quidquam dixerunt : timebant enim." },
-    { "n": 9, "texto": "Surgens autem mane, prima sabbati, apparuit primo Mariæ Magdalene, de qua ejecerat septem dæmonia." },
-    { "n": 10, "texto": "Illa vadens nuntiavit his, qui cum eo fuerant, lugentibus et flentibus." },
-    { "n": 11, "texto": "Et illi audientes quia viveret, et visus esset ab ea, non crediderunt." },
-    { "n": 12, "texto": "Post hæc autem duobus ex his ambulantibus ostensus est in alia effigie euntibus in villam :" },
-    { "n": 13, "texto": "et illi euntes nuntiaverunt ceteris : nec illis crediderunt." },
-    { "n": 14, "texto": "Novissime recumbentibus illis undecim apparuit : et exprobravit incredulitatem eorum et duritiam cordis : quia iis, qui viderant eum resurrexisse, non crediderunt." },
-    { "n": 15, "texto": "Et dixit eis : Euntes in mundum universum prædicate Evangelium omni creaturæ." },
-    { "n": 16, "texto": "Qui crediderit et baptizatus fuerit, salvus erit : qui vero non crediderit, condemnabitur." },
-    { "n": 17, "texto": "Signa autem eos qui crediderint hæc sequentur : In nomine meo dæmonia ejicient : linguis loquentur novis :" },
-    { "n": 18, "texto": "serpentes tollent : et si mortiferum quid biberint, non eis nocebit : super ægros manus imponent, et bene habebunt." },
-    { "n": 19, "texto": "Et Dominus quidem Jesus, postquam locutus est eis, assumptus est in cælum, et sedet a dextris Dei." },
-    { "n": 20, "texto": "Illi autem profecti, prædicaverunt ubique, Domino cooperante, et sermonem confirmante, sequentibus signis." }
+    {
+      "n": 1,
+      "texto": "Et cum transisset sabbatum, Maria Magdalene, et Maria Jacobi, et Salome emerunt aromata ut venientes ungerent Jesum."
+    },
+    {
+      "n": 2,
+      "texto": "Et valde mane una sabbatorum, veniunt ad monumentum, orto jam sole."
+    },
+    {
+      "n": 3,
+      "texto": "Et dicebant ad invicem : Quis revolvet nobis lapidem ab ostio monumenti ?"
+    },
+    {
+      "n": 4,
+      "texto": "Et respicientes viderunt revolutum lapidem. Erat quippe magnus valde."
+    },
+    {
+      "n": 5,
+      "texto": "Et introeuntes in monumentum viderunt juvenem sedentem in dextris, coopertum stola candida, et obstupuerunt."
+    },
+    {
+      "n": 6,
+      "texto": "Qui dicit illis : Nolite expavescere : Jesum quæritis Nazarenum, crucifixum : surrexit, non est hic, ecce locus ubi posuerunt eum."
+    },
+    {
+      "n": 7,
+      "texto": "Sed ite, dicite discipulis ejus, et Petro, quia præcedit vos in Galilæam : ibi eum videbitis, sicut dixit vobis."
+    },
+    {
+      "n": 8,
+      "texto": "At illæ exeuntes, fugerunt de monumento : invaserat enim eas tremor et pavor : et nemini quidquam dixerunt : timebant enim."
+    },
+    {
+      "n": 9,
+      "texto": "Surgens autem mane, prima sabbati, apparuit primo Mariæ Magdalene, de qua ejecerat septem dæmonia."
+    },
+    {
+      "n": 10,
+      "texto": "Illa vadens nuntiavit his, qui cum eo fuerant, lugentibus et flentibus."
+    },
+    {
+      "n": 11,
+      "texto": "Et illi audientes quia viveret, et visus esset ab ea, non crediderunt."
+    },
+    {
+      "n": 12,
+      "texto": "Post hæc autem duobus ex his ambulantibus ostensus est in alia effigie euntibus in villam :"
+    },
+    {
+      "n": 13,
+      "texto": "et illi euntes nuntiaverunt ceteris : nec illis crediderunt."
+    },
+    {
+      "n": 14,
+      "texto": "Novissime recumbentibus illis undecim apparuit : et exprobravit incredulitatem eorum et duritiam cordis : quia iis, qui viderant eum resurrexisse, non crediderunt."
+    },
+    {
+      "n": 15,
+      "texto": "Et dixit eis : Euntes in mundum universum prædicate Evangelium omni creaturæ."
+    },
+    {
+      "n": 16,
+      "texto": "Qui crediderit et baptizatus fuerit, salvus erit : qui vero non crediderit, condemnabitur."
+    },
+    {
+      "n": 17,
+      "texto": "Signa autem eos qui crediderint hæc sequentur : In nomine meo dæmonia ejicient : linguis loquentur novis :"
+    },
+    {
+      "n": 18,
+      "texto": "serpentes tollent : et si mortiferum quid biberint, non eis nocebit : super ægros manus imponent, et bene habebunt."
+    },
+    {
+      "n": 19,
+      "texto": "Et Dominus quidem Jesus, postquam locutus est eis, assumptus est in cælum, et sedet a dextris Dei."
+    },
+    {
+      "n": 20,
+      "texto": "Illi autem profecti, prædicaverunt ubique, Domino cooperante, et sermonem confirmante, sequentibus signis."
+    }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Marcum#Caput_16"
 }

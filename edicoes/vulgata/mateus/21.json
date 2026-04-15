@@ -1,54 +1,192 @@
 {
   "num": 21,
   "sumario": "Introitus messianicus in Jerosolymam. Purgatio templi. Ficulnea maledicta et arida. Auctoritas Jesu. Parabola duorum filiorum et agricolarum.",
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum",
   "versiculos": [
-    { "n": 1,  "texto": "Et cum appropinquassent Jerosolymis, et venissent Bethphage ad montem Oliveti, tunc Jesus misit duos discipulos," },
-    { "n": 2,  "texto": "dicens eis : Ite in castellum, quod contra vos est, et statim invenietis asinam alligatam, et pullum cum ea : solvite, et adducite mihi :" },
-    { "n": 3,  "texto": "et si quis vobis aliquid dixerit, dicite quia Dominus his opus habet, et confestim dimittet eos." },
-    { "n": 4,  "texto": "Hoc autem totum factum est, ut adimpleretur quod dictum est per prophetam, dicentem :" },
-    { "n": 5,  "texto": "Dicite filiæ Sion : Ecce rex tuus venit tibi mansuetus, sedens super asinam, et pullum filium subjugalis." },
-    { "n": 6,  "texto": "Euntes autem discipuli fecerunt sicut præcepit illis Jesus :" },
-    { "n": 7,  "texto": "et adduxerunt asinam et pullum, et imposuerunt super ea vestimenta sua, et eum desuper sedere fecerunt." },
-    { "n": 8,  "texto": "Plurima autem turba straverunt vestimenta sua in via : alii autem cædebant ramos de arboribus, et sternebant in via :" },
-    { "n": 9,  "texto": "turbæ autem quæ præibant, et quæ sequebantur, clamabant, dicentes : Hosanna filio David : Benedictus qui venit in nomine Domini : Hosanna in altissimis." },
-    { "n": 10, "texto": "Et cum intrasset Jerosolymam, commota est universa civitas, dicens : Quis est hic ?" },
-    { "n": 11, "texto": "Populi autem dicebant : Hic est Jesus propheta a Nazareth Galilæe." },
-    { "n": 12, "texto": "Et intravit Jesus in templum Dei, et ejiciebat omnes vendentes et ementes in templo, et mensas numulariorum, et cathedras vendentium columbas evertit :" },
-    { "n": 13, "texto": "et dicit eis : Scriptum est : Domus mea domus orationis vocabitur : vos autem fecistis eam speluncam latronum." },
-    { "n": 14, "texto": "Et accesserunt ad eum cæci et claudi in templo : et sanavit eos." },
-    { "n": 15, "texto": "Videntes autem principes sacerdotum et scribæ mirabilia quæ fecit, et pueros clamantes in templo, et dicentes : Hosanna filio David : indignati sunt," },
-    { "n": 16, "texto": "et dixerunt ei : Audis quid isti dicunt ? Jesus autem dixit eis : Utique. Numquam legistis : Quia ex ore infantium et lactentium perfecisti laudem ?" },
-    { "n": 17, "texto": "Et relictis illis, abiit foras extra civitatem in Bethaniam, ibique mansit." },
-    { "n": 18, "texto": "Mane autem revertens in civitatem, esuriit." },
-    { "n": 19, "texto": "Et videns fici arborem unam secus viam, venit ad eam : et nihil invenit in ea nisi folia tantum, et ait illi : Nunquam ex te fructus nascatur in sempiternum. Et arefacta est continuo ficulnea." },
-    { "n": 20, "texto": "Et videntes discipuli mirati sunt, dicentes : Quomodo continuo aruit ?" },
-    { "n": 21, "texto": "Respondens autem Jesus ait eis : Amen dico vobis, si habueritis fidem, et non hæsitaveritis, non solum de ficulnea facietis, sed et si monti huic dixeritis : Tolle, et jacta te in mare, fiet." },
-    { "n": 22, "texto": "Et omnia quæcumque petieritis in oratione credentes, accipietis." },
-    { "n": 23, "texto": "Et cum venisset in templum, accesserunt ad eum docenti principes sacerdotum et seniores populi, dicentes : In qua potestate hæc facis ? et quis tibi dedit hanc potestatem ?" },
-    { "n": 24, "texto": "Respondens Jesus dixit illis : Interrogabo vos et ego unum sermonem : quem si dixeritis mihi, et ego vobis dicam in qua potestate hæc facio." },
-    { "n": 25, "texto": "Baptismus Joannis unde erat ? e cælo, an ex hominibus ? At illi cogitabant inter se, dicentes :" },
-    { "n": 26, "texto": "Si dixerimus, e cælo, dicet nobis : Quare ergo non credidistis illi ? Si autem dixerimus, ex hominibus, timemus turbam : omnes enim habebant Joannem sicut prophetam." },
-    { "n": 27, "texto": "Et respondentes Jesu, dixerunt : Nescimus. Ait illis et ipse : Nec ego dico vobis in qua potestate hæc facio." },
-    { "n": 28, "texto": "Quid autem vobis videtur ? Homo quidam habebat duos filios, et accedens ad primum, dixit : Fili, vade hodie, operare in vinea mea." },
-    { "n": 29, "texto": "Ille autem respondens ait : Nolo. Postea autem, pœnitentia motus, abiit." },
-    { "n": 30, "texto": "Accedens autem ad alterum, dixit similiter. At ille respondens ait : Eo, domine : et non ivit." },
-    { "n": 31, "texto": "Quis ex duobus fecit voluntatem patris ? Dicunt ei : Primus. Dicit illis Jesus : Amen dico vobis, quia publicani et meretrices præcedent vos in regnum Dei." },
-    { "n": 32, "texto": "Venit enim ad vos Joannes in via justitiæ, et non credidistis ei : publicani autem et meretrices crediderunt ei : vos autem videntes, nec pœnitentiam habuistis postea, ut crederetis ei." },
-    { "n": 33, "texto": "Aliam parabolam audite : Homo erat paterfamilias, qui plantavit vineam, et sepem circumdedit ei, et fodit in ea torcular, et ædificavit turrim, et locavit eam agricolis, et peregre profectus est." },
-    { "n": 34, "texto": "Cum autem tempus fructuum appropinquasset, misit servos suos ad agricolas, ut acciperent fructus ejus." },
-    { "n": 35, "texto": "Et agricolæ, apprehensis servis ejus, alium ceciderunt, alium occiderunt, alium vero lapidaverunt." },
-    { "n": 36, "texto": "Iterum misit alios servos plures prioribus, et fecerunt illis similiter." },
-    { "n": 37, "texto": "Novissime autem misit ad eos filium suum, dicens : Verebuntur filium meum." },
-    { "n": 38, "texto": "Agricolæ autem videntes filium, dixerunt intra se : Hic est hæres : venite, occidamus eum, et habebimus hæreditatem ejus." },
-    { "n": 39, "texto": "Et apprehendentes eum, ejecerunt extra vineam, et occiderunt." },
-    { "n": 40, "texto": "Cum ergo venerit dominus vineæ, quid faciet agricolis illis ?" },
-    { "n": 41, "texto": "Aiunt illi : Malos male perdet : et vineam suam locabit aliis agricolis, qui reddant ei fructum temporibus suis." },
-    { "n": 42, "texto": "Dicit illis Jesus : Numquam legistis in Scripturis : Lapidem quem reprobaverunt ædificantes, hic factus est in caput anguli : a Domino factum est istud, et est mirabile in oculis nostris ?" },
-    { "n": 43, "texto": "Ideo dico vobis, quia auferetur a vobis regnum Dei, et dabitur genti facienti fructus ejus." },
-    { "n": 44, "texto": "Et qui ceciderit super lapidem istum, confringetur : super quem vero ceciderit, conteret eum." },
-    { "n": 45, "texto": "Et cum audissent principes sacerdotum et pharisæi parabolas ejus, cognoverunt quod de ipsis diceret :" },
-    { "n": 46, "texto": "et quærentes eum tenere, timuerunt turbas : quoniam sicut prophetam eum habebant." }
+    {
+      "n": 1,
+      "texto": "Et cum appropinquassent Jerosolymis, et venissent Bethphage ad montem Oliveti, tunc Jesus misit duos discipulos,"
+    },
+    {
+      "n": 2,
+      "texto": "dicens eis : Ite in castellum, quod contra vos est, et statim invenietis asinam alligatam, et pullum cum ea : solvite, et adducite mihi :"
+    },
+    {
+      "n": 3,
+      "texto": "et si quis vobis aliquid dixerit, dicite quia Dominus his opus habet, et confestim dimittet eos."
+    },
+    {
+      "n": 4,
+      "texto": "Hoc autem totum factum est, ut adimpleretur quod dictum est per prophetam, dicentem :"
+    },
+    {
+      "n": 5,
+      "texto": "Dicite filiæ Sion : Ecce rex tuus venit tibi mansuetus, sedens super asinam, et pullum filium subjugalis."
+    },
+    {
+      "n": 6,
+      "texto": "Euntes autem discipuli fecerunt sicut præcepit illis Jesus :"
+    },
+    {
+      "n": 7,
+      "texto": "et adduxerunt asinam et pullum, et imposuerunt super ea vestimenta sua, et eum desuper sedere fecerunt."
+    },
+    {
+      "n": 8,
+      "texto": "Plurima autem turba straverunt vestimenta sua in via : alii autem cædebant ramos de arboribus, et sternebant in via :"
+    },
+    {
+      "n": 9,
+      "texto": "turbæ autem quæ præibant, et quæ sequebantur, clamabant, dicentes : Hosanna filio David : Benedictus qui venit in nomine Domini : Hosanna in altissimis."
+    },
+    {
+      "n": 10,
+      "texto": "Et cum intrasset Jerosolymam, commota est universa civitas, dicens : Quis est hic ?"
+    },
+    {
+      "n": 11,
+      "texto": "Populi autem dicebant : Hic est Jesus propheta a Nazareth Galilæe."
+    },
+    {
+      "n": 12,
+      "texto": "Et intravit Jesus in templum Dei, et ejiciebat omnes vendentes et ementes in templo, et mensas numulariorum, et cathedras vendentium columbas evertit :"
+    },
+    {
+      "n": 13,
+      "texto": "et dicit eis : Scriptum est : Domus mea domus orationis vocabitur : vos autem fecistis eam speluncam latronum."
+    },
+    {
+      "n": 14,
+      "texto": "Et accesserunt ad eum cæci et claudi in templo : et sanavit eos."
+    },
+    {
+      "n": 15,
+      "texto": "Videntes autem principes sacerdotum et scribæ mirabilia quæ fecit, et pueros clamantes in templo, et dicentes : Hosanna filio David : indignati sunt,"
+    },
+    {
+      "n": 16,
+      "texto": "et dixerunt ei : Audis quid isti dicunt ? Jesus autem dixit eis : Utique. Numquam legistis : Quia ex ore infantium et lactentium perfecisti laudem ?"
+    },
+    {
+      "n": 17,
+      "texto": "Et relictis illis, abiit foras extra civitatem in Bethaniam, ibique mansit."
+    },
+    {
+      "n": 18,
+      "texto": "Mane autem revertens in civitatem, esuriit."
+    },
+    {
+      "n": 19,
+      "texto": "Et videns fici arborem unam secus viam, venit ad eam : et nihil invenit in ea nisi folia tantum, et ait illi : Nunquam ex te fructus nascatur in sempiternum. Et arefacta est continuo ficulnea."
+    },
+    {
+      "n": 20,
+      "texto": "Et videntes discipuli mirati sunt, dicentes : Quomodo continuo aruit ?"
+    },
+    {
+      "n": 21,
+      "texto": "Respondens autem Jesus ait eis : Amen dico vobis, si habueritis fidem, et non hæsitaveritis, non solum de ficulnea facietis, sed et si monti huic dixeritis : Tolle, et jacta te in mare, fiet."
+    },
+    {
+      "n": 22,
+      "texto": "Et omnia quæcumque petieritis in oratione credentes, accipietis."
+    },
+    {
+      "n": 23,
+      "texto": "Et cum venisset in templum, accesserunt ad eum docenti principes sacerdotum et seniores populi, dicentes : In qua potestate hæc facis ? et quis tibi dedit hanc potestatem ?"
+    },
+    {
+      "n": 24,
+      "texto": "Respondens Jesus dixit illis : Interrogabo vos et ego unum sermonem : quem si dixeritis mihi, et ego vobis dicam in qua potestate hæc facio."
+    },
+    {
+      "n": 25,
+      "texto": "Baptismus Joannis unde erat ? e cælo, an ex hominibus ? At illi cogitabant inter se, dicentes :"
+    },
+    {
+      "n": 26,
+      "texto": "Si dixerimus, e cælo, dicet nobis : Quare ergo non credidistis illi ? Si autem dixerimus, ex hominibus, timemus turbam : omnes enim habebant Joannem sicut prophetam."
+    },
+    {
+      "n": 27,
+      "texto": "Et respondentes Jesu, dixerunt : Nescimus. Ait illis et ipse : Nec ego dico vobis in qua potestate hæc facio."
+    },
+    {
+      "n": 28,
+      "texto": "Quid autem vobis videtur ? Homo quidam habebat duos filios, et accedens ad primum, dixit : Fili, vade hodie, operare in vinea mea."
+    },
+    {
+      "n": 29,
+      "texto": "Ille autem respondens ait : Nolo. Postea autem, pœnitentia motus, abiit."
+    },
+    {
+      "n": 30,
+      "texto": "Accedens autem ad alterum, dixit similiter. At ille respondens ait : Eo, domine : et non ivit."
+    },
+    {
+      "n": 31,
+      "texto": "Quis ex duobus fecit voluntatem patris ? Dicunt ei : Primus. Dicit illis Jesus : Amen dico vobis, quia publicani et meretrices præcedent vos in regnum Dei."
+    },
+    {
+      "n": 32,
+      "texto": "Venit enim ad vos Joannes in via justitiæ, et non credidistis ei : publicani autem et meretrices crediderunt ei : vos autem videntes, nec pœnitentiam habuistis postea, ut crederetis ei."
+    },
+    {
+      "n": 33,
+      "texto": "Aliam parabolam audite : Homo erat paterfamilias, qui plantavit vineam, et sepem circumdedit ei, et fodit in ea torcular, et ædificavit turrim, et locavit eam agricolis, et peregre profectus est."
+    },
+    {
+      "n": 34,
+      "texto": "Cum autem tempus fructuum appropinquasset, misit servos suos ad agricolas, ut acciperent fructus ejus."
+    },
+    {
+      "n": 35,
+      "texto": "Et agricolæ, apprehensis servis ejus, alium ceciderunt, alium occiderunt, alium vero lapidaverunt."
+    },
+    {
+      "n": 36,
+      "texto": "Iterum misit alios servos plures prioribus, et fecerunt illis similiter."
+    },
+    {
+      "n": 37,
+      "texto": "Novissime autem misit ad eos filium suum, dicens : Verebuntur filium meum."
+    },
+    {
+      "n": 38,
+      "texto": "Agricolæ autem videntes filium, dixerunt intra se : Hic est hæres : venite, occidamus eum, et habebimus hæreditatem ejus."
+    },
+    {
+      "n": 39,
+      "texto": "Et apprehendentes eum, ejecerunt extra vineam, et occiderunt."
+    },
+    {
+      "n": 40,
+      "texto": "Cum ergo venerit dominus vineæ, quid faciet agricolis illis ?"
+    },
+    {
+      "n": 41,
+      "texto": "Aiunt illi : Malos male perdet : et vineam suam locabit aliis agricolis, qui reddant ei fructum temporibus suis."
+    },
+    {
+      "n": 42,
+      "texto": "Dicit illis Jesus : Numquam legistis in Scripturis : Lapidem quem reprobaverunt ædificantes, hic factus est in caput anguli : a Domino factum est istud, et est mirabile in oculis nostris ?"
+    },
+    {
+      "n": 43,
+      "texto": "Ideo dico vobis, quia auferetur a vobis regnum Dei, et dabitur genti facienti fructus ejus."
+    },
+    {
+      "n": 44,
+      "texto": "Et qui ceciderit super lapidem istum, confringetur : super quem vero ceciderit, conteret eum."
+    },
+    {
+      "n": 45,
+      "texto": "Et cum audissent principes sacerdotum et pharisæi parabolas ejus, cognoverunt quod de ipsis diceret :"
+    },
+    {
+      "n": 46,
+      "texto": "et quærentes eum tenere, timuerunt turbas : quoniam sicut prophetam eum habebant."
+    }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum#Caput_21"
 }

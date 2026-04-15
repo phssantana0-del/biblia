@@ -1,36 +1,120 @@
 {
   "num": 16,
   "sumario": "Signum de cælo petitum. Fermentum pharisæorum. Confessio Petri. Primatus Petri. Prima passioni prædictio. Negatio sui et sequela Christi.",
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum",
   "versiculos": [
-    { "n": 1,  "texto": "Et accesserunt ad eum pharisæi et sadducæi tentantes : et rogaverunt eum ut signum de cælo ostenderet eis." },
-    { "n": 2,  "texto": "At ille respondens, ait illis : Facto vespere dicitis : Serenum erit, rubicundum est enim cælum." },
-    { "n": 3,  "texto": "Et mane : Hodie tempestas, rutilat enim triste cælum. Faciem ergo cæli dijudicare nostis : signa autem temporum non potestis scire ?" },
-    { "n": 4,  "texto": "Generatio mala et adultera signum quærit : et signum non dabitur ei, nisi signum Jonæ prophetæ. Et relictis illis, abiit." },
-    { "n": 5,  "texto": "Et cum venissent discipuli ejus trans fretum, obliti sunt panes accipere." },
-    { "n": 6,  "texto": "Qui dixit illis : Intuemini, et cavete a fermento pharisæorum et sadducæorum." },
-    { "n": 7,  "texto": "At illi cogitabant intra se dicentes : Quia panes non accepimus." },
-    { "n": 8,  "texto": "Sciens autem Jesus, dixit : Quid cogitatis intra vos modicæ fidei, quia panes non habetis ?" },
-    { "n": 9,  "texto": "Nondum intelligitis, neque recordamini quinque panum in quinque millia hominum, et quot cophinos sumpsistis ?" },
-    { "n": 10, "texto": "neque septem panum in quatuor millia hominum, et quot sportas sumpsistis ?" },
-    { "n": 11, "texto": "Quare non intelligitis, quia non de pane dixi vobis : Cavete a fermento pharisæorum et sadducæorum ?" },
-    { "n": 12, "texto": "Tunc intellexerunt quia non dixerit cavendum a fermento panum, sed a doctrina pharisæorum et sadducæorum." },
-    { "n": 13, "texto": "Venit autem Jesus in partes Cæsareæ Philippi : et interrogabat discipulos suos, dicens : Quem dicunt homines esse Filium hominis ?" },
-    { "n": 14, "texto": "At illi dixerunt : Alii Joannem Baptistam, alii autem Eliam, alii vero Jeremiam, aut unum ex prophetis." },
-    { "n": 15, "texto": "Dicit illis Jesus : Vos autem, quem me esse dicitis ?" },
-    { "n": 16, "texto": "Respondens Simon Petrus dixit : Tu es Christus, Filius Dei vivi." },
-    { "n": 17, "texto": "Respondens autem Jesus, dixit ei : Beatus es Simon Bar Jona : quia caro et sanguis non revelavit tibi, sed Pater meus, qui in cælis est." },
-    { "n": 18, "texto": "Et ego dico tibi, quia tu es Petrus, et super hanc petram ædificabo Ecclesiam meam, et portæ inferi non prævalebunt adversus eam." },
-    { "n": 19, "texto": "Et tibi dabo claves regni cælorum. Et quodcumque ligaveris super terram, erit ligatum et in cælis : et quodcumque solveris super terram, erit solutum et in cælis." },
-    { "n": 20, "texto": "Tunc præcepit discipulis suis ut nemini dicerent quia ipse esset Jesus Christus." },
-    { "n": 21, "texto": "Exinde cœpit Jesus ostendere discipulis suis, quia oporteret eum ire Jerosolymam, et multa pati a senioribus, et scribis, et principibus sacerdotum, et occidi, et tertia die resurgere." },
-    { "n": 22, "texto": "Et assumens eum Petrus, cœpit increpare illum dicens : Absit a te, Domine : non erit tibi hoc." },
-    { "n": 23, "texto": "Qui conversus, dixit Petro : Vade post me Satana, scandalum es mihi : quia non sapis ea quæ Dei sunt, sed ea quæ hominum." },
-    { "n": 24, "texto": "Tunc Jesus dixit discipulis suis : Si quis vult post me venire, abneget semetipsum, et tollat crucem suam, et sequatur me." },
-    { "n": 25, "texto": "Qui enim voluerit animam suam salvam facere, perdet eam : qui autem perdiderit animam suam propter me, inveniet eam." },
-    { "n": 26, "texto": "Quid enim prodest homini, si mundum universum lucretur, animæ vero suæ detrimentum patiatur ? aut quam dabit homo commutationem pro anima sua ?" },
-    { "n": 27, "texto": "Filius enim hominis venturus est in gloria Patris sui cum angelis suis : et tunc reddet unicuique secundum opera ejus." },
-    { "n": 28, "texto": "Amen dico vobis, sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant Filium hominis venientem in regno suo." }
+    {
+      "n": 1,
+      "texto": "Et accesserunt ad eum pharisæi et sadducæi tentantes : et rogaverunt eum ut signum de cælo ostenderet eis."
+    },
+    {
+      "n": 2,
+      "texto": "At ille respondens, ait illis : Facto vespere dicitis : Serenum erit, rubicundum est enim cælum."
+    },
+    {
+      "n": 3,
+      "texto": "Et mane : Hodie tempestas, rutilat enim triste cælum. Faciem ergo cæli dijudicare nostis : signa autem temporum non potestis scire ?"
+    },
+    {
+      "n": 4,
+      "texto": "Generatio mala et adultera signum quærit : et signum non dabitur ei, nisi signum Jonæ prophetæ. Et relictis illis, abiit."
+    },
+    {
+      "n": 5,
+      "texto": "Et cum venissent discipuli ejus trans fretum, obliti sunt panes accipere."
+    },
+    {
+      "n": 6,
+      "texto": "Qui dixit illis : Intuemini, et cavete a fermento pharisæorum et sadducæorum."
+    },
+    {
+      "n": 7,
+      "texto": "At illi cogitabant intra se dicentes : Quia panes non accepimus."
+    },
+    {
+      "n": 8,
+      "texto": "Sciens autem Jesus, dixit : Quid cogitatis intra vos modicæ fidei, quia panes non habetis ?"
+    },
+    {
+      "n": 9,
+      "texto": "Nondum intelligitis, neque recordamini quinque panum in quinque millia hominum, et quot cophinos sumpsistis ?"
+    },
+    {
+      "n": 10,
+      "texto": "neque septem panum in quatuor millia hominum, et quot sportas sumpsistis ?"
+    },
+    {
+      "n": 11,
+      "texto": "Quare non intelligitis, quia non de pane dixi vobis : Cavete a fermento pharisæorum et sadducæorum ?"
+    },
+    {
+      "n": 12,
+      "texto": "Tunc intellexerunt quia non dixerit cavendum a fermento panum, sed a doctrina pharisæorum et sadducæorum."
+    },
+    {
+      "n": 13,
+      "texto": "Venit autem Jesus in partes Cæsareæ Philippi : et interrogabat discipulos suos, dicens : Quem dicunt homines esse Filium hominis ?"
+    },
+    {
+      "n": 14,
+      "texto": "At illi dixerunt : Alii Joannem Baptistam, alii autem Eliam, alii vero Jeremiam, aut unum ex prophetis."
+    },
+    {
+      "n": 15,
+      "texto": "Dicit illis Jesus : Vos autem, quem me esse dicitis ?"
+    },
+    {
+      "n": 16,
+      "texto": "Respondens Simon Petrus dixit : Tu es Christus, Filius Dei vivi."
+    },
+    {
+      "n": 17,
+      "texto": "Respondens autem Jesus, dixit ei : Beatus es Simon Bar Jona : quia caro et sanguis non revelavit tibi, sed Pater meus, qui in cælis est."
+    },
+    {
+      "n": 18,
+      "texto": "Et ego dico tibi, quia tu es Petrus, et super hanc petram ædificabo Ecclesiam meam, et portæ inferi non prævalebunt adversus eam."
+    },
+    {
+      "n": 19,
+      "texto": "Et tibi dabo claves regni cælorum. Et quodcumque ligaveris super terram, erit ligatum et in cælis : et quodcumque solveris super terram, erit solutum et in cælis."
+    },
+    {
+      "n": 20,
+      "texto": "Tunc præcepit discipulis suis ut nemini dicerent quia ipse esset Jesus Christus."
+    },
+    {
+      "n": 21,
+      "texto": "Exinde cœpit Jesus ostendere discipulis suis, quia oporteret eum ire Jerosolymam, et multa pati a senioribus, et scribis, et principibus sacerdotum, et occidi, et tertia die resurgere."
+    },
+    {
+      "n": 22,
+      "texto": "Et assumens eum Petrus, cœpit increpare illum dicens : Absit a te, Domine : non erit tibi hoc."
+    },
+    {
+      "n": 23,
+      "texto": "Qui conversus, dixit Petro : Vade post me Satana, scandalum es mihi : quia non sapis ea quæ Dei sunt, sed ea quæ hominum."
+    },
+    {
+      "n": 24,
+      "texto": "Tunc Jesus dixit discipulis suis : Si quis vult post me venire, abneget semetipsum, et tollat crucem suam, et sequatur me."
+    },
+    {
+      "n": 25,
+      "texto": "Qui enim voluerit animam suam salvam facere, perdet eam : qui autem perdiderit animam suam propter me, inveniet eam."
+    },
+    {
+      "n": 26,
+      "texto": "Quid enim prodest homini, si mundum universum lucretur, animæ vero suæ detrimentum patiatur ? aut quam dabit homo commutationem pro anima sua ?"
+    },
+    {
+      "n": 27,
+      "texto": "Filius enim hominis venturus est in gloria Patris sui cum angelis suis : et tunc reddet unicuique secundum opera ejus."
+    },
+    {
+      "n": 28,
+      "texto": "Amen dico vobis, sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant Filium hominis venientem in regno suo."
+    }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum#Caput_16"
 }

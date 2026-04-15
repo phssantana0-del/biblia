@@ -1,6 +1,5 @@
 {
   "num": 49,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi",
   "sumario": "Deus judex verum sacrificium laudis requirit",
   "versiculos": [
     {
@@ -96,5 +95,6 @@
       "texto": "Sacrificium laudis honorificabit me; et illic iter quo ostendam illi salutare Dei."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_49"
 }

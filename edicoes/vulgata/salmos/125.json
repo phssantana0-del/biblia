@@ -2,13 +2,31 @@
   "num": 125,
   "sumario": "Canticum graduum.",
   "versiculos": [
-    { "n": 1, "texto": "In convertendo Dominus captivitatem Sion: facti sumus sicut consolati:" },
-    { "n": 2, "texto": "Tunc repletum est gaudio os nostrum: et lingua nostra exsultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis." },
-    { "n": 3, "texto": "Magnificavit Dominus facere nobiscum: facti sumus lætantes." },
-    { "n": 4, "texto": "Converte, Domine, captivitatem nostram, sicut torrens in austro." },
-    { "n": 5, "texto": "Qui seminant in lacrimis, in exsultatione metent." },
-    { "n": 6, "texto": "Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exsultatione, portantes manipulos suos." }
+    {
+      "n": 1,
+      "texto": "In convertendo Dominus captivitatem Sion: facti sumus sicut consolati:"
+    },
+    {
+      "n": 2,
+      "texto": "Tunc repletum est gaudio os nostrum: et lingua nostra exsultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis."
+    },
+    {
+      "n": 3,
+      "texto": "Magnificavit Dominus facere nobiscum: facti sumus lætantes."
+    },
+    {
+      "n": 4,
+      "texto": "Converte, Domine, captivitatem nostram, sicut torrens in austro."
+    },
+    {
+      "n": 5,
+      "texto": "Qui seminant in lacrimis, in exsultatione metent."
+    },
+    {
+      "n": 6,
+      "texto": "Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exsultatione, portantes manipulos suos."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_125"
 }

@@ -2,15 +2,39 @@
   "num": 128,
   "sumario": "Canticum graduum.",
   "versiculos": [
-    { "n": 1, "texto": "Sæpe expugnaverunt me a juventute mea, dicat nunc Israel." },
-    { "n": 2, "texto": "Sæpe expugnaverunt me a juventute mea: etenim non potuerunt mihi." },
-    { "n": 3, "texto": "Supra dorsum meum fabricaverunt peccatores: prolongaverunt iniquitatem suam." },
-    { "n": 4, "texto": "Dominus justus concidit cervices peccatorum:" },
-    { "n": 5, "texto": "confundantur et convertantur retrorsum omnes, qui oderunt Sion." },
-    { "n": 6, "texto": "Fiant sicut fœnum tectorum: quod priusquam evellatur, exaruit:" },
-    { "n": 7, "texto": "de quo non implevit manum suam qui metit, et sinum suum qui manipulos colligit." },
-    { "n": 8, "texto": "Et non dixerunt qui præteribant: Benedictio Domini super vos: benediximus vobis in nomine Domini." }
+    {
+      "n": 1,
+      "texto": "Sæpe expugnaverunt me a juventute mea, dicat nunc Israel."
+    },
+    {
+      "n": 2,
+      "texto": "Sæpe expugnaverunt me a juventute mea: etenim non potuerunt mihi."
+    },
+    {
+      "n": 3,
+      "texto": "Supra dorsum meum fabricaverunt peccatores: prolongaverunt iniquitatem suam."
+    },
+    {
+      "n": 4,
+      "texto": "Dominus justus concidit cervices peccatorum:"
+    },
+    {
+      "n": 5,
+      "texto": "confundantur et convertantur retrorsum omnes, qui oderunt Sion."
+    },
+    {
+      "n": 6,
+      "texto": "Fiant sicut fœnum tectorum: quod priusquam evellatur, exaruit:"
+    },
+    {
+      "n": 7,
+      "texto": "de quo non implevit manum suam qui metit, et sinum suum qui manipulos colligit."
+    },
+    {
+      "n": 8,
+      "texto": "Et non dixerunt qui præteribant: Benedictio Domini super vos: benediximus vobis in nomine Domini."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_128"
 }

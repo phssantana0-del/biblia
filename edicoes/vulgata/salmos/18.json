@@ -2,21 +2,63 @@
   "num": 18,
   "sumario": "In finem. Psalmus David.",
   "versiculos": [
-    { "n": 2, "texto": "Cæli enarrant gloriam Dei, et opera manuum ejus annuntiat firmamentum." },
-    { "n": 3, "texto": "Dies diei eructat verbum, et nox nocti indicat scientiam." },
-    { "n": 4, "texto": "Non sunt loquelæ, neque sermones, quorum non audiantur voces eorum." },
-    { "n": 5, "texto": "In omnem terram exivit sonus eorum, et in fines orbis terræ verba eorum." },
-    { "n": 6, "texto": "In sole posuit tabernaculum suum; et ipse tamquam sponsus procedens de thalamo suo. Exsultavit ut gigas ad currendam viam;" },
-    { "n": 7, "texto": "a summo cælo egressio ejus. Et occursus ejus usque ad summum ejus; nec est qui se abscondat a calore ejus." },
-    { "n": 8, "texto": "Lex Domini immaculata, convertens animas; testimonium Domini fidele, sapientiam præstans parvulis." },
-    { "n": 9, "texto": "Justitiæ Domini rectæ, lætificantes corda; præceptum Domini lucidum, illuminans oculos." },
-    { "n": 10, "texto": "Timor Domini sanctus, permanens in sæculum sæculi; judicia Domini vera, justificata in semetipsa." },
-    { "n": 11, "texto": "Desiderabilia super aurum et lapidem pretiosum multum, et dulciora super mel et favum." },
-    { "n": 12, "texto": "Etenim servus tuus custodit ea; in custodiendis illis retributio multa." },
-    { "n": 13, "texto": "Delicta quis intelligit? Ab occultis meis munda me," },
-    { "n": 14, "texto": "et ab alienis parce servo tuo. Si mei non fuerint dominati, tunc immaculatus ero, et emundabor a delicto maximo." },
-    { "n": 15, "texto": "Et erunt ut complaceant eloquia oris mei, et meditatio cordis mei in conspectu tuo semper, Domine, adjutor meus, et redemptor meus." }
+    {
+      "n": 2,
+      "texto": "Cæli enarrant gloriam Dei, et opera manuum ejus annuntiat firmamentum."
+    },
+    {
+      "n": 3,
+      "texto": "Dies diei eructat verbum, et nox nocti indicat scientiam."
+    },
+    {
+      "n": 4,
+      "texto": "Non sunt loquelæ, neque sermones, quorum non audiantur voces eorum."
+    },
+    {
+      "n": 5,
+      "texto": "In omnem terram exivit sonus eorum, et in fines orbis terræ verba eorum."
+    },
+    {
+      "n": 6,
+      "texto": "In sole posuit tabernaculum suum; et ipse tamquam sponsus procedens de thalamo suo. Exsultavit ut gigas ad currendam viam;"
+    },
+    {
+      "n": 7,
+      "texto": "a summo cælo egressio ejus. Et occursus ejus usque ad summum ejus; nec est qui se abscondat a calore ejus."
+    },
+    {
+      "n": 8,
+      "texto": "Lex Domini immaculata, convertens animas; testimonium Domini fidele, sapientiam præstans parvulis."
+    },
+    {
+      "n": 9,
+      "texto": "Justitiæ Domini rectæ, lætificantes corda; præceptum Domini lucidum, illuminans oculos."
+    },
+    {
+      "n": 10,
+      "texto": "Timor Domini sanctus, permanens in sæculum sæculi; judicia Domini vera, justificata in semetipsa."
+    },
+    {
+      "n": 11,
+      "texto": "Desiderabilia super aurum et lapidem pretiosum multum, et dulciora super mel et favum."
+    },
+    {
+      "n": 12,
+      "texto": "Etenim servus tuus custodit ea; in custodiendis illis retributio multa."
+    },
+    {
+      "n": 13,
+      "texto": "Delicta quis intelligit? Ab occultis meis munda me,"
+    },
+    {
+      "n": 14,
+      "texto": "et ab alienis parce servo tuo. Si mei non fuerint dominati, tunc immaculatus ero, et emundabor a delicto maximo."
+    },
+    {
+      "n": 15,
+      "texto": "Et erunt ut complaceant eloquia oris mei, et meditatio cordis mei in conspectu tuo semper, Domine, adjutor meus, et redemptor meus."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_18"
 }

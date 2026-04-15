@@ -1,6 +1,5 @@
 {
   "num": 4,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -218,5 +217,6 @@
       "n": 54,
       "texto": "Hoc iterum secundum signum fecit Jesus, cum venisset a Judæa in Galilæam."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_4"
 }

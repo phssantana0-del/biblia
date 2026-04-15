@@ -1,6 +1,5 @@
 {
   "num": 4,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam",
   "versiculos": [
     {
       "n": 1,
@@ -179,5 +178,6 @@
       "texto": "Et erat prædicans in synagogis Galilææ."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam#Caput_4"
 }

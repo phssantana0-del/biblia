@@ -1,6 +1,5 @@
 {
   "num": 46,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi",
   "sumario": "Dominus excelsus, rex magnus super omnem terram",
   "versiculos": [
     {
@@ -44,5 +43,6 @@
       "texto": "Principes populorum congregati sunt cum Deo Abraham, quoniam dii fortes terræ vehementer elevati sunt."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_46"
 }

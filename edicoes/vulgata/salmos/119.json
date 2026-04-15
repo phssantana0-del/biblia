@@ -2,14 +2,35 @@
   "num": 119,
   "sumario": "Canticum graduum.",
   "versiculos": [
-    { "n": 1, "texto": "Ad Dominum cum tribularer clamavi: et exaudivit me." },
-    { "n": 2, "texto": "Domine, libera animam meam a labiis iniquis, et a lingua dolosa." },
-    { "n": 3, "texto": "Quid detur tibi, aut quid apponatur tibi, ad linguam dolosam?" },
-    { "n": 4, "texto": "Sagittæ potentis acutæ, cum carbonibus desolatoriis." },
-    { "n": 5, "texto": "Heu mihi, quia incolatus meus prolongatus est! habitavi cum habitantibus Cedar:" },
-    { "n": 6, "texto": "multum incola fuit anima mea." },
-    { "n": 7, "texto": "Cum his qui oderunt pacem, eram pacificus: cum loquebar illis, impugnabant me gratis." }
+    {
+      "n": 1,
+      "texto": "Ad Dominum cum tribularer clamavi: et exaudivit me."
+    },
+    {
+      "n": 2,
+      "texto": "Domine, libera animam meam a labiis iniquis, et a lingua dolosa."
+    },
+    {
+      "n": 3,
+      "texto": "Quid detur tibi, aut quid apponatur tibi, ad linguam dolosam?"
+    },
+    {
+      "n": 4,
+      "texto": "Sagittæ potentis acutæ, cum carbonibus desolatoriis."
+    },
+    {
+      "n": 5,
+      "texto": "Heu mihi, quia incolatus meus prolongatus est! habitavi cum habitantibus Cedar:"
+    },
+    {
+      "n": 6,
+      "texto": "multum incola fuit anima mea."
+    },
+    {
+      "n": 7,
+      "texto": "Cum his qui oderunt pacem, eram pacificus: cum loquebar illis, impugnabant me gratis."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_119"
 }

@@ -1,6 +1,5 @@
 {
   "num": 8,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam",
   "versiculos": [
     {
       "n": 1,
@@ -227,5 +226,6 @@
       "texto": "Et stupuerunt parentes ejus, quibus præcepit ne alicui dicerent quod factum erat."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam#Caput_8"
 }

@@ -1,6 +1,5 @@
 {
   "num": 13,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -154,5 +153,6 @@
       "n": 38,
       "texto": "Respondit ei Jesus : Animam tuam pro me pones ? amen, amen dico tibi : non cantabit gallus, donec ter me neges."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_13"
 }

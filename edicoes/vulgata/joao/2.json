@@ -1,6 +1,5 @@
 {
   "num": 2,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -102,5 +101,6 @@
       "n": 25,
       "texto": "et quia opus ei non erat ut quis testimonium perhiberet de homine : ipse enim sciebat quid esset in homine."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_2"
 }

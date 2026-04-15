@@ -1,6 +1,5 @@
 {
   "num": 6,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam",
   "versiculos": [
     {
       "n": 1,
@@ -199,5 +198,6 @@
       "texto": "Qui autem audit, et non facit, similis est homini ædificanti domum suam super terram sine fundamento : in quam illisus est fluvius, et continuo cecidit : et facta est ruina domus illius magna."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam#Caput_6"
 }

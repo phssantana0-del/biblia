@@ -1,6 +1,5 @@
 {
   "num": 19,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -170,5 +169,6 @@
       "n": 42,
       "texto": "Ibi ergo propter parasceven Judæorum, quia juxta erat monumentum, posuerunt Jesum."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_19"
 }

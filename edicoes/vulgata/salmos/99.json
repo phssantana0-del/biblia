@@ -2,12 +2,27 @@
   "num": 99,
   "sumario": "Psalmus in confessione.",
   "versiculos": [
-    { "n": 1, "texto": "Psalmus in confessione." },
-    { "n": 2, "texto": "Jubilate Deo, omnis terra: servite Domino in lætitia. Introite in conspectu ejus, in exsultatione." },
-    { "n": 3, "texto": "Scitote quoniam Dominus ipse est Deus: ipse fecit nos, et non ipsi nos. Populus ejus, et oves pascuæ ejus:" },
-    { "n": 4, "texto": "introite portas ejus in confessione, atria ejus in hymnis: confitemini illi. Laudate nomen ejus:" },
-    { "n": 5, "texto": "quoniam suavis est Dominus, in æternum misericordia ejus, et usque in generationem et generationem veritas ejus." }
+    {
+      "n": 1,
+      "texto": "Psalmus in confessione."
+    },
+    {
+      "n": 2,
+      "texto": "Jubilate Deo, omnis terra: servite Domino in lætitia. Introite in conspectu ejus, in exsultatione."
+    },
+    {
+      "n": 3,
+      "texto": "Scitote quoniam Dominus ipse est Deus: ipse fecit nos, et non ipsi nos. Populus ejus, et oves pascuæ ejus:"
+    },
+    {
+      "n": 4,
+      "texto": "introite portas ejus in confessione, atria ejus in hymnis: confitemini illi. Laudate nomen ejus:"
+    },
+    {
+      "n": 5,
+      "texto": "quoniam suavis est Dominus, in æternum misericordia ejus, et usque in generationem et generationem veritas ejus."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_99"
 }

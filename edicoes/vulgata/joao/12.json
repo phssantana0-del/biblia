@@ -1,6 +1,5 @@
 {
   "num": 12,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -202,5 +201,6 @@
       "n": 50,
       "texto": "Et scio quia mandatum ejus vita æterna est : quæ ergo ego loquor, sicut dixit mihi Pater, sic loquor."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_12"
 }

@@ -2,16 +2,43 @@
   "num": 27,
   "sumario": "Oratio contra impios; gratiarum actio pro auxilio divino",
   "versiculos": [
-    { "n": 1, "texto": "Psalmus ipsi David. Ad te, Domine, clamabo ; Deus meus, ne sileas a me : nequando taceas a me, et assimilabor descendentibus in lacum." },
-    { "n": 2, "texto": "Exaudi, Domine, vocem deprecationis meæ dum oro ad te, dum extollo manus meas ad templum sanctum tuum." },
-    { "n": 3, "texto": "Ne simul trahas me cum peccatoribus, et cum operantibus iniquitatem ne perdas me ; qui loquuntur pacem cum proximo suo, mala autem in cordibus eorum." },
-    { "n": 4, "texto": "Da illis secundum opera eorum, et secundum nequitiam adinventionum ipsorum ; secundum opera manuum eorum tribue illis ; redde retributionem eorum ipsis." },
-    { "n": 5, "texto": "Quoniam non intellexerunt opera Domini, et in opera manuum ejus destrues illos, et non ædificabis eos." },
-    { "n": 6, "texto": "Benedictus Dominus, quoniam exaudivit vocem deprecationis meæ." },
-    { "n": 7, "texto": "Dominus adjutor meus et protector meus ; in ipso speravit cor meum, et adjutus sum ; et refloruit caro mea, et ex voluntate mea confitebor ei." },
-    { "n": 8, "texto": "Dominus fortitudo plebis suæ, et protector salvationum christi sui est." },
-    { "n": 9, "texto": "Salvum fac populum tuum, Domine, et benedic hæreditati tuæ ; et rege eos, et extolle illos usque in æternum." }
+    {
+      "n": 1,
+      "texto": "Psalmus ipsi David. Ad te, Domine, clamabo ; Deus meus, ne sileas a me : nequando taceas a me, et assimilabor descendentibus in lacum."
+    },
+    {
+      "n": 2,
+      "texto": "Exaudi, Domine, vocem deprecationis meæ dum oro ad te, dum extollo manus meas ad templum sanctum tuum."
+    },
+    {
+      "n": 3,
+      "texto": "Ne simul trahas me cum peccatoribus, et cum operantibus iniquitatem ne perdas me ; qui loquuntur pacem cum proximo suo, mala autem in cordibus eorum."
+    },
+    {
+      "n": 4,
+      "texto": "Da illis secundum opera eorum, et secundum nequitiam adinventionum ipsorum ; secundum opera manuum eorum tribue illis ; redde retributionem eorum ipsis."
+    },
+    {
+      "n": 5,
+      "texto": "Quoniam non intellexerunt opera Domini, et in opera manuum ejus destrues illos, et non ædificabis eos."
+    },
+    {
+      "n": 6,
+      "texto": "Benedictus Dominus, quoniam exaudivit vocem deprecationis meæ."
+    },
+    {
+      "n": 7,
+      "texto": "Dominus adjutor meus et protector meus ; in ipso speravit cor meum, et adjutus sum ; et refloruit caro mea, et ex voluntate mea confitebor ei."
+    },
+    {
+      "n": 8,
+      "texto": "Dominus fortitudo plebis suæ, et protector salvationum christi sui est."
+    },
+    {
+      "n": 9,
+      "texto": "Salvum fac populum tuum, Domine, et benedic hæreditati tuæ ; et rege eos, et extolle illos usque in æternum."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_27"
 }

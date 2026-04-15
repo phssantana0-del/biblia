@@ -2,11 +2,23 @@
   "num": 122,
   "sumario": "Canticum graduum.",
   "versiculos": [
-    { "n": 1, "texto": "Ad te levavi oculos meos, qui habitas in cælis." },
-    { "n": 2, "texto": "Ecce sicut oculi servorum, in manibus dominorum suorum, sicut oculi ancillæ in manibus dominæ suæ: ita oculi nostri ad Dominum Deum nostrum donec misereatur nostri." },
-    { "n": 3, "texto": "Miserere nostri, Domine, miserere nostri: quia multum repleti sumus despectione:" },
-    { "n": 4, "texto": "quia multum repleta est anima nostra: opprobrium abundantibus, et despectio superbis." }
+    {
+      "n": 1,
+      "texto": "Ad te levavi oculos meos, qui habitas in cælis."
+    },
+    {
+      "n": 2,
+      "texto": "Ecce sicut oculi servorum, in manibus dominorum suorum, sicut oculi ancillæ in manibus dominæ suæ: ita oculi nostri ad Dominum Deum nostrum donec misereatur nostri."
+    },
+    {
+      "n": 3,
+      "texto": "Miserere nostri, Domine, miserere nostri: quia multum repleti sumus despectione:"
+    },
+    {
+      "n": 4,
+      "texto": "quia multum repleta est anima nostra: opprobrium abundantibus, et despectio superbis."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_122"
 }

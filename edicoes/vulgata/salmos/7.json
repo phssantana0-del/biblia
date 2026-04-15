@@ -2,25 +2,79 @@
   "num": 7,
   "sumario": "Psalmus David, quem cantavit Domino pro verbis Chusi filii Jemini.",
   "versiculos": [
-    { "n": 1, "texto": "Psalmus David, quem cantavit Domino pro verbis Chusi, filii Jemini." },
-    { "n": 2, "texto": "Domine Deus meus, in te speravi : salvum me fac ex omnibus persequentibus me, et libera me." },
-    { "n": 3, "texto": "Nequando rapiat ut leo animam meam, dum non est qui redimat, neque qui salvum faciat." },
-    { "n": 4, "texto": "Domine Deus meus, si feci istud, si est iniquitas in manibus meis :" },
-    { "n": 5, "texto": "si reddidi retribuentibus mihi mala, decidam merito ab inimicis meis inanis." },
-    { "n": 6, "texto": "Persequatur inimicus animam meam, et comprehendat, et conculcet in terra vitam meam, et gloriam meam in pulverem deducat." },
-    { "n": 7, "texto": "Exsurge, Domine, in ira tua : et exaltare in finibus inimicorum meorum. Et exsurge, Domine Deus meus, in præcepto quod mandasti :" },
-    { "n": 8, "texto": "et synagoga populorum circumdabit te. Et propter hanc in altum regredere :" },
-    { "n": 9, "texto": "Dominus judicat populos. Judica me, Domine, secundum justitiam meam, et secundum innocentiam meam super me." },
-    { "n": 10, "texto": "Consumetur nequitia peccatorum, et diriges justum, scrutans corda et renes, Deus." },
-    { "n": 11, "texto": "Justum adjutorium meum a Domino, qui salvos facit rectos corde." },
-    { "n": 12, "texto": "Deus judex justus, fortis, et patiens : numquid irascitur per singulos dies?" },
-    { "n": 13, "texto": "Nisi conversi fueritis, gladium suum vibrabit : arcum suum tetendit, et paravit illum." },
-    { "n": 14, "texto": "Et in eo paravit vasa mortis, sagittas suas ardentibus effecit." },
-    { "n": 15, "texto": "Ecce parturiit injustitiam : concepit dolorem, et peperit iniquitatem." },
-    { "n": 16, "texto": "Lacum aperuit, et effodit eum : et incidit in foveam quam fecit." },
-    { "n": 17, "texto": "Convertetur dolor ejus in caput ejus : et in verticem ipsius iniquitas ejus descendet." },
-    { "n": 18, "texto": "Confitebor Domino secundum justitiam ejus : et psallam nomini Domini altissimi." }
+    {
+      "n": 1,
+      "texto": "Psalmus David, quem cantavit Domino pro verbis Chusi, filii Jemini."
+    },
+    {
+      "n": 2,
+      "texto": "Domine Deus meus, in te speravi : salvum me fac ex omnibus persequentibus me, et libera me."
+    },
+    {
+      "n": 3,
+      "texto": "Nequando rapiat ut leo animam meam, dum non est qui redimat, neque qui salvum faciat."
+    },
+    {
+      "n": 4,
+      "texto": "Domine Deus meus, si feci istud, si est iniquitas in manibus meis :"
+    },
+    {
+      "n": 5,
+      "texto": "si reddidi retribuentibus mihi mala, decidam merito ab inimicis meis inanis."
+    },
+    {
+      "n": 6,
+      "texto": "Persequatur inimicus animam meam, et comprehendat, et conculcet in terra vitam meam, et gloriam meam in pulverem deducat."
+    },
+    {
+      "n": 7,
+      "texto": "Exsurge, Domine, in ira tua : et exaltare in finibus inimicorum meorum. Et exsurge, Domine Deus meus, in præcepto quod mandasti :"
+    },
+    {
+      "n": 8,
+      "texto": "et synagoga populorum circumdabit te. Et propter hanc in altum regredere :"
+    },
+    {
+      "n": 9,
+      "texto": "Dominus judicat populos. Judica me, Domine, secundum justitiam meam, et secundum innocentiam meam super me."
+    },
+    {
+      "n": 10,
+      "texto": "Consumetur nequitia peccatorum, et diriges justum, scrutans corda et renes, Deus."
+    },
+    {
+      "n": 11,
+      "texto": "Justum adjutorium meum a Domino, qui salvos facit rectos corde."
+    },
+    {
+      "n": 12,
+      "texto": "Deus judex justus, fortis, et patiens : numquid irascitur per singulos dies?"
+    },
+    {
+      "n": 13,
+      "texto": "Nisi conversi fueritis, gladium suum vibrabit : arcum suum tetendit, et paravit illum."
+    },
+    {
+      "n": 14,
+      "texto": "Et in eo paravit vasa mortis, sagittas suas ardentibus effecit."
+    },
+    {
+      "n": 15,
+      "texto": "Ecce parturiit injustitiam : concepit dolorem, et peperit iniquitatem."
+    },
+    {
+      "n": 16,
+      "texto": "Lacum aperuit, et effodit eum : et incidit in foveam quam fecit."
+    },
+    {
+      "n": 17,
+      "texto": "Convertetur dolor ejus in caput ejus : et in verticem ipsius iniquitas ejus descendet."
+    },
+    {
+      "n": 18,
+      "texto": "Confitebor Domino secundum justitiam ejus : et psallam nomini Domini altissimi."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_7"
 }

@@ -2,15 +2,39 @@
   "num": 120,
   "sumario": "Canticum graduum.",
   "versiculos": [
-    { "n": 1, "texto": "Levavi oculos meos in montes, unde veniet auxilium mihi." },
-    { "n": 2, "texto": "Auxilium meum a Domino, qui fecit cælum et terram." },
-    { "n": 3, "texto": "Non det in commotionem pedem tuum: neque dormitet qui custodit te." },
-    { "n": 4, "texto": "Ecce non dormitabit neque dormiet, qui custodit Israel." },
-    { "n": 5, "texto": "Dominus custodit te, Dominus protectio tua, super manum dexteram tuam." },
-    { "n": 6, "texto": "Per diem sol non uret te: neque luna per noctem." },
-    { "n": 7, "texto": "Dominus custodit te ab omni malo: custodiat animam tuam Dominus." },
-    { "n": 8, "texto": "Dominus custodiat introitum tuum, et exitum tuum: ex hoc nunc, et usque in sæculum." }
+    {
+      "n": 1,
+      "texto": "Levavi oculos meos in montes, unde veniet auxilium mihi."
+    },
+    {
+      "n": 2,
+      "texto": "Auxilium meum a Domino, qui fecit cælum et terram."
+    },
+    {
+      "n": 3,
+      "texto": "Non det in commotionem pedem tuum: neque dormitet qui custodit te."
+    },
+    {
+      "n": 4,
+      "texto": "Ecce non dormitabit neque dormiet, qui custodit Israel."
+    },
+    {
+      "n": 5,
+      "texto": "Dominus custodit te, Dominus protectio tua, super manum dexteram tuam."
+    },
+    {
+      "n": 6,
+      "texto": "Per diem sol non uret te: neque luna per noctem."
+    },
+    {
+      "n": 7,
+      "texto": "Dominus custodit te ab omni malo: custodiat animam tuam Dominus."
+    },
+    {
+      "n": 8,
+      "texto": "Dominus custodiat introitum tuum, et exitum tuum: ex hoc nunc, et usque in sæculum."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_120"
 }

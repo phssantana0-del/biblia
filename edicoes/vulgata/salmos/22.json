@@ -2,13 +2,31 @@
   "num": 22,
   "sumario": "Dominus pastor bonus; nihil deerit sperantibus in eum",
   "versiculos": [
-    { "n": 1, "texto": "Psalmus David. Dominus regit me, et nihil mihi deerit :" },
-    { "n": 2, "texto": "in loco pascuæ, ibi me collocavit. Super aquam refectionis educavit me ;" },
-    { "n": 3, "texto": "animam meam convertit. Deduxit me super semitas justitiæ propter nomen suum." },
-    { "n": 4, "texto": "Nam etsi ambulavero in medio umbræ mortis, non timebo mala, quoniam tu mecum es. Virga tua, et baculus tuus, ipsa me consolata sunt." },
-    { "n": 5, "texto": "Parasti in conspectu meo mensam adversus eos qui tribulant me ; impinguasti in oleo caput meum : et calix meus inebrians quam præclarus est!" },
-    { "n": 6, "texto": "Et misericordia tua subsequetur me omnibus diebus vitæ meæ, et ut inhabitem in domo Domini in longitudinem dierum." }
+    {
+      "n": 1,
+      "texto": "Psalmus David. Dominus regit me, et nihil mihi deerit :"
+    },
+    {
+      "n": 2,
+      "texto": "in loco pascuæ, ibi me collocavit. Super aquam refectionis educavit me ;"
+    },
+    {
+      "n": 3,
+      "texto": "animam meam convertit. Deduxit me super semitas justitiæ propter nomen suum."
+    },
+    {
+      "n": 4,
+      "texto": "Nam etsi ambulavero in medio umbræ mortis, non timebo mala, quoniam tu mecum es. Virga tua, et baculus tuus, ipsa me consolata sunt."
+    },
+    {
+      "n": 5,
+      "texto": "Parasti in conspectu meo mensam adversus eos qui tribulant me ; impinguasti in oleo caput meum : et calix meus inebrians quam præclarus est!"
+    },
+    {
+      "n": 6,
+      "texto": "Et misericordia tua subsequetur me omnibus diebus vitæ meæ, et ut inhabitem in domo Domini in longitudinem dierum."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_22"
 }

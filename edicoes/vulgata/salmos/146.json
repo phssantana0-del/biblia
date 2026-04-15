@@ -2,18 +2,51 @@
   "num": 146,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1, "texto": "Laudate Dominum, quoniam bonus est psalmus: Deo nostro sit jucunda decoraque laudatio." },
-    { "n": 2, "texto": "Ædificans Jerusalem Dominus: dispersiones Israelis congregabit." },
-    { "n": 3, "texto": "Qui sanat contritos corde, et alligat contritiones eorum." },
-    { "n": 4, "texto": "Qui numerat multitudinem stellarum, et omnibus eis nomina vocat." },
-    { "n": 5, "texto": "Magnus Dominus noster, et magna virtus ejus: et sapientiæ ejus non est numerus." },
-    { "n": 6, "texto": "Suscipiens mansuetos Dominus: humilians autem peccatores usque ad terram." },
-    { "n": 7, "texto": "Præcinite Domino in confessione: psallite Deo nostro in cithara." },
-    { "n": 8, "texto": "Qui operit cælum nubibus, et parat terræ pluviam. Qui producit in montibus fœnum, et herbam servituti hominum." },
-    { "n": 9, "texto": "Qui dat jumentis escam ipsorum, et pullis corvorum invocantibus eum." },
-    { "n": 10, "texto": "Non in fortitudine equi voluntatem habebit, nec in tibiis viri beneplacitum erit ei." },
-    { "n": 11, "texto": "Beneplacitum est Domino super timentes eum, et in eis qui sperant super misericordia ejus." }
+    {
+      "n": 1,
+      "texto": "Laudate Dominum, quoniam bonus est psalmus: Deo nostro sit jucunda decoraque laudatio."
+    },
+    {
+      "n": 2,
+      "texto": "Ædificans Jerusalem Dominus: dispersiones Israelis congregabit."
+    },
+    {
+      "n": 3,
+      "texto": "Qui sanat contritos corde, et alligat contritiones eorum."
+    },
+    {
+      "n": 4,
+      "texto": "Qui numerat multitudinem stellarum, et omnibus eis nomina vocat."
+    },
+    {
+      "n": 5,
+      "texto": "Magnus Dominus noster, et magna virtus ejus: et sapientiæ ejus non est numerus."
+    },
+    {
+      "n": 6,
+      "texto": "Suscipiens mansuetos Dominus: humilians autem peccatores usque ad terram."
+    },
+    {
+      "n": 7,
+      "texto": "Præcinite Domino in confessione: psallite Deo nostro in cithara."
+    },
+    {
+      "n": 8,
+      "texto": "Qui operit cælum nubibus, et parat terræ pluviam. Qui producit in montibus fœnum, et herbam servituti hominum."
+    },
+    {
+      "n": 9,
+      "texto": "Qui dat jumentis escam ipsorum, et pullis corvorum invocantibus eum."
+    },
+    {
+      "n": 10,
+      "texto": "Non in fortitudine equi voluntatem habebit, nec in tibiis viri beneplacitum erit ei."
+    },
+    {
+      "n": 11,
+      "texto": "Beneplacitum est Domino super timentes eum, et in eis qui sperant super misericordia ejus."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_146"
 }

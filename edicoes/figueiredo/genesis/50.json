@@ -1,0 +1,49 @@
+{
+  "num": 50,
+  "sumario": "Exéquias de Jacó. Morte de José.",
+  "versiculos": [
+    { "n": 1, "texto": "José, vendo que seu pai tinha expirado, lançou-se sôbre o seu rosto, e o beijou, chorando." },
+    { "n": 2, "texto": "Mandou aos médicos, que tinha em seu serviço, que embalsamassem o corpo de seu pai.", "nota": "fn50_1" },
+    { "n": 3, "texto": "E êles executaram a ordem, que José lhes tinha dado, no que se passaram quarenta dias: porque êste é o costume, empregar-se todo êste tempo em embalsamar os corpos dos mortos. E o Egito chorou a Jacó setenta dias.", "nota": "fn50_2" },
+    { "n": 4, "texto": "Acabado que foi o tempo do nojo, disse José aos oficiais de Faraó: Se eu achei graça diante de vós, rogo-vos, que representeis ao rei," },
+    { "n": 5, "texto": "que meu pai me disse: Tu vês que eu morro: promete-me pois com juramento que me hás de sepultar no jazigo, que eu fiz abrir para mim na terra de Canaã. Eu pois irei sepultar meu pai, e tornarei logo." },
+    { "n": 6, "texto": "Faraó lhe disse: Vai, e sepulta teu pai, visto ter-te êle obrigado a isso com juramento." },
+    { "n": 7, "texto": "E quando José foi, acompanharam-no todos os primeiros oficiais da casa de Faraó, e todos os grandes do Egito,", "nota": "fn50_3" },
+    { "n": 8, "texto": "com a casa de José e com todos os seus irmãos, que o seguiram, deixando na terra de Gessen os seus meninos, e todos os seus rebanhos." },
+    { "n": 9, "texto": "Teve também José na sua comitiva carruagens, e cavaleiros; de sorte, que se viu nesta função um numeroso concurso de pessoas." },
+    { "n": 10, "texto": "Depois que chegaram à eira de Atad, a qual está situada da banda de além do Jordão, celebraram ali o funeral por sete dias com grandes prantos, e altos gritos." },
+    { "n": 11, "texto": "O que tendo visto os habitantes da terra de Canaã, disseram: Grande pranto é êste dos egípcios. Por isso se ficou chamando aquêle lugar o Pranto do Egito." },
+    { "n": 12, "texto": "Cumpriram pois os filhos de Jacó o que êle lhes tinha mandado:" },
+    { "n": 13, "texto": "E tendo o levado à terra de Canaã, o sepultaram na caverna dobrada, que Abraão tinha comprado a Efron heteu, com êste campo, que olha para Mambre, para dela fazer o seu jazigo." },
+    { "n": 14, "texto": "Tanto que José sepultou seu pai, tornou êle a vir para o Egito com seus irmãos, e tôda a comitiva." },
+    { "n": 15, "texto": "Depois da morte de Jacó tiveram mêdo os irmãos de José, e disseram uns para os outros: Poderá José lembrar-se agora da injúria, que padeceu, e tornar-nos todo o mal, que nós lhe fizemos." },
+    { "n": 16, "texto": "Mandaram êles pois dizer-lhe: Teu pai antes de morrer ordenou-nos," },
+    { "n": 17, "texto": "que da sua parte te disséssemos: Eu te conjuro, que te esqueças do crime de teus irmãos, e daquela negra maldade, que êles usaram contra ti. Nós te suplicamos também, que perdoes esta iniquidade aos servos do Deus de teu pai. José, tendo ouvido estas palavras, chorou." },
+    { "n": 18, "texto": "E seus irmãos, tendo-o vindo buscar, se prostraram diante dêle, adorando-o, e lhe disseram: Nós somos teus servos." },
+    { "n": 19, "texto": "Aos quais êle respondeu: Não tenhais mêdo: Acaso podemos nós resistir à vontade de Deus?" },
+    { "n": 20, "texto": "Vós intentastes fazer-me mal: Mas Deus trocou êsse mal em bem, para me exaltar a mim, como vós presentemente vêdes, e para salvar a muitos povos." },
+    { "n": 21, "texto": "Não temais logo: Eu vos sustentarei a vós, e aos vossos filhinhos. E êle os consolou, falando-lhes com muita brandura, e muito carinho." },
+    { "n": 22, "texto": "Assistiu José no Egito com tôda a casa de seu pai, e viveu cem anos. Êle viu os filhos de Efraim até à terceira geração. Maquir, filho de Manassés, também teve filhos, que ao nascerem foram recebidos sôbre os joelhos de José." },
+    { "n": 23, "texto": "Ao depois disse José a seus irmãos: Deus vos há de visitar depois da minha morte, e vos há de fazer passar desta terra para a que êle jurou que havia de dar a Abraão, a Isaac, e a Jacó." },
+    { "n": 24, "texto": "Êle pois os obrigou com juramento, dizendo: Deus vos há de visitar: Transportai então os meus ossos convosco dêste lugar." },
+    { "n": 25, "texto": "Depois morreu em idade de cento e dez anos completos, e o seu corpo, tendo sido embalsamado, foi pôsto num caixão no Egito.", "nota": "fn50_4" }
+  ],
+  "notas": {
+    "fn50_1": {
+      "rotulo": "OS MÉDICOS",
+      "texto": "Havia no Egito grande número de médicos. São conhecidas as práticas dos embalsamamentos."
+    },
+    "fn50_2": {
+      "rotulo": "SETENTA DIAS",
+      "texto": "Só ao cabo dêste tempo se realizavam os funerais, porque tanto era preciso para a mumificação do cadáver. Os processos de embalsamamento variavam conforme os haveres da família do morto; para os menos abastados consistia apenas numa purificação interior com drogas de pouco preço; os felizes eram imersos em mirra, láudano, e outros custosos perfumes; todos porém ficavam numa solução durante os setenta dias, ao cabo dos quais só restava a pele e o osso. Só então tinham lugar as cerimónias fúnebres."
+    },
+    "fn50_3": {
+      "rotulo": "TODOS OS PRIMEIROS OFICIAIS",
+      "texto": "Era um dever acompanhar o morto à casa da eternidade. Jacó teve tôdas as honras, exceto as práticas supersticiosas. Vigouroux, ob. cit."
+    },
+    "fn50_4": {
+      "rotulo": "FOI PÔSTO NUM CAIXÃO NO EGITO",
+      "texto": "Assim termina propositadamente Moisés êste livro, para dar aos hebreus a impressão de que a vontade de Jacó não estava cumprida."
+    }
+  }
+}

@@ -1,6 +1,5 @@
 {
   "num": 48,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi",
   "sumario": "Vanitas divitiarum et mortalitas hominis",
   "versiculos": [
     {
@@ -88,5 +87,6 @@
       "texto": "Homo, cum in honore esset, non intellexit; comparatus est jumentis insipientibus, et similis factus est illis."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_48"
 }

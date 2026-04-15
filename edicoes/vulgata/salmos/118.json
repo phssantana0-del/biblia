@@ -2,183 +2,711 @@
   "num": 118,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1, "texto": "Beati immaculati in via: qui ambulant in lege Domini." },
-    { "n": 2, "texto": "Beati, qui scrutantur testimonia ejus: in toto corde exquirunt eum." },
-    { "n": 3, "texto": "Non enim qui operantur iniquitatem, in viis ejus ambulaverunt." },
-    { "n": 4, "texto": "Tu mandasti mandata tua custodiri nimis." },
-    { "n": 5, "texto": "Utinam dirigantur viæ meæ, ad custodiendas justificationes tuas!" },
-    { "n": 6, "texto": "Tunc non confundar, cum perspexero in omnibus mandatis tuis." },
-    { "n": 7, "texto": "Confitebor tibi in directione cordis, in eo quod didici judicia justitiæ tuæ." },
-    { "n": 8, "texto": "Justificationes tuas custodiam: non me derelinquas usquequaque." },
-    { "n": 9, "texto": "In quo corrigit adolescentior viam suam? in custodiendo sermones tuos." },
-    { "n": 10, "texto": "In toto corde meo exquisivi te: ne repellas me a mandatis tuis." },
-    { "n": 11, "texto": "In corde meo abscondi eloquia tua: ut non peccem tibi." },
-    { "n": 12, "texto": "Benedictus es, Domine: doce me justificationes tuas." },
-    { "n": 13, "texto": "In labiis meis, pronuntiavi omnia judicia oris tui." },
-    { "n": 14, "texto": "In via testimoniorum tuorum delectatus sum, sicut in omnibus divitiis." },
-    { "n": 15, "texto": "In mandatis tuis exercebor: et considerabo vias tuas." },
-    { "n": 16, "texto": "In justificationibus tuis meditabor: non obliviscar sermones tuos." },
-    { "n": 17, "texto": "Retribue servo tuo, vivifica me: et custodiam sermones tuos." },
-    { "n": 18, "texto": "Revela oculos meos: et considerabo mirabilia de lege tua." },
-    { "n": 19, "texto": "Incola ego sum in terra: non abscondas a me mandata tua." },
-    { "n": 20, "texto": "Concupivit anima mea desiderare justificationes tuas, in omni tempore." },
-    { "n": 21, "texto": "Increpasti superbos: maledicti qui declinant a mandatis tuis." },
-    { "n": 22, "texto": "Aufer a me opprobrium et contemptum: quia testimonia tua exquisivi." },
-    { "n": 23, "texto": "Etenim sederunt principes, et adversum me loquebantur: servus autem tuus exercebatur in justificationibus tuis." },
-    { "n": 24, "texto": "Nam et testimonia tua meditatio mea est: et consilium meum justificationes tuæ." },
-    { "n": 25, "texto": "Adhæsit pavimento anima mea: vivifica me secundum verbum tuum." },
-    { "n": 26, "texto": "Vias meas enuntiavi, et exaudisti me: doce me justificationes tuas." },
-    { "n": 27, "texto": "Viam justificationum tuarum instrue me: et exercebor in mirabilibus tuis." },
-    { "n": 28, "texto": "Dormitavit anima mea præ tædio: confirma me in verbis tuis." },
-    { "n": 29, "texto": "Viam iniquitatis amove a me: et de lege tua miserere mei." },
-    { "n": 30, "texto": "Viam veritatis elegi: judicia tua non sum oblitus." },
-    { "n": 31, "texto": "Adhæsi testimoniis tuis, Domine: noli me confundere." },
-    { "n": 32, "texto": "Viam mandatorum tuorum cucurri, cum dilatasti cor meum." },
-    { "n": 33, "texto": "Legem pone mihi, Domine, viam justificationum tuarum: et exquiram eam semper." },
-    { "n": 34, "texto": "Da mihi intellectum, et scrutabor legem tuam: et custodiam illam in toto corde meo." },
-    { "n": 35, "texto": "Deduc me in semitam mandatorum tuorum: quia ipsam volui." },
-    { "n": 36, "texto": "Inclina cor meum in testimonia tua: et non in avaritiam." },
-    { "n": 37, "texto": "Averte oculos meos ne videant vanitatem: in via tua vivifica me." },
-    { "n": 38, "texto": "Statue servo tuo eloquium tuum, in timore tuo." },
-    { "n": 39, "texto": "Amputa opprobrium meum quod suspicatus sum: quia judicia tua jucunda." },
-    { "n": 40, "texto": "Ecce concupivi mandata tua: in æquitate tua vivifica me." },
-    { "n": 41, "texto": "Et veniat super me misericordia tua, Domine: salutare tuum secundum eloquium tuum." },
-    { "n": 42, "texto": "Et respondebo exprobrantibus mihi verbum: quia speravi in sermonibus tuis." },
-    { "n": 43, "texto": "Et ne auferas de ore meo verbum veritatis usquequaque: quia in judiciis tuis supersperavi." },
-    { "n": 44, "texto": "Et custodiam legem tuam semper: in sæculum et in sæculum sæculi." },
-    { "n": 45, "texto": "Et ambulabam in latitudine: quia mandata tua exquisivi." },
-    { "n": 46, "texto": "Et loquebar in testimoniis tuis in conspectu regum: et non confundebar." },
-    { "n": 47, "texto": "Et meditabar in mandatis tuis, quæ dilexi." },
-    { "n": 48, "texto": "Et levavi manus meas ad mandata tua, quæ dilexi: et exercebar in justificationibus tuis." },
-    { "n": 49, "texto": "Memor esto verbi tui servo tuo, in quo mihi spem dedisti." },
-    { "n": 50, "texto": "Hæc me consolata est in humilitate mea: quia eloquium tuum vivificavit me." },
-    { "n": 51, "texto": "Superbi inique agebant usquequaque: a lege autem tua non declinavi." },
-    { "n": 52, "texto": "Memor fui judiciorum tuorum a sæculo, Domine: et consolatus sum." },
-    { "n": 53, "texto": "Defectio tenuit me, pro peccatoribus derelinquentibus legem tuam." },
-    { "n": 54, "texto": "Cantabiles mihi erant justificationes tuæ, in loco peregrinationis meæ." },
-    { "n": 55, "texto": "Memor fui nocte nominis tui, Domine: et custodivi legem tuam." },
-    { "n": 56, "texto": "Hæc facta est mihi: quia justificationes tuas exquisivi." },
-    { "n": 57, "texto": "Portio mea, Domine, dixi custodire legem tuam." },
-    { "n": 58, "texto": "Deprecatus sum faciem tuam in toto corde meo: miserere mei secundum eloquium tuum." },
-    { "n": 59, "texto": "Cogitavi vias meas: et converti pedes meos in testimonia tua." },
-    { "n": 60, "texto": "Paratus sum, et non sum turbatus: ut custodiam mandata tua." },
-    { "n": 61, "texto": "Funes peccatorum circumplexi sunt me: et legem tuam non sum oblitus." },
-    { "n": 62, "texto": "Media nocte surgebam ad confitendum tibi, super judicia justificationis tuæ." },
-    { "n": 63, "texto": "Particeps ego sum omnium timentium te: et custodientium mandata tua." },
-    { "n": 64, "texto": "Misericordia tua, Domine, plena est terra: justificationes tuas doce me." },
-    { "n": 65, "texto": "Bonitatem fecisti cum servo tuo, Domine, secundum verbum tuum." },
-    { "n": 66, "texto": "Bonitatem, et disciplinam, et scientiam doce me: quia mandatis tuis credidi." },
-    { "n": 67, "texto": "Priusquam humiliarer ego deliqui: propterea eloquium tuum custodivi." },
-    { "n": 68, "texto": "Bonus es tu: et in bonitate tua doce me justificationes tuas." },
-    { "n": 69, "texto": "Multiplicata est super me iniquitas superborum: ego autem in toto corde meo scrutabor mandata tua." },
-    { "n": 70, "texto": "Coagulatum est sicut lac cor eorum: ego vero legem tuam meditatus sum." },
-    { "n": 71, "texto": "Bonum mihi quia humiliasti me: ut discam justificationes tuas." },
-    { "n": 72, "texto": "Bonum mihi lex oris tui, super millia auri et argenti." },
-    { "n": 73, "texto": "Manus tuæ fecerunt me, et plasmaverunt me: da mihi intellectum, et discam mandata tua." },
-    { "n": 74, "texto": "Qui timent te videbunt me, et lætabuntur: quia in verba tua supersperavi." },
-    { "n": 75, "texto": "Cognovi, Domine, quia æquitas judicia tua: et in veritate tua humiliasti me." },
-    { "n": 76, "texto": "Fiat misericordia tua ut consoletur me, secundum eloquium tuum servo tuo." },
-    { "n": 77, "texto": "Veniant mihi miserationes tuæ, et vivam: quia lex tua meditatio mea est." },
-    { "n": 78, "texto": "Confundantur superbi, quia injuste iniquitatem fecerunt in me: ego autem exercebor in mandatis tuis." },
-    { "n": 79, "texto": "Convertantur mihi timentes te: et qui noverunt testimonia tua." },
-    { "n": 80, "texto": "Fiat cor meum immaculatum in justificationibus tuis, ut non confundar." },
-    { "n": 81, "texto": "Defecit in salutare tuum anima mea: et in verbum tuum supersperavi." },
-    { "n": 82, "texto": "Defecerunt oculi mei in eloquium tuum, dicentes: Quando consolaberis me?" },
-    { "n": 83, "texto": "Quia factus sum sicut uter in pruina: justificationes tuas non sum oblitus." },
-    { "n": 84, "texto": "Quot sunt dies servi tui? quando facies de persequentibus me judicium?" },
-    { "n": 85, "texto": "Narraverunt mihi iniqui fabulationes: sed non ut lex tua." },
-    { "n": 86, "texto": "Omnia mandata tua veritas: inique persecuti sunt me, adjuva me." },
-    { "n": 87, "texto": "Paulo minus consummaverunt me in terra: ego autem non dereliqui mandata tua." },
-    { "n": 88, "texto": "Secundum misericordiam tuam vivifica me: et custodiam testimonia oris tui." },
-    { "n": 89, "texto": "In æternum, Domine, verbum tuum permanet in cælo." },
-    { "n": 90, "texto": "In generationem et generationem veritas tua: fundasti terram, et permanet." },
-    { "n": 91, "texto": "Ordinatione tua perseverat dies: quoniam omnia serviunt tibi." },
-    { "n": 92, "texto": "Nisi quod lex tua meditatio mea est: tunc forte periissem in humilitate mea." },
-    { "n": 93, "texto": "In æternum non obliviscar justificationes tuas: quia in ipsis vivificasti me." },
-    { "n": 94, "texto": "Tuus sum ego, salvum me fac: quoniam justificationes tuas exquisivi." },
-    { "n": 95, "texto": "Me exspectaverunt peccatores ut perderent me: testimonia tua intellexi." },
-    { "n": 96, "texto": "Omnis consummationis vidi finem: latum mandatum tuum nimis." },
-    { "n": 97, "texto": "Quomodo dilexi legem tuam, Domine! tota die meditatio mea est." },
-    { "n": 98, "texto": "Super inimicos meos prudentem me fecisti mandato tuo: quia in æternum mihi est." },
-    { "n": 99, "texto": "Super omnes docentes me intellexi: quia testimonia tua meditatio mea est." },
-    { "n": 100, "texto": "Super senes intellexi: quia mandata tua quæsivi." },
-    { "n": 101, "texto": "Ab omni via mala prohibui pedes meos: ut custodiam verba tua." },
-    { "n": 102, "texto": "A judiciis tuis non declinavi: quia tu legem posuisti mihi." },
-    { "n": 103, "texto": "Quam dulcia faucibus meis eloquia tua, super mel ori meo!" },
-    { "n": 104, "texto": "A mandatis tuis intellexi: propterea odivi omnem viam iniquitatis." },
-    { "n": 105, "texto": "Lucerna pedibus meis verbum tuum, et lumen semitis meis." },
-    { "n": 106, "texto": "Juravi et statui custodire judicia justitiæ tuæ." },
-    { "n": 107, "texto": "Humiliatus sum usquequaque, Domine: vivifica me secundum verbum tuum." },
-    { "n": 108, "texto": "Voluntaria oris mei beneplacita fac, Domine: et judicia tua doce me." },
-    { "n": 109, "texto": "Anima mea in manibus meis semper: et legem tuam non sum oblitus." },
-    { "n": 110, "texto": "Posuerunt peccatores laqueum mihi: et de mandatis tuis non erravi." },
-    { "n": 111, "texto": "Hæreditate acquisivi testimonia tua in æternum: quia exsultatio cordis mei sunt." },
-    { "n": 112, "texto": "Inclinavi cor meum ad faciendas justificationes tuas in æternum, propter retributionem." },
-    { "n": 113, "texto": "Iniquos odio habui: et legem tuam dilexi." },
-    { "n": 114, "texto": "Adjutor et susceptor meus es tu: et in verbum tuum supersperavi." },
-    { "n": 115, "texto": "Declinate a me, maligni: et scrutabor mandata Dei mei." },
-    { "n": 116, "texto": "Suscipe me secundum eloquium tuum, et vivam: et non confundas me ab exspectatione mea." },
-    { "n": 117, "texto": "Adjuva me, et salvus ero: et meditabor in justificationibus tuis semper." },
-    { "n": 118, "texto": "Sprevisti omnes discedentes a judiciis tuis: quia injusta cogitatio eorum." },
-    { "n": 119, "texto": "Prævaricantes reputavi omnes peccatores terræ: ideo dilexi testimonia tua." },
-    { "n": 120, "texto": "Confige timore tuo carnes meas: a judiciis enim tuis timui." },
-    { "n": 121, "texto": "Feci judicium et justitiam: non tradas me calumniantibus me." },
-    { "n": 122, "texto": "Suscipe servum tuum in bonum: non calumnientur me superbi." },
-    { "n": 123, "texto": "Oculi mei defecerunt in salutare tuum: et in eloquium justitiæ tuæ." },
-    { "n": 124, "texto": "Fac cum servo tuo secundum misericordiam tuam: et justificationes tuas doce me." },
-    { "n": 125, "texto": "Servus tuus sum ego: da mihi intellectum, ut sciam testimonia tua." },
-    { "n": 126, "texto": "Tempus faciendi, Domine: dissipaverunt legem tuam." },
-    { "n": 127, "texto": "Ideo dilexi mandata tua, super aurum et topazion." },
-    { "n": 128, "texto": "Propterea ad omnia mandata tua dirigebar: omnem viam iniquam odio habui." },
-    { "n": 129, "texto": "Mirabilia testimonia tua: ideo scrutata est ea anima mea." },
-    { "n": 130, "texto": "Declaratio sermonum tuorum illuminat: et intellectum dat parvulis." },
-    { "n": 131, "texto": "Os meum aperui, et attraxi spiritum: quia mandata tua desiderabam." },
-    { "n": 132, "texto": "Aspice in me, et miserere mei, secundum judicium diligentium nomen tuum." },
-    { "n": 133, "texto": "Gressus meos dirige secundum eloquium tuum: et non dominetur mei omnis injustitia." },
-    { "n": 134, "texto": "Redime me a calumniis hominum: ut custodiam mandata tua." },
-    { "n": 135, "texto": "Faciem tuam illumina super servum tuum: et doce me justificationes tuas." },
-    { "n": 136, "texto": "Exitus aquarum deduxerunt oculi mei: quia non custodierunt legem tuam." },
-    { "n": 137, "texto": "Justus es, Domine: et rectum judicium tuum." },
-    { "n": 138, "texto": "Mandasti justitiam testimonia tua: et veritatem tuam nimis." },
-    { "n": 139, "texto": "Tabescere me fecit zelus meus: quia obliti sunt verba tua inimici mei." },
-    { "n": 140, "texto": "Ignitum eloquium tuum vehementer: et servus tuus dilexit illud." },
-    { "n": 141, "texto": "Adolescentulus sum ego et contemptus: justificationes tuas non sum oblitus." },
-    { "n": 142, "texto": "Justitia tua, justitia in æternum: et lex tua veritas." },
-    { "n": 143, "texto": "Tribulatio et angustia invenerunt me: mandata tua meditatio mea est." },
-    { "n": 144, "texto": "Æquitas testimonia tua in æternum: intellectum da mihi, et vivam." },
-    { "n": 145, "texto": "Clamavi in toto corde meo, exaudi me, Domine: justificationes tuas requiram." },
-    { "n": 146, "texto": "Clamavi ad te, salvum me fac: ut custodiam mandata tua." },
-    { "n": 147, "texto": "Præveni in maturitate, et clamavi: quia in verba tua supersperavi." },
-    { "n": 148, "texto": "Prævenerunt oculi mei ad te diluculo: ut meditarer eloquia tua." },
-    { "n": 149, "texto": "Vocem meam audi secundum misericordiam tuam, Domine: et secundum judicium tuum vivifica me." },
-    { "n": 150, "texto": "Appropinquaverunt persequentes me iniquitati: a lege autem tua longe facti sunt." },
-    { "n": 151, "texto": "Prope es tu, Domine: et omnes viæ tuæ veritas." },
-    { "n": 152, "texto": "Initio cognovi de testimoniis tuis: quia in æternum fundasti ea." },
-    { "n": 153, "texto": "Vide humilitatem meam, et eripe me: quia legem tuam non sum oblitus." },
-    { "n": 154, "texto": "Judica judicium meum, et redime me: propter eloquium tuum vivifica me." },
-    { "n": 155, "texto": "Longe a peccatoribus salus: quia justificationes tuas non exquisierunt." },
-    { "n": 156, "texto": "Misericordiæ tuæ multæ, Domine: secundum judicium tuum vivifica me." },
-    { "n": 157, "texto": "Multi qui persequuntur me, et tribulant me: a testimoniis tuis non declinavi." },
-    { "n": 158, "texto": "Vidi prævaricantes, et tabescebam: quia eloquia tua non custodierunt." },
-    { "n": 159, "texto": "Vide quoniam mandata tua dilexi, Domine: in misericordia tua vivifica me." },
-    { "n": 160, "texto": "Principium verborum tuorum veritas: in æternum omnia judicia justitiæ tuæ." },
-    { "n": 161, "texto": "Principes persecuti sunt me gratis: et a verbis tuis formidavit cor meum." },
-    { "n": 162, "texto": "Lætabor ego super eloquia tua: sicut qui invenit spolia multa." },
-    { "n": 163, "texto": "Iniquitatem odio habui, et abominatus sum: legem autem tuam dilexi." },
-    { "n": 164, "texto": "Septies in die laudem dixi tibi, super judicia justitiæ tuæ." },
-    { "n": 165, "texto": "Pax multa diligentibus legem tuam: et non est illis scandalum." },
-    { "n": 166, "texto": "Exspectabam salutare tuum, Domine: et mandata tua dilexi." },
-    { "n": 167, "texto": "Custodivit anima mea testimonia tua: et dilexit ea vehementer." },
-    { "n": 168, "texto": "Servavi mandata tua et testimonia tua: quia omnes viæ meæ in conspectu tuo." },
-    { "n": 169, "texto": "Appropinquet deprecatio mea in conspectu tuo, Domine: juxta eloquium tuum da mihi intellectum." },
-    { "n": 170, "texto": "Intret postulatio mea in conspectu tuo: secundum eloquium tuum eripe me." },
-    { "n": 171, "texto": "Eructabunt labia mea hymnum, cum docueris me justificationes tuas." },
-    { "n": 172, "texto": "Pronuntiabit lingua mea eloquium tuum: quia omnia mandata tua æquitas." },
-    { "n": 173, "texto": "Fiat manus tua ut salvet me: quoniam mandata tua elegi." },
-    { "n": 174, "texto": "Concupivi salutare tuum, Domine: et lex tua meditatio mea est." },
-    { "n": 175, "texto": "Vivet anima mea, et laudabit te: et judicia tua adjuvabunt me." },
-    { "n": 176, "texto": "Erravi sicut ovis quæ periit: quære servum tuum, quia mandata tua non sum oblitus." }
+    {
+      "n": 1,
+      "texto": "Beati immaculati in via: qui ambulant in lege Domini."
+    },
+    {
+      "n": 2,
+      "texto": "Beati, qui scrutantur testimonia ejus: in toto corde exquirunt eum."
+    },
+    {
+      "n": 3,
+      "texto": "Non enim qui operantur iniquitatem, in viis ejus ambulaverunt."
+    },
+    {
+      "n": 4,
+      "texto": "Tu mandasti mandata tua custodiri nimis."
+    },
+    {
+      "n": 5,
+      "texto": "Utinam dirigantur viæ meæ, ad custodiendas justificationes tuas!"
+    },
+    {
+      "n": 6,
+      "texto": "Tunc non confundar, cum perspexero in omnibus mandatis tuis."
+    },
+    {
+      "n": 7,
+      "texto": "Confitebor tibi in directione cordis, in eo quod didici judicia justitiæ tuæ."
+    },
+    {
+      "n": 8,
+      "texto": "Justificationes tuas custodiam: non me derelinquas usquequaque."
+    },
+    {
+      "n": 9,
+      "texto": "In quo corrigit adolescentior viam suam? in custodiendo sermones tuos."
+    },
+    {
+      "n": 10,
+      "texto": "In toto corde meo exquisivi te: ne repellas me a mandatis tuis."
+    },
+    {
+      "n": 11,
+      "texto": "In corde meo abscondi eloquia tua: ut non peccem tibi."
+    },
+    {
+      "n": 12,
+      "texto": "Benedictus es, Domine: doce me justificationes tuas."
+    },
+    {
+      "n": 13,
+      "texto": "In labiis meis, pronuntiavi omnia judicia oris tui."
+    },
+    {
+      "n": 14,
+      "texto": "In via testimoniorum tuorum delectatus sum, sicut in omnibus divitiis."
+    },
+    {
+      "n": 15,
+      "texto": "In mandatis tuis exercebor: et considerabo vias tuas."
+    },
+    {
+      "n": 16,
+      "texto": "In justificationibus tuis meditabor: non obliviscar sermones tuos."
+    },
+    {
+      "n": 17,
+      "texto": "Retribue servo tuo, vivifica me: et custodiam sermones tuos."
+    },
+    {
+      "n": 18,
+      "texto": "Revela oculos meos: et considerabo mirabilia de lege tua."
+    },
+    {
+      "n": 19,
+      "texto": "Incola ego sum in terra: non abscondas a me mandata tua."
+    },
+    {
+      "n": 20,
+      "texto": "Concupivit anima mea desiderare justificationes tuas, in omni tempore."
+    },
+    {
+      "n": 21,
+      "texto": "Increpasti superbos: maledicti qui declinant a mandatis tuis."
+    },
+    {
+      "n": 22,
+      "texto": "Aufer a me opprobrium et contemptum: quia testimonia tua exquisivi."
+    },
+    {
+      "n": 23,
+      "texto": "Etenim sederunt principes, et adversum me loquebantur: servus autem tuus exercebatur in justificationibus tuis."
+    },
+    {
+      "n": 24,
+      "texto": "Nam et testimonia tua meditatio mea est: et consilium meum justificationes tuæ."
+    },
+    {
+      "n": 25,
+      "texto": "Adhæsit pavimento anima mea: vivifica me secundum verbum tuum."
+    },
+    {
+      "n": 26,
+      "texto": "Vias meas enuntiavi, et exaudisti me: doce me justificationes tuas."
+    },
+    {
+      "n": 27,
+      "texto": "Viam justificationum tuarum instrue me: et exercebor in mirabilibus tuis."
+    },
+    {
+      "n": 28,
+      "texto": "Dormitavit anima mea præ tædio: confirma me in verbis tuis."
+    },
+    {
+      "n": 29,
+      "texto": "Viam iniquitatis amove a me: et de lege tua miserere mei."
+    },
+    {
+      "n": 30,
+      "texto": "Viam veritatis elegi: judicia tua non sum oblitus."
+    },
+    {
+      "n": 31,
+      "texto": "Adhæsi testimoniis tuis, Domine: noli me confundere."
+    },
+    {
+      "n": 32,
+      "texto": "Viam mandatorum tuorum cucurri, cum dilatasti cor meum."
+    },
+    {
+      "n": 33,
+      "texto": "Legem pone mihi, Domine, viam justificationum tuarum: et exquiram eam semper."
+    },
+    {
+      "n": 34,
+      "texto": "Da mihi intellectum, et scrutabor legem tuam: et custodiam illam in toto corde meo."
+    },
+    {
+      "n": 35,
+      "texto": "Deduc me in semitam mandatorum tuorum: quia ipsam volui."
+    },
+    {
+      "n": 36,
+      "texto": "Inclina cor meum in testimonia tua: et non in avaritiam."
+    },
+    {
+      "n": 37,
+      "texto": "Averte oculos meos ne videant vanitatem: in via tua vivifica me."
+    },
+    {
+      "n": 38,
+      "texto": "Statue servo tuo eloquium tuum, in timore tuo."
+    },
+    {
+      "n": 39,
+      "texto": "Amputa opprobrium meum quod suspicatus sum: quia judicia tua jucunda."
+    },
+    {
+      "n": 40,
+      "texto": "Ecce concupivi mandata tua: in æquitate tua vivifica me."
+    },
+    {
+      "n": 41,
+      "texto": "Et veniat super me misericordia tua, Domine: salutare tuum secundum eloquium tuum."
+    },
+    {
+      "n": 42,
+      "texto": "Et respondebo exprobrantibus mihi verbum: quia speravi in sermonibus tuis."
+    },
+    {
+      "n": 43,
+      "texto": "Et ne auferas de ore meo verbum veritatis usquequaque: quia in judiciis tuis supersperavi."
+    },
+    {
+      "n": 44,
+      "texto": "Et custodiam legem tuam semper: in sæculum et in sæculum sæculi."
+    },
+    {
+      "n": 45,
+      "texto": "Et ambulabam in latitudine: quia mandata tua exquisivi."
+    },
+    {
+      "n": 46,
+      "texto": "Et loquebar in testimoniis tuis in conspectu regum: et non confundebar."
+    },
+    {
+      "n": 47,
+      "texto": "Et meditabar in mandatis tuis, quæ dilexi."
+    },
+    {
+      "n": 48,
+      "texto": "Et levavi manus meas ad mandata tua, quæ dilexi: et exercebar in justificationibus tuis."
+    },
+    {
+      "n": 49,
+      "texto": "Memor esto verbi tui servo tuo, in quo mihi spem dedisti."
+    },
+    {
+      "n": 50,
+      "texto": "Hæc me consolata est in humilitate mea: quia eloquium tuum vivificavit me."
+    },
+    {
+      "n": 51,
+      "texto": "Superbi inique agebant usquequaque: a lege autem tua non declinavi."
+    },
+    {
+      "n": 52,
+      "texto": "Memor fui judiciorum tuorum a sæculo, Domine: et consolatus sum."
+    },
+    {
+      "n": 53,
+      "texto": "Defectio tenuit me, pro peccatoribus derelinquentibus legem tuam."
+    },
+    {
+      "n": 54,
+      "texto": "Cantabiles mihi erant justificationes tuæ, in loco peregrinationis meæ."
+    },
+    {
+      "n": 55,
+      "texto": "Memor fui nocte nominis tui, Domine: et custodivi legem tuam."
+    },
+    {
+      "n": 56,
+      "texto": "Hæc facta est mihi: quia justificationes tuas exquisivi."
+    },
+    {
+      "n": 57,
+      "texto": "Portio mea, Domine, dixi custodire legem tuam."
+    },
+    {
+      "n": 58,
+      "texto": "Deprecatus sum faciem tuam in toto corde meo: miserere mei secundum eloquium tuum."
+    },
+    {
+      "n": 59,
+      "texto": "Cogitavi vias meas: et converti pedes meos in testimonia tua."
+    },
+    {
+      "n": 60,
+      "texto": "Paratus sum, et non sum turbatus: ut custodiam mandata tua."
+    },
+    {
+      "n": 61,
+      "texto": "Funes peccatorum circumplexi sunt me: et legem tuam non sum oblitus."
+    },
+    {
+      "n": 62,
+      "texto": "Media nocte surgebam ad confitendum tibi, super judicia justificationis tuæ."
+    },
+    {
+      "n": 63,
+      "texto": "Particeps ego sum omnium timentium te: et custodientium mandata tua."
+    },
+    {
+      "n": 64,
+      "texto": "Misericordia tua, Domine, plena est terra: justificationes tuas doce me."
+    },
+    {
+      "n": 65,
+      "texto": "Bonitatem fecisti cum servo tuo, Domine, secundum verbum tuum."
+    },
+    {
+      "n": 66,
+      "texto": "Bonitatem, et disciplinam, et scientiam doce me: quia mandatis tuis credidi."
+    },
+    {
+      "n": 67,
+      "texto": "Priusquam humiliarer ego deliqui: propterea eloquium tuum custodivi."
+    },
+    {
+      "n": 68,
+      "texto": "Bonus es tu: et in bonitate tua doce me justificationes tuas."
+    },
+    {
+      "n": 69,
+      "texto": "Multiplicata est super me iniquitas superborum: ego autem in toto corde meo scrutabor mandata tua."
+    },
+    {
+      "n": 70,
+      "texto": "Coagulatum est sicut lac cor eorum: ego vero legem tuam meditatus sum."
+    },
+    {
+      "n": 71,
+      "texto": "Bonum mihi quia humiliasti me: ut discam justificationes tuas."
+    },
+    {
+      "n": 72,
+      "texto": "Bonum mihi lex oris tui, super millia auri et argenti."
+    },
+    {
+      "n": 73,
+      "texto": "Manus tuæ fecerunt me, et plasmaverunt me: da mihi intellectum, et discam mandata tua."
+    },
+    {
+      "n": 74,
+      "texto": "Qui timent te videbunt me, et lætabuntur: quia in verba tua supersperavi."
+    },
+    {
+      "n": 75,
+      "texto": "Cognovi, Domine, quia æquitas judicia tua: et in veritate tua humiliasti me."
+    },
+    {
+      "n": 76,
+      "texto": "Fiat misericordia tua ut consoletur me, secundum eloquium tuum servo tuo."
+    },
+    {
+      "n": 77,
+      "texto": "Veniant mihi miserationes tuæ, et vivam: quia lex tua meditatio mea est."
+    },
+    {
+      "n": 78,
+      "texto": "Confundantur superbi, quia injuste iniquitatem fecerunt in me: ego autem exercebor in mandatis tuis."
+    },
+    {
+      "n": 79,
+      "texto": "Convertantur mihi timentes te: et qui noverunt testimonia tua."
+    },
+    {
+      "n": 80,
+      "texto": "Fiat cor meum immaculatum in justificationibus tuis, ut non confundar."
+    },
+    {
+      "n": 81,
+      "texto": "Defecit in salutare tuum anima mea: et in verbum tuum supersperavi."
+    },
+    {
+      "n": 82,
+      "texto": "Defecerunt oculi mei in eloquium tuum, dicentes: Quando consolaberis me?"
+    },
+    {
+      "n": 83,
+      "texto": "Quia factus sum sicut uter in pruina: justificationes tuas non sum oblitus."
+    },
+    {
+      "n": 84,
+      "texto": "Quot sunt dies servi tui? quando facies de persequentibus me judicium?"
+    },
+    {
+      "n": 85,
+      "texto": "Narraverunt mihi iniqui fabulationes: sed non ut lex tua."
+    },
+    {
+      "n": 86,
+      "texto": "Omnia mandata tua veritas: inique persecuti sunt me, adjuva me."
+    },
+    {
+      "n": 87,
+      "texto": "Paulo minus consummaverunt me in terra: ego autem non dereliqui mandata tua."
+    },
+    {
+      "n": 88,
+      "texto": "Secundum misericordiam tuam vivifica me: et custodiam testimonia oris tui."
+    },
+    {
+      "n": 89,
+      "texto": "In æternum, Domine, verbum tuum permanet in cælo."
+    },
+    {
+      "n": 90,
+      "texto": "In generationem et generationem veritas tua: fundasti terram, et permanet."
+    },
+    {
+      "n": 91,
+      "texto": "Ordinatione tua perseverat dies: quoniam omnia serviunt tibi."
+    },
+    {
+      "n": 92,
+      "texto": "Nisi quod lex tua meditatio mea est: tunc forte periissem in humilitate mea."
+    },
+    {
+      "n": 93,
+      "texto": "In æternum non obliviscar justificationes tuas: quia in ipsis vivificasti me."
+    },
+    {
+      "n": 94,
+      "texto": "Tuus sum ego, salvum me fac: quoniam justificationes tuas exquisivi."
+    },
+    {
+      "n": 95,
+      "texto": "Me exspectaverunt peccatores ut perderent me: testimonia tua intellexi."
+    },
+    {
+      "n": 96,
+      "texto": "Omnis consummationis vidi finem: latum mandatum tuum nimis."
+    },
+    {
+      "n": 97,
+      "texto": "Quomodo dilexi legem tuam, Domine! tota die meditatio mea est."
+    },
+    {
+      "n": 98,
+      "texto": "Super inimicos meos prudentem me fecisti mandato tuo: quia in æternum mihi est."
+    },
+    {
+      "n": 99,
+      "texto": "Super omnes docentes me intellexi: quia testimonia tua meditatio mea est."
+    },
+    {
+      "n": 100,
+      "texto": "Super senes intellexi: quia mandata tua quæsivi."
+    },
+    {
+      "n": 101,
+      "texto": "Ab omni via mala prohibui pedes meos: ut custodiam verba tua."
+    },
+    {
+      "n": 102,
+      "texto": "A judiciis tuis non declinavi: quia tu legem posuisti mihi."
+    },
+    {
+      "n": 103,
+      "texto": "Quam dulcia faucibus meis eloquia tua, super mel ori meo!"
+    },
+    {
+      "n": 104,
+      "texto": "A mandatis tuis intellexi: propterea odivi omnem viam iniquitatis."
+    },
+    {
+      "n": 105,
+      "texto": "Lucerna pedibus meis verbum tuum, et lumen semitis meis."
+    },
+    {
+      "n": 106,
+      "texto": "Juravi et statui custodire judicia justitiæ tuæ."
+    },
+    {
+      "n": 107,
+      "texto": "Humiliatus sum usquequaque, Domine: vivifica me secundum verbum tuum."
+    },
+    {
+      "n": 108,
+      "texto": "Voluntaria oris mei beneplacita fac, Domine: et judicia tua doce me."
+    },
+    {
+      "n": 109,
+      "texto": "Anima mea in manibus meis semper: et legem tuam non sum oblitus."
+    },
+    {
+      "n": 110,
+      "texto": "Posuerunt peccatores laqueum mihi: et de mandatis tuis non erravi."
+    },
+    {
+      "n": 111,
+      "texto": "Hæreditate acquisivi testimonia tua in æternum: quia exsultatio cordis mei sunt."
+    },
+    {
+      "n": 112,
+      "texto": "Inclinavi cor meum ad faciendas justificationes tuas in æternum, propter retributionem."
+    },
+    {
+      "n": 113,
+      "texto": "Iniquos odio habui: et legem tuam dilexi."
+    },
+    {
+      "n": 114,
+      "texto": "Adjutor et susceptor meus es tu: et in verbum tuum supersperavi."
+    },
+    {
+      "n": 115,
+      "texto": "Declinate a me, maligni: et scrutabor mandata Dei mei."
+    },
+    {
+      "n": 116,
+      "texto": "Suscipe me secundum eloquium tuum, et vivam: et non confundas me ab exspectatione mea."
+    },
+    {
+      "n": 117,
+      "texto": "Adjuva me, et salvus ero: et meditabor in justificationibus tuis semper."
+    },
+    {
+      "n": 118,
+      "texto": "Sprevisti omnes discedentes a judiciis tuis: quia injusta cogitatio eorum."
+    },
+    {
+      "n": 119,
+      "texto": "Prævaricantes reputavi omnes peccatores terræ: ideo dilexi testimonia tua."
+    },
+    {
+      "n": 120,
+      "texto": "Confige timore tuo carnes meas: a judiciis enim tuis timui."
+    },
+    {
+      "n": 121,
+      "texto": "Feci judicium et justitiam: non tradas me calumniantibus me."
+    },
+    {
+      "n": 122,
+      "texto": "Suscipe servum tuum in bonum: non calumnientur me superbi."
+    },
+    {
+      "n": 123,
+      "texto": "Oculi mei defecerunt in salutare tuum: et in eloquium justitiæ tuæ."
+    },
+    {
+      "n": 124,
+      "texto": "Fac cum servo tuo secundum misericordiam tuam: et justificationes tuas doce me."
+    },
+    {
+      "n": 125,
+      "texto": "Servus tuus sum ego: da mihi intellectum, ut sciam testimonia tua."
+    },
+    {
+      "n": 126,
+      "texto": "Tempus faciendi, Domine: dissipaverunt legem tuam."
+    },
+    {
+      "n": 127,
+      "texto": "Ideo dilexi mandata tua, super aurum et topazion."
+    },
+    {
+      "n": 128,
+      "texto": "Propterea ad omnia mandata tua dirigebar: omnem viam iniquam odio habui."
+    },
+    {
+      "n": 129,
+      "texto": "Mirabilia testimonia tua: ideo scrutata est ea anima mea."
+    },
+    {
+      "n": 130,
+      "texto": "Declaratio sermonum tuorum illuminat: et intellectum dat parvulis."
+    },
+    {
+      "n": 131,
+      "texto": "Os meum aperui, et attraxi spiritum: quia mandata tua desiderabam."
+    },
+    {
+      "n": 132,
+      "texto": "Aspice in me, et miserere mei, secundum judicium diligentium nomen tuum."
+    },
+    {
+      "n": 133,
+      "texto": "Gressus meos dirige secundum eloquium tuum: et non dominetur mei omnis injustitia."
+    },
+    {
+      "n": 134,
+      "texto": "Redime me a calumniis hominum: ut custodiam mandata tua."
+    },
+    {
+      "n": 135,
+      "texto": "Faciem tuam illumina super servum tuum: et doce me justificationes tuas."
+    },
+    {
+      "n": 136,
+      "texto": "Exitus aquarum deduxerunt oculi mei: quia non custodierunt legem tuam."
+    },
+    {
+      "n": 137,
+      "texto": "Justus es, Domine: et rectum judicium tuum."
+    },
+    {
+      "n": 138,
+      "texto": "Mandasti justitiam testimonia tua: et veritatem tuam nimis."
+    },
+    {
+      "n": 139,
+      "texto": "Tabescere me fecit zelus meus: quia obliti sunt verba tua inimici mei."
+    },
+    {
+      "n": 140,
+      "texto": "Ignitum eloquium tuum vehementer: et servus tuus dilexit illud."
+    },
+    {
+      "n": 141,
+      "texto": "Adolescentulus sum ego et contemptus: justificationes tuas non sum oblitus."
+    },
+    {
+      "n": 142,
+      "texto": "Justitia tua, justitia in æternum: et lex tua veritas."
+    },
+    {
+      "n": 143,
+      "texto": "Tribulatio et angustia invenerunt me: mandata tua meditatio mea est."
+    },
+    {
+      "n": 144,
+      "texto": "Æquitas testimonia tua in æternum: intellectum da mihi, et vivam."
+    },
+    {
+      "n": 145,
+      "texto": "Clamavi in toto corde meo, exaudi me, Domine: justificationes tuas requiram."
+    },
+    {
+      "n": 146,
+      "texto": "Clamavi ad te, salvum me fac: ut custodiam mandata tua."
+    },
+    {
+      "n": 147,
+      "texto": "Præveni in maturitate, et clamavi: quia in verba tua supersperavi."
+    },
+    {
+      "n": 148,
+      "texto": "Prævenerunt oculi mei ad te diluculo: ut meditarer eloquia tua."
+    },
+    {
+      "n": 149,
+      "texto": "Vocem meam audi secundum misericordiam tuam, Domine: et secundum judicium tuum vivifica me."
+    },
+    {
+      "n": 150,
+      "texto": "Appropinquaverunt persequentes me iniquitati: a lege autem tua longe facti sunt."
+    },
+    {
+      "n": 151,
+      "texto": "Prope es tu, Domine: et omnes viæ tuæ veritas."
+    },
+    {
+      "n": 152,
+      "texto": "Initio cognovi de testimoniis tuis: quia in æternum fundasti ea."
+    },
+    {
+      "n": 153,
+      "texto": "Vide humilitatem meam, et eripe me: quia legem tuam non sum oblitus."
+    },
+    {
+      "n": 154,
+      "texto": "Judica judicium meum, et redime me: propter eloquium tuum vivifica me."
+    },
+    {
+      "n": 155,
+      "texto": "Longe a peccatoribus salus: quia justificationes tuas non exquisierunt."
+    },
+    {
+      "n": 156,
+      "texto": "Misericordiæ tuæ multæ, Domine: secundum judicium tuum vivifica me."
+    },
+    {
+      "n": 157,
+      "texto": "Multi qui persequuntur me, et tribulant me: a testimoniis tuis non declinavi."
+    },
+    {
+      "n": 158,
+      "texto": "Vidi prævaricantes, et tabescebam: quia eloquia tua non custodierunt."
+    },
+    {
+      "n": 159,
+      "texto": "Vide quoniam mandata tua dilexi, Domine: in misericordia tua vivifica me."
+    },
+    {
+      "n": 160,
+      "texto": "Principium verborum tuorum veritas: in æternum omnia judicia justitiæ tuæ."
+    },
+    {
+      "n": 161,
+      "texto": "Principes persecuti sunt me gratis: et a verbis tuis formidavit cor meum."
+    },
+    {
+      "n": 162,
+      "texto": "Lætabor ego super eloquia tua: sicut qui invenit spolia multa."
+    },
+    {
+      "n": 163,
+      "texto": "Iniquitatem odio habui, et abominatus sum: legem autem tuam dilexi."
+    },
+    {
+      "n": 164,
+      "texto": "Septies in die laudem dixi tibi, super judicia justitiæ tuæ."
+    },
+    {
+      "n": 165,
+      "texto": "Pax multa diligentibus legem tuam: et non est illis scandalum."
+    },
+    {
+      "n": 166,
+      "texto": "Exspectabam salutare tuum, Domine: et mandata tua dilexi."
+    },
+    {
+      "n": 167,
+      "texto": "Custodivit anima mea testimonia tua: et dilexit ea vehementer."
+    },
+    {
+      "n": 168,
+      "texto": "Servavi mandata tua et testimonia tua: quia omnes viæ meæ in conspectu tuo."
+    },
+    {
+      "n": 169,
+      "texto": "Appropinquet deprecatio mea in conspectu tuo, Domine: juxta eloquium tuum da mihi intellectum."
+    },
+    {
+      "n": 170,
+      "texto": "Intret postulatio mea in conspectu tuo: secundum eloquium tuum eripe me."
+    },
+    {
+      "n": 171,
+      "texto": "Eructabunt labia mea hymnum, cum docueris me justificationes tuas."
+    },
+    {
+      "n": 172,
+      "texto": "Pronuntiabit lingua mea eloquium tuum: quia omnia mandata tua æquitas."
+    },
+    {
+      "n": 173,
+      "texto": "Fiat manus tua ut salvet me: quoniam mandata tua elegi."
+    },
+    {
+      "n": 174,
+      "texto": "Concupivi salutare tuum, Domine: et lex tua meditatio mea est."
+    },
+    {
+      "n": 175,
+      "texto": "Vivet anima mea, et laudabit te: et judicia tua adjuvabunt me."
+    },
+    {
+      "n": 176,
+      "texto": "Erravi sicut ovis quæ periit: quære servum tuum, quia mandata tua non sum oblitus."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_118"
 }

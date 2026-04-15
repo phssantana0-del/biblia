@@ -1,63 +1,231 @@
 {
   "num": 23,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam",
   "versiculos": [
-    { "n": 1, "texto": "Et surgens omnis multitudo eorum, duxerunt illum ad Pilatum." },
-    { "n": 2, "texto": "Cœperunt autem illum accusare, dicentes : Hunc invenimus subvertentem gentem nostram, et prohibentem tributa dare Cæsari, et dicentem se Christum regem esse." },
-    { "n": 3, "texto": "Pilatus autem interrogavit eum, dicens : Tu es rex Judæorum ? At ille respondens ait : Tu dicis." },
-    { "n": 4, "texto": "Ait autem Pilatus ad principes sacerdotum et turbas : Nihil invenio causæ in hoc homine." },
-    { "n": 5, "texto": "At illi invalescebant, dicentes : Commovet populum docens per universam Judæam, incipiens a Galilæa usque huc." },
-    { "n": 6, "texto": "Pilatus autem audiens Galilæam, interrogavit si homo Galilæus esset." },
-    { "n": 7, "texto": "Et ut cognovit quod de Herodis potestate esset, remisit eum ad Herodem, qui et ipse Jerosolymis erat illis diebus." },
-    { "n": 8, "texto": "Herodes autem viso Jesu, gavisus est valde : erat enim cupiens ex multo tempore videre eum, eo quod audierat multa de eo, et sperabat signum aliquod videre ab eo fieri." },
-    { "n": 9, "texto": "Interrogabat autem eum multis sermonibus. At ipse nihil illi respondebat." },
-    { "n": 10, "texto": "Stabant autem principes sacerdotum et scribæ constanter accusantes eum." },
-    { "n": 11, "texto": "Sprevit autem illum Herodes cum exercitu suo : et illusit indutum veste alba, et remisit ad Pilatum." },
-    { "n": 12, "texto": "Et facti sunt amici Herodes et Pilatus in ipsa die : nam antea inimici erant ad invicem." },
-    { "n": 13, "texto": "Pilatus autem, convocatis principibus sacerdotum, et magistratibus, et plebe," },
-    { "n": 14, "texto": "dixit ad illos : Obtulistis mihi hunc hominem, quasi avertentem populum, et ecce ego coram vobis interrogans, nullam causam inveni in homine isto ex his in quibus eum accusatis." },
-    { "n": 15, "texto": "Sed neque Herodes : nam remisi vos ad illum, et ecce nihil dignum morte actum est ei." },
-    { "n": 16, "texto": "Emendatum ergo illum dimittam." },
-    { "n": 17, "texto": "Necesse autem habebat dimittere eis per diem festum, unum." },
-    { "n": 18, "texto": "Exclamavit autem simul universa turba, dicens : Tolle hunc, et dimitte nobis Barabbam :" },
-    { "n": 19, "texto": "qui erat propter seditionem quamdam factam in civitate et homicidium, missus in carcerem." },
-    { "n": 20, "texto": "Iterum autem Pilatus locutus est ad illos, volens dimittere Jesum." },
-    { "n": 21, "texto": "At illi succlamabant, dicentes : Crucifige, crucifige eum." },
-    { "n": 22, "texto": "Ille autem tertio dixit ad illos : Quid enim mali fecit iste ? nullam causam mortis invenio in eo : corripiam ergo illum, et dimittam." },
-    { "n": 23, "texto": "At illi instabant vocibus magnis postulantes ut crucifigeretur : et invalescebant voces eorum." },
-    { "n": 24, "texto": "Et Pilatus adjudicavit fieri petitionem eorum." },
-    { "n": 25, "texto": "Dimisit autem illis eum qui propter homicidium et seditionem missus fuerat in carcerem, quem petebant : Jesum vero tradidit voluntati eorum." },
-    { "n": 26, "texto": "Et cum ducerent eum, apprehenderunt Simonem quemdam Cyrenensem venientem de villa : et imposuerunt illi crucem portare post Jesum." },
-    { "n": 27, "texto": "Sequebatur autem illum multa turba populi et mulierum, quæ plangebant et lamentabantur eum." },
-    { "n": 28, "texto": "Conversus autem ad illas Jesus, dixit : Filiæ Jerusalem, nolite flere super me, sed super vos ipsas flete et super filios vestros." },
-    { "n": 29, "texto": "Quoniam ecce venient dies in quibus dicent : Beatæ steriles, et ventres qui non genuerunt, et ubera quæ non lactaverunt." },
-    { "n": 30, "texto": "Tunc incipient dicere montibus : Cadite super nos : et collibus : Operite nos." },
-    { "n": 31, "texto": "Quia si in viridi ligno hæc faciunt, in arido quid fiet ?" },
-    { "n": 32, "texto": "Ducebantur autem et alii duo nequam cum eo, ut interficerentur." },
-    { "n": 33, "texto": "Et postquam venerunt in locum qui vocatur Calvariæ, ibi crucifixerunt eum : et latrones, unum a dextris, et alterum a sinistris." },
-    { "n": 34, "texto": "Jesus autem dicebat : Pater, dimitte illis : non enim sciunt quid faciunt. Dividentes vero vestimenta ejus, miserunt sortes." },
-    { "n": 35, "texto": "Et stabat populus spectans, et deridebant eum principes cum eis, dicentes : Alios salvos fecit, se salvum faciat, si hic est Christus Dei electus." },
-    { "n": 36, "texto": "Illudebant autem ei et milites accedentes, et acetum offerentes ei," },
-    { "n": 37, "texto": "et dicentes : Si tu es rex Judæorum, salvum te fac." },
-    { "n": 38, "texto": "Erat autem et superscriptio scripta super eum litteris græcis, et latinis, et hebraicis : Hic est rex Judæorum." },
-    { "n": 39, "texto": "Unus autem de his qui pendebant, latronibus, blasphemabat eum, dicens : Si tu es Christus, salvum fac temetipsum et nos." },
-    { "n": 40, "texto": "Respondens autem alter increpabat eum, dicens : Neque tu times Deum, quod in eadem damnatione es." },
-    { "n": 41, "texto": "Et nos quidem juste, nam digna factis recipimus : hic vero nihil mali gessit." },
-    { "n": 42, "texto": "Et dicebat ad Jesum : Domine, memento mei cum veneris in regnum tuum." },
-    { "n": 43, "texto": "Et dixit illi Jesus : Amen dico tibi : hodie mecum eris in paradiso." },
-    { "n": 44, "texto": "Erat autem fere hora sexta, et tenebræ factæ sunt in universam terram usque in horam nonam." },
-    { "n": 45, "texto": "Et obscuratus est sol : et velum templi scissum est medium." },
-    { "n": 46, "texto": "Et clamans voce magna Jesus ait : Pater, in manus tuas commendo spiritum meum. Et hæc dicens, exspiravit." },
-    { "n": 47, "texto": "Videns autem centurio quod factum fuerat, glorificavit Deum, dicens : Vere hic homo justus erat." },
-    { "n": 48, "texto": "Et omnis turba eorum qui simul aderant ad spectaculum istud, et videbant quæ fiebant, percutientes pectora sua revertebantur." },
-    { "n": 49, "texto": "Stabant autem omnes noti ejus a longe, et mulieres quæ secutæ eum erant a Galilæa, hæc videntes." },
-    { "n": 50, "texto": "Et ecce vir nomine Joseph, qui erat decurio, vir bonus et justus :" },
-    { "n": 51, "texto": "hic non consenserat consilio et actibus eorum : ab Arimathæa civitate Judææ, qui exspectabat et ipse regnum Dei :" },
-    { "n": 52, "texto": "hic accessit ad Pilatum, et petiit corpus Jesu." },
-    { "n": 53, "texto": "Et depositum involvit sindone, et posuit eum in monumento exciso, in quo nondum quisquam positus fuerat." },
-    { "n": 54, "texto": "Et dies erat parasceves, et sabbatum illucescebat." },
-    { "n": 55, "texto": "Subsecutæ autem mulieres, quæ cum eo venerant de Galilæa, viderunt monumentum, et quemadmodum positum erat corpus ejus." },
-    { "n": 56, "texto": "Et revertentes paraverunt aromata et unguenta : et sabbato quidem siluerunt secundum mandatum." }
+    {
+      "n": 1,
+      "texto": "Et surgens omnis multitudo eorum, duxerunt illum ad Pilatum."
+    },
+    {
+      "n": 2,
+      "texto": "Cœperunt autem illum accusare, dicentes : Hunc invenimus subvertentem gentem nostram, et prohibentem tributa dare Cæsari, et dicentem se Christum regem esse."
+    },
+    {
+      "n": 3,
+      "texto": "Pilatus autem interrogavit eum, dicens : Tu es rex Judæorum ? At ille respondens ait : Tu dicis."
+    },
+    {
+      "n": 4,
+      "texto": "Ait autem Pilatus ad principes sacerdotum et turbas : Nihil invenio causæ in hoc homine."
+    },
+    {
+      "n": 5,
+      "texto": "At illi invalescebant, dicentes : Commovet populum docens per universam Judæam, incipiens a Galilæa usque huc."
+    },
+    {
+      "n": 6,
+      "texto": "Pilatus autem audiens Galilæam, interrogavit si homo Galilæus esset."
+    },
+    {
+      "n": 7,
+      "texto": "Et ut cognovit quod de Herodis potestate esset, remisit eum ad Herodem, qui et ipse Jerosolymis erat illis diebus."
+    },
+    {
+      "n": 8,
+      "texto": "Herodes autem viso Jesu, gavisus est valde : erat enim cupiens ex multo tempore videre eum, eo quod audierat multa de eo, et sperabat signum aliquod videre ab eo fieri."
+    },
+    {
+      "n": 9,
+      "texto": "Interrogabat autem eum multis sermonibus. At ipse nihil illi respondebat."
+    },
+    {
+      "n": 10,
+      "texto": "Stabant autem principes sacerdotum et scribæ constanter accusantes eum."
+    },
+    {
+      "n": 11,
+      "texto": "Sprevit autem illum Herodes cum exercitu suo : et illusit indutum veste alba, et remisit ad Pilatum."
+    },
+    {
+      "n": 12,
+      "texto": "Et facti sunt amici Herodes et Pilatus in ipsa die : nam antea inimici erant ad invicem."
+    },
+    {
+      "n": 13,
+      "texto": "Pilatus autem, convocatis principibus sacerdotum, et magistratibus, et plebe,"
+    },
+    {
+      "n": 14,
+      "texto": "dixit ad illos : Obtulistis mihi hunc hominem, quasi avertentem populum, et ecce ego coram vobis interrogans, nullam causam inveni in homine isto ex his in quibus eum accusatis."
+    },
+    {
+      "n": 15,
+      "texto": "Sed neque Herodes : nam remisi vos ad illum, et ecce nihil dignum morte actum est ei."
+    },
+    {
+      "n": 16,
+      "texto": "Emendatum ergo illum dimittam."
+    },
+    {
+      "n": 17,
+      "texto": "Necesse autem habebat dimittere eis per diem festum, unum."
+    },
+    {
+      "n": 18,
+      "texto": "Exclamavit autem simul universa turba, dicens : Tolle hunc, et dimitte nobis Barabbam :"
+    },
+    {
+      "n": 19,
+      "texto": "qui erat propter seditionem quamdam factam in civitate et homicidium, missus in carcerem."
+    },
+    {
+      "n": 20,
+      "texto": "Iterum autem Pilatus locutus est ad illos, volens dimittere Jesum."
+    },
+    {
+      "n": 21,
+      "texto": "At illi succlamabant, dicentes : Crucifige, crucifige eum."
+    },
+    {
+      "n": 22,
+      "texto": "Ille autem tertio dixit ad illos : Quid enim mali fecit iste ? nullam causam mortis invenio in eo : corripiam ergo illum, et dimittam."
+    },
+    {
+      "n": 23,
+      "texto": "At illi instabant vocibus magnis postulantes ut crucifigeretur : et invalescebant voces eorum."
+    },
+    {
+      "n": 24,
+      "texto": "Et Pilatus adjudicavit fieri petitionem eorum."
+    },
+    {
+      "n": 25,
+      "texto": "Dimisit autem illis eum qui propter homicidium et seditionem missus fuerat in carcerem, quem petebant : Jesum vero tradidit voluntati eorum."
+    },
+    {
+      "n": 26,
+      "texto": "Et cum ducerent eum, apprehenderunt Simonem quemdam Cyrenensem venientem de villa : et imposuerunt illi crucem portare post Jesum."
+    },
+    {
+      "n": 27,
+      "texto": "Sequebatur autem illum multa turba populi et mulierum, quæ plangebant et lamentabantur eum."
+    },
+    {
+      "n": 28,
+      "texto": "Conversus autem ad illas Jesus, dixit : Filiæ Jerusalem, nolite flere super me, sed super vos ipsas flete et super filios vestros."
+    },
+    {
+      "n": 29,
+      "texto": "Quoniam ecce venient dies in quibus dicent : Beatæ steriles, et ventres qui non genuerunt, et ubera quæ non lactaverunt."
+    },
+    {
+      "n": 30,
+      "texto": "Tunc incipient dicere montibus : Cadite super nos : et collibus : Operite nos."
+    },
+    {
+      "n": 31,
+      "texto": "Quia si in viridi ligno hæc faciunt, in arido quid fiet ?"
+    },
+    {
+      "n": 32,
+      "texto": "Ducebantur autem et alii duo nequam cum eo, ut interficerentur."
+    },
+    {
+      "n": 33,
+      "texto": "Et postquam venerunt in locum qui vocatur Calvariæ, ibi crucifixerunt eum : et latrones, unum a dextris, et alterum a sinistris."
+    },
+    {
+      "n": 34,
+      "texto": "Jesus autem dicebat : Pater, dimitte illis : non enim sciunt quid faciunt. Dividentes vero vestimenta ejus, miserunt sortes."
+    },
+    {
+      "n": 35,
+      "texto": "Et stabat populus spectans, et deridebant eum principes cum eis, dicentes : Alios salvos fecit, se salvum faciat, si hic est Christus Dei electus."
+    },
+    {
+      "n": 36,
+      "texto": "Illudebant autem ei et milites accedentes, et acetum offerentes ei,"
+    },
+    {
+      "n": 37,
+      "texto": "et dicentes : Si tu es rex Judæorum, salvum te fac."
+    },
+    {
+      "n": 38,
+      "texto": "Erat autem et superscriptio scripta super eum litteris græcis, et latinis, et hebraicis : Hic est rex Judæorum."
+    },
+    {
+      "n": 39,
+      "texto": "Unus autem de his qui pendebant, latronibus, blasphemabat eum, dicens : Si tu es Christus, salvum fac temetipsum et nos."
+    },
+    {
+      "n": 40,
+      "texto": "Respondens autem alter increpabat eum, dicens : Neque tu times Deum, quod in eadem damnatione es."
+    },
+    {
+      "n": 41,
+      "texto": "Et nos quidem juste, nam digna factis recipimus : hic vero nihil mali gessit."
+    },
+    {
+      "n": 42,
+      "texto": "Et dicebat ad Jesum : Domine, memento mei cum veneris in regnum tuum."
+    },
+    {
+      "n": 43,
+      "texto": "Et dixit illi Jesus : Amen dico tibi : hodie mecum eris in paradiso."
+    },
+    {
+      "n": 44,
+      "texto": "Erat autem fere hora sexta, et tenebræ factæ sunt in universam terram usque in horam nonam."
+    },
+    {
+      "n": 45,
+      "texto": "Et obscuratus est sol : et velum templi scissum est medium."
+    },
+    {
+      "n": 46,
+      "texto": "Et clamans voce magna Jesus ait : Pater, in manus tuas commendo spiritum meum. Et hæc dicens, exspiravit."
+    },
+    {
+      "n": 47,
+      "texto": "Videns autem centurio quod factum fuerat, glorificavit Deum, dicens : Vere hic homo justus erat."
+    },
+    {
+      "n": 48,
+      "texto": "Et omnis turba eorum qui simul aderant ad spectaculum istud, et videbant quæ fiebant, percutientes pectora sua revertebantur."
+    },
+    {
+      "n": 49,
+      "texto": "Stabant autem omnes noti ejus a longe, et mulieres quæ secutæ eum erant a Galilæa, hæc videntes."
+    },
+    {
+      "n": 50,
+      "texto": "Et ecce vir nomine Joseph, qui erat decurio, vir bonus et justus :"
+    },
+    {
+      "n": 51,
+      "texto": "hic non consenserat consilio et actibus eorum : ab Arimathæa civitate Judææ, qui exspectabat et ipse regnum Dei :"
+    },
+    {
+      "n": 52,
+      "texto": "hic accessit ad Pilatum, et petiit corpus Jesu."
+    },
+    {
+      "n": 53,
+      "texto": "Et depositum involvit sindone, et posuit eum in monumento exciso, in quo nondum quisquam positus fuerat."
+    },
+    {
+      "n": 54,
+      "texto": "Et dies erat parasceves, et sabbatum illucescebat."
+    },
+    {
+      "n": 55,
+      "texto": "Subsecutæ autem mulieres, quæ cum eo venerant de Galilæa, viderunt monumentum, et quemadmodum positum erat corpus ejus."
+    },
+    {
+      "n": 56,
+      "texto": "Et revertentes paraverunt aromata et unguenta : et sabbato quidem siluerunt secundum mandatum."
+    }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam#Caput_23"
 }

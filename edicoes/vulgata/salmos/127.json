@@ -2,13 +2,31 @@
   "num": 127,
   "sumario": "Canticum graduum.",
   "versiculos": [
-    { "n": 1, "texto": "Beati omnes, qui timent Dominum, qui ambulant in viis ejus." },
-    { "n": 2, "texto": "Labores manuum tuarum quia manducabis: beatus es, et bene tibi erit." },
-    { "n": 3, "texto": "Uxor tua sicut vitis abundans, in lateribus domus tuæ. Filii tui sicut novellæ olivarum, in circuitu mensæ tuæ." },
-    { "n": 4, "texto": "Ecce sic benedicetur homo, qui timet Dominum." },
-    { "n": 5, "texto": "Benedicat tibi Dominus ex Sion: et videas bona Jerusalem omnibus diebus vitæ tuæ." },
-    { "n": 6, "texto": "Et videas filios filiorum tuorum, pacem super Israel." }
+    {
+      "n": 1,
+      "texto": "Beati omnes, qui timent Dominum, qui ambulant in viis ejus."
+    },
+    {
+      "n": 2,
+      "texto": "Labores manuum tuarum quia manducabis: beatus es, et bene tibi erit."
+    },
+    {
+      "n": 3,
+      "texto": "Uxor tua sicut vitis abundans, in lateribus domus tuæ. Filii tui sicut novellæ olivarum, in circuitu mensæ tuæ."
+    },
+    {
+      "n": 4,
+      "texto": "Ecce sic benedicetur homo, qui timet Dominum."
+    },
+    {
+      "n": 5,
+      "texto": "Benedicat tibi Dominus ex Sion: et videas bona Jerusalem omnibus diebus vitæ tuæ."
+    },
+    {
+      "n": 6,
+      "texto": "Et videas filios filiorum tuorum, pacem super Israel."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_127"
 }

@@ -2,21 +2,63 @@
   "num": 139,
   "sumario": "In finem. Psalmus David.",
   "versiculos": [
-    { "n": 1,  "texto": "In finem. Psalmus David." },
-    { "n": 2,  "texto": "Eripe me, Domine, ab homine malo: a viro iniquo eripe me." },
-    { "n": 3,  "texto": "Qui cogitaverunt iniquitates in corde: tota die constituebant prælia." },
-    { "n": 4,  "texto": "Acuerunt linguas suas sicut serpentis: venenum aspidum sub labiis eorum." },
-    { "n": 5,  "texto": "Custodi me, Domine, de manu peccatoris: et ab hominibus iniquis eripe me. Qui cogitaverunt supplantare gressus meos:" },
-    { "n": 6,  "texto": "absconderunt superbi laqueum mihi: et funes extenderunt in laqueum; juxta iter, scandalum posuerunt mihi." },
-    { "n": 7,  "texto": "Dixi Domino: Deus meus es tu: exaudi, Domine, vocem deprecationis meæ." },
-    { "n": 8,  "texto": "Domine, Domine, virtus salutis meæ: obumbrasti super caput meum in die belli." },
-    { "n": 9,  "texto": "Ne tradas me, Domine, a desiderio meo peccatori: cogitaverunt contra me; ne derelinquas me, ne forte exaltentur." },
-    { "n": 10, "texto": "Caput circuitus eorum: labor labiorum ipsorum operiet eos." },
-    { "n": 11, "texto": "Cadent super eos carbones, in ignem dejicies eos: in miseriis non subsistent." },
-    { "n": 12, "texto": "Vir linguosus non dirigetur in terra: virum injustum mala capient in interitu." },
-    { "n": 13, "texto": "Cognovi quia faciet Dominus judicium inopis: et vindictam pauperum." },
-    { "n": 14, "texto": "Verumtamen justi confitebuntur nomini tuo: et habitabunt recti cum vultu tuo." }
+    {
+      "n": 1,
+      "texto": "In finem. Psalmus David."
+    },
+    {
+      "n": 2,
+      "texto": "Eripe me, Domine, ab homine malo: a viro iniquo eripe me."
+    },
+    {
+      "n": 3,
+      "texto": "Qui cogitaverunt iniquitates in corde: tota die constituebant prælia."
+    },
+    {
+      "n": 4,
+      "texto": "Acuerunt linguas suas sicut serpentis: venenum aspidum sub labiis eorum."
+    },
+    {
+      "n": 5,
+      "texto": "Custodi me, Domine, de manu peccatoris: et ab hominibus iniquis eripe me. Qui cogitaverunt supplantare gressus meos:"
+    },
+    {
+      "n": 6,
+      "texto": "absconderunt superbi laqueum mihi: et funes extenderunt in laqueum; juxta iter, scandalum posuerunt mihi."
+    },
+    {
+      "n": 7,
+      "texto": "Dixi Domino: Deus meus es tu: exaudi, Domine, vocem deprecationis meæ."
+    },
+    {
+      "n": 8,
+      "texto": "Domine, Domine, virtus salutis meæ: obumbrasti super caput meum in die belli."
+    },
+    {
+      "n": 9,
+      "texto": "Ne tradas me, Domine, a desiderio meo peccatori: cogitaverunt contra me; ne derelinquas me, ne forte exaltentur."
+    },
+    {
+      "n": 10,
+      "texto": "Caput circuitus eorum: labor labiorum ipsorum operiet eos."
+    },
+    {
+      "n": 11,
+      "texto": "Cadent super eos carbones, in ignem dejicies eos: in miseriis non subsistent."
+    },
+    {
+      "n": 12,
+      "texto": "Vir linguosus non dirigetur in terra: virum injustum mala capient in interitu."
+    },
+    {
+      "n": 13,
+      "texto": "Cognovi quia faciet Dominus judicium inopis: et vindictam pauperum."
+    },
+    {
+      "n": 14,
+      "texto": "Verumtamen justi confitebuntur nomini tuo: et habitabunt recti cum vultu tuo."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_139"
 }

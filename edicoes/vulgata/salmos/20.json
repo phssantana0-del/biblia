@@ -2,20 +2,59 @@
   "num": 20,
   "sumario": "In finem. Psalmus David.",
   "versiculos": [
-    { "n": 2, "texto": "Domine, in virtute tua lætabitur rex, et super salutare tuum exsultabit vehementer." },
-    { "n": 3, "texto": "Desiderium cordis ejus tribuisti ei, et voluntate labiorum ejus non fraudasti eum." },
-    { "n": 4, "texto": "Quoniam prævenisti eum in benedictionibus dulcedinis; posuisti in capite ejus coronam de lapide pretioso." },
-    { "n": 5, "texto": "Vitam petiit a te, et tribuisti ei longitudinem dierum in sæculum, et in sæculum sæculi." },
-    { "n": 6, "texto": "Magna est gloria ejus in salutari tuo; gloriam et magnum decorem impones super eum." },
-    { "n": 7, "texto": "Quoniam dabis eum in benedictionem in sæculum sæculi; lætificabis eum in gaudio cum vultu tuo." },
-    { "n": 8, "texto": "Quoniam rex sperat in Domino, et in misericordia Altissimi non commovebitur." },
-    { "n": 9, "texto": "Inveniatur manus tua omnibus inimicis tuis; dextera tua inveniat omnes qui te oderunt." },
-    { "n": 10, "texto": "Pones eos ut clibanum ignis in tempore vultus tui; Dominus in ira sua conturbabit eos, et devorabit eos ignis." },
-    { "n": 11, "texto": "Fructum eorum de terra perdes, et semen eorum a filiis hominum." },
-    { "n": 12, "texto": "Quoniam declinaverunt in te mala; cogitaverunt consilia quæ non potuerunt stabilire." },
-    { "n": 13, "texto": "Quoniam pones eos dorsum; in reliquiis tuis præparabis vultum eorum." },
-    { "n": 14, "texto": "Exaltare, Domine, in virtute tua; cantabimus et psallemus virtutes tuas." }
+    {
+      "n": 2,
+      "texto": "Domine, in virtute tua lætabitur rex, et super salutare tuum exsultabit vehementer."
+    },
+    {
+      "n": 3,
+      "texto": "Desiderium cordis ejus tribuisti ei, et voluntate labiorum ejus non fraudasti eum."
+    },
+    {
+      "n": 4,
+      "texto": "Quoniam prævenisti eum in benedictionibus dulcedinis; posuisti in capite ejus coronam de lapide pretioso."
+    },
+    {
+      "n": 5,
+      "texto": "Vitam petiit a te, et tribuisti ei longitudinem dierum in sæculum, et in sæculum sæculi."
+    },
+    {
+      "n": 6,
+      "texto": "Magna est gloria ejus in salutari tuo; gloriam et magnum decorem impones super eum."
+    },
+    {
+      "n": 7,
+      "texto": "Quoniam dabis eum in benedictionem in sæculum sæculi; lætificabis eum in gaudio cum vultu tuo."
+    },
+    {
+      "n": 8,
+      "texto": "Quoniam rex sperat in Domino, et in misericordia Altissimi non commovebitur."
+    },
+    {
+      "n": 9,
+      "texto": "Inveniatur manus tua omnibus inimicis tuis; dextera tua inveniat omnes qui te oderunt."
+    },
+    {
+      "n": 10,
+      "texto": "Pones eos ut clibanum ignis in tempore vultus tui; Dominus in ira sua conturbabit eos, et devorabit eos ignis."
+    },
+    {
+      "n": 11,
+      "texto": "Fructum eorum de terra perdes, et semen eorum a filiis hominum."
+    },
+    {
+      "n": 12,
+      "texto": "Quoniam declinaverunt in te mala; cogitaverunt consilia quæ non potuerunt stabilire."
+    },
+    {
+      "n": 13,
+      "texto": "Quoniam pones eos dorsum; in reliquiis tuis præparabis vultum eorum."
+    },
+    {
+      "n": 14,
+      "texto": "Exaltare, Domine, in virtute tua; cantabimus et psallemus virtutes tuas."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_20"
 }

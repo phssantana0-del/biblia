@@ -1,6 +1,5 @@
 {
   "num": 3,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -146,5 +145,6 @@
       "n": 36,
       "texto": "Qui credit in Filium, habet vitam æternam ; qui autem incredulus est Filio, non videbit vitam, sed ira Dei manet super eum."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_3"
 }

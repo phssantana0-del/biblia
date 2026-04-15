@@ -2,21 +2,63 @@
   "num": 148,
   "sumario": "Alleluia.",
   "versiculos": [
-    { "n": 1, "texto": "Laudate Dominum de cælis: laudate eum in excelsis." },
-    { "n": 2, "texto": "Laudate eum, omnes angeli ejus: laudate eum, omnes virtutes ejus." },
-    { "n": 3, "texto": "Laudate eum, sol et luna: laudate eum, omnes stellæ et lumen." },
-    { "n": 4, "texto": "Laudate eum, cæli cælorum: et aquæ omnes quæ super cælos sunt," },
-    { "n": 5, "texto": "laudent nomen Domini. Quia ipse dixit, et facta sunt: ipse mandavit, et creata sunt." },
-    { "n": 6, "texto": "Statuit ea in æternum, et in sæculum sæculi: præceptum posuit, et non præteribit." },
-    { "n": 7, "texto": "Laudate Dominum de terra, dracones, et omnes abyssi:" },
-    { "n": 8, "texto": "ignis, grando, nix, glacies, spiritus procellarum, quæ faciunt verbum ejus:" },
-    { "n": 9, "texto": "montes, et omnes colles; ligna fructifera, et omnes cedri:" },
-    { "n": 10, "texto": "bestiæ, et universa pecora; serpentes, et volucres pennatæ:" },
-    { "n": 11, "texto": "reges terræ, et omnes populi; principes, et omnes judices terræ;" },
-    { "n": 12, "texto": "juvenes, et virgines, senes cum junioribus," },
-    { "n": 13, "texto": "laudent nomen Domini, quia exaltatum est nomen ejus solius." },
-    { "n": 14, "texto": "Confessio ejus super cælum et terram: et exaltavit cornu populi sui. Hymnus omnibus sanctis ejus, filiis Israel, populo appropinquanti sibi." }
+    {
+      "n": 1,
+      "texto": "Laudate Dominum de cælis: laudate eum in excelsis."
+    },
+    {
+      "n": 2,
+      "texto": "Laudate eum, omnes angeli ejus: laudate eum, omnes virtutes ejus."
+    },
+    {
+      "n": 3,
+      "texto": "Laudate eum, sol et luna: laudate eum, omnes stellæ et lumen."
+    },
+    {
+      "n": 4,
+      "texto": "Laudate eum, cæli cælorum: et aquæ omnes quæ super cælos sunt,"
+    },
+    {
+      "n": 5,
+      "texto": "laudent nomen Domini. Quia ipse dixit, et facta sunt: ipse mandavit, et creata sunt."
+    },
+    {
+      "n": 6,
+      "texto": "Statuit ea in æternum, et in sæculum sæculi: præceptum posuit, et non præteribit."
+    },
+    {
+      "n": 7,
+      "texto": "Laudate Dominum de terra, dracones, et omnes abyssi:"
+    },
+    {
+      "n": 8,
+      "texto": "ignis, grando, nix, glacies, spiritus procellarum, quæ faciunt verbum ejus:"
+    },
+    {
+      "n": 9,
+      "texto": "montes, et omnes colles; ligna fructifera, et omnes cedri:"
+    },
+    {
+      "n": 10,
+      "texto": "bestiæ, et universa pecora; serpentes, et volucres pennatæ:"
+    },
+    {
+      "n": 11,
+      "texto": "reges terræ, et omnes populi; principes, et omnes judices terræ;"
+    },
+    {
+      "n": 12,
+      "texto": "juvenes, et virgines, senes cum junioribus,"
+    },
+    {
+      "n": 13,
+      "texto": "laudent nomen Domini, quia exaltatum est nomen ejus solius."
+    },
+    {
+      "n": 14,
+      "texto": "Confessio ejus super cælum et terram: et exaltavit cornu populi sui. Hymnus omnibus sanctis ejus, filiis Israel, populo appropinquanti sibi."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_148"
 }

@@ -1,6 +1,5 @@
 {
   "num": 50,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi",
   "sumario": "Miserere: pænitentia Davidis post peccatum cum Bethsabee",
   "versiculos": [
     {
@@ -84,5 +83,6 @@
       "texto": "Tunc acceptabis sacrificium justitiæ, oblationes et holocausta; tunc imponent super altare tuum vitulos."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_50"
 }

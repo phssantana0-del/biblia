@@ -1,6 +1,5 @@
 {
   "num": 1,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam",
   "versiculos": [
     {
       "n": 1,
@@ -323,5 +322,6 @@
       "texto": "Puer autem crescebat, et confortabatur spiritu : et erat in desertis usque in diem ostensionis suæ ad Israël."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam#Caput_1"
 }

@@ -1,6 +1,5 @@
 {
   "num": 44,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi",
   "sumario": "Epithalamium regis Messiæ et Ecclesiæ sponsæ",
   "versiculos": [
     {
@@ -76,5 +75,6 @@
       "texto": "Memores erunt nominis tui in omni generatione et generationem. Propterea populi confitebuntur tibi in æternum, et in sæculum sæculi."
     }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_44"
 }

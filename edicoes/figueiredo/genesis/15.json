@@ -1,0 +1,107 @@
+{
+  "num": 15,
+  "sumario": "Aparece Deus a Abrão. Promessa do nascimento de um filho. Sacrifício de Abrão. Deus lhe prediz a escravidão de seus descendentes por quatrocentos anos. Aliança de Deus com Abrão.",
+  "versiculos": [
+    {
+      "n": 1,
+      "texto": "Passado isto, falou o Senhor a Abrão numa visão, e lhe disse: Não temas, Abrão; eu sou teu protetor, e a tua paga será infinitamente grande."
+    },
+    {
+      "n": 2,
+      "texto": "Abrão lhe respondeu: Senhor Deus, que me deste tu? Eu morrerei sem filhos: e o filho do procurador de minha casa, êste Eliezer de Damasco..."
+    },
+    {
+      "n": 3,
+      "texto": "Quanto a mim, ajuntou êle, tu não me tens dado filhos, e o meu escravo será o meu herdeiro."
+    },
+    {
+      "n": 4,
+      "texto": "A isto lhe respondeu logo o Senhor: Êste não há de ser o teu herdeiro; mas tu terás por herdeiro aquele, que nascerá de ti."
+    },
+    {
+      "n": 5,
+      "texto": "E depois de o ter feito sair para fora, disse-lhe: Levanta os teus olhos ao céu, e conta, se podes as estrêlas. Assim é, ajuntou êle, que se multiplicará a tua posteridade."
+    },
+    {
+      "n": 6,
+      "texto": "Creu Abrão em Deus, e à sua fé lhe foi imputada justiça."
+    },
+    {
+      "n": 7,
+      "texto": "Disse-lhe mais o Senhor: Eu sou o Senhor que te tirei de Ur dos caldeus para te dar esta terra; e a possuíres.",
+      "nota": "fn15_1"
+    },
+    {
+      "n": 8,
+      "texto": "Respondeu Abrão: Senhor Deus, por onde poderei eu conhecer que a hei de possuir?",
+      "nota": "fn15_2"
+    },
+    {
+      "n": 9,
+      "texto": "Continuou o Senhor: Toma-me uma vaca de três anos, e uma cabra de três anos, e um carneiro de três anos, com uma rôla e uma pomba."
+    },
+    {
+      "n": 10,
+      "texto": "Abrão tendo tomado todos êstes animais, cortou-os em duas metades, e pôs as duas metades, que tinha cortado, bem defronte uma da outra; mas não dividiu a rôla, nem a pomba."
+    },
+    {
+      "n": 11,
+      "texto": "Ora, as aves vinham pôr-se sôbre os cadáveres, e Abrão as enxotava."
+    },
+    {
+      "n": 12,
+      "texto": "Ao pôr do sol sentiu-se Abrão oprimido dum profundo sono, e ocupado de um grande horror como se estivesse metido em trevas."
+    },
+    {
+      "n": 13,
+      "texto": "Então lhe foi dito: Sabe desde agora, que a tua posteridade ficará vivendo numa terra estrangeira e será reduzida à escravidão, e aflita por quatrocentos anos."
+    },
+    {
+      "n": 14,
+      "texto": "Mas eu exercitarei os meus juízos sôbre o povo a que êles estarão sujeitos; êles sairão, ao depois daquela terra, trazendo consigo grandes riquezas."
+    },
+    {
+      "n": 15,
+      "texto": "Pelo que toca a ti, tu irás em paz para teus pais, sendo sepultado numa ditosa velhice.",
+      "nota": "fn15_3"
+    },
+    {
+      "n": 16,
+      "texto": "Mas os teus descendentes tornarão a entrar nesta terra à quarta geração: porque a medida das iniquidades dos amorreus não está ainda até agora cheia."
+    },
+    {
+      "n": 17,
+      "texto": "Quando pois foi sol pôsto, formou-se uma escuridade tenebrosa, e apareceu um forno, donde saía muito fumo; e viu-se uma lâmpada acesa, que passava através das reses divididas."
+    },
+    {
+      "n": 18,
+      "texto": "Naquele dia fêz o Senhor aliança com Abrão, e lhe disse: Eu darei à tua posteridade esta terra desde o rio do Egito até ao grande rio Eufrates:"
+    },
+    {
+      "n": 19,
+      "texto": "Tudo o que possuem os cineus, os ceneseus, os cedmoneus,"
+    },
+    {
+      "n": 20,
+      "texto": "os heteus, os fereseus, os rafains,"
+    },
+    {
+      "n": 21,
+      "texto": "os amorreus, os cananeus, os gergeseus, e os jebuseus."
+    }
+  ],
+  "notas": {
+    "fn15_1": {
+      "rotulo": "UR DOS CALDEUS",
+      "texto": "Hoje Mugheir, na antiga Caldéia. Era uma cidade notável, onde se cultivavam as ciências, artes e literatura. O culto dominante era a adoração da Lua sob o nome de Sin."
+    },
+    "fn15_2": {
+      "rotulo": "COMO PODEREI SABER",
+      "texto": "Estas palavras não exprimem dúvida das promessas divinas; êle pede apenas a Deus que lhe faça conhecer como elas serão executadas."
+    },
+    "fn15_3": {
+      "rotulo": "IRÁS EM PAZ PARA TEUS PAIS",
+      "texto": "Esta expressão quer dizer \"morrerás tranquilo\". Para os hebreus a morte era o têrmo da peregrinação terrestre; morrer era voltar para os pais, reunir-se aos seus, e por estas expressões se vê que a morte era para êles o início duma vida melhor, na companhia dos antepassados."
+    }
+  }
+}

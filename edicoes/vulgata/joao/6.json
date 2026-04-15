@@ -1,6 +1,5 @@
 {
   "num": 6,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem",
   "versiculos": [
     {
       "n": 1,
@@ -290,5 +289,6 @@
       "n": 72,
       "texto": "Dicebat autem Judam Simonis Iscariotem : hic enim erat traditurus eum, cum esset unus ex duodecim."
     }
-  ]
+  ],
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Joannem#Caput_6"
 }

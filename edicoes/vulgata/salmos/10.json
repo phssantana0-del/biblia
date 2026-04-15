@@ -2,15 +2,39 @@
   "num": 10,
   "sumario": "In finem. Psalmus David.",
   "versiculos": [
-    { "n": 1, "texto": "In finem. Psalmus David." },
-    { "n": 2, "texto": "In Domino confido : quomodo dicitis animæ meæ : Transmigra in montem sicut passer?" },
-    { "n": 3, "texto": "Quoniam ecce peccatores intenderunt arcum, paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde." },
-    { "n": 4, "texto": "Quoniam quæ perfecisti, destruxerunt : justus autem quid fecit?" },
-    { "n": 5, "texto": "Dominus in templo sancto suo, Dominus in cælo sedes ejus. Oculi ejus in pauperem respiciunt : palpebræ ejus interrogant filios hominum." },
-    { "n": 6, "texto": "Dominus interrogat justum et impium : qui autem diligit iniquitatem, odit animam suam." },
-    { "n": 7, "texto": "Pluet super peccatores laqueos : ignis, et sulphur, et spiritus procellarum, pars calicis eorum." },
-    { "n": 8, "texto": "Quoniam justus Dominus, et justitias dilexit : æquitatem vidit vultus ejus." }
+    {
+      "n": 1,
+      "texto": "In finem. Psalmus David."
+    },
+    {
+      "n": 2,
+      "texto": "In Domino confido : quomodo dicitis animæ meæ : Transmigra in montem sicut passer?"
+    },
+    {
+      "n": 3,
+      "texto": "Quoniam ecce peccatores intenderunt arcum, paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde."
+    },
+    {
+      "n": 4,
+      "texto": "Quoniam quæ perfecisti, destruxerunt : justus autem quid fecit?"
+    },
+    {
+      "n": 5,
+      "texto": "Dominus in templo sancto suo, Dominus in cælo sedes ejus. Oculi ejus in pauperem respiciunt : palpebræ ejus interrogant filios hominum."
+    },
+    {
+      "n": 6,
+      "texto": "Dominus interrogat justum et impium : qui autem diligit iniquitatem, odit animam suam."
+    },
+    {
+      "n": 7,
+      "texto": "Pluet super peccatores laqueos : ignis, et sulphur, et spiritus procellarum, pars calicis eorum."
+    },
+    {
+      "n": 8,
+      "texto": "Quoniam justus Dominus, et justitias dilexit : æquitatem vidit vultus ejus."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_10"
 }

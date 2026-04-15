@@ -2,18 +2,51 @@
   "num": 31,
   "sumario": "Beatitudo pœnitentis ; remissio peccatorum per confessionem",
   "versiculos": [
-    { "n": 1, "texto": "Ipsi David. Intellectus. Beati quorum remissæ sunt iniquitates, et quorum tecta sunt peccata." },
-    { "n": 2, "texto": "Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu ejus dolus." },
-    { "n": 3, "texto": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die." },
-    { "n": 4, "texto": "Quoniam die ac nocte gravata est super me manus tua ; conversus sum in ærumna mea, dum configitur spina." },
-    { "n": 5, "texto": "Delictum meum cognitum tibi feci, et injustitiam meam non abscondi. Dixi : Confitebor adversum me injustitiam meam Domino ; et tu remisisti impietatem peccati mei." },
-    { "n": 6, "texto": "Pro hac orabit ad te omnis sanctus in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt." },
-    { "n": 7, "texto": "Tu es refugium meum a tribulatione quæ circumdedit me ; exsultatio mea, erue me a circumdantibus me." },
-    { "n": 8, "texto": "Intellectum tibi dabo, et instruam te in via hac qua gradieris ; firmabo super te oculos meos." },
-    { "n": 9, "texto": "Nolite fieri sicut equus et mulus, quibus non est intellectus. In camo et freno maxillas eorum constringe, qui non approximant ad te." },
-    { "n": 10, "texto": "Multa flagella peccatoris, sperantem autem in Domino misericordia circumdabit." },
-    { "n": 11, "texto": "Lætamini in Domino, et exsultate, justi, et gloriamini, omnes recti corde." }
+    {
+      "n": 1,
+      "texto": "Ipsi David. Intellectus. Beati quorum remissæ sunt iniquitates, et quorum tecta sunt peccata."
+    },
+    {
+      "n": 2,
+      "texto": "Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu ejus dolus."
+    },
+    {
+      "n": 3,
+      "texto": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die."
+    },
+    {
+      "n": 4,
+      "texto": "Quoniam die ac nocte gravata est super me manus tua ; conversus sum in ærumna mea, dum configitur spina."
+    },
+    {
+      "n": 5,
+      "texto": "Delictum meum cognitum tibi feci, et injustitiam meam non abscondi. Dixi : Confitebor adversum me injustitiam meam Domino ; et tu remisisti impietatem peccati mei."
+    },
+    {
+      "n": 6,
+      "texto": "Pro hac orabit ad te omnis sanctus in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt."
+    },
+    {
+      "n": 7,
+      "texto": "Tu es refugium meum a tribulatione quæ circumdedit me ; exsultatio mea, erue me a circumdantibus me."
+    },
+    {
+      "n": 8,
+      "texto": "Intellectum tibi dabo, et instruam te in via hac qua gradieris ; firmabo super te oculos meos."
+    },
+    {
+      "n": 9,
+      "texto": "Nolite fieri sicut equus et mulus, quibus non est intellectus. In camo et freno maxillas eorum constringe, qui non approximant ad te."
+    },
+    {
+      "n": 10,
+      "texto": "Multa flagella peccatoris, sperantem autem in Domino misericordia circumdabit."
+    },
+    {
+      "n": 11,
+      "texto": "Lætamini in Domino, et exsultate, justi, et gloriamini, omnes recti corde."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_31"
 }

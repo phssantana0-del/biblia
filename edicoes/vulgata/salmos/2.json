@@ -2,19 +2,55 @@
   "num": 2,
   "sumario": "De regno Christi adversus gentes insurgentes.",
   "versiculos": [
-    { "n": 1, "texto": "Quare fremuerunt gentes, et populi meditati sunt inania?" },
-    { "n": 2, "texto": "Astiterunt reges terræ, et principes convenerunt in unum adversus Dominum, et adversus christum ejus." },
-    { "n": 3, "texto": "Dirumpamus vincula eorum : et projiciamus a nobis jugum ipsorum." },
-    { "n": 4, "texto": "Qui habitat in cælis, irridebit eos : et Dominus subsannabit eos." },
-    { "n": 5, "texto": "Tunc loquetur ad eos in ira sua, et in furore suo conturbabit eos." },
-    { "n": 6, "texto": "Ego autem constitutus sum rex ab eo super Sion montem sanctum ejus, prædicans præceptum ejus." },
-    { "n": 7, "texto": "Dominus dixit ad me : Filius meus es tu, ego hodie genui te." },
-    { "n": 8, "texto": "Postula a me, et dabo tibi gentes hæreditatem tuam, et possessionem tuam terminos terræ." },
-    { "n": 9, "texto": "Reges eos in virga ferrea, et tamquam vas figuli confringes eos." },
-    { "n": 10, "texto": "Et nunc, reges, intelligite : erudimini, qui judicatis terram." },
-    { "n": 11, "texto": "Servite Domino in timore : et exsultate ei cum tremore." },
-    { "n": 12, "texto": "Apprehendite disciplinam, nequando irascatur Dominus, et pereatis de via justa. Cum exarserit in brevi ira ejus, beati omnes qui confidunt in eo." }
+    {
+      "n": 1,
+      "texto": "Quare fremuerunt gentes, et populi meditati sunt inania?"
+    },
+    {
+      "n": 2,
+      "texto": "Astiterunt reges terræ, et principes convenerunt in unum adversus Dominum, et adversus christum ejus."
+    },
+    {
+      "n": 3,
+      "texto": "Dirumpamus vincula eorum : et projiciamus a nobis jugum ipsorum."
+    },
+    {
+      "n": 4,
+      "texto": "Qui habitat in cælis, irridebit eos : et Dominus subsannabit eos."
+    },
+    {
+      "n": 5,
+      "texto": "Tunc loquetur ad eos in ira sua, et in furore suo conturbabit eos."
+    },
+    {
+      "n": 6,
+      "texto": "Ego autem constitutus sum rex ab eo super Sion montem sanctum ejus, prædicans præceptum ejus."
+    },
+    {
+      "n": 7,
+      "texto": "Dominus dixit ad me : Filius meus es tu, ego hodie genui te."
+    },
+    {
+      "n": 8,
+      "texto": "Postula a me, et dabo tibi gentes hæreditatem tuam, et possessionem tuam terminos terræ."
+    },
+    {
+      "n": 9,
+      "texto": "Reges eos in virga ferrea, et tamquam vas figuli confringes eos."
+    },
+    {
+      "n": 10,
+      "texto": "Et nunc, reges, intelligite : erudimini, qui judicatis terram."
+    },
+    {
+      "n": 11,
+      "texto": "Servite Domino in timore : et exsultate ei cum tremore."
+    },
+    {
+      "n": 12,
+      "texto": "Apprehendite disciplinam, nequando irascatur Dominus, et pereatis de via justa. Cum exarserit in brevi ira ejus, beati omnes qui confidunt in eo."
+    }
   ],
   "notas": {},
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi"
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_2"
 }

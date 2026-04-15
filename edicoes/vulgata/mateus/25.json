@@ -1,54 +1,192 @@
 {
   "num": 25,
   "sumario": "Parabola decem virginum. Parabola talentorum. Judicium universale in fine sæculi.",
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum",
   "versiculos": [
-    { "n": 1,  "texto": "Tunc simile erit regnum cælorum decem virginibus : quæ accipientes lampades suas, exierunt obviam sponso et sponsæ." },
-    { "n": 2,  "texto": "Quinque autem ex eis erant fatuæ, et quinque prudentes :" },
-    { "n": 3,  "texto": "sed quinque fatuæ, acceptis lampadibus, non sumpserunt oleum secum :" },
-    { "n": 4,  "texto": "prudentes vero acceperunt oleum in vasis suis cum lampadibus." },
-    { "n": 5,  "texto": "Moram autem faciente sponso, dormitaverunt omnes, et dormierunt." },
-    { "n": 6,  "texto": "Media autem nocte clamor factus est : Ecce sponsus venit, exite obviam ei." },
-    { "n": 7,  "texto": "Tunc surrexerunt omnes virgines illæ, et ornaverunt lampades suas." },
-    { "n": 8,  "texto": "Fatuæ autem sapientibus dixerunt : Date nobis de oleo vestro : quia lampades nostræ extinguuntur." },
-    { "n": 9,  "texto": "Responderunt prudentes, dicentes : Ne forte non sufficiat nobis et vobis, ite potius ad vendentes, et emite vobis." },
-    { "n": 10, "texto": "Dum autem irent emere, venit sponsus : et quæ paratæ erant, intraverunt cum eo ad nuptias, et clausa est janua." },
-    { "n": 11, "texto": "Novissime vero veniunt et reliquæ virgines, dicentes : Domine, Domine, aperi nobis." },
-    { "n": 12, "texto": "At ille respondens ait : Amen dico vobis, nescio vos." },
-    { "n": 13, "texto": "Vigilate itaque, quia nescitis diem neque horam." },
-    { "n": 14, "texto": "Sicut enim homo peregre proficiscens, vocavit servos suos, et tradidit illis bona sua." },
-    { "n": 15, "texto": "Et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique secundum propriam virtutem, et profectus est statim." },
-    { "n": 16, "texto": "Abiit autem qui quinque talenta acceperat, et operatus est in eis, et lucratus est alia quinque." },
-    { "n": 17, "texto": "Similiter et qui duo acceperat, lucratus est alia duo." },
-    { "n": 18, "texto": "Qui autem unum acceperat, abiens fodit in terram, et abscondit pecuniam domini sui." },
-    { "n": 19, "texto": "Post multum vero temporis venit dominus servorum illorum, et posuit rationem cum eis." },
-    { "n": 20, "texto": "Et accedens qui quinque talenta acceperat, obtulit alia quinque talenta, dicens : Domine, quinque talenta tradidisti mihi, ecce alia quinque superlucratus sum." },
-    { "n": 21, "texto": "Ait illi dominus ejus : Euge, serve bone et fidelis, quia super pauca fuisti fidelis, super multa te constituam : intra in gaudium domini tui." },
-    { "n": 22, "texto": "Accessit autem et qui duo talenta acceperat, et ait : Domine, duo talenta tradidisti mihi, ecce alia duo lucratus sum." },
-    { "n": 23, "texto": "Ait illi dominus ejus : Euge, serve bone et fidelis, quia super pauca fuisti fidelis, super multa te constituam : intra in gaudium domini tui." },
-    { "n": 24, "texto": "Accedens autem et qui unum talentum acceperat, ait : Domine, scio quia homo durus es, metis ubi non seminasti, et congregas ubi non sparsisti :" },
-    { "n": 25, "texto": "et timens abii, et abscondi talentum tuum in terra : ecce habes quod tuum est." },
-    { "n": 26, "texto": "Respondens autem dominus ejus, dixit ei : Serve male et piger, sciebas quia meto ubi non semino, et congrego ubi non sparsi :" },
-    { "n": 27, "texto": "oportuit ergo te committere pecuniam meam numulariis, et veniens ego recepissem utique quod meum est cum usura." },
-    { "n": 28, "texto": "Tollite itaque ab eo talentum, et date ei qui habet decem talenta :" },
-    { "n": 29, "texto": "omni enim habenti dabitur, et abundabit : ei autem qui non habet, et quod videtur habere, auferetur ab eo." },
-    { "n": 30, "texto": "Et inutilem servum ejicite in tenebras exteriores : illic erit fletus, et stridor dentium." },
-    { "n": 31, "texto": "Cum autem venerit Filius hominis in majestate sua, et omnes angeli cum eo, tunc sedebit super sedem majestatis suæ :" },
-    { "n": 32, "texto": "et congregabuntur ante eum omnes gentes, et separabit eos ab invicem, sicut pastor segregat oves ab hœdis :" },
-    { "n": 33, "texto": "et statuet oves quidem a dextris suis, hœdos autem a sinistris." },
-    { "n": 34, "texto": "Tunc dicet rex his qui a dextris ejus erunt : Venite, benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi." },
-    { "n": 35, "texto": "Esurivi enim, et dedistis mihi manducare : sitivi, et dedistis mihi bibere : hospes eram, et collegistis me :" },
-    { "n": 36, "texto": "nudus, et cooperuistis me : infirmus, et visitastis me : in carcere eram, et venistis ad me." },
-    { "n": 37, "texto": "Tunc respondebunt ei justi, dicentes : Domine, quando te vidimus esurientem, et pavimus te ; sitientem, et dedimus tibi potum ?" },
-    { "n": 38, "texto": "quando autem te vidimus hospitem, et collegimus te ; aut nudum, et cooperuimus te ?" },
-    { "n": 39, "texto": "aut quando te vidimus infirmum, aut in carcere, et venimus ad te ?" },
-    { "n": 40, "texto": "Et respondens rex, dicet illis : Amen dico vobis, quamdiu fecistis uni ex his fratribus meis minimis, mihi fecistis." },
-    { "n": 41, "texto": "Tunc dicet et his qui a sinistris erunt : Discedite a me, maledicti, in ignem æternum, qui paratus est diabolo et angelis ejus." },
-    { "n": 42, "texto": "Esurivi enim, et non dedistis mihi manducare : sitivi, et non dedistis mihi potum :" },
-    { "n": 43, "texto": "hospes eram, et non collegistis me : nudus, et non cooperuistis me : infirmus et in carcere, et non visitastis me." },
-    { "n": 44, "texto": "Tunc respondebunt ei et ipsi, dicentes : Domine, quando te vidimus esurientem, aut sitientem, aut hospitem, aut nudum, aut infirmum, aut in carcere, et non ministravimus tibi ?" },
-    { "n": 45, "texto": "Tunc respondebit illis, dicens : Amen dico vobis, quamdiu non fecistis uni de minoribus his, nec mihi fecistis." },
-    { "n": 46, "texto": "Et ibunt hi in supplicium æternum : justi autem in vitam æternam." }
+    {
+      "n": 1,
+      "texto": "Tunc simile erit regnum cælorum decem virginibus : quæ accipientes lampades suas, exierunt obviam sponso et sponsæ."
+    },
+    {
+      "n": 2,
+      "texto": "Quinque autem ex eis erant fatuæ, et quinque prudentes :"
+    },
+    {
+      "n": 3,
+      "texto": "sed quinque fatuæ, acceptis lampadibus, non sumpserunt oleum secum :"
+    },
+    {
+      "n": 4,
+      "texto": "prudentes vero acceperunt oleum in vasis suis cum lampadibus."
+    },
+    {
+      "n": 5,
+      "texto": "Moram autem faciente sponso, dormitaverunt omnes, et dormierunt."
+    },
+    {
+      "n": 6,
+      "texto": "Media autem nocte clamor factus est : Ecce sponsus venit, exite obviam ei."
+    },
+    {
+      "n": 7,
+      "texto": "Tunc surrexerunt omnes virgines illæ, et ornaverunt lampades suas."
+    },
+    {
+      "n": 8,
+      "texto": "Fatuæ autem sapientibus dixerunt : Date nobis de oleo vestro : quia lampades nostræ extinguuntur."
+    },
+    {
+      "n": 9,
+      "texto": "Responderunt prudentes, dicentes : Ne forte non sufficiat nobis et vobis, ite potius ad vendentes, et emite vobis."
+    },
+    {
+      "n": 10,
+      "texto": "Dum autem irent emere, venit sponsus : et quæ paratæ erant, intraverunt cum eo ad nuptias, et clausa est janua."
+    },
+    {
+      "n": 11,
+      "texto": "Novissime vero veniunt et reliquæ virgines, dicentes : Domine, Domine, aperi nobis."
+    },
+    {
+      "n": 12,
+      "texto": "At ille respondens ait : Amen dico vobis, nescio vos."
+    },
+    {
+      "n": 13,
+      "texto": "Vigilate itaque, quia nescitis diem neque horam."
+    },
+    {
+      "n": 14,
+      "texto": "Sicut enim homo peregre proficiscens, vocavit servos suos, et tradidit illis bona sua."
+    },
+    {
+      "n": 15,
+      "texto": "Et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique secundum propriam virtutem, et profectus est statim."
+    },
+    {
+      "n": 16,
+      "texto": "Abiit autem qui quinque talenta acceperat, et operatus est in eis, et lucratus est alia quinque."
+    },
+    {
+      "n": 17,
+      "texto": "Similiter et qui duo acceperat, lucratus est alia duo."
+    },
+    {
+      "n": 18,
+      "texto": "Qui autem unum acceperat, abiens fodit in terram, et abscondit pecuniam domini sui."
+    },
+    {
+      "n": 19,
+      "texto": "Post multum vero temporis venit dominus servorum illorum, et posuit rationem cum eis."
+    },
+    {
+      "n": 20,
+      "texto": "Et accedens qui quinque talenta acceperat, obtulit alia quinque talenta, dicens : Domine, quinque talenta tradidisti mihi, ecce alia quinque superlucratus sum."
+    },
+    {
+      "n": 21,
+      "texto": "Ait illi dominus ejus : Euge, serve bone et fidelis, quia super pauca fuisti fidelis, super multa te constituam : intra in gaudium domini tui."
+    },
+    {
+      "n": 22,
+      "texto": "Accessit autem et qui duo talenta acceperat, et ait : Domine, duo talenta tradidisti mihi, ecce alia duo lucratus sum."
+    },
+    {
+      "n": 23,
+      "texto": "Ait illi dominus ejus : Euge, serve bone et fidelis, quia super pauca fuisti fidelis, super multa te constituam : intra in gaudium domini tui."
+    },
+    {
+      "n": 24,
+      "texto": "Accedens autem et qui unum talentum acceperat, ait : Domine, scio quia homo durus es, metis ubi non seminasti, et congregas ubi non sparsisti :"
+    },
+    {
+      "n": 25,
+      "texto": "et timens abii, et abscondi talentum tuum in terra : ecce habes quod tuum est."
+    },
+    {
+      "n": 26,
+      "texto": "Respondens autem dominus ejus, dixit ei : Serve male et piger, sciebas quia meto ubi non semino, et congrego ubi non sparsi :"
+    },
+    {
+      "n": 27,
+      "texto": "oportuit ergo te committere pecuniam meam numulariis, et veniens ego recepissem utique quod meum est cum usura."
+    },
+    {
+      "n": 28,
+      "texto": "Tollite itaque ab eo talentum, et date ei qui habet decem talenta :"
+    },
+    {
+      "n": 29,
+      "texto": "omni enim habenti dabitur, et abundabit : ei autem qui non habet, et quod videtur habere, auferetur ab eo."
+    },
+    {
+      "n": 30,
+      "texto": "Et inutilem servum ejicite in tenebras exteriores : illic erit fletus, et stridor dentium."
+    },
+    {
+      "n": 31,
+      "texto": "Cum autem venerit Filius hominis in majestate sua, et omnes angeli cum eo, tunc sedebit super sedem majestatis suæ :"
+    },
+    {
+      "n": 32,
+      "texto": "et congregabuntur ante eum omnes gentes, et separabit eos ab invicem, sicut pastor segregat oves ab hœdis :"
+    },
+    {
+      "n": 33,
+      "texto": "et statuet oves quidem a dextris suis, hœdos autem a sinistris."
+    },
+    {
+      "n": 34,
+      "texto": "Tunc dicet rex his qui a dextris ejus erunt : Venite, benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi."
+    },
+    {
+      "n": 35,
+      "texto": "Esurivi enim, et dedistis mihi manducare : sitivi, et dedistis mihi bibere : hospes eram, et collegistis me :"
+    },
+    {
+      "n": 36,
+      "texto": "nudus, et cooperuistis me : infirmus, et visitastis me : in carcere eram, et venistis ad me."
+    },
+    {
+      "n": 37,
+      "texto": "Tunc respondebunt ei justi, dicentes : Domine, quando te vidimus esurientem, et pavimus te ; sitientem, et dedimus tibi potum ?"
+    },
+    {
+      "n": 38,
+      "texto": "quando autem te vidimus hospitem, et collegimus te ; aut nudum, et cooperuimus te ?"
+    },
+    {
+      "n": 39,
+      "texto": "aut quando te vidimus infirmum, aut in carcere, et venimus ad te ?"
+    },
+    {
+      "n": 40,
+      "texto": "Et respondens rex, dicet illis : Amen dico vobis, quamdiu fecistis uni ex his fratribus meis minimis, mihi fecistis."
+    },
+    {
+      "n": 41,
+      "texto": "Tunc dicet et his qui a sinistris erunt : Discedite a me, maledicti, in ignem æternum, qui paratus est diabolo et angelis ejus."
+    },
+    {
+      "n": 42,
+      "texto": "Esurivi enim, et non dedistis mihi manducare : sitivi, et non dedistis mihi potum :"
+    },
+    {
+      "n": 43,
+      "texto": "hospes eram, et non collegistis me : nudus, et non cooperuistis me : infirmus et in carcere, et non visitastis me."
+    },
+    {
+      "n": 44,
+      "texto": "Tunc respondebunt ei et ipsi, dicentes : Domine, quando te vidimus esurientem, aut sitientem, aut hospitem, aut nudum, aut infirmum, aut in carcere, et non ministravimus tibi ?"
+    },
+    {
+      "n": 45,
+      "texto": "Tunc respondebit illis, dicens : Amen dico vobis, quamdiu non fecistis uni de minoribus his, nec mihi fecistis."
+    },
+    {
+      "n": 46,
+      "texto": "Et ibunt hi in supplicium æternum : justi autem in vitam æternam."
+    }
   ],
-  "notas": {}
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum#Caput_25"
 }
