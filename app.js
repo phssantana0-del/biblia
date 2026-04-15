@@ -697,20 +697,21 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
   const ed1 = state.editions.find(e => e.id === state.currentEditionId);
   const ed2 = ch2 ? state.editions.find(e => e.id === state.compareEditionId) : null;
 
-  const makeHeaderCell = (ed, ch, bookDir, showButtons) => {
+  const makeHeaderCell = (ed, ch, bookDir, showPdfButtons) => {
     const div = document.createElement('div');
     div.className = 'cg-cell cg-header-cell';
     const chapterSummary = typeof ch.sumario === 'string' ? ch.sumario : '';
+    const originalLink = getOriginalLinkForChapter(ch);
     let buttonsHtml = '';
-    if (showButtons) {
+    const hasPdf = !bookDir.includes('/vulgata/');
+    if (showPdfButtons && hasPdf) {
       const pdfUrl = bookDir + '/' + ch.num + '.pdf';
       const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + ch.num + '.pdf';
-      const originalLink = getOriginalLinkForChapter(ch);
       buttonsHtml = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>`
-        + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>`
-        + (originalLink
-          ? `<button class="ver-original-btn" onclick="openPdfPanel('${originalLink}', 'Link original', 'link')" style="margin-left:12px;">&#128279; Link original</button>`
-          : '');
+        + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>`;
+    }
+    if (originalLink) {
+      buttonsHtml += `<button class="ver-original-btn" onclick="openPdfPanel('${originalLink}', 'Link original', 'link')" style="margin-left:12px;">&#128279; Link original</button>`;
     }
     div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
       + `<div class="cg-chapter-title">Capítulo ${ch.num}</div>`
