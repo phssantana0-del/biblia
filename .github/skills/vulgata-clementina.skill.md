@@ -32,6 +32,19 @@ Para livros não listados: acesse o índice, localize o nome exato do subartigo 
 
 Nunca adivinhe slug de URL. Sempre copie exatamente o subartigo do índice (ex.: `Liber_Psalmorum`, `Liber_Deuteronomii`).
 
+### Se a URL retornar 404 ou outro erro
+
+1. Acesse o índice do Wikisource pelo âncora do testamento correto:
+   - Antigo Testamento: `https://la.wikisource.org/wiki/Vulgata_Clementina#Vetus_Testamentum`
+   - Novo Testamento: `https://la.wikisource.org/wiki/Vulgata_Clementina#Novum_Testamentum`
+2. Extraia os links reais com:
+   ```bash
+   curl -sL 'https://la.wikisource.org/wiki/Vulgata_Clementina' | grep -oP 'href="/wiki/Vulgata_Clementina/[^"]*"'
+   ```
+3. Identifique o link correto para o livro e use-o.
+
+**Nunca inferir ou construir slugs de URL a partir do nome do livro.** Sempre usar a URL confirmada via HTTP 200.
+
 ---
 
 ## Grafia obrigatória — Clementina
