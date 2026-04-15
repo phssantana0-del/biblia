@@ -6,6 +6,7 @@
     "livros": [
       "edicoes/figueiredo/genesis/index.json",
       "edicoes/figueiredo/salmos/index.json",
+      "edicoes/figueiredo/proverbios/index.json",
       "edicoes/figueiredo/mateus/index.json",
       "edicoes/figueiredo/marcos/index.json",
       "edicoes/figueiredo/lucas/index.json",
@@ -19,6 +20,7 @@
     "livros": [
       "edicoes/vulgata/genesis/index.json",
       "edicoes/vulgata/salmos/index.json",
+      "edicoes/vulgata/proverbios/index.json",
       "edicoes/vulgata/mateus/index.json",
       "edicoes/vulgata/marcos/index.json",
       "edicoes/vulgata/lucas/index.json",
