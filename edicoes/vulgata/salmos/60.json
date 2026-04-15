@@ -3,14 +3,9 @@
   "sumario": "Preces regis pro vita et regno; fiducia in Deo turri fortitudinis",
   "versiculos": [
     {
-      "n": 0,
-      "tipo": "epigrafe",
-      "texto": "In finem."
-    },
-    {
       "n": 1,
       "tipo": "epigrafe",
-      "texto": "In hymnis David."
+      "texto": "In finem. In hymnis David."
     },
     {
       "n": 2,

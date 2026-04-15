@@ -3,14 +3,9 @@
   "sumario": "Oratio fiduciæ sub umbra alarum Dei; canticum laudis",
   "versiculos": [
     {
-      "n": 0,
-      "tipo": "epigrafe",
-      "texto": "In finem, Ne disperdas."
-    },
-    {
       "n": 1,
       "tipo": "epigrafe",
-      "texto": "David in tituli inscriptionem, cum fugeret a facie Saul in speluncam."
+      "texto": "In finem, Ne disperdas. David in tituli inscriptionem, cum fugeret a facie Saul in speluncam."
     },
     {
       "n": 2,
