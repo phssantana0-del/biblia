@@ -113,9 +113,18 @@ Confirme que cada `edicoes/figueiredo/<livroId>/<N>.pdf` foi criado.
 
 **Fonte:** Wikisource — seguir URLs da skill `vulgata-clementina`
 
-**B1. Buscar URL do livro**
+**B1. Buscar e validar link dos capítulos do livro**
 
-Localize a URL correta para o livro. Se não estiver na lista da skill, consulte o índice em `https://la.wikisource.org/wiki/Vulgata_Clementina`.
+Localize a URL candidata para o livro (via skill ou inferência). **Teste-a** com `curl -sI <url>` e verifique se retorna HTTP 200.
+
+Se a URL retornar 404 ou outro erro:
+1. Acesse o índice do Wikisource para localizar o link correto do livro:
+   - Antigo Testamento: `https://la.wikisource.org/wiki/Vulgata_Clementina#Vetus_Testamentum`
+   - Novo Testamento: `https://la.wikisource.org/wiki/Vulgata_Clementina#Novum_Testamentum`
+2. Extraia os links reais com: `curl -sL 'https://la.wikisource.org/wiki/Vulgata_Clementina' | grep -oP 'href="/wiki/Vulgata_Clementina/[^"]*"'`
+3. Identifique o link correto para o livro e use-o.
+
+**Nunca inferir ou construir slugs de URL a partir do nome do livro.** Sempre usar a URL confirmada via HTTP 200.
 
 **B2. Extrair cada capítulo**
 

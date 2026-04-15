@@ -40,18 +40,26 @@ Aguarde confirmação.
 
 ## EXECUÇÃO
 
-### 1. Localizar URL do livro
+### 1. Localizar e validar URL do livro
 
-Use as URLs da skill `vulgata-clementina`. Para livros não listados, consulte o índice em `https://la.wikisource.org/wiki/Vulgata_Clementina`.
+Use as URLs da skill `vulgata-clementina` como ponto de partida. **Antes de usar qualquer URL, teste-a** com `curl -sI <url>` e verifique se retorna HTTP 200.
+
+Se a URL retornar 404 ou outro erro:
+1. Acesse o índice do Wikisource para localizar o link correto do livro:
+   - Antigo Testamento: `https://la.wikisource.org/wiki/Vulgata_Clementina#Vetus_Testamentum`
+   - Novo Testamento: `https://la.wikisource.org/wiki/Vulgata_Clementina#Novum_Testamentum`
+2. Extraia os links reais com: `curl -sL 'https://la.wikisource.org/wiki/Vulgata_Clementina' | grep -oP 'href="/wiki/Vulgata_Clementina/[^"]*"'`
+3. Identifique o link correto para o livro e use-o.
+
+**Nunca inferir ou construir slugs de URL a partir do nome do livro.** Sempre usar exatamente a URL confirmada via HTTP 200.
 
 ### 2. Extrair cada capítulo
 
 Para cada capítulo N no intervalo:
-- Acesse a página do livro no Wikisource.
+- Acesse a página do livro no Wikisource usando a URL validada.
 - Localize o capítulo correspondente.
 - Extraia os versículos respeitando **obrigatoriamente** a grafia Clementina (tabela na skill).
-- Registre o campo `"link"` com URL canônica e âncora de capítulo no formato `"<url-canônica-do-livro>#Caput_<N>"` (ex.: `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_51`).
-- Nunca inferir slug de URL. Sempre usar exatamente a URL da skill/índice do Wikisource.
+- Registre o campo `"link"` com a URL validada + âncora de capítulo no formato `"<url-validada>#Caput_<N>"` (ex.: `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_51`).
 
 ### 3. Salvar e atualizar
 
