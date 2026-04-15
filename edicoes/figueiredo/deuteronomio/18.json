@@ -12,7 +12,8 @@
     },
     {
       "n": 3,
-      "texto": "Êste será o direito dos sacerdotes a respeito do povo, e dos que oferecem vítimas: Se sacrificarem um boi, ou uma ovelha, darão ao sacerdote a espádua e o peito: (1)"
+      "texto": "Êste será o direito dos sacerdotes a respeito do povo, e dos que oferecem vítimas: Se sacrificarem um boi, ou uma ovelha, darão ao sacerdote a espádua e o peito:",
+      "nota": "fn18_1"
     },
     {
       "n": 4,
@@ -44,7 +45,8 @@
     },
     {
       "n": 11,
-      "texto": "ou encantador, nem quem consulte Piton ou adi vinhos, nem quem indague dos mortos a verdade. (2)"
+      "texto": "ou encantador, nem quem consulte Piton ou adi vinhos, nem quem indague dos mortos a verdade.",
+      "nota": "fn18_2"
     },
     {
       "n": 12,
@@ -60,7 +62,8 @@
     },
     {
       "n": 15,
-      "texto": "O Senhor teu Deus te suscitará um Profeta, como eu, da tua nação, e dentre teus irmãos: A êste ouvi rás, (3)"
+      "texto": "O Senhor teu Deus te suscitará um Profeta, como eu, da tua nação, e dentre teus irmãos: A êste ouvi rás,",
+      "nota": "fn18_3"
     },
     {
       "n": 16,
@@ -72,7 +75,8 @@
     },
     {
       "n": 18,
-      "texto": "Eu.lhes suscitarei do meio de seus irmãos um profeta semelhante a ti: E porei na sua bôca as minhas palavras, e êle lhes dirá tudo o que eu lhe mandar. (4)"
+      "texto": "Eu.lhes suscitarei do meio de seus irmãos um profeta semelhante a ti: E porei na sua bôca as minhas palavras, e êle lhes dirá tudo o que eu lhe mandar.",
+      "nota": "fn18_4"
     },
     {
       "n": 19,
@@ -80,7 +84,8 @@
     },
     {
       "n": 20,
-      "texto": "Se um profeta porém corrompido da sua sober ba empreender falar em meu nome, e disser coisas, que eu lhe não mandei dizer, ou se êle falar em nome dos deu ses estranhos, será morto. (5)"
+      "texto": "Se um profeta porém corrompido da sua sober ba empreender falar em meu nome, e disser coisas, que eu lhe não mandei dizer, ou se êle falar em nome dos deu ses estranhos, será morto.",
+      "nota": "fn18_5"
     },
     {
       "n": 21,
@@ -92,10 +97,25 @@
     }
   ],
   "notas": {
-    "fn18_5": "SERA MORTO — A aplicação mais memorável desta lei t'eve lugar no tempo de Acab, quando foram executados quatrocen tos e cinquenta sacerdotes do culto de Baal, 3 Rs, 18, 19-40.",
-    "fn18_1": "A ESPADUA E O PEITO — No hebreu está: a espádua, as maxilas e o ventre, o que constitui uma divergência com o textoparalelo do Lev 7, 34. Uns intérpretes consideram esta prescrição do Deuteronômio como uma modificação da do Lev, outros como um complemento. O contexto favorece esta última interpretação, que- é a tradicional constatada por Josefo, Mischna, e outros dos ànti-, gos Judeus. •",
-    "fn18_2": "PITON — A Vulgata foi buscar êste nome à mitologia v grega, porém, nâo està nem no original hebraico, nem na Tersilo dos Setenta.",
-    "fn18_3": "UM PROFETA COMO EU — Estamos em frente duma sés, vê-se no c. 34 do Dt, vv. 9.10, onde se lêem estas palavras: E Josué foi filho dc Nun, foi cheio do.espírito da sabedoria, por que Moisés lhe tinha pôsto as mãos. E não se levantou mais em Israel profeta algum como Moisés. E’ grande a glória de Josué, mas foi êle porventura semelhante a Moisés? Em quê? E qualquer dos outros profetas pode ser pôsto em paralelo com o sábio legislador do povo escolhido? Mas poder-se-á entender esta profecia em sen tido coletivo, e assim interpretar-se que Moisés se tinha referido a todos os profetas que Israel teria? A análise do texto rebate por completo esta opinião. A expresaão nati, profeta, está no singular, como no singular estão tôdas as demais palavras que a êle se refe rem; e pelas três vêzes que o nome aparece, sempre tem a mesma concordância; ora é sabido que nos nomes coletivos o singular al terna semprecom o plural. Além disto nunca, em lugar algum da Escritura, o têrmo nabi, empregado só, exprime na Bíblia a idéia coletiva dos profetas. As outras versões, a Vulgata, a dos Setenta,",
-    "fn18_4": "E LHES DIRA TODO — E’ sabido que Jesus Cristo falou sempre em nome do Pai Celeste que O tinha enviado. E agora note- -8e como, com o decorrer dos tempos, o conceito messiânico, a idéia do Messias, se vai aclarando, como uma imagem oculta ao viandante por um denso nevoeiro, que o sol a pouco é pouco vai desfazendo. Jacó no-lo desenha como aquêle que devia trazer o cetro de Judá: Balaam, como a estréla que esclarecerá o mundo; Moisés, como o profeta, intérprete da vontade de Deus sôbre a terra."
+    "fn18_5": {
+      "rotulo": "SERA MORTO",
+      "texto": "A aplicação mais memorável desta lei t'eve lugar no tempo de Acab, quando foram executados quatrocen tos e cinquenta sacerdotes do culto de Baal, 3 Rs, 18, 19-40."
+    },
+    "fn18_1": {
+      "rotulo": "A ESPADUA E O PEITO",
+      "texto": "No hebreu está: a espádua, as maxilas e o ventre, o que constitui uma divergência com o textoparalelo do Lev 7, 34. Uns intérpretes consideram esta prescrição do Deuteronômio como uma modificação da do Lev, outros como um complemento. O contexto favorece esta última interpretação, que- é a tradicional constatada por Josefo, Mischna, e outros dos ànti-, gos Judeus. •"
+    },
+    "fn18_2": {
+      "rotulo": "PITON",
+      "texto": "A Vulgata foi buscar êste nome à mitologia v grega, porém, nâo està nem no original hebraico, nem na Tersilo dos Setenta."
+    },
+    "fn18_3": {
+      "rotulo": "UM PROFETA COMO EU",
+      "texto": "Estamos em frente duma sés, vê-se no c. 34 do Dt, vv. 9.10, onde se lêem estas palavras: E Josué foi filho dc Nun, foi cheio do.espírito da sabedoria, por que Moisés lhe tinha pôsto as mãos. E não se levantou mais em Israel profeta algum como Moisés. E’ grande a glória de Josué, mas foi êle porventura semelhante a Moisés? Em quê? E qualquer dos outros profetas pode ser pôsto em paralelo com o sábio legislador do povo escolhido? Mas poder-se-á entender esta profecia em sen tido coletivo, e assim interpretar-se que Moisés se tinha referido a todos os profetas que Israel teria? A análise do texto rebate por completo esta opinião. A expresaão nati, profeta, está no singular, como no singular estão tôdas as demais palavras que a êle se refe rem; e pelas três vêzes que o nome aparece, sempre tem a mesma concordância; ora é sabido que nos nomes coletivos o singular al terna semprecom o plural. Além disto nunca, em lugar algum da Escritura, o têrmo nabi, empregado só, exprime na Bíblia a idéia coletiva dos profetas. As outras versões, a Vulgata, a dos Setenta,"
+    },
+    "fn18_4": {
+      "rotulo": "E LHES DIRA TODO",
+      "texto": "E’ sabido que Jesus Cristo falou sempre em nome do Pai Celeste que O tinha enviado. E agora note- -8e como, com o decorrer dos tempos, o conceito messiânico, a idéia do Messias, se vai aclarando, como uma imagem oculta ao viandante por um denso nevoeiro, que o sol a pouco é pouco vai desfazendo. Jacó no-lo desenha como aquêle que devia trazer o cetro de Judá: Balaam, como a estréla que esclarecerá o mundo; Moisés, como o profeta, intérprete da vontade de Deus sôbre a terra."
+    }
   }
 }

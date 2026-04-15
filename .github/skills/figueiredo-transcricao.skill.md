@@ -48,7 +48,7 @@ Use `pdftotext -layout` para extrair o texto. Leia **página por página**, clas
 2. **Sumário** → texto em itálico logo após o número do capítulo → campo `"sumario"`
 3. **Versículo numerado** → número + texto → objeto no array `versiculos`
 4. **Citação profética/poética** → trecho recuado ou em itálico diferenciado → `<span class='prophetic'>...</span>`
-5. **Nota de rodapé** → rodapé numerado ou com asterisco → associe ao versículo correto
+5. **Nota de rodapé** → rodapé numerado ou com asterisco → **remova o marcador `(N)` do texto do versículo** e adicione `"nota": "fn<cap>_<N>"` ao objeto do versículo; transcreva o conteúdo em `notas` com estrutura `{rotulo, texto}`
 6. **Item biográfico/temático** → caixa com título em negrito → `{ "tipo": "bio" }`
 
 ### Rastreamento de páginas
@@ -69,7 +69,11 @@ Mantenha internamente uma tabela:
 - **Nunca invente conteúdo.** Trecho ilegível → `null` no campo texto + item na lista de revisão.
 - Versículo sem número próprio (continuação de citação) → mantido no campo `"texto"` do versículo anterior.
 - Notas do mesmo capítulo ficam em `"notas"` com chaves `fn<cap>_<seq>` (ex: `fn3_1`, `fn3_2`).
-- Revisão interna antes de salvar: toda chave `"nota"` em versículos deve ter correspondente em `"notas"`; nenhum versículo pode estar omitido.
+- Revisão interna antes de salvar (OBRIGATÓRIA):
+  - toda chave `"nota"` em versículos deve existir em `"notas"` — nunca referencie uma nota inexistente;
+  - toda nota em `"notas"` deve ser referenciada por exatamente um versículo com campo `"nota"` — nunca deixe nota órfã;
+  - nenhum versículo pode ter marcadores inline `(N)` no campo `"texto"` — os marcadores devem ser substituídos pelo campo `"nota"`;
+  - nenhum versículo pode estar omitido.
 
 ---
 

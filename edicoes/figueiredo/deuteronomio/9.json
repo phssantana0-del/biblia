@@ -4,7 +4,8 @@
   "versiculos": [
     {
       "n": 1,
-      "texto": "Ouve, ó Israel: Tu passarás hoje o Jordão, para te senhoreares de nações mui populosas e mais possan tes do que tu, de grandes cidades, e muradas até o céu, (I)"
+      "texto": "Ouve, ó Israel: Tu passarás hoje o Jordão, para te senhoreares de nações mui populosas e mais possan tes do que tu, de grandes cidades, e muradas até o céu, (I)",
+      "nota": "fn9_1"
     },
     {
       "n": 2,
@@ -24,7 +25,8 @@
     },
     {
       "n": 6,
-      "texto": "Sabe pois que não é pela tua justiça que o Senhor teu Deus te fará possuir esta terra tão excelente, pois que tu és um povo de cerviz duríssima. (2)"
+      "texto": "Sabe pois que não é pela tua justiça que o Senhor teu Deus te fará possuir esta terra tão excelente, pois que tu és um povo de cerviz duríssima.",
+      "nota": "fn9_2"
     },
     {
       "n": 7,
@@ -36,11 +38,13 @@
     },
     {
       "n": 9,
-      "texto": "quando eu subi ao monte, para receber as tábuas de pedra, as tábuas do pacto que o Senhor fêz convosco: e perseverei no monte quarenta dias e quarenta noites, sem comei* pão. nem beber água. (3)"
+      "texto": "quando eu subi ao monte, para receber as tábuas de pedra, as tábuas do pacto que o Senhor fêz convosco: e perseverei no monte quarenta dias e quarenta noites, sem comei* pão. nem beber água.",
+      "nota": "fn9_3"
     },
     {
       "n": 10,
-      "texto": "E o Senhor me deu duas tábuas de pedra escri tas com o dedo de Deus, e que continham todas as pala vras que êle vos falou no monte do meio do fogo, estan do junto todo o povo. (4)"
+      "texto": "E o Senhor me deu duas tábuas de pedra escri tas com o dedo de Deus, e que continham todas as pala vras que êle vos falou no monte do meio do fogo, estan do junto todo o povo.",
+      "nota": "fn9_4"
     },
     {
       "n": 11,
@@ -72,7 +76,8 @@
     },
     {
       "n": 18,
-      "texto": "E prostrei-me diante do Senhor, como antes o ti nha feito, e estive quarenta dias e quarenta noites sem comer pão, nem beber água por causa de todos os vossos pecados, que tínheis cometido contra o Senhor, e com que o provocastes à ira: (5)"
+      "texto": "E prostrei-me diante do Senhor, como antes o ti nha feito, e estive quarenta dias e quarenta noites sem comer pão, nem beber água por causa de todos os vossos pecados, que tínheis cometido contra o Senhor, e com que o provocastes à ira:",
+      "nota": "fn9_5"
     },
     {
       "n": 19,
@@ -120,10 +125,25 @@
     }
   ],
   "notas": {
-    "fn9_1": "HOJE — Deve-se entender no sentido de bem depressa, da mesma maneira que o amnnbã quer muitas vêzes significar mais tarde.",
-    "fn9_2": "DE CERVIZ DURÍSSIMA — Isto é, que se recusa a su portar o jugo de Deus e a obedecer aos seus mandamentos.",
-    "fn9_3": "SEM COMER PAO — Como o pâo e a água eram os ali mentos mais rudimentares, esta expressão significa que Moisés guar dou abstinência completa durante os quarenta dias que passou sôbre o monte.",
-    "fn9_4": "DO MEIO DO FOGO — Na versão dos Setenta falta esta frase.",
-    "fn9_5": "E PROSTREI-ME — Para interceder pelo povo, quando Deus lhe anunciou a idolatria dos hebreus, e o seu desígnio de op punir. Esta primeira oração de Moisés não é vrepetida no Deuteronômio, mas encontra-se no ê x 32, 11-14."
+    "fn9_1": {
+      "rotulo": "HOJE",
+      "texto": "Deve-se entender no sentido de bem depressa, da mesma maneira que o amnnbã quer muitas vêzes significar mais tarde."
+    },
+    "fn9_2": {
+      "rotulo": "DE CERVIZ DURÍSSIMA",
+      "texto": "Isto é, que se recusa a su portar o jugo de Deus e a obedecer aos seus mandamentos."
+    },
+    "fn9_3": {
+      "rotulo": "SEM COMER PAO",
+      "texto": "Como o pâo e a água eram os ali mentos mais rudimentares, esta expressão significa que Moisés guar dou abstinência completa durante os quarenta dias que passou sôbre o monte."
+    },
+    "fn9_4": {
+      "rotulo": "DO MEIO DO FOGO",
+      "texto": "Na versão dos Setenta falta esta frase."
+    },
+    "fn9_5": {
+      "rotulo": "E PROSTREI-ME",
+      "texto": "Para interceder pelo povo, quando Deus lhe anunciou a idolatria dos hebreus, e o seu desígnio de op punir. Esta primeira oração de Moisés não é vrepetida no Deuteronômio, mas encontra-se no ê x 32, 11-14."
+    }
   }
 }

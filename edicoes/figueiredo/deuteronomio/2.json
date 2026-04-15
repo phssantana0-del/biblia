@@ -32,7 +32,8 @@
     },
     {
       "n": 8,
-      "texto": "Depois que passamos as terras dos filhos de Esaú nossos irmãos, que habitavam em Seir, pelo caminho da planície de Elat, e de Asiongaber, viemos ao caminho, que guia para o deserto de Moab. (1)"
+      "texto": "Depois que passamos as terras dos filhos de Esaú nossos irmãos, que habitavam em Seir, pelo caminho da planície de Elat, e de Asiongaber, viemos ao caminho, que guia para o deserto de Moab.",
+      "nota": "fn2_1"
     },
     {
       "n": 9,
@@ -40,7 +41,8 @@
     },
     {
       "n": 10,
-      "texto": "Os Emins foram os seus primeiros habitadores."
+      "texto": "Os Emins foram os seus primeiros habitadores.",
+      "nota": "fn2_2"
     },
     {
       "n": 11,
@@ -48,7 +50,8 @@
     },
     {
       "n": 12,
-      "texto": "Em Seir porém habitaram primeiro os horreus: Os quais expulsos e destruídos, habitaram ali os filhos de Esaú, assim como o povo de Israel se estabeleceu na terra da sua possessão, que o Senhor lhe deu. (3)"
+      "texto": "Em Seir porém habitaram primeiro os horreus: Os quais expulsos e destruídos, habitaram ali os filhos de Esaú, assim como o povo de Israel se estabeleceu na terra da sua possessão, que o Senhor lhe deu.",
+      "nota": "fn2_3"
     },
     {
       "n": 13,
@@ -92,7 +95,8 @@
     },
     {
       "n": 23,
-      "texto": "Da mesma sorte aos heveus, que habitavam des de Haserim até Gaza, os lançaram fora os capadócios: Os quais tendo saído da Capadócia, os destruíram, e se estabeleceram em seu lugar. (4)"
+      "texto": "Da mesma sorte aos heveus, que habitavam des de Haserim até Gaza, os lançaram fora os capadócios: Os quais tendo saído da Capadócia, os destruíram, e se estabeleceram em seu lugar.",
+      "nota": "fn2_4"
     },
     {
       "n": 24,
@@ -100,7 +104,8 @@
     },
     {
       "n": 25,
-      "texto": "Hoje começarei a meter o terror e o medo das tuas armas nos povos, que habitam debaixo de todo o céu; para que ao ouvir o teu nome fiquem espavoridos, e à maneira das que estão para parir tremam, e sintam dores. (5)"
+      "texto": "Hoje começarei a meter o terror e o medo das tuas armas nos povos, que habitam debaixo de todo o céu; para que ao ouvir o teu nome fiquem espavoridos, e à maneira das que estão para parir tremam, e sintam dores.",
+      "nota": "fn2_5"
     },
     {
       "n": 26,
@@ -128,7 +133,8 @@
     },
     {
       "n": 32,
-      "texto": "E Seon saiu em nosso encontro com todo o seu povo, para nos dar batalha em Jasa. (6)"
+      "texto": "E Seon saiu em nosso encontro com todo o seu povo, para nos dar batalha em Jasa.",
+      "nota": "fn2_6"
     },
     {
       "n": 33,
@@ -144,7 +150,8 @@
     },
     {
       "n": 36,
-      "texto": "desde Aroer, que está sôbre a ribanceira da tor rente de Arnon, cidade situada no vale, até Galaad. Não houve aldeia nem cidade, que escapasse às nossas mãos: Tôdas no-las entregou o Senhor nosso Deus: (7)"
+      "texto": "desde Aroer, que está sôbre a ribanceira da tor rente de Arnon, cidade situada no vale, até Galaad. Não houve aldeia nem cidade, que escapasse às nossas mãos: Tôdas no-las entregou o Senhor nosso Deus:",
+      "nota": "fn2_7"
     },
     {
       "n": 37,
@@ -152,12 +159,33 @@
     }
   ],
   "notas": {
-    "fn2_7": "QUÉ ESCAPASSE AS NOSSAS MAOS — No original he braico está: Não houve cidade demasiado alta para nós.",
-    "fn2_1": "ELAT E ASIONGABER — Cidades situadas sôbro o mar Vermelho, na extremidade 'setentrional do gôlfo Elanitico, que to mou êste nome duma destas cidades. Na época do Êxodo pertenciam aos idumeus, mais tarde, porém, caíram sob o poder de Davi com o resto da iduméia, partindo dos seus portos para Oíir as naus de Salomão, 3 Rs 9, 26, voltando aos seus antigos possuidores no rei nado de Acaz, 4 Rs 16, 6.",
-    "fn2_2": "EMINS — Raça de gigantes venerados por Codorlaomor e seus aliados; habitavam a este do mar Morto. No original hebraico está Refaim, gigantes.",
-    "fn2_3": "XA TERRA DA SUA POSSESSÃO — Alude Moisés à terra de Galaad e à de Basan, que havia conquistado; é claro que não se refere à Terra da Promissão, porque nessa não tinham entrado ainda os hebreus.",
-    "fn2_4": "GAZA — Era uma das principais cidades dos filisteus, situada na extremidade sudoeste da planície de Sefela. OS CAPADÓCIOS — No original hebraico está CaphtorJu», isto é, saídos de Caftor, que naturnlmente é Creta. Alguns historiadores sustentam que os filisteus emigraram de Sidônia.",
-    "fn2_5": "QUE HABITAM DEBAIXO DE TODO O CÉU — E’ uma hipérbole, que se deve aplicar t&o sòmenle aos povos conhecidos de Moisés e dos israelitas.",
-    "fn2_6": "JASA —- Entre Dibon e Medaba."
+    "fn2_7": {
+      "rotulo": "QUÉ ESCAPASSE AS NOSSAS MAOS",
+      "texto": "No original he braico está: Não houve cidade demasiado alta para nós."
+    },
+    "fn2_1": {
+      "rotulo": "ELAT E ASIONGABER",
+      "texto": "Cidades situadas sôbro o mar Vermelho, na extremidade 'setentrional do gôlfo Elanitico, que to mou êste nome duma destas cidades. Na época do Êxodo pertenciam aos idumeus, mais tarde, porém, caíram sob o poder de Davi com o resto da iduméia, partindo dos seus portos para Oíir as naus de Salomão, 3 Rs 9, 26, voltando aos seus antigos possuidores no rei nado de Acaz, 4 Rs 16, 6."
+    },
+    "fn2_2": {
+      "rotulo": "EMINS",
+      "texto": "Raça de gigantes venerados por Codorlaomor e seus aliados; habitavam a este do mar Morto. No original hebraico está Refaim, gigantes."
+    },
+    "fn2_3": {
+      "rotulo": "XA TERRA DA SUA POSSESSÃO",
+      "texto": "Alude Moisés à terra de Galaad e à de Basan, que havia conquistado; é claro que não se refere à Terra da Promissão, porque nessa não tinham entrado ainda os hebreus."
+    },
+    "fn2_4": {
+      "rotulo": "GAZA",
+      "texto": "Era uma das principais cidades dos filisteus, situada na extremidade sudoeste da planície de Sefela. OS CAPADÓCIOS — No original hebraico está CaphtorJu», isto é, saídos de Caftor, que naturnlmente é Creta. Alguns historiadores sustentam que os filisteus emigraram de Sidônia."
+    },
+    "fn2_5": {
+      "rotulo": "QUE HABITAM DEBAIXO DE TODO O CÉU",
+      "texto": "E’ uma hipérbole, que se deve aplicar t&o sòmenle aos povos conhecidos de Moisés e dos israelitas."
+    },
+    "fn2_6": {
+      "rotulo": "JASA",
+      "texto": "Entre Dibon e Medaba."
+    }
   }
 }

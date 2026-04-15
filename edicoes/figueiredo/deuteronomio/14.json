@@ -52,7 +52,8 @@
     },
     {
       "n": 13,
-      "texto": "o ixião, e o abutre e o milhano, segundo o seu gênero: (1)"
+      "texto": "o ixião, e o abutre e o milhano, segundo o seu gênero:",
+      "nota": "fn14_1"
     },
     {
       "n": 14,
@@ -120,6 +121,9 @@
     }
   ],
   "notas": {
-    "fn14_1": "O IXIÃO — Espécie de avestruz: « a única ave acres centada à lista correspondente do Levítlco."
+    "fn14_1": {
+      "rotulo": "O IXIÃO",
+      "texto": "Espécie de avestruz: « a única ave acres centada à lista correspondente do Levítlco."
+    }
   }
 }

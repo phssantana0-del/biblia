@@ -12,11 +12,13 @@
     },
     {
       "n": 3,
-      "texto": "O amonita e o moabita não entrarão jamais na congregação do Senhor, ainda depois da d.écinia gera-: çâo: (1)"
+      "texto": "O amonita e o moabita não entrarão jamais na congregação do Senhor, ainda depois da d.écinia gera-: çâo:",
+      "nota": "fn23_1"
     },
     {
       "n": 4,
-      "texto": "Porque não quiseram sair a receber-vos com pão e água no caminho quando saístes do Egito: e porque conduziram contra ti a Balaarn, filho de Beor, da Mesopotâmia da Síria, para que te amaldiçoasse: (2)"
+      "texto": "Porque não quiseram sair a receber-vos com pão e água no caminho quando saístes do Egito: e porque conduziram contra ti a Balaarn, filho de Beor, da Mesopotâmia da Síria, para que te amaldiçoasse:",
+      "nota": "fn23_2"
     },
     {
       "n": 5,
@@ -28,7 +30,8 @@
     },
     {
       "n": 7,
-      "texto": "Não abominarás o idumeu, porque é teu irmão: Nem o egiptano, porquê tu fôste estrangeiro na sua terra. (3)"
+      "texto": "Não abominarás o idumeu, porque é teu irmão: Nem o egiptano, porquê tu fôste estrangeiro na sua terra.",
+      "nota": "fn23_3"
     },
     {
       "n": 8,
@@ -68,7 +71,8 @@
     },
     {
       "n": 17,
-      "texto": "Não haverá entre as filhas de Israel meretriz, nem prostituidor nos filhos de Israel. (4)"
+      "texto": "Não haverá entre as filhas de Israel meretriz, nem prostituidor nos filhos de Israel.",
+      "nota": "fn23_4"
     },
     {
       "n": 18,
@@ -104,9 +108,21 @@
     }
   ],
   "notas": {
-    "fn23_1": "O MOABITA — Os moabitas descendiam de Ló por Moab. Formavam uma tribo a este do Canaã, não muito distante do Jordão e do mar Morto. NAO ENTRARÃO JAMAIS — Houve contudo uma exceção a favor de Aquior, chefe amonita, por causa dos serviços que prestou ao Povo Escolhido. Judite, 14, 6.",
-    "fn23_2": "' DA MESOPOTAMIA DA SÍRIA — O texto hebreu dix: \"de Pethor na Mesopotftmia.\" Sucede, porém, que as modernas ins crições cuneiformes revelaram a situação desta cidade; estava de fato na Síria, no confluente do Eufrates e de Sagour.",
-    "fn23_3": "NAO ABOMINARAS O IDUMEU — Isto é mais uma prova da autenticidade do Deuteronòmio, pois mais tarde, estas boas dis posições a respeito dos idumeus desapareceram, e os descendentes de Isaac foram tidos como os inimigos mais irreconciliáveis dos filhos de Jacó.",
-    "fn23_4": "NAO HAVERÁ, ETO. — Os Setenta juntam a palavra “ sa grado”. Nenhuma legislação foi mais severa contra a prostituição,"
+    "fn23_1": {
+      "rotulo": "O MOABITA",
+      "texto": "Os moabitas descendiam de Ló por Moab. Formavam uma tribo a este do Canaã, não muito distante do Jordão e do mar Morto. NAO ENTRARÃO JAMAIS — Houve contudo uma exceção a favor de Aquior, chefe amonita, por causa dos serviços que prestou ao Povo Escolhido. Judite, 14, 6."
+    },
+    "fn23_2": {
+      "rotulo": "' DA MESOPOTAMIA DA SÍRIA",
+      "texto": "O texto hebreu dix: \"de Pethor na Mesopotftmia.\" Sucede, porém, que as modernas ins crições cuneiformes revelaram a situação desta cidade; estava de fato na Síria, no confluente do Eufrates e de Sagour."
+    },
+    "fn23_3": {
+      "rotulo": "NAO ABOMINARAS O IDUMEU",
+      "texto": "Isto é mais uma prova da autenticidade do Deuteronòmio, pois mais tarde, estas boas dis posições a respeito dos idumeus desapareceram, e os descendentes de Isaac foram tidos como os inimigos mais irreconciliáveis dos filhos de Jacó."
+    },
+    "fn23_4": {
+      "rotulo": "NAO HAVERÁ, ETO.",
+      "texto": "Os Setenta juntam a palavra “ sa grado”. Nenhuma legislação foi mais severa contra a prostituição,"
+    }
   }
 }

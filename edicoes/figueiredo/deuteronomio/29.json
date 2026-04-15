@@ -20,7 +20,8 @@
     },
     {
       "n": 5,
-      "texto": "Êle vos conduziu quarenta anos pelo deserto: não se romperam os vossos vestidos, nem se gastaram com a velhice os sapatos dos vossos pés. (1)"
+      "texto": "Êle vos conduziu quarenta anos pelo deserto: não se romperam os vossos vestidos, nem se gastaram com a velhice os sapatos dos vossos pés.",
+      "nota": "fn29_1"
     },
     {
       "n": 6,
@@ -72,11 +73,13 @@
     },
     {
       "n": 18,
-      "texto": "Não suceda que entre vós se ache homem ou mulher, família ou tribo, cujo coração esteja hoje apar tado do Senhor nosso Deus: De modo que vá servir aos deuses daquelas nações: e seja entre vós uma raiz que produza fel e amargura. (2)"
+      "texto": "Não suceda que entre vós se ache homem ou mulher, família ou tribo, cujo coração esteja hoje apar tado do Senhor nosso Deus: De modo que vá servir aos deuses daquelas nações: e seja entre vós uma raiz que produza fel e amargura.",
+      "nota": "fn29_2"
     },
     {
       "n": 19,
-      "texto": "E que quando ouvir as palavras deste juramen to, se lisonjeie no seu coração, dizendo: Eu viverei em paz, e andarei na depravação do meu coração: e que a embriaguez absorva o sequioso, (3)"
+      "texto": "E que quando ouvir as palavras deste juramen to, se lisonjeie no seu coração, dizendo: Eu viverei em paz, e andarei na depravação do meu coração: e que a embriaguez absorva o sequioso,",
+      "nota": "fn29_3"
     },
     {
       "n": 20,
@@ -104,7 +107,8 @@
     },
     {
       "n": 26,
-      "texto": "E serviram, e adoraram a deuses estranhos, que lhes eram desconhecidos, e a cujo culto não tinham sido destinados: (4)"
+      "texto": "E serviram, e adoraram a deuses estranhos, que lhes eram desconhecidos, e a cujo culto não tinham sido destinados:",
+      "nota": "fn29_4"
     },
     {
       "n": 27,
@@ -120,9 +124,21 @@
     }
   ],
   "notas": {
-    "fn29_1": "OS SAPATOS — O sistema de calçado dos hebreus era análogo ao dos egípcios com quem êles conviveram por muito tem po; consistia numa sandália de couro ou de madeira, ligada por uma correia que passava pelo peito do pé a qual se ligava outra que passava pelo artelho. Vigouroux supõe que os hebreus só usavam êste calçado quando caminhavam, andando descalços no interior das suas habitações. Cír. Vigouroux, La Salnte Bible Polyglotte, edição ainda em publicação.",
-    "fn29_2": "FEL E AMARGURA — O têrmo hebraico que se encontra e exprimir por semelhança as amarguras da vida. Êste absinto ê freqiiente na Palestina, onde cresce espontâneamente e se conhe cem sete variedades diferentes.",
-    "fn29_3": "E QUE A EMBRIAGUEZ ABSORVA O SEQUIOSO — Afastamo-nos da versão do P.« Figueiredo seguindo a Vulgata à letra e a tradução francesa de Glaire, que verteu esta dificílima pas sagem da. seguinte forma: Que la racine blen abretivéc consume celle qui a soif. O hebreu diz: Eu juntarei a embriaguez à sêde; que poderá ser um provérbio cujo sentido deve ser êste: juntarei o que já fiz ao que ainda hei de fazer, o pecado cometido à tenta rão nova; acumularei faltas sôbre faltas. Cornélio á Lapide inter preta assim: Não diga o mau no seu coração, qúe êle se entregará aos seus apetites, para ajuntar àquele que bebeu muito com o que não bebeu nada; Sacy entende desta forma: Para que não suceda que embriagado dêste êrro arraste consigo os Inocentes.",
-    "fn29_4": "ADORARAM •— Durante muito tempo os autores sagra dos empregaram um mesmo têrrao para exprimir a idéia de adorar, quer a adoração Côsse rendida ao verdadeiro Deus, querfôsse pres tada íis falsas divindades. A partir de Is 44, 15 e principalmente depois do cativeiro, os escritores biblicos empregaram um outro tôrmo — sagád, para designar o culto prestado aos Ídolos."
+    "fn29_1": {
+      "rotulo": "OS SAPATOS",
+      "texto": "O sistema de calçado dos hebreus era análogo ao dos egípcios com quem êles conviveram por muito tem po; consistia numa sandália de couro ou de madeira, ligada por uma correia que passava pelo peito do pé a qual se ligava outra que passava pelo artelho. Vigouroux supõe que os hebreus só usavam êste calçado quando caminhavam, andando descalços no interior das suas habitações. Cír. Vigouroux, La Salnte Bible Polyglotte, edição ainda em publicação."
+    },
+    "fn29_2": {
+      "rotulo": "FEL E AMARGURA",
+      "texto": "O têrmo hebraico que se encontra e exprimir por semelhança as amarguras da vida. Êste absinto ê freqiiente na Palestina, onde cresce espontâneamente e se conhe cem sete variedades diferentes."
+    },
+    "fn29_3": {
+      "rotulo": "E QUE A EMBRIAGUEZ ABSORVA O SEQUIOSO",
+      "texto": "Afastamo-nos da versão do P.« Figueiredo seguindo a Vulgata à letra e a tradução francesa de Glaire, que verteu esta dificílima pas sagem da. seguinte forma: Que la racine blen abretivéc consume celle qui a soif. O hebreu diz: Eu juntarei a embriaguez à sêde; que poderá ser um provérbio cujo sentido deve ser êste: juntarei o que já fiz ao que ainda hei de fazer, o pecado cometido à tenta rão nova; acumularei faltas sôbre faltas. Cornélio á Lapide inter preta assim: Não diga o mau no seu coração, qúe êle se entregará aos seus apetites, para ajuntar àquele que bebeu muito com o que não bebeu nada; Sacy entende desta forma: Para que não suceda que embriagado dêste êrro arraste consigo os Inocentes."
+    },
+    "fn29_4": {
+      "rotulo": "ADORARAM •— Durante muito tempo os autores sagra dos empregaram um mesmo têrrao para exprimir a idéia de adorar, quer a adoração Côsse rendida ao verdadeiro Deus, querfôsse pres tada íis falsas divindades. A partir de Is 44, 15 e principalmente depois do cativeiro, os escritores biblicos empregaram um outro tôrmo",
+      "texto": "sagád, para designar o culto prestado aos Ídolos."
+    }
   }
 }

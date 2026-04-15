@@ -56,7 +56,8 @@
     },
     {
       "n": 14,
-      "texto": "Não tomarás, nem transporás os marcos de teu próximo, que teus predecessores fixaram na tua heran ça, que o Senhor teu Deus te há de dar na terra, que tiveres de possuir. (1)"
+      "texto": "Não tomarás, nem transporás os marcos de teu próximo, que teus predecessores fixaram na tua heran ça, que o Senhor teu Deus te há de dar na terra, que tiveres de possuir.",
+      "nota": "fn19_1"
     },
     {
       "n": 15,
@@ -64,7 +65,8 @@
     },
     {
       "n": 16,
-      "texto": "Se se apresentar uma testemunha falsa contra um homem, para o acusar de prevaricação, (2)."
+      "texto": "Se se apresentar uma testemunha falsa contra um homem, para o acusar de prevaricação,.",
+      "nota": "fn19_2"
     },
     {
       "n": 17,
@@ -88,7 +90,13 @@
     }
   ],
   "notas": {
-    "fn19_1": "OS MARCOS DO TEO PRÓXIMO — Entre os povos anti gos os limites eram considerados como coisa sagrada, sobretudo entre os assírios, gregos e romanos. Moisés proibiu que se mudem, amal- •diçoando os transgressores desta lei, 27, 17.",
-    "fn19_2": "DMA TESTEMUNHA FALSA — O autor sagrado reúne aqui duas categorias, que posterlormente deviam ser distintas pelo Direito: falsos acusadores e falsas testemunhas; contra uns e outros"
+    "fn19_1": {
+      "rotulo": "OS MARCOS DO TEO PRÓXIMO",
+      "texto": "Entre os povos anti gos os limites eram considerados como coisa sagrada, sobretudo entre os assírios, gregos e romanos. Moisés proibiu que se mudem, amal- •diçoando os transgressores desta lei, 27, 17."
+    },
+    "fn19_2": {
+      "rotulo": "DMA TESTEMUNHA FALSA",
+      "texto": "O autor sagrado reúne aqui duas categorias, que posterlormente deviam ser distintas pelo Direito: falsos acusadores e falsas testemunhas; contra uns e outros"
+    }
   }
 }

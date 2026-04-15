@@ -4,7 +4,8 @@
   "versiculos": [
     {
       "n": 1,
-      "texto": "Quando o Senhor teu Deus’ te tiver introduzido na terra, que vás a possuir, e tiver exterminado à tua vista muitas íiações, os heteus, os gergeseus, os amorreus, os cananeus, os fereseus, os hevetts, e os jebuseus, Deuteronôraio 7, 2-9 que são sete povos muito mais numerosos do que tu és, e muito mais fortes do que tu: (1)"
+      "texto": "Quando o Senhor teu Deus’ te tiver introduzido na terra, que vás a possuir, e tiver exterminado à tua vista muitas íiações, os heteus, os gergeseus, os amorreus, os cananeus, os fereseus, os hevetts, e os jebuseus, Deuteronôraio 7, 2-9 que são sete povos muito mais numerosos do que tu és, e muito mais fortes do que tu:",
+      "nota": "fn7_1"
     },
     {
       "n": 2,
@@ -36,7 +37,8 @@
     },
     {
       "n": 9,
-      "texto": "Saberás pois que o Senhor teu Deus é êle mes mo o Deus forte e fiel, que guarda o seu pacto e a sua"
+      "texto": "Saberás pois que o Senhor teu Deus é êle mes mo o Deus forte e fiel, que guarda o seu pacto e a sua",
+      "nota": "fn7_2"
     },
     {
       "n": 10,
@@ -56,15 +58,18 @@
     },
     {
       "n": 14,
-      "texto": "Tu serás bendito entre todos os povos. Não ha verá em ti estéril nem dum nem doutro sexo, nem nos homens nem nos teus rebanhos. (3)"
+      "texto": "Tu serás bendito entre todos os povos. Não ha verá em ti estéril nem dum nem doutro sexo, nem nos homens nem nos teus rebanhos.",
+      "nota": "fn7_3"
     },
     {
       "n": 15,
-      "texto": "O Senhor alongará de ti tôdas as doenças: nem te ferirá com as maligníssimas enfermidades do Egito, que tu viste, mas ferirá com elas todos os teus inimi gos. (4)"
+      "texto": "O Senhor alongará de ti tôdas as doenças: nem te ferirá com as maligníssimas enfermidades do Egito, que tu viste, mas ferirá com elas todos os teus inimi gos.",
+      "nota": "fn7_4"
     },
     {
       "n": 16,
-      "texto": "Devorarás todos os povos, que o Senhor teu Deus está para entregar. Não te deixarás tocar de com-"
+      "texto": "Devorarás todos os povos, que o Senhor teu Deus está para entregar. Não te deixarás tocar de com-",
+      "nota": "fn7_5"
     },
     {
       "n": 17,
@@ -84,7 +89,8 @@
     },
     {
       "n": 21,
-      "texto": "Não os temerás, pòrque o Senhor teu Deus está no meio de ti, aquêle Deus grande e terrível: (6)"
+      "texto": "Não os temerás, pòrque o Senhor teu Deus está no meio de ti, aquêle Deus grande e terrível:",
+      "nota": "fn7_6"
     },
     {
       "n": 22,
@@ -100,7 +106,8 @@
     },
     {
       "n": 25,
-      "texto": "Queimarás no fogo as suas esculturas: Não co biçarás a prata nem o ouro, de que são feitas, nem destas tomarás nada para ti, para que não tropeces visto serem estas coisas a abominação do Senhor teu Deus (7)"
+      "texto": "Queimarás no fogo as suas esculturas: Não co biçarás a prata nem o ouro, de que são feitas, nem destas tomarás nada para ti, para que não tropeces visto serem estas coisas a abominação do Senhor teu Deus",
+      "nota": "fn7_7"
     },
     {
       "n": 26,
@@ -108,11 +115,33 @@
     }
   ],
   "notas": {
-    "fn7_1": "CAXAXEUS — Eram os representantes duma tribo que tinha particularmente êste nome; habitava Junto do Mediterrâneo, nas margens do Jordão.",
-    "fn7_2": "O DEUS — No original hebraico não se encontram <\\s palavrus forte e fiel, tendo tido Moisés o cuidado de preceder a pa lavra El, Deus, do artigo ha, para indicar por esta expressão o Deus, que se trata aqui do Deus único e verdadeiro.",
-    "fn7_3": "NAO HAVERA EM TI ESTÉRIL — A esterilidade era, entre os hebreus, considerada como um opróbrio.",
-    "fn7_4": "MALIGNÍSSIMAS ENFERMIDADES — Certos comenta dores véem aqui uma alusão às pragas do Egito, outros pensam que o autor se refere apenas às enfermidades que empestavam o Egito,",
-    "fn7_5": "PARA QUE NAO VENHAM A SER A CAUSA DA TUA RUÍNA —• No hebreu e nos Setenta está: Porque isso é um laço (cilada) para ti. O têrmo hebraicomoquesh, formado do verbo iaqash, significa laqueus, e em sentido metafórico insidiae. Cfr. Leopold. Lexicon hebraicum et chaldaicum.",
-    "fn7_6": "NAO OS TEMERAS — No texto hebraico está: Não tre mas diante dêles; na versão dos Setenta: Não serás ferido na sua face."
+    "fn7_1": {
+      "rotulo": "CAXAXEUS",
+      "texto": "Eram os representantes duma tribo que tinha particularmente êste nome; habitava Junto do Mediterrâneo, nas margens do Jordão."
+    },
+    "fn7_2": {
+      "rotulo": "O DEUS",
+      "texto": "No original hebraico não se encontram <\\s palavrus forte e fiel, tendo tido Moisés o cuidado de preceder a pa lavra El, Deus, do artigo ha, para indicar por esta expressão o Deus, que se trata aqui do Deus único e verdadeiro."
+    },
+    "fn7_3": {
+      "rotulo": "NAO HAVERA EM TI ESTÉRIL",
+      "texto": "A esterilidade era, entre os hebreus, considerada como um opróbrio."
+    },
+    "fn7_4": {
+      "rotulo": "MALIGNÍSSIMAS ENFERMIDADES",
+      "texto": "Certos comenta dores véem aqui uma alusão às pragas do Egito, outros pensam que o autor se refere apenas às enfermidades que empestavam o Egito,"
+    },
+    "fn7_5": {
+      "rotulo": "PARA QUE NAO VENHAM A SER A CAUSA DA TUA RUÍNA",
+      "texto": "• No hebreu e nos Setenta está: Porque isso é um laço (cilada) para ti. O têrmo hebraicomoquesh, formado do verbo iaqash, significa laqueus, e em sentido metafórico insidiae. Cfr. Leopold. Lexicon hebraicum et chaldaicum."
+    },
+    "fn7_6": {
+      "rotulo": "NAO OS TEMERAS",
+      "texto": "No texto hebraico está: Não tre mas diante dêles; na versão dos Setenta: Não serás ferido na sua face."
+    },
+    "fn7_7": {
+      "rotulo": "A ABOMJNAÇAO DO SENHOR",
+      "texto": "lato é, êBtea ídolos são abomináveis aos olhos do Senhor. O tôrmo hebraico to’ebah, que a Vulgata traduziu por abominatlo, significa uma coisa sagrada horri velmente manchada."
+    }
   }
 }

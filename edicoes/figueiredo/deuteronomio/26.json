@@ -8,7 +8,8 @@
     },
     {
       "n": 2,
-      "texto": "Tomarás as primícias de tçdos os teus frutos, e as porás num cesto, e irás ao lugar, que o Senhor teu Deus tiver escolhido, para aí ser invocado o seu Nome: (1)"
+      "texto": "Tomarás as primícias de tçdos os teus frutos, e as porás num cesto, e irás ao lugar, que o Senhor teu Deus tiver escolhido, para aí ser invocado o seu Nome:",
+      "nota": "fn26_1"
     },
     {
       "n": 3,
@@ -20,7 +21,8 @@
     },
     {
       "n": 5,
-      "texto": "e dirás ria presença do Senhor teu Deus: O sírio perseguia a meu pai, o qual desceu ao Egito, e lá assistiu como estrangeiro, tendo mui poucas pessoas.consigo: e se multiplicou até formar um povo grande e poderoso, e de uma infinita multidão. (2)"
+      "texto": "e dirás ria presença do Senhor teu Deus: O sírio perseguia a meu pai, o qual desceu ao Egito, e lá assistiu como estrangeiro, tendo mui poucas pessoas.consigo: e se multiplicou até formar um povo grande e poderoso, e de uma infinita multidão.",
+      "nota": "fn26_2"
     },
     {
       "n": 6,
@@ -56,7 +58,8 @@
     },
     {
       "n": 14,
-      "texto": "Não comi dessas coisas no meu luto, nem as separei para me servir delas em algum uso impuro, nem empreguei coisa alguma delas em funerais. Obedeci à voz do Senhor meu Deus. e fiz tudo assim como me or denaste. (3)"
+      "texto": "Não comi dessas coisas no meu luto, nem as separei para me servir delas em algum uso impuro, nem empreguei coisa alguma delas em funerais. Obedeci à voz do Senhor meu Deus. e fiz tudo assim como me or denaste.",
+      "nota": "fn26_3"
     },
     {
       "n": 15,
@@ -80,8 +83,17 @@
     }
   ],
   "notas": {
-    "fn26_1": "OÊSTO — Á palavra correspondente que está no origi nal hebraico é tene, que é a egípcia, tena, e que tom a mesma sig nificação; como dissemos no c. 2 do Êx v. 5, encontram-se várias vôzes no Pentateuco tôrmos egípcios quo denotam o conhecimento que Moisés tinha da língua, usos e costumes daquele país.",
-    "fn26_2": "O SfRIO — No original hebraico está meu pai era um arameu nôraada, alusão a Labão perseguindo Jacó.",
-    "fn26_3": "NEM EMPREGUEI COISA ALGUMA DELAS EM FUNE RAIS —- E’ sabido que entre os egípcios eram frequentes as ofertas aos mortos, como entre os outros povos da antiguidade. Enterra vam os objetos necessários para a existência: vestuário, armas, ador nos; entornavam vinho para minorar a sêde aos mortos, e alimen tos para o seu sustento. Euripedes, Ifig. em Taur. 168. Virgílio, Eneida, V. 76, 80. VI, 225. Os museus estão cheios de lápides, baixps-relevos e monumentos, que atestam êstes costumes. No Egito o culto dos mortos era extremamente supersticioso, e como os hebreup. tivessem presenciado essas práticas, que iam de encontro à sua re ligião, Moisés proibe-as expressamente, para que êles não caíssem na idolatria."
+    "fn26_1": {
+      "rotulo": "OÊSTO",
+      "texto": "Á palavra correspondente que está no origi nal hebraico é tene, que é a egípcia, tena, e que tom a mesma sig nificação; como dissemos no c. 2 do Êx v. 5, encontram-se várias vôzes no Pentateuco tôrmos egípcios quo denotam o conhecimento que Moisés tinha da língua, usos e costumes daquele país."
+    },
+    "fn26_2": {
+      "rotulo": "O SfRIO",
+      "texto": "No original hebraico está meu pai era um arameu nôraada, alusão a Labão perseguindo Jacó."
+    },
+    "fn26_3": {
+      "rotulo": "NEM EMPREGUEI COISA ALGUMA DELAS EM FUNE RAIS",
+      "texto": "E’ sabido que entre os egípcios eram frequentes as ofertas aos mortos, como entre os outros povos da antiguidade. Enterra vam os objetos necessários para a existência: vestuário, armas, ador nos; entornavam vinho para minorar a sêde aos mortos, e alimen tos para o seu sustento. Euripedes, Ifig. em Taur. 168. Virgílio, Eneida, V. 76, 80. VI, 225. Os museus estão cheios de lápides, baixps-relevos e monumentos, que atestam êstes costumes. No Egito o culto dos mortos era extremamente supersticioso, e como os hebreup. tivessem presenciado essas práticas, que iam de encontro à sua re ligião, Moisés proibe-as expressamente, para que êles não caíssem na idolatria."
+    }
   }
 }

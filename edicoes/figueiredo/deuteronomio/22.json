@@ -88,7 +88,8 @@
     },
     {
       "n": 22,
-      "texto": "Se um homem dormir com a mulher do outro, morrerão ambos, isto é, o adúltero e a adultera: e tu tirarás o mal do meio de Israel. (1)"
+      "texto": "Se um homem dormir com a mulher do outro, morrerão ambos, isto é, o adúltero e a adultera: e tu tirarás o mal do meio de Israel.",
+      "nota": "fn22_1"
     },
     {
       "n": 23,
@@ -124,7 +125,9 @@
     }
   ],
   "notas": {
-    "fn22_4": "O SEU CADAVER, ETC. — A éste lugar se refere o Evan gelista Jo 19, 31, e S. Paulo na Epistola ad Gaiatas, 3, 13. 14, referindo-se à morte ignominiosa de Jesus Cristo: Êle (Jesus Cristo) nos remiu da maldição da lei tendo-se feito maldito por nós, segun do o que está. escrito. Maldito todo aquêle que está pendente num lenho. Interpretam vários exegetas a oxpressão porque maldito é do Deus, porque só se suspendiam do lenho os que cometiam um crime muito grave contra Deus. — Suspensi tantum blaspheml et idolatrae, e por isso esta pena era considerada ignominiosíssima. Hoc crat supplicium gravissimum et ignominiosissimum (Nachman in Genesis.) Virgílio chama-lhe mors torpíssima; Sôneca, Stípes infamis, cfr. 101, e Tito Lívio Signum infelix. C. 14. E foi a êste sacrifício que se su jeitou Jesus Cristo, para remir os homens! E sujeitou-se esponta neamente oblatus est quia ipse volúit.",
-    "fn22_1": "MORRERÃO AMBOS — E’ a condenação à morte para os adúlteros. Esta penalidade porém era anterior a Moisés, pois já vi mos Judá condenar à. mor te Itamar."
+    "fn22_1": {
+      "rotulo": "MORRERÃO AMBOS",
+      "texto": "E’ a condenação à morte para os adúlteros. Esta penalidade porém era anterior a Moisés, pois já vi mos Judá condenar à. mor te Itamar."
+    }
   }
 }

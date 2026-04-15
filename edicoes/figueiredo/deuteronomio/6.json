@@ -12,7 +12,8 @@
     },
     {
       "n": 3,
-      "texto": "Ouve, ó Israel, e tem cuidado de fazer o que o Se nhor te mandou, para sêres ditoso, e te multiplicares mais, assim como o Senhor Deus de teus pais te prometeu a ter ra que mana leite e mel. (1)"
+      "texto": "Ouve, ó Israel, e tem cuidado de fazer o que o Se nhor te mandou, para sêres ditoso, e te multiplicares mais, assim como o Senhor Deus de teus pais te prometeu a ter ra que mana leite e mel.",
+      "nota": "fn6_1"
     },
     {
       "n": 4,
@@ -36,7 +37,8 @@
     },
     {
       "n": 9,
-      "texto": "e as escreverás no limiar e lias portas da tua casa. (2)"
+      "texto": "e as escreverás no limiar e lias portas da tua casa.",
+      "nota": "fn6_2"
     },
     {
       "n": 10,
@@ -52,7 +54,8 @@
     },
     {
       "n": 13,
-      "texto": "Olha bem, não te esqueças do Senhor, que te ti rou da terra do Egito, da morada da servidão. Temerás ao Senhor teu Deus, e só a êle servirás, e não jurarás senão' pelo seu nome. (3)"
+      "texto": "Olha bem, não te esqueças do Senhor, que te ti rou da terra do Egito, da morada da servidão. Temerás ao Senhor teu Deus, e só a êle servirás, e não jurarás senão' pelo seu nome.",
+      "nota": "fn6_3"
     },
     {
       "n": 14,
@@ -104,8 +107,17 @@
     }
   ],
   "notas": {
-    "fn6_1": "OUVE ISRAEL — Aqui começa a primeira parte do se gundo discurso mosaico, em que Moisés relembra aos hebreus os motivos que lhes impõem o dever de absoluta fidelidade ao verdadeiro Deus.",
-    "fn6_2": "22 AS ESCREVERAS — 6ste costume era análogo a um egípcio, que os hebreus tinham conhecido. Alguma coisa disso pas sou para o catolicismo; eram frequentes nas antigas casas dísticos com palavras santas, extraídas da Escritura Sagrada, orações e ima gens, pregadas nas portas de entrada.",
-    "fn6_3": "TEMERÁS AO SENHOR TEU I)El*S — JJevemos notar que as respostas que Nosso Senhor Jesus Cristo deu no deserto às três tentações do demónio foram extraídas destas passagens."
+    "fn6_1": {
+      "rotulo": "OUVE ISRAEL",
+      "texto": "Aqui começa a primeira parte do se gundo discurso mosaico, em que Moisés relembra aos hebreus os motivos que lhes impõem o dever de absoluta fidelidade ao verdadeiro Deus."
+    },
+    "fn6_2": {
+      "rotulo": "22 AS ESCREVERAS",
+      "texto": "6ste costume era análogo a um egípcio, que os hebreus tinham conhecido. Alguma coisa disso pas sou para o catolicismo; eram frequentes nas antigas casas dísticos com palavras santas, extraídas da Escritura Sagrada, orações e ima gens, pregadas nas portas de entrada."
+    },
+    "fn6_3": {
+      "rotulo": "TEMERÁS AO SENHOR TEU I)El*S",
+      "texto": "JJevemos notar que as respostas que Nosso Senhor Jesus Cristo deu no deserto às três tentações do demónio foram extraídas destas passagens."
+    }
   }
 }

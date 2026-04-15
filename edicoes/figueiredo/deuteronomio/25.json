@@ -12,7 +12,8 @@
     },
     {
       "n": 3,
-      "texto": "Bem entendido todavia: que êles não passem de quarenta: Para que teu irmão se não retire feiamente mal tratado diante de teus olhos (1)"
+      "texto": "Bem entendido todavia: que êles não passem de quarenta: Para que teu irmão se não retire feiamente mal tratado diante de teus olhos",
+      "nota": "fn25_1"
     },
     {
       "n": 4,
@@ -80,6 +81,9 @@
     }
   ],
   "notas": {
-    "fn25_1": "NÃO PASSEM DE QUARENTA — Flâvio Josefo diz que estava introduzido o uso de se aplicar apenas 39 açoites, para que não sucedesse ser transgredido èste preceito. S. Paulo confirma esta noticia do historiador judaico na sua 2 Cor 11, 24."
+    "fn25_1": {
+      "rotulo": "NÃO PASSEM DE QUARENTA",
+      "texto": "Flâvio Josefo diz que estava introduzido o uso de se aplicar apenas 39 açoites, para que não sucedesse ser transgredido èste preceito. S. Paulo confirma esta noticia do historiador judaico na sua 2 Cor 11, 24."
+    }
   }
 }

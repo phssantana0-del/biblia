@@ -8,7 +8,8 @@
     },
     {
       "n": 2,
-      "texto": "a qual se deve fazer desta maneira: Aquêle a quem seu amigo, ou seu próximo, ou seu irmão devér alguma;. coisa, não a poderá exigir, porque é o ano da remissão do Senhor, (1)"
+      "texto": "a qual se deve fazer desta maneira: Aquêle a quem seu amigo, ou seu próximo, ou seu irmão devér alguma;. coisa, não a poderá exigir, porque é o ano da remissão do Senhor,",
+      "nota": "fn15_1"
     },
     {
       "n": 3,
@@ -16,7 +17,8 @@
     },
     {
       "n": 4,
-      "texto": "E absolutamente não haverá entre vós pobre al gum nem mendigo: para que o Senhor teu Deus te aben çoe' na terra, de que êle está para te dar a posse. (2)"
+      "texto": "E absolutamente não haverá entre vós pobre al gum nem mendigo: para que o Senhor teu Deus te aben çoe' na terra, de que êle está para te dar a posse.",
+      "nota": "fn15_2"
     },
     {
       "n": 5,
@@ -24,7 +26,8 @@
     },
     {
       "n": 6,
-      "texto": "Tu emprestarás a muitos povos, e de ninguém receberás empréstimos. Tu dominarás sôbre muitas na ções, e. a ti nenhuma te dominará. (3)"
+      "texto": "Tu emprestarás a muitos povos, e de ninguém receberás empréstimos. Tu dominarás sôbre muitas na ções, e. a ti nenhuma te dominará.",
+      "nota": "fn15_3"
     },
     {
       "n": 7,
@@ -92,12 +95,26 @@
     },
     {
       "n": 23,
-      "texto": "Terás somente a cautela de não lhe comeres o sangue, mas derramá-lo-ás pela terra como água. (4)"
+      "texto": "Terás somente a cautela de não lhe comeres o sangue, mas derramá-lo-ás pela terra como água.",
+      "nota": "fn15_4"
     }
   ],
   "notas": {
-    "fn15_1": "NÃO A PODERÁ EXIGIR — Como no ano sabático a terra não era cultivada, ficavam os hebreus privados dos recursos que poderiam auferir nos outros anos. Sendo assim era muito justo não se lhes exigir o pagamento das suas dívidas naquele ano.",
-    "fn15_2": "NÃO HAVERÁ ENTRE VÓS POBRE ALGUM — Não se trata aqui duma promessa, o que estaria em contradição com o versículo 11. Estas palavras têm a fôrça duma proibição e devem entender-se assim: “ Tu não exigirás dos teus concidadãos, durante o ano sabático, pagamentos que os reduzam fatalmente à indigên cia e mendicidade.”",
-    "fn15_3": "TU EMPRESTARAS A MUITOS POVOS — Moisés não autoriza por estas palavras a usura, mas sim o empréstimo com um interésse razoável a respeito dos estrangeiros. Ao mesmo tempo promete aos hebreus a prosperidade e o domínio sôbre muitas na ções. Neste versículo há duas partes paralelas."
+    "fn15_1": {
+      "rotulo": "NÃO A PODERÁ EXIGIR",
+      "texto": "Como no ano sabático a terra não era cultivada, ficavam os hebreus privados dos recursos que poderiam auferir nos outros anos. Sendo assim era muito justo não se lhes exigir o pagamento das suas dívidas naquele ano."
+    },
+    "fn15_2": {
+      "rotulo": "NÃO HAVERÁ ENTRE VÓS POBRE ALGUM",
+      "texto": "Não se trata aqui duma promessa, o que estaria em contradição com o versículo 11. Estas palavras têm a fôrça duma proibição e devem entender-se assim: “ Tu não exigirás dos teus concidadãos, durante o ano sabático, pagamentos que os reduzam fatalmente à indigên cia e mendicidade.”"
+    },
+    "fn15_3": {
+      "rotulo": "TU EMPRESTARAS A MUITOS POVOS",
+      "texto": "Moisés não autoriza por estas palavras a usura, mas sim o empréstimo com um interésse razoável a respeito dos estrangeiros. Ao mesmo tempo promete aos hebreus a prosperidade e o domínio sôbre muitas na ções. Neste versículo há duas partes paralelas."
+    },
+    "fn15_4": {
+      "rotulo": "COMO ACUA",
+      "texto": "Isto é, sem valor."
+    }
   }
 }

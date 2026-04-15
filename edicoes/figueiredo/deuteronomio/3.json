@@ -16,7 +16,8 @@
     },
     {
       "n": 4,
-      "texto": "devastando ao mesmo tempo tôdas as suas cida des: Não houve cidade, que nos escapasse: Tomamos sessenta cidades, e todo o país de Argob que era o reino de Og, em Basan. (1)"
+      "texto": "devastando ao mesmo tempo tôdas as suas cida des: Não houve cidade, que nos escapasse: Tomamos sessenta cidades, e todo o país de Argob que era o reino de Og, em Basan.",
+      "nota": "fn3_1"
     },
     {
       "n": 5,
@@ -32,7 +33,8 @@
     },
     {
       "n": 8,
-      "texto": "Nós pois neste tempo nos fizemos senhores do pais dos dois reis dos amorreus, que estavam na banda de aquém do Jordão, desde a torrente de Arnon até o monte Hermon, (2)"
+      "texto": "Nós pois neste tempo nos fizemos senhores do pais dos dois reis dos amorreus, que estavam na banda de aquém do Jordão, desde a torrente de Arnon até o monte Hermon,",
+      "nota": "fn3_2"
     },
     {
       "n": 9,
@@ -44,7 +46,8 @@
     },
     {
       "n": 11,
-      "texto": "Porque Og, rei de Basan, era o único que tinha” ficado da estirpe dos gigantes. Em Rabat, cidade dos filhos de Amon, se mostra o seu leito de ferro, que tem nove côvados de comprido, quatro de largo, pela medi da de um côvado de mão de homem. (3)"
+      "texto": "Porque Og, rei de Basan, era o único que tinha” ficado da estirpe dos gigantes. Em Rabat, cidade dos filhos de Amon, se mostra o seu leito de ferro, que tem nove côvados de comprido, quatro de largo, pela medi da de um côvado de mão de homem.",
+      "nota": "fn3_3"
     },
     {
       "n": 12,
@@ -68,7 +71,8 @@
     },
     {
       "n": 17,
-      "texto": "Com a campina do deserto, e o Jordão, e os li mites desde Ceneret até o mar do deserto, que é salga- *díssimo, até às faldas do monte Fasga para o Oriente. (4)"
+      "texto": "Com a campina do deserto, e o Jordão, e os li mites desde Ceneret até o mar do deserto, que é salga- *díssimo, até às faldas do monte Fasga para o Oriente.",
+      "nota": "fn3_4"
     },
     {
       "n": 18,
@@ -100,7 +104,8 @@
     },
     {
       "n": 25,
-      "texto": "Passarei pois, e verei essa excelente terra além do Jordão, êsse belo monte, e o Líbano. (5)"
+      "texto": "Passarei pois, e verei essa excelente terra além do Jordão, êsse belo monte, e o Líbano.",
+      "nota": "fn3_5"
     },
     {
       "n": 26,
@@ -120,10 +125,25 @@
     }
   ],
   "notas": {
-    "fn3_1": "SESSENTA CIDADES — Foram mata tarde chamadas Havot Jair, porque vieram a pertencer a Jair, da tribo de Manassés. O PAIS DE ARGOB — Mais tarde, no tempo de Jesus Cristo, a Traconitida. O Argob é um país vulcânico, coberto de rochas basálticas.",
-    "fn3_2": "’ ARNON — Rio que vai desaguar no mar Morto. HERMON — Cordilheira ao norte da Palestina, ramificação do Ante-Líbano. *",
-    "fn3_3": "SÉU LEITO DE FERRO — Provàvelmente o sarcófago em que foi colocado depois de morto. Por ferro deve enteude^-se o basalto negro, freqiiente naquela região, onde o ferro entra numa proporção de 20 por cento. Ainda hoje os árabes chamam ao basalto ferro.",
-    "fn3_4": "SAIX3AD1SS1MO — E’ o mar Morto.",
-    "fn3_5": "PASSAREI. POIS — Interpretam alguns estas palavras desta forma: Tranisire milii liceat, e porque ignoravam que isso era contra a vontade de Deus, julgando que a predição não era defini tiva, não passando duma ameaça. Ncscicbat an praedictio illa erat definitiva, an tantum comminatoria. BELO MONTE — Toma-se a parte pelo todo, e designa tôda a terra de Canaã. Menochio pensou que se tratava do monte Moriá, no qual teve lugar o sacrifício de Isaac, ou ainda as montanhas de Betei, mais altas que o Moriá, e mais vizinhas do Jordão, pouco afastadas de Jericó."
+    "fn3_1": {
+      "rotulo": "SESSENTA CIDADES",
+      "texto": "Foram mata tarde chamadas Havot Jair, porque vieram a pertencer a Jair, da tribo de Manassés. O PAIS DE ARGOB — Mais tarde, no tempo de Jesus Cristo, a Traconitida. O Argob é um país vulcânico, coberto de rochas basálticas."
+    },
+    "fn3_2": {
+      "rotulo": "’ ARNON",
+      "texto": "Rio que vai desaguar no mar Morto. HERMON — Cordilheira ao norte da Palestina, ramificação do Ante-Líbano. *"
+    },
+    "fn3_3": {
+      "rotulo": "SÉU LEITO DE FERRO",
+      "texto": "Provàvelmente o sarcófago em que foi colocado depois de morto. Por ferro deve enteude^-se o basalto negro, freqiiente naquela região, onde o ferro entra numa proporção de 20 por cento. Ainda hoje os árabes chamam ao basalto ferro."
+    },
+    "fn3_4": {
+      "rotulo": "SAIX3AD1SS1MO",
+      "texto": "E’ o mar Morto."
+    },
+    "fn3_5": {
+      "rotulo": "PASSAREI. POIS",
+      "texto": "Interpretam alguns estas palavras desta forma: Tranisire milii liceat, e porque ignoravam que isso era contra a vontade de Deus, julgando que a predição não era defini tiva, não passando duma ameaça. Ncscicbat an praedictio illa erat definitiva, an tantum comminatoria. BELO MONTE — Toma-se a parte pelo todo, e designa tôda a terra de Canaã. Menochio pensou que se tratava do monte Moriá, no qual teve lugar o sacrifício de Isaac, ou ainda as montanhas de Betei, mais altas que o Moriá, e mais vizinhas do Jordão, pouco afastadas de Jericó."
+    }
   }
 }

@@ -4,7 +4,8 @@
   "versiculos": [
     {
       "n": 1,
-      "texto": "Se se levantar no meio de ti um profeta, ou qual quer que digà que teve uma visão em sonhos, e predisser algum sinal ou prodígio, (1)"
+      "texto": "Se se levantar no meio de ti um profeta, ou qual quer que digà que teve uma visão em sonhos, e predisser algum sinal ou prodígio,",
+      "nota": "fn13_1"
     },
     {
       "n": 2,
@@ -36,7 +37,8 @@
     },
     {
       "n": 9,
-      "texto": "mas logo o matarás: Seja a tua mão a primeira1, sôbre êle, e depois todo o povo lhe ponha as suas. (2)"
+      "texto": "mas logo o matarás: Seja a tua mão a primeira1, sôbre êle, e depois todo o povo lhe ponha as suas.",
+      "nota": "fn13_2"
     },
     {
       "n": 10,
@@ -52,7 +54,8 @@
     },
     {
       "n": 13,
-      "texto": "Filhos de Belial saíram do meio de ti, e perverte ram os habitantes da sua cidade, e disseram: Vamos, e sirvamos aos deuses estranhos que vos são desconheci dos: (3)"
+      "texto": "Filhos de Belial saíram do meio de ti, e perverte ram os habitantes da sua cidade, e disseram: Vamos, e sirvamos aos deuses estranhos que vos são desconheci dos:",
+      "nota": "fn13_3"
     },
     {
       "n": 14,
@@ -68,7 +71,8 @@
     },
     {
       "n": 17,
-      "texto": "e não se te pegará às. mãos nada dêste anátema: P ara que o Senhor aplaque a ira do., seu furor, e se com padeça de ti, e te multiplique como êle o jurou a teus pais, (4)."
+      "texto": "e não se te pegará às. mãos nada dêste anátema: P ara que o Senhor aplaque a ira do., seu furor, e se com padeça de ti, e te multiplique como êle o jurou a teus pais,.",
+      "nota": "fn13_4"
     },
     {
       "n": 18,
@@ -76,9 +80,21 @@
     }
   ],
   "notas": {
-    "fn13_6": "OFERECENDO-LHES SEUS FILHOS E FILHAS — E’ a condenação formal dos sacrifícios humanos que o Senhor aborrece, e que sempre foram proscritos em Israel.",
-    "fn13_1": "SE SE LEVANTAR — Moisés. insiste na unidade do cul to, indicando os meios de obstar à invasão da propaganda idolátrica em Jerusalém.",
-    "fn13_2": "LOGO O MATARAS — No hebreu nao há têrmo algum que corresponda ao statim da Vulgata, que o padre Pereira traduriu por logo: o que está no original é matando-o, tu o matarás, gônero de repetição que tem por fim reforçar a significação do verbo. SEJA A TUA MAO A PRIMEIRA SÔBRE ÊLE — Entre os",
-    "fn13_4": "E NÃO SE TE PEGARÃ AS MÃOS NADA DESTE ANA-"
+    "fn13_1": {
+      "rotulo": "SE SE LEVANTAR",
+      "texto": "Moisés. insiste na unidade do cul to, indicando os meios de obstar à invasão da propaganda idolátrica em Jerusalém."
+    },
+    "fn13_2": {
+      "rotulo": "LOGO O MATARAS",
+      "texto": "No hebreu nao há têrmo algum que corresponda ao statim da Vulgata, que o padre Pereira traduriu por logo: o que está no original é matando-o, tu o matarás, gônero de repetição que tem por fim reforçar a significação do verbo. SEJA A TUA MAO A PRIMEIRA SÔBRE ÊLE — Entre os"
+    },
+    "fn13_4": {
+      "rotulo": "",
+      "texto": "E NÃO SE TE PEGARÃ AS MÃOS NADA DESTE ANA-"
+    },
+    "fn13_3": {
+      "rotulo": "FILHOS DE BELIAL",
+      "texto": "Etimògicamente Belial significa sem valor, e por extensão, malícia, mal. No Novo Testamento passou a ser sinónimo de Satã."
+    }
   }
 }

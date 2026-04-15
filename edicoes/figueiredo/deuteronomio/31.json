@@ -8,11 +8,13 @@
     },
     {
       "n": 2,
-      "texto": "e lhes disse: Eu acho-me hoje com cento e vinte anos, não posso daqui em diante sair, nem entrar, prin cipalmente tendo-me'dito o Senhor: Tu não passarás êste Jordão. (1), 1"
+      "texto": "e lhes disse: Eu acho-me hoje com cento e vinte anos, não posso daqui em diante sair, nem entrar, prin cipalmente tendo-me'dito o Senhor: Tu não passarás êste Jordão., 1",
+      "nota": "fn31_1"
     },
     {
       "n": 3,
-      "texto": "O Senhor teu Deus pois passará diante de ti: Êle mesmo extinguirá à vista de teus olhos tôdas estas na ções, e tu as possuirás: E êste Josué passará adiante de ti, como o Senhor disse. (2)"
+      "texto": "O Senhor teu Deus pois passará diante de ti: Êle mesmo extinguirá à vista de teus olhos tôdas estas na ções, e tu as possuirás: E êste Josué passará adiante de ti, como o Senhor disse.",
+      "nota": "fn31_2"
     },
     {
       "n": 4,
@@ -36,11 +38,13 @@
     },
     {
       "n": 9,
-      "texto": "Escreveu pois Moisés esta lei, e a entregou aos sacerdotes filhos de Levi, que levavam a arca do concerto do Senhor, e a todos os anciãos de Israel. (3)"
+      "texto": "Escreveu pois Moisés esta lei, e a entregou aos sacerdotes filhos de Levi, que levavam a arca do concerto do Senhor, e a todos os anciãos de Israel.",
+      "nota": "fn31_3"
     },
     {
       "n": 10,
-      "texto": "E lhes ordenou, dizendo: Passados sete anos, no ano da remissão, na solenid.ade dos tabernáculos, (4)"
+      "texto": "E lhes ordenou, dizendo: Passados sete anos, no ano da remissão, na solenid.ade dos tabernáculos,",
+      "nota": "fn31_4"
     },
     {
       "n": 11,
@@ -76,7 +80,8 @@
     },
     {
       "n": 19,
-      "texto": "Agora pois escrevei para vós êste cântico, e cnsinai-o aos filhos de Israel: Para que êles o saibam de cor, e o cantem, e para que êste cântico me sirva de tes temunho entre os filhos de Israel. (5)"
+      "texto": "Agora pois escrevei para vós êste cântico, e cnsinai-o aos filhos de Israel: Para que êles o saibam de cor, e o cantem, e para que êste cântico me sirva de tes temunho entre os filhos de Israel.",
+      "nota": "fn31_5"
     },
     {
       "n": 20,
@@ -92,7 +97,8 @@
     },
     {
       "n": 23,
-      "texto": "E ordenou o Senhor a Josué filho de Nun, e lhe disse: Tem ânimo, e sê robusto: Porque tu introduzirás os filhos de Israel na terra, que eu lhes prometi, e eu serei contigo. (6)"
+      "texto": "E ordenou o Senhor a Josué filho de Nun, e lhe disse: Tem ânimo, e sê robusto: Porque tu introduzirás os filhos de Israel na terra, que eu lhes prometi, e eu serei contigo.",
+      "nota": "fn31_6"
     },
     {
       "n": 24,
@@ -124,11 +130,29 @@
     }
   ],
   "notas": {
-    "fn31_1": "CENTO E VINTE ANOS: — Esta idade está perfeitamente de acôrdo com as anteriores; os hebreus passaram quarenta",
-    "fn31_2": "JOSUâ — Filho de Nun, da tribo de Efralm, 1 Par 8, 27, aparece-nos como servo de Moisés no Ex 24, 13. Era dotado de destreza para a arte da guerra. Ex 17, 93; Jos 8, 1. 26 e 10, 9. 43 e foi destinado por Deus,' que o elegeu sucessor de Moisés, para conquistar a Terra Santa, Núm 27, 18-23. Tornou-se Josué digno de tão grande honra, já pela sua fé veemente, já pelo seu inque brantável valor; da sua confiança em Deus deu prova exuberante em Cadesbarne, Núm 14, 6-9 onde mostrou ao mesmo tempo ser dotado dum ânimo corajoso e audaz. Foi esta valentia e mais ainda esta crença ardente na proteção do Céu que lhe valeu a graça de entrar, como Caleb, na Terra Prometida..Núm 14, 30-38. E’ porém agora, quando Moisés o investe na sua missão, que éle aparece com tôdas essas virtudes em grau sublimado; a sua fé torna-se entu siasta; o seu ânimo invencível; o seu caráter inquebrantável; o seu valor irrivalizável: sabe-se impor, e sabe mandar; é dócil e enér gico: é violento e caritativo, ousado e refletido.",
-    "fn31_3": "ESTA LEI — Estas palavras constituem mais uma prova •da origem mosaica do Pentateuco; porque mesmo que se admitisse •que elas se devem entender estritlssimamente, referindo-as só ao Deateronômio, como êste é o resumo dos quatro livros antecedentes « pressupõe a sua existência, necessàriamente tinha de concluir ser o Pentateuco de Moisés.",
-    "fn31_4": "ANO DA REMISSÃO — E* o ano sabático.",
-    "fn31_5": "ESCREVEI ASTE CÂNTICO: —• É o cântico de Moisés que vem no capítulo seguinte; está escrito em verso para ser mais fà- cilmente retido pelo povo. Era costume, na antiguidade, reduzir a verso a narração dos tatos importantes que interessavam à vida dum povo, para que êste os não esquecesse. Até os legisladores re correram a êste meio; mas não é preciso ir tão longe, porque ainda agora.o povo retém íàcilmente quaisquer fatos ou preceitos, civis ou religiosos, quando escritos em verso.",
-    "fn31_6": "' E ORDENOU O SENHOR A JOSUÉ — E’ pela vez pri meira que o Senhor se dirige diretamente só a Josué."
+    "fn31_1": {
+      "rotulo": "CENTO E VINTE ANOS:",
+      "texto": "Esta idade está perfeitamente de acôrdo com as anteriores; os hebreus passaram quarenta"
+    },
+    "fn31_2": {
+      "rotulo": "JOSUâ",
+      "texto": "Filho de Nun, da tribo de Efralm, 1 Par 8, 27, aparece-nos como servo de Moisés no Ex 24, 13. Era dotado de destreza para a arte da guerra. Ex 17, 93; Jos 8, 1. 26 e 10, 9. 43 e foi destinado por Deus,' que o elegeu sucessor de Moisés, para conquistar a Terra Santa, Núm 27, 18-23. Tornou-se Josué digno de tão grande honra, já pela sua fé veemente, já pelo seu inque brantável valor; da sua confiança em Deus deu prova exuberante em Cadesbarne, Núm 14, 6-9 onde mostrou ao mesmo tempo ser dotado dum ânimo corajoso e audaz. Foi esta valentia e mais ainda esta crença ardente na proteção do Céu que lhe valeu a graça de entrar, como Caleb, na Terra Prometida..Núm 14, 30-38. E’ porém agora, quando Moisés o investe na sua missão, que éle aparece com tôdas essas virtudes em grau sublimado; a sua fé torna-se entu siasta; o seu ânimo invencível; o seu caráter inquebrantável; o seu valor irrivalizável: sabe-se impor, e sabe mandar; é dócil e enér gico: é violento e caritativo, ousado e refletido."
+    },
+    "fn31_3": {
+      "rotulo": "ESTA LEI",
+      "texto": "Estas palavras constituem mais uma prova •da origem mosaica do Pentateuco; porque mesmo que se admitisse •que elas se devem entender estritlssimamente, referindo-as só ao Deateronômio, como êste é o resumo dos quatro livros antecedentes « pressupõe a sua existência, necessàriamente tinha de concluir ser o Pentateuco de Moisés."
+    },
+    "fn31_4": {
+      "rotulo": "ANO DA REMISSÃO",
+      "texto": "E* o ano sabático."
+    },
+    "fn31_5": {
+      "rotulo": "ESCREVEI ASTE CÂNTICO:",
+      "texto": "• É o cântico de Moisés que vem no capítulo seguinte; está escrito em verso para ser mais fà- cilmente retido pelo povo. Era costume, na antiguidade, reduzir a verso a narração dos tatos importantes que interessavam à vida dum povo, para que êste os não esquecesse. Até os legisladores re correram a êste meio; mas não é preciso ir tão longe, porque ainda agora.o povo retém íàcilmente quaisquer fatos ou preceitos, civis ou religiosos, quando escritos em verso."
+    },
+    "fn31_6": {
+      "rotulo": "' E ORDENOU O SENHOR A JOSUÉ",
+      "texto": "E’ pela vez pri meira que o Senhor se dirige diretamente só a Josué."
+    }
   }
 }

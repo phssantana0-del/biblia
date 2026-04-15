@@ -4,7 +4,8 @@
   "versiculos": [
     {
       "n": 1,
-      "texto": "Quanclo pois vierem sôbre ti tôdas estas coisas, a bênção, ou*a maldição, que eu pus diante de ti: E tu tocado de arrependimento no fundo do teu coração entre tôdas as nações, para ond,e o Senhor teu Deus te tiver es palhado, (1)"
+      "texto": "Quanclo pois vierem sôbre ti tôdas estas coisas, a bênção, ou*a maldição, que eu pus diante de ti: E tu tocado de arrependimento no fundo do teu coração entre tôdas as nações, para ond,e o Senhor teu Deus te tiver es palhado,",
+      "nota": "fn30_1"
     },
     {
       "n": 2,
@@ -24,7 +25,8 @@
     },
     {
       "n": 6,
-      "texto": "O Senhor teu Deus circuncidará o teu coração, e o coração de teus filhos: para que ames o Senhor teu Deus de-todo o teu coração, e de tôda a tua alma, para que possas viver. (2) 1"
+      "texto": "O Senhor teu Deus circuncidará o teu coração, e o coração de teus filhos: para que ames o Senhor teu Deus de-todo o teu coração, e de tôda a tua alma, para que possas viver. 1",
+      "nota": "fn30_2"
     },
     {
       "n": 7,
@@ -44,7 +46,8 @@
     },
     {
       "n": 11,
-      "texto": "Êste mandamento, que eu hoje te intimo, não está sôbre ti, nem está longe de ti, (3)"
+      "texto": "Êste mandamento, que eu hoje te intimo, não está sôbre ti, nem está longe de ti,",
+      "nota": "fn30_3"
     },
     {
       "n": 12,
@@ -84,8 +87,17 @@
     }
   ],
   "notas": {
-    "fn30_1": "TOCADO DE ARREPENDIMENTO — Estas palavras in dicam que os hebreus acreditavam na liberdade,' e por conseqtiência na responsabilidade da vontade humana.- Muitas outras - passagens vêm corroborar esta conclusão, tais como Jos 24, 14 s Is 1, 19 s Jer 21, 8 etc., etc.",
-    "fn30_2": "CIRCUNCIDARA TEU CORAÇAO — Purificá-lo-á das suas funestas inclinações.",
-    "fn30_3": ". NEM ESTA’IX)NGE DE TI — Moisés quer dizer que a lei 'imposta não é. de difícil cumprimento, está ao alcance de todos, e não exige esforços sobre-humanos."
+    "fn30_1": {
+      "rotulo": "TOCADO DE ARREPENDIMENTO",
+      "texto": "Estas palavras in dicam que os hebreus acreditavam na liberdade,' e por conseqtiência na responsabilidade da vontade humana.- Muitas outras - passagens vêm corroborar esta conclusão, tais como Jos 24, 14 s Is 1, 19 s Jer 21, 8 etc., etc."
+    },
+    "fn30_2": {
+      "rotulo": "CIRCUNCIDARA TEU CORAÇAO",
+      "texto": "Purificá-lo-á das suas funestas inclinações."
+    },
+    "fn30_3": {
+      "rotulo": ". NEM ESTA’IX)NGE DE TI",
+      "texto": "Moisés quer dizer que a lei 'imposta não é. de difícil cumprimento, está ao alcance de todos, e não exige esforços sobre-humanos."
+    }
   }
 }

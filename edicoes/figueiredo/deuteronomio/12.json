@@ -4,7 +4,8 @@
   "versiculos": [
     {
       "n": 1,
-      "texto": "Êstes são os preceitos e juízos, que vós deveis cumprir na terra, que o Senhor Deus de teus pais te há de dar, para a possuíres todos os dias, que andares sôbre a terra. (1)"
+      "texto": "Êstes são os preceitos e juízos, que vós deveis cumprir na terra, que o Senhor Deus de teus pais te há de dar, para a possuíres todos os dias, que andares sôbre a terra.",
+      "nota": "fn12_1"
     },
     {
       "n": 2,
@@ -12,7 +13,8 @@
     },
     {
       "n": 3,
-      "texto": "Derribai os seus altares, e quebrai as suas estátuas,"
+      "texto": "Derribai os seus altares, e quebrai as suas estátuas,",
+      "nota": "fn12_2"
     },
     {
       "n": 4,
@@ -48,7 +50,8 @@
     },
     {
       "n": 12,
-      "texto": "Aí vos banqueteareis diante do Senhor vosso Deus, vós e vossos filhos e filhas, servos e servas, e o levita que mora nas vossas cidades: Porque êles não têm outra porção nem herança entre vós. (3)"
+      "texto": "Aí vos banqueteareis diante do Senhor vosso Deus, vós e vossos filhos e filhas, servos e servas, e o levita que mora nas vossas cidades: Porque êles não têm outra porção nem herança entre vós.",
+      "nota": "fn12_3"
     },
     {
       "n": 13,
@@ -68,7 +71,8 @@
     },
     {
       "n": 17,
-      "texto": "Não poderás comer nas tuas cidades o dízimo do teu trigo, e do vinho, e do azeite, nem os primogénitos de vacas, e de ovelhas, nem coisa de que tenhas feito voto', ou que voluntàriamente queiras oferecer, nem as primí cias das tuas mãos: (4)"
+      "texto": "Não poderás comer nas tuas cidades o dízimo do teu trigo, e do vinho, e do azeite, nem os primogénitos de vacas, e de ovelhas, nem coisa de que tenhas feito voto', ou que voluntàriamente queiras oferecer, nem as primí cias das tuas mãos:",
+      "nota": "fn12_4"
     },
     {
       "n": 18,
@@ -92,7 +96,8 @@
     },
     {
       "n": 23,
-      "texto": "Guarda-te somente de lhes comer o sangue: por que o sangue lhes serve de alma e por isso, não deves co mer a alma com a carne: (5)"
+      "texto": "Guarda-te somente de lhes comer o sangue: por que o sangue lhes serve de alma e por isso, não deves co mer a alma com a carne:",
+      "nota": "fn12_5"
     },
     {
       "n": 24,
@@ -124,7 +129,8 @@
     },
     {
       "n": 31,
-      "texto": "Não o farás assim, com o Senhor teu Deus. Por que elas fizeram pelos seus deuses, tôdas as abominações, que o Senhor aborrece, oferece.ndo-lhes seus filhos e filhas e queimando-os no fogo. (6)"
+      "texto": "Não o farás assim, com o Senhor teu Deus. Por que elas fizeram pelos seus deuses, tôdas as abominações, que o Senhor aborrece, oferece.ndo-lhes seus filhos e filhas e queimando-os no fogo.",
+      "nota": "fn12_6"
     },
     {
       "n": 32,
@@ -132,11 +138,29 @@
     }
   ],
   "notas": {
-    "fn12_8": "DE ALÉM DO JORDÃO — Significa aqui, a oeste dêste rio. GALGALA — Há dois locais com êste nome: um ao pé do Jor dão, e o outro, qúe é o presente, fica situado a vinte quilómetros para o sul do Garizim.",
-    "fn12_1": "ÊSTES S'AO OS PRECEITOS — Êste versículo é o preâm bulo da segunda parte do discurso de Moisés, 12-26. O legislador vai rememorar resumidamente a lei que Deus o encarregou de dar ao povo, enumerando diversos pontos de direito religioso, público e privado.",
-    "fn12_2": "DERRIBAI OS SEUS ALTARES — A idéia dominante de que cada povo devia ter os seus deuses particulares era uma tenta ção para os israelitas adorarem os falsos deuses da terra de Canaã, confundindo a idolatria com o culto do verdadeiro Deus. Moisés pre vê êsté perigo e por isso promulga esta disposição, tendente a des truir todos os vestígios da idolatria.",
-    "fn12_3": "VOS BANQUETEAREIS DIANTE DO SENHOR — Há aqui uma referência às refeições sagradas que acompanhavam um certo número de sacrifícios, e onde o oferente da vítima consumia parte desta.",
-    "fn12_04": "O DÍZIMO — Além do dízimo pago aos levitas e reser vado ao seu uso, os israelitas tinham um outro extraordinário, que se trazia ao lugar das festas, e que devia ser consumido Junto da santuário.",
-    "fn12_5": "O SANGUE LHES SERVE DE ALMA — A Vulgata tra duziu por anima o têrmo hebraico nefeech, que significa sôpro, res piração; e como esta é o sinal da vida, os hebreus acabaram por designar a própria Tida pela mesma palavra nefesch. NAO DEVES COMER A ALMA — Isto é, o sangue, pela mesma razão por que é pelo sangue que se alenta e conserva a vida; escu sado é dizer que se trata da vida animal. Quia sanguine alitur et servatur vita. Por consequência temos que alma é, aqui, sinónimo de sangue, pelo que é proibido comer, carne com sangue. Animam com carnem idest Carnem cum sanguine. Menochlo, Lapide, etc."
+    "fn12_1": {
+      "rotulo": "ÊSTES S'AO OS PRECEITOS",
+      "texto": "Êste versículo é o preâm bulo da segunda parte do discurso de Moisés, 12-26. O legislador vai rememorar resumidamente a lei que Deus o encarregou de dar ao povo, enumerando diversos pontos de direito religioso, público e privado."
+    },
+    "fn12_2": {
+      "rotulo": "DERRIBAI OS SEUS ALTARES",
+      "texto": "A idéia dominante de que cada povo devia ter os seus deuses particulares era uma tenta ção para os israelitas adorarem os falsos deuses da terra de Canaã, confundindo a idolatria com o culto do verdadeiro Deus. Moisés pre vê êsté perigo e por isso promulga esta disposição, tendente a des truir todos os vestígios da idolatria."
+    },
+    "fn12_3": {
+      "rotulo": "VOS BANQUETEAREIS DIANTE DO SENHOR",
+      "texto": "Há aqui uma referência às refeições sagradas que acompanhavam um certo número de sacrifícios, e onde o oferente da vítima consumia parte desta."
+    },
+    "fn12_4": {
+      "rotulo": "O DÍZIMO",
+      "texto": "Além do dízimo pago aos levitas e reser vado ao seu uso, os israelitas tinham um outro extraordinário, que se trazia ao lugar das festas, e que devia ser consumido Junto da santuário."
+    },
+    "fn12_5": {
+      "rotulo": "O SANGUE LHES SERVE DE ALMA",
+      "texto": "A Vulgata tra duziu por anima o têrmo hebraico nefeech, que significa sôpro, res piração; e como esta é o sinal da vida, os hebreus acabaram por designar a própria Tida pela mesma palavra nefesch. NAO DEVES COMER A ALMA — Isto é, o sangue, pela mesma razão por que é pelo sangue que se alenta e conserva a vida; escu sado é dizer que se trata da vida animal. Quia sanguine alitur et servatur vita. Por consequência temos que alma é, aqui, sinónimo de sangue, pelo que é proibido comer, carne com sangue. Animam com carnem idest Carnem cum sanguine. Menochlo, Lapide, etc."
+    },
+    "fn12_6": {
+      "rotulo": "OFERECENDO-LHES SEUS FILHOS E FILHAS",
+      "texto": "E’ a condenação formal dos sacrifícios humanos que o Senhor aborrece, e que sempre foram proscritos em Israel."
+    }
   }
 }

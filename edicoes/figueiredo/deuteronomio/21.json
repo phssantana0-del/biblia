@@ -44,11 +44,13 @@
     },
     {
       "n": 11,
-      "texto": "e vires entre o número dos prisioneiros uma mu lher formosa, e te namorares dela, e a queiras ter por espôsa,(l) 1"
+      "texto": "e vires entre o número dos prisioneiros uma mu lher formosa, e te namorares dela, e a queiras ter por espôsa,",
+      "nota": "fn21_1"
     },
     {
       "n": 12,
-      "texto": "introduzi-la-ás em tua casa: ela rapará os cabe los, e cortará as unhas, (2)"
+      "texto": "introduzi-la-ás em tua casa: ela rapará os cabe los, e cortará as unhas,",
+      "nota": "fn21_2"
     },
     {
       "n": 13,
@@ -76,7 +78,8 @@
     },
     {
       "n": 19,
-      "texto": "Pegarão nêle, e o levarão aos anciãos daquela ci dade, e à porta onde se fazem os juízos, (3)"
+      "texto": "Pegarão nêle, e o levarão aos anciãos daquela ci dade, e à porta onde se fazem os juízos,",
+      "nota": "fn21_3"
     },
     {
       "n": 20,
@@ -92,13 +95,26 @@
     },
     {
       "n": 23,
-      "texto": "o seu cadáver não ficará no lenho, mas no mes mo dia será sepultado: Porque maldito é de Deus aquê-: le que está pendente dum lenho: e tu de nenhuma sor te contaminarás a terra, que o Senhor teu Deus te der em possessão. (4)"
+      "texto": "o seu cadáver não ficará no lenho, mas no mes mo dia será sepultado: Porque maldito é de Deus aquê-: le que está pendente dum lenho: e tu de nenhuma sor te contaminarás a terra, que o Senhor teu Deus te der em possessão.",
+      "nota": "fn21_4"
     }
   ],
   "notas": {
-    "fn21_4": "QUE VOS ENSINEM — Aqui está a razão justificativa das leis acima promulgadas; era preciso salvar os israelitas do con tágio da Idolatria, que lhes seria comunicado pelos cananeus, e para isso tornava-se necessário o extermínio. E' claro que estas leis são cruéis; mas é preciso que o leitor da Bíblia se transporte aos tempos de Moisés, e tenha presente os costumes de então. De resto era o cristianismo que devia Impor a brandura e' aniquilar os abusos dc então.",
-    "fn21_1": "A QUEIRAS TER POR ESPOSA —• Não se trata aqui das cananélas, que deviam ser exterminadas, mas das mulheres doutra raça. porque os hebreus deviam ter numerosos inimigos.",
-    "fn21_2": "RAPARÁ OS CABELOS — Cerimónias simbólicas, destina das amostrar que a cativa deixava por completo tudo quanto lhe recordasse a sua impura origem, e assim pudesse entrar, como filha adotiva, entro o Povo de Deus.",
-    "fn21_3": "PEGARÃO NjÈLE — Tanto no original hebraico, como no texto grego dos Setenta, está “o seu pai e a sua mãe o tomarão.”"
+    "fn21_4": {
+      "rotulo": "O SEU CADAVER, ETC.",
+      "texto": "A éste lugar se refere o Evan gelista Jo 19, 31, e S. Paulo na Epistola ad Gaiatas, 3, 13. 14, referindo-se à morte ignominiosa de Jesus Cristo: Êle (Jesus Cristo) nos remiu da maldição da lei tendo-se feito maldito por nós, segun do o que está. escrito. Maldito todo aquêle que está pendente num lenho. Interpretam vários exegetas a oxpressão porque maldito é do Deus, porque só se suspendiam do lenho os que cometiam um crime muito grave contra Deus. — Suspensi tantum blaspheml et idolatrae, e por isso esta pena era considerada ignominiosíssima. Hoc crat supplicium gravissimum et ignominiosissimum (Nachman in Genesis.) Virgílio chama-lhe mors torpíssima; Sôneca, Stípes infamis, cfr. 101, e Tito Lívio Signum infelix. C. 14. E foi a êste sacrifício que se su jeitou Jesus Cristo, para remir os homens! E sujeitou-se esponta neamente oblatus est quia ipse volúit."
+    },
+    "fn21_1": {
+      "rotulo": "A QUEIRAS TER POR ESPOSA",
+      "texto": "• Não se trata aqui das cananélas, que deviam ser exterminadas, mas das mulheres doutra raça. porque os hebreus deviam ter numerosos inimigos."
+    },
+    "fn21_2": {
+      "rotulo": "RAPARÁ OS CABELOS",
+      "texto": "Cerimónias simbólicas, destina das amostrar que a cativa deixava por completo tudo quanto lhe recordasse a sua impura origem, e assim pudesse entrar, como filha adotiva, entro o Povo de Deus."
+    },
+    "fn21_3": {
+      "rotulo": "PEGARÃO NjÈLE",
+      "texto": "Tanto no original hebraico, como no texto grego dos Setenta, está “o seu pai e a sua mãe o tomarão.”"
+    }
   }
 }

@@ -8,7 +8,8 @@
     },
     {
       "n": 2,
-      "texto": "E quando passares o Jordão para a terra, que o Senhor teu Deus te há de dar, levantarás umas pedras grandes, e as alisarás com cal, (1)"
+      "texto": "E quando passares o Jordão para a terra, que o Senhor teu Deus te há de dar, levantarás umas pedras grandes, e as alisarás com cal,",
+      "nota": "fn27_1"
     },
     {
       "n": 3,
@@ -32,7 +33,8 @@
     },
     {
       "n": 8,
-      "texto": "E escreverás distinta e claramente sôbre as pe dras tôdas as palavras desta lei. (2)"
+      "texto": "E escreverás distinta e claramente sôbre as pe dras tôdas as palavras desta lei.",
+      "nota": "fn27_2"
     },
     {
       "n": 9,
@@ -60,7 +62,8 @@
     },
     {
       "n": 15,
-      "texto": "Maldito o homem, que faz imagem de escultura ou fundida, què é a abominação do Senhor, a obra da mão dos artífices, e a põe num lugar escondido: e todo o povo responderá, e dirá: Amém. (3)"
+      "texto": "Maldito o homem, que faz imagem de escultura ou fundida, què é a abominação do Senhor, a obra da mão dos artífices, e a põe num lugar escondido: e todo o povo responderá, e dirá: Amém.",
+      "nota": "fn27_3"
     },
     {
       "n": 16,
@@ -108,8 +111,17 @@
     }
   ],
   "notas": {
-    "fn27_1": "E AS ALISARAS COM CAL — N&o quer o texto dizer que essas pedras fôssem revestidas de cal para sôbre esta se escre ver a Lei; porque o Decálogo foi gravado na pedra; esta porém era branqueada com a cal, para que as letras gravadas se distinguissem melbor na brancura da pedra caiada.",
-    "fn27_2": "E ESCREVERAS — Esta insistência de Moisés mandan* 4o escrever, mostra como êle estava eivado dos costumes egípcios, onde tudo se escrevia, ora na pedra, ora na tela, ora na madeira, orã no papiro, o que não admira, visto ter sido educado no Egito, e estar falando a homens iniciados nos usos do vale do Nilo, o que é mais outra prova da autenticidade dêste livro.",
-    "fn27_3": "QUE FAZ IMAGEM — C preciso não esquecer que Moi sés falava a um povo que tinha presenciado práticas de idolatria, e que fundiu o bezerro de ouro para o adorar. Moisés amaldiçoa a ido latria por estas palavras, que devem entender-se: Maldito o que fizer imagens de Ídolos, e os adorem, o que é abominação do Senhor, a quem só é devida a adoração e glória."
+    "fn27_1": {
+      "rotulo": "E AS ALISARAS COM CAL",
+      "texto": "N&o quer o texto dizer que essas pedras fôssem revestidas de cal para sôbre esta se escre ver a Lei; porque o Decálogo foi gravado na pedra; esta porém era branqueada com a cal, para que as letras gravadas se distinguissem melbor na brancura da pedra caiada."
+    },
+    "fn27_2": {
+      "rotulo": "E ESCREVERAS",
+      "texto": "Esta insistência de Moisés mandan* 4o escrever, mostra como êle estava eivado dos costumes egípcios, onde tudo se escrevia, ora na pedra, ora na tela, ora na madeira, orã no papiro, o que não admira, visto ter sido educado no Egito, e estar falando a homens iniciados nos usos do vale do Nilo, o que é mais outra prova da autenticidade dêste livro."
+    },
+    "fn27_3": {
+      "rotulo": "QUE FAZ IMAGEM",
+      "texto": "C preciso não esquecer que Moi sés falava a um povo que tinha presenciado práticas de idolatria, e que fundiu o bezerro de ouro para o adorar. Moisés amaldiçoa a ido latria por estas palavras, que devem entender-se: Maldito o que fizer imagens de Ídolos, e os adorem, o que é abominação do Senhor, a quem só é devida a adoração e glória."
+    }
   }
 }

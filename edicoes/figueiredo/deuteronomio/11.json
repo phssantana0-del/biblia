@@ -4,11 +4,13 @@
   "versiculos": [
     {
       "n": 1,
-      "texto": "Ama pois ao Senhor teu Deus, e guarda em todo o tempo os seus preceitos, e cerimónias, os seus juízos e mandamentos. (1)"
+      "texto": "Ama pois ao Senhor teu Deus, e guarda em todo o tempo os seus preceitos, e cerimónias, os seus juízos e mandamentos.",
+      "nota": "fn11_1"
     },
     {
       "n": 2,
-      "texto": "Conhecei hoje o que ignoram os vossos filhos, que não viram os castigos do Senhor vosso Deus, as suas maravilhas e a sua mão poderosa, e o seu braço estendido, (2)"
+      "texto": "Conhecei hoje o que ignoram os vossos filhos, que não viram os castigos do Senhor vosso Deus, as suas maravilhas e a sua mão poderosa, e o seu braço estendido,",
+      "nota": "fn11_2"
     },
     {
       "n": 3,
@@ -24,7 +26,8 @@
     },
     {
       "n": 6,
-      "texto": "e a Datan e a Abiron filhos de Eliab, que era fi-"
+      "texto": "e a Datan e a Abiron filhos de Eliab, que era fi-",
+      "nota": "fn11_3"
     },
     {
       "n": 7,
@@ -40,7 +43,8 @@
     },
     {
       "n": 10,
-      "texto": "Porque a terra, que tu vais possuir, não é como a terra do Egito, de onde saíste, na qual lançada a semen te se conduz água para regar, como se faz nas hortas: (4)"
+      "texto": "Porque a terra, que tu vais possuir, não é como a terra do Egito, de onde saíste, na qual lançada a semen te se conduz água para regar, como se faz nas hortas:",
+      "nota": "fn11_4"
     },
     {
       "n": 11,
@@ -56,7 +60,8 @@
     },
     {
       "n": 14,
-      "texto": "êle dará à vossa terra as chuvas têmporas e se rôdias, para que recolhais pão, e vinho e azeite, (5)"
+      "texto": "êle dará à vossa terra as chuvas têmporas e se rôdias, para que recolhais pão, e vinho e azeite,",
+      "nota": "fn11_5"
     },
     {
       "n": 15,
@@ -96,7 +101,8 @@
     },
     {
       "n": 24,
-      "texto": "Todo lugar, em que vós puserdes os pés, será vosso. Os vossos limites serão desde o deserto, e desde o Líbano, desde o grande rio Eufrates até o mar ociden tal. (6)"
+      "texto": "Todo lugar, em que vós puserdes os pés, será vosso. Os vossos limites serão desde o deserto, e desde o Líbano, desde o grande rio Eufrates até o mar ociden tal.",
+      "nota": "fn11_6"
     },
     {
       "n": 25,
@@ -116,11 +122,13 @@
     },
     {
       "n": 29,
-      "texto": "Quando porém o Senhor teu Deus te introduzir na terra que vais habitar, porás a bênção sôbre o monte de Garizim, e a maldição sôbre o monte de Hebal: (7)"
+      "texto": "Quando porém o Senhor teu Deus te introduzir na terra que vais habitar, porás a bênção sôbre o monte de Garizim, e a maldição sôbre o monte de Hebal:",
+      "nota": "fn11_7"
     },
     {
       "n": 30,
-      "texto": "os quais são na banda dc além do Jordão, junto ao caminho que desce para o ocidente, na terra dos cananeus, que habitam nas campinas defronte de Galgala,"
+      "texto": "os quais são na banda dc além do Jordão, junto ao caminho que desce para o ocidente, na terra dos cananeus, que habitam nas campinas defronte de Galgala,",
+      "nota": "fn11_8"
     },
     {
       "n": 31,
@@ -132,12 +140,37 @@
     }
   ],
   "notas": {
-    "fn11_1": "EM TODO O TEMPO — A Vulgata traduziu por omni temporo o hebreu kol-hniamim, que significa todos os dias, ao que corresponde rigorosamente a versão dos Setenta.",
-    "fn11_2": "O QUE IGNORAM OS VOSSOS FILHOS, QUE NAO VI RAM — Os pais de família tinham sido testemunhas presenciais dos milagres por Deus operados à saída do Egito. Moisés invoca êste testemunho para falar aos filhos, que só sabiam de tradição êsses fatos, para lhes fazer ver quanto devem ao Senhor.",
-    "fn11_3": "DATAN E ABIRON — Não se faz menção de Coré, o chefe da sedição (Núm 16, 1. 5. 6. 8) certamente por atenção com os seus filhos, que então viviam, e que não tinham sido extermina dos com o pai.",
-    "fn11_4": "OOMO A TERRA DO EGITO — Moisés pretende fazer conhecer o desconhecido pelo conhecido e para isso estabelece o pa ralelo com o Egito, que os filhos de Jacó muito bem conheciam; por aqui se vê quanto estava familiarizado com o Nilo e com o Egito o autor do Pentateuco, o que é outra prova da sua autenticidade. Neste mesmo versículo se faz alusão às inundações do Nilo, cujas águas são distribuídas por canais — se conduz a água para regar — ao passo que na Palestina era preciso chuva. Moisés pretende pôr em relêvo quanto era preciso na Terra Prometida o socorro de Deus.",
-    "fn11_5": "AS CHUVAS TEMPORÃS E SERÔDIAS — As primeiras são as chuvas do outono, que caem em outubro e novembro, as se gundas são as da primavera, que caem em março e abril. No resto do ano a chuva é excepciònal na Palestina.",
-    "fn11_6": "O MAR OCIDENTAL — E’ o Mediterrâneo.",
-    "fn11_7": "GARIZIM... o monte de Hcbnl — O monte Garizim é cortado interiormente por uma linha de rochedos; perto de Sique.m, oferece a singular configuração dum triângulo; na parte inferior há cavernas abertas na rocha. Êste rochedo ainda agora se vê per feitamente do presbitério do pároco latino de Naplouse, que 6 a antiga Siquem, situado no vale que separa êstes dois montes. Cf. Stanley, Sinai and Palestine, c. V. 1877, pag. 239, 240. Hebal ó outro monte de Efraim."
+    "fn11_1": {
+      "rotulo": "EM TODO O TEMPO",
+      "texto": "A Vulgata traduziu por omni temporo o hebreu kol-hniamim, que significa todos os dias, ao que corresponde rigorosamente a versão dos Setenta."
+    },
+    "fn11_2": {
+      "rotulo": "O QUE IGNORAM OS VOSSOS FILHOS, QUE NAO VI RAM",
+      "texto": "Os pais de família tinham sido testemunhas presenciais dos milagres por Deus operados à saída do Egito. Moisés invoca êste testemunho para falar aos filhos, que só sabiam de tradição êsses fatos, para lhes fazer ver quanto devem ao Senhor."
+    },
+    "fn11_3": {
+      "rotulo": "DATAN E ABIRON",
+      "texto": "Não se faz menção de Coré, o chefe da sedição (Núm 16, 1. 5. 6. 8) certamente por atenção com os seus filhos, que então viviam, e que não tinham sido extermina dos com o pai."
+    },
+    "fn11_4": {
+      "rotulo": "OOMO A TERRA DO EGITO",
+      "texto": "Moisés pretende fazer conhecer o desconhecido pelo conhecido e para isso estabelece o pa ralelo com o Egito, que os filhos de Jacó muito bem conheciam; por aqui se vê quanto estava familiarizado com o Nilo e com o Egito o autor do Pentateuco, o que é outra prova da sua autenticidade. Neste mesmo versículo se faz alusão às inundações do Nilo, cujas águas são distribuídas por canais — se conduz a água para regar — ao passo que na Palestina era preciso chuva. Moisés pretende pôr em relêvo quanto era preciso na Terra Prometida o socorro de Deus."
+    },
+    "fn11_5": {
+      "rotulo": "AS CHUVAS TEMPORÃS E SERÔDIAS",
+      "texto": "As primeiras são as chuvas do outono, que caem em outubro e novembro, as se gundas são as da primavera, que caem em março e abril. No resto do ano a chuva é excepciònal na Palestina."
+    },
+    "fn11_6": {
+      "rotulo": "O MAR OCIDENTAL",
+      "texto": "E’ o Mediterrâneo."
+    },
+    "fn11_7": {
+      "rotulo": "GARIZIM... o monte de Hcbnl",
+      "texto": "O monte Garizim é cortado interiormente por uma linha de rochedos; perto de Sique.m, oferece a singular configuração dum triângulo; na parte inferior há cavernas abertas na rocha. Êste rochedo ainda agora se vê per feitamente do presbitério do pároco latino de Naplouse, que 6 a antiga Siquem, situado no vale que separa êstes dois montes. Cf. Stanley, Sinai and Palestine, c. V. 1877, pag. 239, 240. Hebal ó outro monte de Efraim."
+    },
+    "fn11_8": {
+      "rotulo": "DE ALÉM DO JORDÃO",
+      "texto": "Significa aqui, a oeste dêste rio. GALGALA — Há dois locais com êste nome: um ao pé do Jor dão, e o outro, qúe é o presente, fica situado a vinte quilómetros para o sul do Garizim."
+    }
   }
 }

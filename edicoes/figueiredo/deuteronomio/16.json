@@ -12,7 +12,8 @@
     },
     {
       "n": 3,
-      "texto": "Não comerás durante esta festa pão fermentado: mas por sete dias comerás pão sem fermento, pão de"
+      "texto": "Não comerás durante esta festa pão fermentado: mas por sete dias comerás pão sem fermento, pão de",
+      "nota": "fn16_1"
     },
     {
       "n": 4,
@@ -36,7 +37,8 @@
     },
     {
       "n": 9,
-      "texto": "Contarás sete semanas desde o dia em que me teres a foice na seara:- (2)"
+      "texto": "Contarás sete semanas desde o dia em que me teres a foice na seara:",
+      "nota": "fn16_2"
     },
     {
       "n": 10,
@@ -92,8 +94,13 @@
     }
   ],
   "notas": {
-    "fn16_4": "COMO ACUA — Isto é, sem valor.",
-    "fn16_1": "PAO FERMENTADO — Para recordar a partida precipita da dos israelitas, que não tiveram tempo de levedar o pão.",
-    "fn16_2": "DESDE O DIA EM QUE METERES A FOICE NA SEARA — Isto é, desde a festa da Páscoa, que inaugurava a ceifa, que o Pentecostes encerrava."
+    "fn16_1": {
+      "rotulo": "PAO FERMENTADO",
+      "texto": "Para recordar a partida precipita da dos israelitas, que não tiveram tempo de levedar o pão."
+    },
+    "fn16_2": {
+      "rotulo": "DESDE O DIA EM QUE METERES A FOICE NA SEARA",
+      "texto": "Isto é, desde a festa da Páscoa, que inaugurava a ceifa, que o Pentecostes encerrava."
+    }
   }
 }

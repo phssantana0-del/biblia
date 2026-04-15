@@ -4,7 +4,8 @@
   "versiculos": [
     {
       "n": 1,
-      "texto": "Estas são as palavras, que Moisés disse a todo o Israel na banda de aquém do Jordão na planície do deserto, defronte do mar Vermelho, entre Faran, Tofel, Laban, e Haserot, onde há muitíssimo ouro: (1)"
+      "texto": "Estas são as palavras, que Moisés disse a todo o Israel na banda de aquém do Jordão na planície do deserto, defronte do mar Vermelho, entre Faran, Tofel, Laban, e Haserot, onde há muitíssimo ouro:",
+      "nota": "fn1_1"
     },
     {
       "n": 2,
@@ -24,7 +25,8 @@
     },
     {
       "n": 6,
-      "texto": "O Senhor nosso Deus nos falou em Horeb, dizendo: Assaz vos tendes demorado neste monte: (2)"
+      "texto": "O Senhor nosso Deus nos falou em Horeb, dizendo: Assaz vos tendes demorado neste monte:",
+      "nota": "fn1_2"
     },
     {
       "n": 7,
@@ -44,7 +46,8 @@
     },
     {
       "n": 11,
-      "texto": "(O Senhor Deus dc vossos pais ajunte a êste número muitos milhares, e vos abençoe como prome teu.) (3)"
+      "texto": "(O Senhor Deus dc vossos pais ajunte a êste número muitos milhares, e vos abençoe como prome teu.)",
+      "nota": "fn1_3"
     },
     {
       "n": 12,
@@ -64,7 +67,8 @@
     },
     {
       "n": 16,
-      "texto": "E lhes mandei, dizendo: Ouvi-os, e julgai o que fôr justo: Ou êle seja cidadão, ou estrangeiro. (4)"
+      "texto": "E lhes mandei, dizendo: Ouvi-os, e julgai o que fôr justo: Ou êle seja cidadão, ou estrangeiro.",
+      "nota": "fn1_4"
     },
     {
       "n": 17,
@@ -96,7 +100,8 @@
     },
     {
       "n": 24,
-      "texto": "Os quais tendo-se pôsto a caminho, e passando as serras, vieram até o Vale do Cacho de U va: e depois de considerada a terra, (5)"
+      "texto": "Os quais tendo-se pôsto a caminho, e passando as serras, vieram até o Vale do Cacho de U va: e depois de considerada a terra,",
+      "nota": "fn1_5"
     },
     {
       "n": 25,
@@ -108,7 +113,8 @@
     },
     {
       "n": 27,
-      "texto": "murmurastes nas vossas tendas, e dissestes: O Senhor tem-nos ódio, e por isso nos tirou da terra do JEgito, para nos entregar nas mãos dos amorreus, e pa ra acabar conosco. (6)"
+      "texto": "murmurastes nas vossas tendas, e dissestes: O Senhor tem-nos ódio, e por isso nos tirou da terra do JEgito, para nos entregar nas mãos dos amorreus, e pa ra acabar conosco.",
+      "nota": "fn1_6"
     },
     {
       "n": 28,
@@ -176,7 +182,8 @@
     },
     {
       "n": 44,
-      "texto": "Tendo pois saído o amorreu, que habitava nas serras, e vindo em vosso encontro, êle vos perseguiu como as abelhas costumam perseguir: e vos foi retalhando desde Seir até Horma. (7)"
+      "texto": "Tendo pois saído o amorreu, que habitava nas serras, e vindo em vosso encontro, êle vos perseguiu como as abelhas costumam perseguir: e vos foi retalhando desde Seir até Horma.",
+      "nota": "fn1_7"
     },
     {
       "n": 45,
@@ -188,10 +195,33 @@
     }
   ],
   "notas": {
-    "fn1_1": "TOFEL —- Naturalmente o' atual Tabileh. LABAN — E’ o Lebna a que se refere o e. 33, 22 dos Núm: Isto até ao v. 6, é o título geral do Deuteronômlo, anunciando os três discursos que Moisés proferiu ao povo no undécimo mês do quadragésimo ano do Êxodo.",
-    "fn1_2": "O SENHOR — Moisés lembra aos hebreus os principais acontecimentos que revelam a Bondade de Deus e a sua Infinita Jus tiça,: encaminhando o auditório para a conclusão a que pretende chegar.",
-    "fn1_3": "E VOS ABENÇOE — Vê-se nestas palavras um velho a falar, reportando-se com saudade ao passado, e esta nota é bastante frizante neste livro para que passe despercebida, pois o distingue dos outros do Pentateuco. E’ o mesmo fundo de idéias, a mesma linguagem dos precedentes; há apenas a notar o modo dé dizer pró prio dum ancião prestes a descer à sepultura, o que é mais. uma prova da autenticidade dêste livro; porque se confirma o que sabe mos da pessoa do autor.",
-    "fn1_4": "OUVI-OS — Êete preceito foi escrupulosamente seguido entre o povo hebreu.",
-    "fn1_6": "MURMURASTES — E’ um modo freqfiente de falar, atri buindo a uma geraç&o o que outra praticou; é claro que nenbum dos que haviam murmurado existia. Também nós dizemos que vencemos em Ourique e Aljubarrota, sendo os nossos maiores os que alcan çaram essas insignes vitórias, e não nós os que contamos o fato. O SENHOR TEM-XOS ÓDIO — Atribuem a Deus o que partia do seu infinito amor. Odio Dei importantl quod ex a m o r e profectnm eet."
+    "fn1_1": {
+      "rotulo": "TOFEL",
+      "texto": "Naturalmente o' atual Tabileh. LABAN — E’ o Lebna a que se refere o e. 33, 22 dos Núm: Isto até ao v. 6, é o título geral do Deuteronômlo, anunciando os três discursos que Moisés proferiu ao povo no undécimo mês do quadragésimo ano do Êxodo."
+    },
+    "fn1_2": {
+      "rotulo": "O SENHOR",
+      "texto": "Moisés lembra aos hebreus os principais acontecimentos que revelam a Bondade de Deus e a sua Infinita Jus tiça,: encaminhando o auditório para a conclusão a que pretende chegar."
+    },
+    "fn1_3": {
+      "rotulo": "E VOS ABENÇOE",
+      "texto": "Vê-se nestas palavras um velho a falar, reportando-se com saudade ao passado, e esta nota é bastante frizante neste livro para que passe despercebida, pois o distingue dos outros do Pentateuco. E’ o mesmo fundo de idéias, a mesma linguagem dos precedentes; há apenas a notar o modo dé dizer pró prio dum ancião prestes a descer à sepultura, o que é mais. uma prova da autenticidade dêste livro; porque se confirma o que sabe mos da pessoa do autor."
+    },
+    "fn1_4": {
+      "rotulo": "OUVI-OS",
+      "texto": "Êete preceito foi escrupulosamente seguido entre o povo hebreu."
+    },
+    "fn1_6": {
+      "rotulo": "MURMURASTES",
+      "texto": "E’ um modo freqfiente de falar, atri buindo a uma geraç&o o que outra praticou; é claro que nenbum dos que haviam murmurado existia. Também nós dizemos que vencemos em Ourique e Aljubarrota, sendo os nossos maiores os que alcan çaram essas insignes vitórias, e não nós os que contamos o fato. O SENHOR TEM-XOS ÓDIO — Atribuem a Deus o que partia do seu infinito amor. Odio Dei importantl quod ex a m o r e profectnm eet."
+    },
+    "fn1_5": {
+      "rotulo": "DO CACHO DE UVA",
+      "texto": "Provàvelmente o vale Hebron."
+    },
+    "fn1_7": {
+      "rotulo": "O AMORREU",
+      "texto": "E' necessário notar que esta palavra é empregada na Bíblia em três acepções diferentes. Umas vêzes designa duma maneira geral os habitantes do pais de Canaã, e é neste sentido que está empregada neste lugar e em Jos 24, 15-18; Jz 6, 10. Noutros lugares indica os habitantes da Palestina meridional, Gên 16, 16. Outras vâzes, num sentido mais restrito, refere-se aos dois reinos de Og e de Seon. Dt 3, 8 s. Assim nào há contradição com o que está escrito no c. 14, 45 dos Núm, onde se atribui esta vitória aos amalecitas e cananeus. O nome amorreu significa o que habita no monte, o montanhês, o que Imediatamente confirma o texto."
+    }
   }
 }

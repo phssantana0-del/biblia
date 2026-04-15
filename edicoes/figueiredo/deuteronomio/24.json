@@ -4,7 +4,8 @@
   "versiculos": [
     {
       "n": 1,
-      "texto": "Se um homem tomar uma mulher, e a tiver con sigo, e ela não fôr agradável a seus olhos por causa de algum defeito vergonhoso fará um escrito de repúdio, e lho dará na mão e a despedirá de sua casa. (1) 1"
+      "texto": "Se um homem tomar uma mulher, e a tiver con sigo, e ela não fôr agradável a seus olhos por causa de algum defeito vergonhoso fará um escrito de repúdio, e lho dará na mão e a despedirá de sua casa. 1",
+      "nota": "fn24_1"
     },
     {
       "n": 2,
@@ -24,7 +25,8 @@
     },
     {
       "n": 6,
-      "texto": "Não receberás em lugar de penhor nem a mó de cima, nem a de baixo: porque te deu por penhor a sua própria* vida. (2)"
+      "texto": "Não receberás em lugar de penhor nem a mó de cima, nem a de baixo: porque te deu por penhor a sua própria* vida.",
+      "nota": "fn24_2"
     },
     {
       "n": 7,
@@ -52,7 +54,8 @@
     },
     {
       "n": 13,
-      "texto": "porém lho tornarás a dar antes de se pôr o sol: A fim de que êle dormindo na sua roupa, te abençoe, e tu tenhas merecimento de justo diante do 'Senhor teu Deus. (3)"
+      "texto": "porém lho tornarás a dar antes de se pôr o sol: A fim de que êle dormindo na sua roupa, te abençoe, e tu tenhas merecimento de justo diante do 'Senhor teu Deus.",
+      "nota": "fn24_3"
     },
     {
       "n": 14,
@@ -92,8 +95,17 @@
     }
   ],
   "notas": {
-    "fn24_1": "DEFEITO VERGONHOSO — Traduzimos assim com Glaire a Vulgata fosditatem, afastando-nos do padre Pereira, que ver teu por fealdade. Os intérpretes entendem de várias formas estas pa lavras Nndltatem, turpitudinem rei, \\ 7itlum corporis, odiosi mores,, defectus corporis latentes lepra, epilepsia, mania, sterilitas, porém, todos estão de acôrdo em ver nestas palavras uma coisa grave. Moi",
-    "fn24_2": "NEM A Mó DE CIMA — Cada família tinha dois moi nhos, onde moía quótidianamente, para obter a farinha de que fazia",
-    "fn24_3": "SUA ROUPA — Esta roupa é o manto que os orientais usam e.que lhes serve à noite de cobertor."
+    "fn24_1": {
+      "rotulo": "DEFEITO VERGONHOSO",
+      "texto": "Traduzimos assim com Glaire a Vulgata fosditatem, afastando-nos do padre Pereira, que ver teu por fealdade. Os intérpretes entendem de várias formas estas pa lavras Nndltatem, turpitudinem rei, \\ 7itlum corporis, odiosi mores,, defectus corporis latentes lepra, epilepsia, mania, sterilitas, porém, todos estão de acôrdo em ver nestas palavras uma coisa grave. Moi"
+    },
+    "fn24_2": {
+      "rotulo": "NEM A Mó DE CIMA",
+      "texto": "Cada família tinha dois moi nhos, onde moía quótidianamente, para obter a farinha de que fazia"
+    },
+    "fn24_3": {
+      "rotulo": "SUA ROUPA",
+      "texto": "Esta roupa é o manto que os orientais usam e.que lhes serve à noite de cobertor."
+    }
   }
 }

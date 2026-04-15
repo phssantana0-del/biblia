@@ -28,7 +28,8 @@
     },
     {
       "n": 7,
-      "texto": "Porque o Senhor teu Deus te há de introduzir nu ma terra excelente, numa terra cheia de regatos de águas e de fontes: Em cujos campos e montes arrebentam os abismos dos rios: (1)"
+      "texto": "Porque o Senhor teu Deus te há de introduzir nu ma terra excelente, numa terra cheia de regatos de águas e de fontes: Em cujos campos e montes arrebentam os abismos dos rios:",
+      "nota": "fn8_1"
     },
     {
       "n": 8,
@@ -60,7 +61,8 @@
     },
     {
       "n": 15,
-      "texto": "E que foi o teu condutor nesse vasto e temeroso deserto, onde havia serpentes que queimavam com o seu assopro, c escorpiões e dípsades; e onde não havia ne nhuma água: Que fêz sair arroios duma pedra durís sima, (2)"
+      "texto": "E que foi o teu condutor nesse vasto e temeroso deserto, onde havia serpentes que queimavam com o seu assopro, c escorpiões e dípsades; e onde não havia ne nhuma água: Que fêz sair arroios duma pedra durís sima,",
+      "nota": "fn8_2"
     },
     {
       "n": 16,
@@ -84,8 +86,13 @@
     }
   ],
   "notas": {
-    "fn8_7": "A ABOMJNAÇAO DO SENHOR — lato é, êBtea ídolos são abomináveis aos olhos do Senhor. O tôrmo hebraico to’ebah, que a Vulgata traduziu por abominatlo, significa uma coisa sagrada horri velmente manchada.",
-    "fn8_1": "TE HA CE INTRODUZIR NUMA TERRA EXCELENTE — A cada passo vai Moisés recordar essa promessa; esta insistência demonstra estar próxima a sua realização, que vai constituir uma data assinalada na história do povo de Deus, porque, realizada ela, operar-se-á uma grande transformação na vida social dos hebreus; esta insistência, porém, seria inexplicável num escritor posterior, o que constitui mais uma prova da autenticidade do Deuteronômio. Depois passa Moisés a descrever os encantos dessa terra, aludindo à abundância de água, que tornou tão notável a Palestina; a fertili dade dos seus campos, a formosura das suas vinhas, as riquezas dos seus olivais, a abundância das suas romanzeiras (v. 8), a riqueza do seu solo e a opulência das suas minas (v. 9.)",
-    "fn8_2": "DíPSADES — E’ a única passagem em que se encontra esta palavra. O dipses, ou dípsades, é uma espécie de serpente vene nosa, cuja mordedura é mortal, causando uma sêde horrível,"
+    "fn8_1": {
+      "rotulo": "TE HA CE INTRODUZIR NUMA TERRA EXCELENTE",
+      "texto": "A cada passo vai Moisés recordar essa promessa; esta insistência demonstra estar próxima a sua realização, que vai constituir uma data assinalada na história do povo de Deus, porque, realizada ela, operar-se-á uma grande transformação na vida social dos hebreus; esta insistência, porém, seria inexplicável num escritor posterior, o que constitui mais uma prova da autenticidade do Deuteronômio. Depois passa Moisés a descrever os encantos dessa terra, aludindo à abundância de água, que tornou tão notável a Palestina; a fertili dade dos seus campos, a formosura das suas vinhas, as riquezas dos seus olivais, a abundância das suas romanzeiras (v. 8), a riqueza do seu solo e a opulência das suas minas (v. 9.)"
+    },
+    "fn8_2": {
+      "rotulo": "DíPSADES",
+      "texto": "E’ a única passagem em que se encontra esta palavra. O dipses, ou dípsades, é uma espécie de serpente vene nosa, cuja mordedura é mortal, causando uma sêde horrível,"
+    }
   }
 }

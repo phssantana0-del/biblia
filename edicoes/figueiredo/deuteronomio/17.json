@@ -36,7 +36,8 @@
     },
     {
       "n": 9,
-      "texto": "e encaminhar-te-ás aos sacerdotes da linhagem de Levi, e ao juiz, que nesse tempo fôr: e consultá-los- -ás, e eles te descobrirão a verdade do juízo. (1)"
+      "texto": "e encaminhar-te-ás aos sacerdotes da linhagem de Levi, e ao juiz, que nesse tempo fôr: e consultá-los- -ás, e eles te descobrirão a verdade do juízo.",
+      "nota": "fn17_1"
     },
     {
       "n": 10,
@@ -56,7 +57,8 @@
     },
     {
       "n": 14,
-      "texto": "Quando entrares na terra, que o Senhor teu Deus te há de dar, e tiveres tomado posse dela, e nela habitares, e disseres: Eu constituirei um rei para me. governar, como têm tôdas as nações em roda: (2)"
+      "texto": "Quando entrares na terra, que o Senhor teu Deus te há de dar, e tiveres tomado posse dela, e nela habitares, e disseres: Eu constituirei um rei para me. governar, como têm tôdas as nações em roda:",
+      "nota": "fn17_2"
     },
     {
       "n": 15,
@@ -64,7 +66,8 @@
     },
     {
       "n": 16,
-      "texto": "E quando êsse fôr constituído, não multiplicará os seus cavalos, nem fará voltar o povo ao Egito, confiado na sua numerosa cavalaria, principalmente tendo-vos o Senhor ordenado, que não torneis mais a voltar pelo mes mo caminho. (3)"
+      "texto": "E quando êsse fôr constituído, não multiplicará os seus cavalos, nem fará voltar o povo ao Egito, confiado na sua numerosa cavalaria, principalmente tendo-vos o Senhor ordenado, que não torneis mais a voltar pelo mes mo caminho.",
+      "nota": "fn17_3"
     },
     {
       "n": 17,
@@ -72,7 +75,8 @@
     },
     {
       "n": 18,
-      "texto": "E depois que êle estiver sentado no trono do seu reino, fará escrever para seu uso num livro o Deuteronô mio desta lei recebendo o exemplar dos sacerdotes da tri bo de Levi, (4)"
+      "texto": "E depois que êle estiver sentado no trono do seu reino, fará escrever para seu uso num livro o Deuteronô mio desta lei recebendo o exemplar dos sacerdotes da tri bo de Levi,",
+      "nota": "fn17_4"
     },
     {
       "n": 19,
@@ -80,12 +84,30 @@
     },
     {
       "n": 20,
-      "texto": "Não se eleve o seu coração de soberba sôbre seus irmãos, e não decline nem para a direita nem para a es querda, para assim reinarem muito tempo sôbre Israel, êle, e seus filhos. (5)"
+      "texto": "Não se eleve o seu coração de soberba sôbre seus irmãos, e não decline nem para a direita nem para a es querda, para assim reinarem muito tempo sôbre Israel, êle, e seus filhos.",
+      "nota": "fn17_5"
     }
   ],
   "notas": {
-    "fn17_1": "ENCAMINHAR-TE-ÁS AOS SACERDOTES DA LINHA GEM DE LEVI — O sacerdócio, sob a presidência do Pontí fice, formava um tribunal superior para dirimir pleitos duyldosoB. Parece que neste lugar há uma faculdade dada aos interessados, que podem ou não usar dela; não há, porém, direito para os sacerdote» de levar estas causas ao seu tribunal. (2). EU CONSTITUIREI UM REI — Moisés conhecendo bem o seu povo, qiie tinha vindo do Egito e de Canaã, previa que êle,",
-    "fn17_3": "NEM FARA VOLTAR O POVO AO EGITO — Êste receio aó podia ser concebido no deserto, quando os hebreus, desalentados pelas provações, falaram em voltar para a terra de Gessen. Certamente um escritor que tivesse composto êste livro posteriormente, ao tempo de Davi, Salomão, Acab ou Ezequias, como podia alulir a êste abandono da Palestina e à recondução para o Egito? Isto é, uma data precisa inscrita no Dt.",
-    "fn17_4": "O DEUTERONÔMIO DESTA LEI — Isto é, um duplicado, um segundo exemplar desta lei."
+    "fn17_1": {
+      "rotulo": "ENCAMINHAR-TE-ÁS AOS SACERDOTES DA LINHA GEM DE LEVI",
+      "texto": "O sacerdócio, sob a presidência do Pontí fice, formava um tribunal superior para dirimir pleitos duyldosoB. Parece que neste lugar há uma faculdade dada aos interessados, que podem ou não usar dela; não há, porém, direito para os sacerdote» de levar estas causas ao seu tribunal. (2). EU CONSTITUIREI UM REI — Moisés conhecendo bem o seu povo, qiie tinha vindo do Egito e de Canaã, previa que êle,"
+    },
+    "fn17_3": {
+      "rotulo": "NEM FARA VOLTAR O POVO AO EGITO",
+      "texto": "Êste receio aó podia ser concebido no deserto, quando os hebreus, desalentados pelas provações, falaram em voltar para a terra de Gessen. Certamente um escritor que tivesse composto êste livro posteriormente, ao tempo de Davi, Salomão, Acab ou Ezequias, como podia alulir a êste abandono da Palestina e à recondução para o Egito? Isto é, uma data precisa inscrita no Dt."
+    },
+    "fn17_4": {
+      "rotulo": "O DEUTERONÔMIO DESTA LEI",
+      "texto": "Isto é, um duplicado, um segundo exemplar desta lei."
+    },
+    "fn17_2": {
+      "rotulo": "EU CONSTITUIREI UM REI",
+      "texto": "Moisés conhecendo bem o seu povo, que tinha vindo do Egito e de Canaã, previa que êle, arrastado pelo espírito da imitação, começaria pedindo um rei, porque os egípcios tinham um Faraó, e os cananeus vários príncipes. E' muito acreditável que tivesse por mais duma vez falado nesta autoridade, cuja escolha referia a Deus \"aquêle que o Senhor tiver escolhido\"."
+    },
+    "fn17_5": {
+      "rotulo": "E SEUS FILHOS",
+      "texto": "Estas palavras são o fundamento do direito hereditário, regulador da transmissão do poder soberano."
+    }
   }
 }

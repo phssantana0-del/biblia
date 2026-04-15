@@ -24,7 +24,8 @@
     },
     {
       "n": 6,
-      "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egito da casa da servidão. (1)"
+      "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egito da casa da servidão.",
+      "nota": "fn5_1"
     },
     {
       "n": 7,
@@ -60,7 +61,8 @@
     },
     {
       "n": 15,
-      "texto": "Lembra-te que também tu serviste no Egito, e «que de lá te tirou o Senhor teu Deus com uma mão pode rosa, e com um braço estendido. Por isso te mandei que observasses o dia do sábado. (2)"
+      "texto": "Lembra-te que também tu serviste no Egito, e «que de lá te tirou o Senhor teu Deus com uma mão pode rosa, e com um braço estendido. Por isso te mandei que observasses o dia do sábado.",
+      "nota": "fn5_2"
     },
     {
       "n": 16,
@@ -104,7 +106,8 @@
     },
     {
       "n": 26,
-      "texto": "Que é tôda a carne, para que ouça a voz do Deus vivo, que fala do meio do fogo, como nós o ouvimos, e possa viver? (3)"
+      "texto": "Que é tôda a carne, para que ouça a voz do Deus vivo, que fala do meio do fogo, como nós o ouvimos, e possa viver?",
+      "nota": "fn5_3"
     },
     {
       "n": 27,
@@ -136,8 +139,17 @@
     }
   ],
   "notas": {
-    "fn5_1": "EU SOU O SENHOR TEU DEUS — O Senhor lembra a Moisés que é o seu Deus, o único Deus, a fim de proscreVer a idola tria e o politeísmo. O monoteísmo é o primeiro artigo do credo de Moisés. O Senhor é o ser por excelência. Iahvéh, o que é e será, som limite no tempo e sem limite no espaço, eterno e imenso, criador do céu e da terra, causa necessária de tudo quanto em si não tem razão de ser, juiz de tôda a terra (Gôn 6, 13) autor e senhor da vida. Eu sou o Senhor: esta frase resume os nossos deveres paro com Deus, para com o próximo e para conosco, fazendo consistir em",
-    "fn5_2": "E QUE DE I#A TE TIROU — Moisés lembra a escravidão em que viveu o povo escolhido no Egito, e o favor que de Deus receberam os hebreus libertando-os.",
-    "fn5_3": "1>EUS —■No original hebraico está. Eloiui, forma plural que se designa sob o nome do plural de excelência, pelo respeito devido à divindade, e tanto que ordinàriamente tem o verbo no sln-"
+    "fn5_1": {
+      "rotulo": "EU SOU O SENHOR TEU DEUS",
+      "texto": "O Senhor lembra a Moisés que é o seu Deus, o único Deus, a fim de proscreVer a idola tria e o politeísmo. O monoteísmo é o primeiro artigo do credo de Moisés. O Senhor é o ser por excelência. Iahvéh, o que é e será, som limite no tempo e sem limite no espaço, eterno e imenso, criador do céu e da terra, causa necessária de tudo quanto em si não tem razão de ser, juiz de tôda a terra (Gôn 6, 13) autor e senhor da vida. Eu sou o Senhor: esta frase resume os nossos deveres paro com Deus, para com o próximo e para conosco, fazendo consistir em"
+    },
+    "fn5_2": {
+      "rotulo": "E QUE DE I#A TE TIROU",
+      "texto": "Moisés lembra a escravidão em que viveu o povo escolhido no Egito, e o favor que de Deus receberam os hebreus libertando-os."
+    },
+    "fn5_3": {
+      "rotulo": "1>EUS",
+      "texto": "■No original hebraico está. Eloiui, forma plural que se designa sob o nome do plural de excelência, pelo respeito devido à divindade, e tanto que ordinàriamente tem o verbo no sln-"
+    }
   }
 }

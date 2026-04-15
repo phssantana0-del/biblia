@@ -8,7 +8,8 @@
     },
     {
       "n": 2,
-      "texto": "E quando estiver perto de se dar a batalha, o pon tífice se porá na frente do exército, e falará assim ao povo: (1)"
+      "texto": "E quando estiver perto de se dar a batalha, o pon tífice se porá na frente do exército, e falará assim ao povo:",
+      "nota": "fn20_1"
     },
     {
       "n": 3,
@@ -20,7 +21,8 @@
     },
     {
       "n": 5,
-      "texto": "Os oficiais também cada um na frente do seu corpo dirão gritando, ouvindo o exército: H á algum homem que tenha edificado uma casa nova, e a não te nha ainda dedicado? vá-se, e torne para sua casa: não suceda que êle morra no combate, e outro a estréie. (2)"
+      "texto": "Os oficiais também cada um na frente do seu corpo dirão gritando, ouvindo o exército: H á algum homem que tenha edificado uma casa nova, e a não te nha ainda dedicado? vá-se, e torne para sua casa: não suceda que êle morra no combate, e outro a estréie.",
+      "nota": "fn20_2"
     },
     {
       "n": 6,
@@ -68,7 +70,8 @@
     },
     {
       "n": 17,
-      "texto": "Mas passá-los-ás todos ao fio da espada; con vém a saber, aos heteus, e aos amorreUs, aos cananeus,' aos fereseus, e aos heveus, e aos jebuseus, assim como o Senhor teu Deus te mandou: (3)"
+      "texto": "Mas passá-los-ás todos ao fio da espada; con vém a saber, aos heteus, e aos amorreUs, aos cananeus,' aos fereseus, e aos heveus, e aos jebuseus, assim como o Senhor teu Deus te mandou:",
+      "nota": "fn20_3"
     },
     {
       "n": 18,
@@ -84,8 +87,17 @@
     }
   ],
   "notas": {
-    "fn20_1": "O PONTÍFICE — Advirta-se que nem sempre foi o Pon tífice designado para fazer a proclamação da guerra, pois vimos nos Núm 31, 6, Finéias, filho do pontífice Eleazar, desempenhar-se 'desta missão.",
-    "fn20_2": "E A NÃO TENHA AINDA DEDICADO — O padre Pereira traduziu dedicavit por estrear. Alteramos com Glaire, que empregou.éèdiée, seguindo à letra a Vulgata, o que é conforme com os costu mes dos hebreus, que antes da posse duma casa recentemente edifi cada faziam uma espécie de dedicação religiosa. Os pagãos, e dum modo particular os romanos, não construíam edifício algum, sem que precedesse a cejimônia das consagrações, que variaram conforme os tempos e os lugares,",
-    "fn20_3": "AO FIO DA ESPADA — Esta determinação é mais uma prova da autenticidade do Pentateuco, pois indica que é anterior à -conquista da Palestina; esta passagem, só por si, refuta Kueneu, que pretendeu fazer remontar o Deuteronômio ao tempo de Josias, aca bando por confessar que realmente êste lugar contradizia a sua opinião."
+    "fn20_1": {
+      "rotulo": "O PONTÍFICE",
+      "texto": "Advirta-se que nem sempre foi o Pon tífice designado para fazer a proclamação da guerra, pois vimos nos Núm 31, 6, Finéias, filho do pontífice Eleazar, desempenhar-se 'desta missão."
+    },
+    "fn20_2": {
+      "rotulo": "E A NÃO TENHA AINDA DEDICADO",
+      "texto": "O padre Pereira traduziu dedicavit por estrear. Alteramos com Glaire, que empregou.éèdiée, seguindo à letra a Vulgata, o que é conforme com os costu mes dos hebreus, que antes da posse duma casa recentemente edifi cada faziam uma espécie de dedicação religiosa. Os pagãos, e dum modo particular os romanos, não construíam edifício algum, sem que precedesse a cejimônia das consagrações, que variaram conforme os tempos e os lugares,"
+    },
+    "fn20_3": {
+      "rotulo": "AO FIO DA ESPADA",
+      "texto": "Esta determinação é mais uma prova da autenticidade do Pentateuco, pois indica que é anterior à -conquista da Palestina; esta passagem, só por si, refuta Kueneu, que pretendeu fazer remontar o Deuteronômio ao tempo de Josias, aca bando por confessar que realmente êste lugar contradizia a sua opinião."
+    }
   }
 }
