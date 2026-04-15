@@ -622,14 +622,16 @@ function renderChapter(ch, bookDir, targetId) {
   const pdfUrl = bookDir + '/' + ch.num + '.pdf';
   const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + ch.num + '.pdf';
   const hasPdf = !bookDir.includes('/vulgata/');
+  const originalLink = getOriginalLinkForChapter(ch);
   const pdfBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>` : '';
   const pdfOldBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>` : '';
+  const linkBtn = originalLink ? `<button class="ver-original-btn" onclick="openPdfPanel('${originalLink}', 'Link original', 'link')" style="margin-left:12px;">&#128279; Link original</button>` : '';
 
   document.getElementById(targetId).innerHTML = `
     <div class="chapter-header">
       <h1>Capítulo ${ch.num}</h1>
       <div class="summary">${chapterSummary}</div>
-      ${pdfBtn}${pdfOldBtn}
+      ${pdfBtn}${pdfOldBtn}${linkBtn}
     </div>
     <hr class="section-rule">
     ${lines}
@@ -639,11 +641,33 @@ function renderChapter(ch, bookDir, targetId) {
       document.getElementById('pdf-panel').classList.contains('open')) {
     const reloadUrl = state.activePdfType === 'recent'
       ? pdfUrl
-      : pdfOldUrl;
-    const reloadLabel = state.activePdfType === 'recent' ? 'PDF recente' : 'PDF original';
-    document.getElementById('pdf-panel-title').textContent = '\u{1F4C4} ' + reloadLabel;
+      : state.activePdfType === 'original'
+        ? pdfOldUrl
+        : originalLink;
+    const reloadLabel = state.activePdfType === 'recent'
+      ? 'PDF recente'
+      : state.activePdfType === 'original'
+        ? 'PDF original'
+        : 'Link original';
+    if (!reloadUrl) {
+      closePdfPanel();
+      return;
+    }
+    document.getElementById('pdf-panel-title').textContent = getPanelIconByLabel(reloadLabel) + ' ' + reloadLabel;
     document.getElementById('pdf-frame').src = reloadUrl;
   }
+}
+
+function getOriginalLinkForChapter(chapterData) {
+  if (!chapterData) return null;
+  if (typeof chapterData.link !== 'string') return null;
+
+  const raw = chapterData.link.trim();
+  return raw || null;
+}
+
+function getPanelIconByLabel(label) {
+  return label === 'Link original' ? '\u{1F517}' : '\u{1F4C4}';
 }
 
 function renderVerseHtml(item, notas, notaKeys, prefix) {
@@ -681,8 +705,12 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
     if (showButtons) {
       const pdfUrl = bookDir + '/' + ch.num + '.pdf';
       const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + ch.num + '.pdf';
+      const originalLink = getOriginalLinkForChapter(ch);
       buttonsHtml = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>`
-        + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>`;
+        + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>`
+        + (originalLink
+          ? `<button class="ver-original-btn" onclick="openPdfPanel('${originalLink}', 'Link original', 'link')" style="margin-left:12px;">&#128279; Link original</button>`
+          : '');
     }
     div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
       + `<div class="cg-chapter-title">Capítulo ${ch.num}</div>`
@@ -1023,15 +1051,17 @@ document.addEventListener('click', () => {
 //  — Em desktop: abre no drawer lateral
 // ══════════════════════════════════════════════════════════════
 
-function openPdfPanel(url, label) {
+function openPdfPanel(url, label, panelType = 'pdf') {
   if (window.innerWidth < 768) {
     window.open(url, '_blank');
     return;
   }
-  state.activePdfType = label === 'PDF recente' ? 'recent' : 'original';
+  state.activePdfType = panelType === 'link'
+    ? 'link'
+    : (label === 'PDF recente' ? 'recent' : 'original');
   const frame = document.getElementById('pdf-frame');
   const panel = document.getElementById('pdf-panel');
-  if (label) document.getElementById('pdf-panel-title').textContent = '\u{1F4C4} ' + label;
+  if (label) document.getElementById('pdf-panel-title').textContent = getPanelIconByLabel(label) + ' ' + label;
   frame.src = url;
   panel.classList.add('open');
 }

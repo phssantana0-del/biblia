@@ -24,10 +24,13 @@ O texto deve ser sempre extraído de:
 | Lucas       | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam`     |
 | João        | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Ioannem`   |
 | Gênesis     | `https://la.wikisource.org/wiki/Vulgata_Clementina/Genesis`                       |
-| Salmos      | `https://la.wikisource.org/wiki/Vulgata_Clementina/Psalmi`                        |
+| Salmos      | `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum`               |
+| Deuteronômio| `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Deuteronomii`            |
 | Outros      | Consultar o índice: `https://la.wikisource.org/wiki/Vulgata_Clementina`            |
 
 Para livros não listados: acesse o índice, localize o nome exato do subartigo e construa a URL.
+
+Nunca adivinhe slug de URL. Sempre copie exatamente o subartigo do índice (ex.: `Liber_Psalmorum`, `Liber_Deuteronomii`).
 
 ---
 
@@ -82,14 +85,14 @@ Antes de salvar qualquer capítulo, verifique se `edicoes/vulgata/<livro>/<N>.js
 ```json
 {
   "num": 1,
-  "fonte": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum",
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum#Caput_1",
   "sumario": "Genealogia Iesu Christi. Conceptio et Nativitas.",
   "versiculos": [],
   "notas": {}
 }
 ```
 
-**O campo `"fonte"` é obrigatório** — contém a URL exata da página Wikisource de onde o capítulo foi extraído. Isso permite ao usuário clicar e conferir no site.
+**O campo `"link"` é obrigatório** — contém a URL exata do capítulo no Wikisource, sempre com âncora `#Caput_<N>`.
 
 ### Versículo zero (inscrição/epígrafe dos Salmos)
 

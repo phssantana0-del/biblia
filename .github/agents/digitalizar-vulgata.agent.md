@@ -50,11 +50,12 @@ Para cada capítulo N no intervalo:
 - Acesse a página do livro no Wikisource.
 - Localize o capítulo correspondente.
 - Extraia os versículos respeitando **obrigatoriamente** a grafia Clementina (tabela na skill).
-- Registre a URL exata como campo `"fonte"` no JSON.
+- Registre o campo `"link"` com URL canônica e âncora de capítulo no formato `"<url-canônica-do-livro>#Caput_<N>"` (ex.: `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_51`).
+- Nunca inferir slug de URL. Sempre usar exatamente a URL da skill/índice do Wikisource.
 
 ### 3. Salvar e atualizar
 
-- Salve `edicoes/vulgata/<livroId>/<N>.json` com o campo `"fonte"` obrigatório.
+- Salve `edicoes/vulgata/<livroId>/<N>.json` com o campo `"link"` obrigatório.
 - Adicione N ao array `capitulos` do `index.json` (ordem crescente, sem duplicar).
 - Gere ou acrescente o relatório em `edicoes/vulgata/<livroId>/<N>.md`.
 
@@ -76,9 +77,9 @@ Se o livro não estiver listado no array `"livros"` da edição `vulgata` em `ed
 
 Exiba ao usuário:
 
-| Cap | Versículos | Notas | Fonte |
-|-----|------------|-------|-------|
-| 3   | 17         | 0     | [Wikisource](...) |
+| Cap | Versículos | Notas | Link |
+|-----|------------|-------|------|
+| 3   | 17         | 0     | https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_3 |
 
 Liste os pontos de revisão, se houver.
 
@@ -87,5 +88,5 @@ Liste os pontos de revisão, se houver.
 ## REGRAS GERAIS
 
 - Nunca criar arquivos além dos JSONs de capítulo, `index.json` do livro e `.md` de revisão.
-- O campo `"fonte"` é obrigatório em todo `<N>.json` da Vulgata.
+- O campo `"link"` é obrigatório em todo `<N>.json` da Vulgata.
 - Nunca usar vulgate.org — somente Wikisource.
