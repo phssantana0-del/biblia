@@ -79,17 +79,21 @@ Mantenha internamente uma tabela:
 
 ```json
 {
-  "id": "marcos",
-  "titulo": "Evangelho de S. Marcos",
-  "abreviacao": "Mc",
+  "id": "mateus",
+  "titulo": "Evangelho de S. Mateus",
+  "abreviacao": "Mt",
   "testamento": "Novo Testamento",
   "grupo": "Evangelhos",
-  "introducao": "<h3>Título</h3><p>Parágrafo.</p>",
+  "introducao": "<h3>Introdução</h3><p>Texto extraído do PDF antes do Cap. 1.</p>",
   "capitulos": [1, 2, 3]
 }
 ```
 
-O campo `"introducao"` é opcional — só inclua se houver texto antes do Cap. 1.
+**Regras obrigatórias:**
+- `"testamento"` deve ser exatamente `"Antigo Testamento"` ou `"Novo Testamento"` — nenhum outro valor é aceito.
+- `"id"` é o slug do livro (ex.: `mateus`, `genesis`, `proverbios`).
+- `"titulo"` segue a forma canônica usada na edição Figueiredo (ex.: `"Evangelho de S. Mateus"`, `"Gênesis"`, `"Livro dos Salmos"`).
+- O campo `"introducao"` é opcional — só inclua se houver texto antes do Cap. 1.
 
 ### `<N>.json` — capítulo individual
 
