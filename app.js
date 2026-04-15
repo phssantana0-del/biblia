@@ -572,7 +572,8 @@ function renderChapter(ch, bookDir, targetId) {
       const popupId = `popup_${targetId}_${item.nota}`;
       fnHtml = `<sup class="fnref" onclick="togglePopup(event,'${popupId}')">[${fnNum}]<span class="fn-popup" id="${popupId}"><button class="fn-close" onclick="closePopup(event)">✕</button><span class="fn-label">${nota.rotulo}</span> — <span>${nota.texto}</span></span></sup>`;
     }
-    return `<p class="verse" id="v-${item.n}" data-v="${item.n}"><span class="vnum"><a href="#" onclick="onVerseNumberClick(event, ${item.n}); return false;" name="v${item.n}">${item.n}</a></span>${item.texto}${fnHtml}</p>`;
+    const vnumLabel = item.n === 0 ? '' : item.n;
+    return `<p class="verse" id="v-${item.n}" data-v="${item.n}"><span class="vnum"><a href="#" onclick="onVerseNumberClick(event, ${item.n}); return false;" name="v${item.n}">${vnumLabel}</a></span>${item.texto}${fnHtml}</p>`;
   }).join('\n');
 
   const pdfUrl = bookDir + '/' + ch.num + '.pdf';
@@ -613,7 +614,8 @@ function renderVerseHtml(item, notas, notaKeys, prefix) {
     const popupId = `popup_${prefix}_${item.nota}`;
     fnHtml = `<sup class="fnref" onclick="togglePopup(event,'${popupId}')">[${fnNum}]<span class="fn-popup" id="${popupId}"><button class="fn-close" onclick="closePopup(event)">✕</button><span class="fn-label">${nota.rotulo}</span> — <span>${nota.texto}</span></span></sup>`;
   }
-  return `<span class="vnum"><a href="#" onclick="onVerseNumberClick(event, ${item.n}); return false;" name="v${item.n}_${prefix}">${item.n}</a></span>${item.texto}${fnHtml}`;
+  const vnumLabel = item.n === 0 ? '' : item.n;
+  return `<span class="vnum"><a href="#" onclick="onVerseNumberClick(event, ${item.n}); return false;" name="v${item.n}_${prefix}">${vnumLabel}</a></span>${item.texto}${fnHtml}`;
 }
 
 function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
@@ -663,12 +665,15 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
   const bios2    = ch2 ? ch2.versiculos.filter(i => i.tipo === 'bio') : [];
   const notaKeys1 = ch1.notas ? Object.keys(ch1.notas) : [];
   const notaKeys2 = ch2 && ch2.notas ? Object.keys(ch2.notas) : [];
-  const maxLen   = Math.max(verses1.length, verses2.length);
   const maxBios  = Math.max(bios1.length, bios2.length);
 
-  for (let i = 0; i < maxLen; i++) {
-    const item1 = verses1[i];
-    const item2 = verses2[i];
+  // Align by verse number (not by position) so verse 0 in one edition
+  // doesn't misalign against verse 1 in the other
+  const allNums = [...new Set([...verses1.map(v => v.n), ...verses2.map(v => v.n)])].sort((a, b) => a - b);
+
+  for (const num of allNums) {
+    const item1 = verses1.find(v => v.n === num);
+    const item2 = verses2.find(v => v.n === num);
 
     const cell1 = document.createElement('div');
     cell1.className = 'cg-cell';
