@@ -116,5 +116,31 @@
       "texto": "Os justos abominam o homem ímpio: E os ímpios abominam aquêles que se acham no caminho direito. O filho que guarda a palavra, será isento da perdição.",
       "nota": "fn29_6"
     }
-  ]
+  ],
+  "notas": {
+    "fn29_1": {
+      "rotulo": "LOUVARÁ",
+      "texto": "Dará graças a Deus como vingador das maldades, e se alegrará por ficar livre de perigo. —Menochio."
+    },
+    "fn29_2": {
+      "rotulo": "O ÍMPIO IGNORA A CIÊNCIA",
+      "texto": "Não trata de tomar conhecimento das causas dos pobres, ou de as promover. —Menochio."
+    },
+    "fn29_3": {
+      "rotulo": "O FUROR",
+      "texto": "A ira de Deus, ou a do príncipe. —Menochio."
+    },
+    "fn29_4": {
+      "rotulo": "E OS JUSTOS",
+      "texto": "Os justos por mercê de Deus conservados, e sobrevivendo aos ímpios, verão ser executada contra êles a divina vingança. —Menochio."
+    },
+    "fn29_5": {
+      "rotulo": "A PROFECIA",
+      "texto": "Tem êste lugar dois sentidos: um é que quando viesse a faltar profetas na república dos judeus, não tendo êstes com quem se aconselhassem nos negócios de maior consideração e importância, ficaria perdido o povo, por não ter quem lhe declarasse a vontade do Senhor: o outro, que é moral, tomando-se nele o têrmo profecia pela declaração, ou explicação da palavra de Deus, mostra e ensina que se corrompe e perverte o povo, quando não tem ministros e sacerdotes que lhe preguem e intimem os preceitos da lei, e os instruam nas obrigações indispensáveis da verdadeira religião."
+    },
+    "fn29_6": {
+      "rotulo": "O FILHO QUE GUARDA A PALAVRA",
+      "texto": "Falta no hebreu, e em S. Jerônimo, mas acha-se nos Setenta. É pois o sentido, que todo o homem, que observa os documentos até aqui propostos e inculcados neste Sagrado Livro, tem de ficar livre da perdição, e ruína do corpo, e principalmente da morte da alma. Esta é a inteligência mais simples e natural das presentes palavras, segundo Menochio."
+    }
+  }
 }

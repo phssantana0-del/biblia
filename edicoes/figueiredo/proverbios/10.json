@@ -136,5 +136,31 @@
       "texto": "Os lábios do justo consideram o que pode agradar: E a bôca dos ímpios coisas perversas.",
       "nota": "fn10_6"
     }
-  ]
+  ],
+  "notas": {
+    "fn10_1": {
+      "rotulo": "O FILHO SÁBIO",
+      "texto": "Até aqui fomos exortados a lançar mão do estudo da sabedoria, em geral, que consiste no conhecimento da verdade, e em acertar a cumprir com a vontade do Senhor; daqui por diante, por meio de uma quase continuada antítese entre o bem e o mal, se nos intimam preceitos e regras especiais para abraçar todo o género de virtudes e fugir dos vícios. — Pereira."
+    },
+    "fn10_2": {
+      "rotulo": "O QUE SE ESTRIBA EM MENTIRAS",
+      "texto": "Este versículo não vem no hebreu, nem no grego, nem na nova edição de S. Jerônimo, nem num grande número de manuscritos latinos. — Calmet."
+    },
+    "fn10_3": {
+      "rotulo": "O QUE FAZ SINAIS",
+      "texto": "O homem inconstante e cobarde, que se serve de gestos para dissimular e enganar."
+    },
+    "fn10_4": {
+      "rotulo": "O CABEDAL DO RICO",
+      "texto": "Aos ricos, que põem toda a sua confiança nas riquezas, avisa S. Paulo, 1 ad Tim 6, 17, de que sendo estas incertas e inconstantes, devem só colocar aquela em Deus vivo; e aos pobres, que desconfiam de socorro divino, promete o mesmo Cristo que por sua conta corre a acudir-lhes e remediá-los, como atesta S. Mateus 6, 26 e se repete noutros lugares da Escritura. — Pereira."
+    },
+    "fn10_5": {
+      "rotulo": "MAS A SABEDORIA É PARA O HOMEM PRUDÊNCIA",
+      "texto": "Porque a sabedoria que vem de Deus infunde no homem inteligência e fá-lo prudente para saber evitar o mal e abraçar o bem."
+    },
+    "fn10_6": {
+      "rotulo": "AGRADAR",
+      "texto": "Isto é, a Deus e aos homens de virtude. — Pereira."
+    }
+  }
 }

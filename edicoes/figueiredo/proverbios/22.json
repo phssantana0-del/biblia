@@ -128,5 +128,47 @@
       "texto": "Viste a um homem, que faz as suas obras com velocidade? Êste terá cabimento com os reis, e não ficará no andar da plebe.",
       "nota": "fn22_10"
     }
-  ]
+  ],
+  "notas": {
+    "fn22_1": {
+      "rotulo": "A AMIZADE",
+      "texto": "A letra se traduzirá: a boa graça, isto é, a boa aceitação, o ser aceito e agradável a Deus e aos homens, como explica Menochio."
+    },
+    "fn22_2": {
+      "rotulo": "O RICO",
+      "texto": "Ou o sentido é, que os ricos e os pobres, em razão de criaturas destinadas para o mesmo fim, são iguais diante de Deus, que só atende à sua virtude e ao amor com que o servem, ou que todos dependem mutuamente uns dos outros, o rico do préstimo do pobre e o pobre do socorro e amparo do rico. –Pereira."
+    },
+    "fn22_3": {
+      "rotulo": "O FIM DA MODÉSTIA",
+      "texto": "Isto é, o fruto, ou perfeição do justo comedimento e da humildade interior do espírito. –Pereira."
+    },
+    "fn22_4": {
+      "rotulo": "É PROVÉRBIO",
+      "texto": "Como nem no hebreu, nem nos Setenta, nem no caldeu se lêem estas palavras: É provável, adverte Calmet, que S. Jerônimo entende devê-las acrescentar aqui; para que os leitores tomassem melhor o pêso a esta máxima importantíssima da educação."
+    },
+    "fn22_5": {
+      "rotulo": "E SERÁ FERIDO",
+      "texto": "Ou à letra: “e será acabado”, isto é, consumido, perdido, arruinado. –Pereira."
+    },
+    "fn22_6": {
+      "rotulo": "AQUÊLE QUE FAZ PRESENTES",
+      "texto": "Êste versículo não se acha no hebreu, nem em S. Jerônimo, e falta também em várias edições latinas; mas trazem-no os Setenta. –Calmet."
+    },
+    "fn22_7": {
+      "rotulo": "NEM OPRIMAS EM JUÍZO",
+      "texto": "Ainda que o texto latino diz: neque conteras egenum in porta, todos expõem aquêle in porta pelo juízo; porque é notório por outros muitos lugares da Escritura, e ainda dos Provérbios, que os tribunais, em que se julgavam as causas, eram antigamente às portas da cidade. E assim leremos no capítulo 31, verso 23: Nobilis in portis vir ejus: o que todos traduzem justamente assim: “Seu marido será ilustre nas assembléias dos juízes”. –Pereira."
+    },
+    "fn22_8": {
+      "rotulo": "QUE RAZÃO HÁ",
+      "texto": "Por que motivo te metes no apêrto de que, pedindo-te o credor o dinheiro, te vejas obrigado, por lhe não poderes satisfazer, a consentir que te faça apreensão no mesmo cobertor da tua cama? –Menochio."
+    },
+    "fn22_9": {
+      "rotulo": "NÃO PASSES",
+      "texto": "Proíbe-se aqui o apropriar-se qualquer de alguma parte da herdade ou campo alheio, com a mudança dos marcos, o que é contra a lei do Dt 19, 14, ou também o querer inovar máximas diferentes daquelas que se bebem no Depósito da Fé, e na constante tradição, ditame que impugna o preceito do Apóstolo a Timóteo na Epístola, 1, c. 6, v. 20. –Pereira."
+    },
+    "fn22_10": {
+      "rotulo": "QUE FAZ AS SUAS OBRAS COM VELOCIDADE?",
+      "texto": "À letra se traduzirá: “Viste um homem veloz (isto é, pontual, ativo, pronto) na sua obra? Diante dos reis se levantará firme e não estará diante dos de baixa estofa. –Pereira."
+    }
+  }
 }

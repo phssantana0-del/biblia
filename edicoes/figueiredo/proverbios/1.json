@@ -141,5 +141,35 @@
       "n": 33,
       "texto": "Mas aquêle que me ouvir, descansará sem terror, e gozará da abundância de bens sem receio de mal algum."
     }
-  ]
+  ],
+  "notas": {
+    "fn1_1": {
+      "rotulo": "DISCIPLINA",
+      "texto": "Esta palavra é repetida frequentes vezes neste livro, e significa os conhecimentos especulativos, as instruções e admoestações atinentes a corrigir os defeitos e formar os corações dos jovens."
+    },
+    "fn1_2": {
+      "rotulo": "A FIM DE SE DAR AOS PEQUENINOS ASTÚCIA",
+      "texto": "Toma-se aqui astúcia em boa parte por esperteza, discrição, discernimento, para conhecer e evitar qualquer engano. Pelos \"pequeninos\" se entendem os símplices, e como lhes chama o apóstolo 1 Cor 14, 20, \"meninos no pensar\"; pelos \"mancebos\", aqueles que têm já feito progressos na virtude, ou verdadeira ciência."
+    },
+    "fn1_3": {
+      "rotulo": "INSENSATOS",
+      "texto": "Stulti; sob este nome a Escritura designa muitas vezes os maus."
+    },
+    "fn1_4": {
+      "rotulo": "ENGRAÇADO ADÔRNO",
+      "texto": "Isto é, uma coroa. Os orientais comparam muitas vezes as palavras dos sábios às pérolas e ornamentos preciosos, pois que exornam e tornam resplandecente o espírito do homem."
+    },
+    "fn1_5": {
+      "rotulo": "COMO O INFERNO",
+      "texto": "Faz-se aqui, segundo parece, alusão ao sucesso de Datã e Abirão, relatado já no livro dos Núm 16. O sheol, lugar onde estavam as almas dos justos."
+    },
+    "fn1_6": {
+      "rotulo": "LEVANTAR-SE-ÃO DE MADRUGADA",
+      "texto": "É este um hebraísmo, que significa fazer as mais agonizadas instâncias, e os maiores esforços para chegar ao fim que se pretende."
+    },
+    "fn1_7": {
+      "rotulo": "A AVERSÃO DOS MENINOS",
+      "texto": "A aversão que os meninos (que não conhecem o que lhes é proveitoso) têm ao tomar os meus conselhos. De Carrières. Também se toma na acepção do afastamento do caminho da ciência e da virtude, e é este o sentido do hebreu. Jeremias serve-se de idêntica expressão para designar o afastamento de Deus. Jer 2, 12; 3, 22; 6, 6."
+    }
+  }
 }

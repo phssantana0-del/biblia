@@ -132,5 +132,31 @@
       "texto": "O cavalo prepara-se para o dia da batalha: Mas o Senhor é o que dá a vitória.",
       "nota": "fn21_6"
     }
-  ]
+  ],
+  "notas": {
+    "fn21_1": {
+      "rotulo": "ASSIM COMO",
+      "texto": "Pela comparação dos cultivadores de jardins e hortas, que repartindo a água pelos regueiros, a encaminham aonde querem, mostra o sábio que também Deus inclina o coração dos reis aonde muito lhe apraz, e tem decretado, sem que para isso lhes imprima violência alguma no seu alvedrio. –Pereira."
+    },
+    "fn21_2": {
+      "rotulo": "TERRAÇO",
+      "texto": "Na Palestina e no Egito as casas em lugar de telhados tinham terraços. É pois o sentido: que mais vale tranqüilamente viver sujeito às injúrias e inclemências do ar, do que abrigado numa casa, tendo de portas a dentro uma mulher litigiosa."
+    },
+    "fn21_3": {
+      "rotulo": "O SÁBIO",
+      "texto": "Ensina o Sábio que à fortaleza do corpo leva grande excesso a sabedoria; porque várias vêzes sucede serem muitas cidades bem guarnecidas tomadas por estratagema e ardil, as quais não poderia a fôrça reduzir ao poder do conquistador, que lhe dá o assalto. Isto é o que se diz na Sab. 7, 2. “Melhor é a sabedoria do que as fôrças, e o homem prudente do que o forte”. –Menochio."
+    },
+    "fn21_4": {
+      "rotulo": "O HOMEM OBEDIENTE",
+      "texto": "O que obedece a Deus, à lei, à razão, aos superiores, alcançará vitória de seus adversários, de Satanaz e de si mesmo. Assim se costuma explicar êste lugar. Até aqui são palavras de Calmet, conservando o sentido que oferece a Vulgata. Porém o hebreu lê: “O varão que ouve”, isto é, o que relata, e depõe o que viu e ouviu, “falará vitoriosamente”, fará triunfar a verdade, falando sempre pela mesma bôca e ostentando-se em todo o tempo e lugar como uma fiel e verídica testemunha."
+    },
+    "fn21_5": {
+      "rotulo": "MOSTRA NO SEU ROSTO",
+      "texto": "O ímpio cerra-se, teima e obstinado se confirma no seu mau propósito, e não duvidando mofar descaradamente das saudáveis advertências que lhe fazem, até defende o mal que fêz, querendo sempre achar escapula a seus vícios. –Pereira."
+    },
+    "fn21_6": {
+      "rotulo": "O CAVALO",
+      "texto": "Debalde se fazem os aparatos da guerra; debalde se juntam as carroças e a cavalaria; porque não é o soldado, o que dá a vitória, mas só Deus (Sl 32, 17). Entre os hebreus e os povos orientais não se fazia uso de cavalos, senão para a guerra. O boi era destinado para a cultura dos campos e para levar os carros ordinários; o jumento e o camelo para as cargas, para os fardos, para a jornada; o cavalo só para a guerra se reserva. –Calmet."
+    }
+  }
 }
