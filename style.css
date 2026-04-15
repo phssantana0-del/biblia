@@ -53,6 +53,21 @@ body {
 
 #edition-selector label { color: #555; }
 
+.theme-toggle-btn {
+  border: 1px solid #999;
+  background: #f6f6f6;
+  color: #222;
+  font-family: 'David Libre', Georgia, serif;
+  font-size: 13px;
+  line-height: 1;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+.theme-toggle-btn:hover {
+  background: #ececec;
+}
+
 select {
   font-family: 'David Libre', Georgia, serif;
   font-size: 14px;
@@ -586,4 +601,115 @@ sup.fnref {
     overflow-y: auto;
     z-index: 300;
   }
+}
+
+/* ── Modo noturno ── */
+body.dark-mode {
+  color: #eee6d6;
+  background: #15120f;
+}
+
+body.dark-mode #content-wrapper,
+body.dark-mode #pdf-panel,
+body.dark-mode #book-panel,
+body.dark-mode #intro-panel {
+  background: #1d1814;
+}
+
+body.dark-mode #topbar,
+body.dark-mode #bottomnav,
+body.dark-mode #pdf-panel.open,
+body.dark-mode #pdf-panel-header,
+body.dark-mode #book-panel,
+body.dark-mode #intro-panel,
+body.dark-mode .cg-rule,
+body.dark-mode hr.section-rule,
+body.dark-mode .cg-divider {
+  border-color: #4d4338;
+}
+
+body.dark-mode #topbar span,
+body.dark-mode #edition-selector label,
+body.dark-mode .chapter-links .label,
+body.dark-mode .chapter-header .summary,
+body.dark-mode .cg-summary-text,
+body.dark-mode #pdf-panel-header span,
+body.dark-mode .loading-msg,
+body.dark-mode #intro-content em.footnote,
+body.dark-mode .testament-title,
+body.dark-mode .book-group .group-label {
+  color: #b4a899;
+}
+
+body.dark-mode #topbar a,
+body.dark-mode #topbar button.link-btn,
+body.dark-mode .nav-row a,
+body.dark-mode .chapter-links a,
+body.dark-mode .ver-original-btn,
+body.dark-mode .book-group a,
+body.dark-mode sup.fnref {
+  color: #8fb9ff;
+}
+
+body.dark-mode #topbar-edition-label,
+body.dark-mode .nav-row .book-title,
+body.dark-mode .chapter-links a.current,
+body.dark-mode .chapter-header h1,
+body.dark-mode .cg-chapter-title,
+body.dark-mode .vnum,
+body.dark-mode #pdf-panel-close,
+body.dark-mode #book-panel .close-btn,
+body.dark-mode #intro-panel .close-btn {
+  color: #f3e8d5;
+}
+
+body.dark-mode select,
+body.dark-mode .theme-toggle-btn {
+  background: #2a231d;
+  border-color: #5c4f41;
+  color: #eee6d6;
+}
+
+body.dark-mode .theme-toggle-btn:hover {
+  background: #3a3128;
+}
+
+body.dark-mode .compare-toggle-btn {
+  background: #203147;
+  border-color: #82acff;
+  color: #d2e3ff;
+}
+
+body.dark-mode .compare-toggle-btn:hover {
+  background: #2a3f5c;
+}
+
+body.dark-mode .compare-status,
+body.dark-mode .nav-row .dimmed {
+  color: #9a8f82;
+}
+
+body.dark-mode .verse.highlighted {
+  background: #3d3628;
+}
+
+body.dark-mode .verse.verse-marked {
+  background-color: #51462a;
+  box-shadow: inset 0 0 0 1px rgba(247, 203, 88, 0.35);
+}
+
+body.dark-mode .fn-popup {
+  background: #2d251f;
+  border-color: #6a5c4e;
+  color: #eee3d1;
+  box-shadow: 2px 3px 8px rgba(0,0,0,0.45);
+}
+
+body.dark-mode #book-selector,
+body.dark-mode #intro-modal {
+  background: rgba(0,0,0,0.65);
+}
+
+body.dark-mode .error-msg {
+  color: #ff9f9f;
 }

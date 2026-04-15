@@ -4,6 +4,7 @@
 
 const BASE_URL = 'edicoes/index.json';
 const NAV_STORAGE_KEY = 'biblia:last-navigation';
+const THEME_STORAGE_KEY = 'biblia:theme';
 const ROUTING_MODE = 'hash';
 
 let state = {
@@ -22,9 +23,49 @@ let state = {
   compareEditionId: null,
   compareBookData: null,
   activePdfType: null,
+  darkMode: false,
 };
 
 let activePopup = null;
+
+function applyTheme(theme) {
+  const isDark = theme === 'dark';
+  document.body.classList.toggle('dark-mode', isDark);
+  state.darkMode = isDark;
+
+  const btn = document.getElementById('theme-toggle-btn');
+  if (!btn) return;
+
+  btn.textContent = isDark ? '☀️ Claro' : '🌙 Noturno';
+  btn.setAttribute('aria-pressed', String(isDark));
+  btn.title = isDark ? 'Ativar modo claro' : 'Ativar modo noturno';
+}
+
+function initTheme() {
+  let savedTheme = null;
+  try {
+    savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+  } catch (_) {
+    savedTheme = null;
+  }
+
+  if (savedTheme === 'dark' || savedTheme === 'light') {
+    applyTheme(savedTheme);
+    return;
+  }
+
+  applyTheme('light');
+}
+
+function toggleDarkMode() {
+  const nextTheme = document.body.classList.contains('dark-mode') ? 'light' : 'dark';
+  applyTheme(nextTheme);
+  try {
+    localStorage.setItem(THEME_STORAGE_KEY, nextTheme);
+  } catch (_) {
+    // sem persistencia quando localStorage nao estiver disponivel
+  }
+}
 
 function parsePositiveInt(value) {
   if (!value) return null;
@@ -345,6 +386,8 @@ async function restoreNavigationFromState(nav, options = {}) {
 // ══════════════════════════════════════════════════════════════
 
 async function init() {
+  initTheme();
+
   try {
     const res = await fetch(BASE_URL);
     if (!res.ok) throw new Error(`Não foi possível carregar edicoes/index.json (HTTP ${res.status})`);
