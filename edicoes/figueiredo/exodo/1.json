@@ -1,0 +1,111 @@
+{
+  "num": 1,
+  "sumario": "Conta dos israelitas, que vieram para o Egito. Novo rei do Egito, que vexa os israelitas. Parteiras do Egito galardoadas por Deus, por terem salvado os meninos dos hebreus.",
+  "versiculos": [
+    {
+      "n": 1,
+      "texto": "Eis-aqui os nomes dos filhos de Israel, que vieram para o Egito com Jacó, e que nêle entraram cada um com a sua família."
+    },
+    {
+      "n": 2,
+      "texto": "Rúben, Simeão, Levi, Judá,"
+    },
+    {
+      "n": 3,
+      "texto": "Issacar, Zabulon, Benjamim,"
+    },
+    {
+      "n": 4,
+      "texto": "Dan, Neftali, Gad, e Aser."
+    },
+    {
+      "n": 5,
+      "texto": "Todos os que tinham saído de Jacó faziam o número de setenta pessoas: José porém estava no Egito."
+    },
+    {
+      "n": 6,
+      "texto": "Depois da morte de José, e da de todos seus irmãos, e de tôda esta parentela,"
+    },
+    {
+      "n": 7,
+      "texto": "cresceram os filhos de Israel, e como uns renovos se multiplicaram, e feitos em extremo fortes, encheram todo o país."
+    },
+    {
+      "n": 8,
+      "texto": "Entretanto se levantou no Egito um novo rei, que não conhecia a José,",
+      "nota": "fn1_1"
+    },
+    {
+      "n": 9,
+      "texto": "e que disse ao seu povo: Vós bem vedes que o povo dos filhos de Israel está muito numeroso, e que é mais forte do que nós."
+    },
+    {
+      "n": 10,
+      "texto": "Oprimamo-lo pois com manha, para que não suceda, que êle se multiplique ainda mais; e se sobrevier alguma guerra, se una com os nossos inimigos, e depois de nos vencerem, saiam do Egito."
+    },
+    {
+      "n": 11,
+      "texto": "Constituiu pois o rei sôbre êles certos intendentes de obras, a fim de os afligir com carregos: e os israelitas edificaram a Faraó as cidades das Tendas, Fitom, e Ramessés.",
+      "nota": "fn1_2"
+    },
+    {
+      "n": 12,
+      "texto": "Mas quanto êle mais os oprimia, tanto os israelitas mais se multiplicavam, e cresciam."
+    },
+    {
+      "n": 13,
+      "texto": "Pelo que os egípcios aborreciam os filhos de Israel, e os afligiam com insultos."
+    },
+    {
+      "n": 14,
+      "texto": "Faziam-lhes amargosa a vida, ocupando-os no penoso trabalho de acarretarem cal traçada, e tijolo, e constrangendo-os a cultivar-lhes seus campos."
+    },
+    {
+      "n": 15,
+      "texto": "Ora o rei do Egito falou às parteiras dos hebreus, das quais uma se chamava Séfora, outra Fua,"
+    },
+    {
+      "n": 16,
+      "texto": "e lhes deu esta ordem: Quando vós partejardes as mulheres dos hebreus, tanto que a criança nascer, se fôr macho, matai-a; se fôr fêmea, deixai-a viver."
+    },
+    {
+      "n": 17,
+      "texto": "Mas as parteiras temeram a Deus, e não fizeram o que o rei do Egito lhes tinha mandado, antes pelo contrário conservaram os meninos machos."
+    },
+    {
+      "n": 18,
+      "texto": "O rei, tendo-as mandado vir à sua presença, lhes disse: Que é isto que vós quisestes fazer, perdoando aos meninos machos?"
+    },
+    {
+      "n": 19,
+      "texto": "Elas lhe responderam: As mulheres dos hebreus não são como as dos egípcios: Porque elas mesmas se sabem partejar, e, antes de nós chegarmos, parem."
+    },
+    {
+      "n": 20,
+      "texto": "Galardoou Deus pois estas parteiras, e o povo foi crescendo, e fortificando-se extraordinariamente."
+    },
+    {
+      "n": 21,
+      "texto": "E porque as parteiras temeram a Deus, êle lhes estabeleceu as suas casas.",
+      "nota": "fn1_3"
+    },
+    {
+      "n": 22,
+      "texto": "Então pôs Faraó a todo o povo êste preceito: Lançai no rio todo o que nascer macho, e não reserveis senão as fêmeas."
+    }
+  ],
+  "notas": {
+    "fn1_1": {
+      "rotulo": "UM NOVO REI",
+      "texto": "Êste rei pertencia à XIX dinastia. A perseguição, ao que parece começou no reinado de Seti 1.°; continuou com violências sob as ordens de Ramsés 2.°, o Sesóstris dos gregos, e um dos faraós de maior celebridade. A múmia dêste notável monarca foi descoberta no ano de 1881, em Deir-el-Bahari, e conserva-se no museu de Gisé, perto do Cairo."
+    },
+    "fn1_2": {
+      "rotulo": "FITOM",
+      "texto": "Hoje é Tell-el-Maskuta. Esta povoação foi rodeada por um muro de tijolos compreendendo quatro hectares de terreno. A superfície era ocupada por armazéns, tabernáculo da vulgata. As investigações modernas descobriram importantes vestígios de Fitom. Ramessés devia estar próximo, pois que aí estava o arsenal da terra de Gessen."
+    },
+    "fn1_3": {
+      "rotulo": "LHES ESTABELECEU AS SUAS CASAS",
+      "texto": "S. Agostinho interpreta êste lugar da seguinte forma: Deus concedeu-lhe a prosperidade e uma numerosa família. S. Agostinho, Contra mendacium, 15, ss."
+    }
+  }
+}

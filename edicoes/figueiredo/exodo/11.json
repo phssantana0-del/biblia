@@ -1,0 +1,63 @@
+{
+  "num": 11,
+  "sumario": "Predição da décima e última praga.",
+  "versiculos": [
+    {
+      "n": 1,
+      "texto": "E o Senhor disse a Moisés: Ainda tenho de ferir a Faraó, e ao Egito com uma praga: E então depois disto êle vos deixará ir, e até vos dará pressa a que saiais."
+    },
+    {
+      "n": 2,
+      "texto": "Dize pois a todo o povo: Que cada homem peça ao seu amigo, e cada mulher à sua vizinha vasos de prata e ouro.",
+      "nota": "fn11_1"
+    },
+    {
+      "n": 3,
+      "texto": "E o Senhor fará que o seu povo ache graça diante dos egípcios. Ora Moisés tinha adquirido uma grande autoridade em todo o Egito, assim aos olhos dos servos de Faraó, como aos de todo o seu povo."
+    },
+    {
+      "n": 4,
+      "texto": "Êle pois disse: Eis-aqui o que disse o Senhor: Eu sairei à meia noite a correr o Egito.",
+      "nota": "fn11_2"
+    },
+    {
+      "n": 5,
+      "texto": "E todos os primogénitos morrerão nas terras do Egito, desde o primogénito de Faraó, que está assentado no seu trono, até o primogénito da escrava, que está à mó do moinho, e até os primogénitos dos animais.",
+      "nota": "fn11_3"
+    },
+    {
+      "n": 6,
+      "texto": "Em todo o Egito se ouvirão grandes gritos, quais nunca antes houve, nem haverá jamais."
+    },
+    {
+      "n": 7,
+      "texto": "Mas entre todos os filhos de Israel, desde os homens até os animais, não se ouvirá nem ganir um cão; para que vós saibais com que grande milagre divide o Senhor a Israel dos egípcios."
+    },
+    {
+      "n": 8,
+      "texto": "Então todos os teus servos, que tu vês aqui, virão ter comigo, e me adorarão, e me dirão: Sai tu, e todo o povo, que te está sujeito. E depois disto sairemos nós."
+    },
+    {
+      "n": 9,
+      "texto": "E Moisés saiu da presença de Faraó muito irado. E o Senhor disse a Moisés: Faraó não vos ouvirá, para que se faça um grande número de prodígios no Egito."
+    },
+    {
+      "n": 10,
+      "texto": "Ainda que pois Moisés, e Aarão fizeram diante de Faraó todos os prodígios, que estão escritos, o Senhor endureceu o coração dêste príncipe, que não permitiu que os filhos de Israel saíssem das suas terras."
+    }
+  ],
+  "notas": {
+    "fn11_1": {
+      "rotulo": "QUE CADA HOMEM PEÇA AO SEU AMIGO",
+      "texto": "Não é dum roubo que se trata, mas sim duma compensação dos bens imóveis, que eram consideráveis, e que êles abandonariam aos egípcios desde que partissem."
+    },
+    "fn11_2": {
+      "rotulo": "A MEIA NOITE",
+      "texto": "Não diz o texto que é a meia noite seguinte, mas numa noite que fica indeterminada, para que maior seja o castigo dos egípcios."
+    },
+    "fn11_3": {
+      "rotulo": "DESDE O PRIMOGÉNITO DE FARAÓ",
+      "texto": "É claro que neste verso se fala dum milagre extraordinário, cuja realização vem narrada no v. 29 do capítulo seguinte."
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "num": 27,
+  "sumario": "Ordenações acêrca do altar dos holocaustos, do átrio do tabernáculo, dos vasos sagrados, do azeite, e das lâmpadas.",
+  "versiculos": [
+    {
+      "n": 1,
+      "texto": "Farás também um altar de pau de cetim, que terá cinco côvados de comprido, e outros tantos de largo, isto é, que será quadrado, e terá três côvados de alto.",
+      "nota": "fn27_1"
+    },
+    {
+      "n": 2,
+      "texto": "Das quatro hastes do altar levantar-se-ão quatro hastes, e tu o cobrirás de bronze."
+    },
+    {
+      "n": 3,
+      "texto": "Farás para o uso do altar umas caldeiras, que servirão para se receberem as cinzas: farás tenazes, forquilhas, e braseiros: tôdas as quais coisas serão de metal."
+    },
+    {
+      "n": 4,
+      "texto": "Farás também uma grelha de metal em forma de rêde, em cujos quatro cantos haverá quatro argolas de metal,"
+    },
+    {
+      "n": 5,
+      "texto": "as quais tu porás debaixo do fogão do altar; e a grelha descerá até o meio da sua altura."
+    },
+    {
+      "n": 6,
+      "texto": "Farás outrossim para o altar dois varais de pau de cetim, os quais chapearás de metal,"
+    },
+    {
+      "n": 7,
+      "texto": "e fá-los-ás passar pelas argolas duma, e outra banda do altar, para servirem a levá-lo."
+    },
+    {
+      "n": 8,
+      "texto": "Não farás o altar maciço, mas oco, e côncavo por dentro, segundo o modêlo que te foi mostrado no monte."
+    },
+    {
+      "n": 9,
+      "texto": "Farás também o átrio do tabernáculo. Êle terá da banda do meio-dia umas cortinas de linho fino retorcido, êste lado terá cem côvados de comprido.",
+      "nota": "fn27_2"
+    },
+    {
+      "n": 10,
+      "texto": "Porás nêle vinte colunas com outras tantas bases de metal: os capitéis, e ornatos das colunas serão de prata."
+    },
+    {
+      "n": 11,
+      "texto": "Da mesma sorte haverá no lado do Aquilão cortinas de cem côvados de comprido, e vinte colunas cada uma com suas bases de metal, seus capitéis, e seus ornatos de prata."
+    },
+    {
+      "n": 12,
+      "texto": "A largura do átrio, que olha para o poente, terá cinquenta côvados, ao longo da qual porás umas cortinas, e dez colunas com outras tantas bases."
+    },
+    {
+      "n": 13,
+      "texto": "A largura do átrio, que olha para o nascente, terá também cinquenta côvados."
+    },
+    {
+      "n": 14,
+      "texto": "Aqui a um lado porás cortinas pelo espaço de quinze côvados, e três colunas com outras tantas bases."
+    },
+    {
+      "n": 15,
+      "texto": "Ao outro lado porás cortinas pelo mesmo espaço de quinze côvados, três colunas, e outras tantas bases."
+    },
+    {
+      "n": 16,
+      "texto": "À entrada do átrio pelo espaço de vinte côvados, porás cortinas de jacinto, de púrpura, de escarlata tingida duas vêzes, e de linho fino retorcido, que serão brincadas de vários bordados. Esta entrada terá quatro colunas com outras tantas bases."
+    },
+    {
+      "n": 17,
+      "texto": "Tôdas as colunas postas à roda do átrio serão forradas de lâminas de prata. Terão capitéis de prata, e bases de metal."
+    },
+    {
+      "n": 18,
+      "texto": "O átrio terá cem côvados de comprido, cinquenta de largo, e cinco de alto. As suas cortinas far-se-ão de linho fino retorcido, e as bases serão de metal."
+    },
+    {
+      "n": 19,
+      "texto": "Todos os vasos, que houverem de servir para qualquer uso, e para qualquer cerimónia do tabernáculo, como também tôdas as estacas, que se empregarem, tanto no tabernáculo, como no átrio, serão de metal."
+    },
+    {
+      "n": 20,
+      "texto": "Ordena aos filhos de Israel, que te tragam do mais puro azeite de oliveira, espremido no gral, para que as lâmpadas luzam sempre",
+      "nota": "fn27_3"
+    },
+    {
+      "n": 21,
+      "texto": "no tabernáculo do testemunho fora do véu, que está suspenso diante da arca. Aarão, e seus filhos porão as lâmpadas, para que elas luzam até pela manhã diante do Senhor. Êste culto se continuará sempre, e passará de geração em geração entre os filhos de Israel."
+    }
+  ],
+  "notas": {
+    "fn27_1": {
+      "rotulo": "UM ALTAR",
+      "texto": "Trata-se aqui do altar dos holocaustos. Pelos dados que a narração bíblica nos fornece, pode descrever-se assim: era uma espécie de cofre sem fundo (Êx 27, 8), de forma quadrangular, tendo 3 côvados de altura, ou seja 1 metro e meio, 5 de comprimento e largura, aproximadamente 2m,50. Era feito de madeira de acácia, guarnecido de bronze; a parte côncava enchia-se de terra e de pedras, em cuja superfície revestida de metal, se queimavam as vítimas destinadas ao sacrifício, e se conservava o fogo sagrado. Cfr. Vigouroux, La Sainte Bible polyglotte."
+    },
+    "fn27_2": {
+      "rotulo": "O ÁTRIO",
+      "texto": "Começa a descrição do átrio, em hebreu hatsar, atrium, vestibulum, onde os fiéis se deviam reunir, e onde se ofereciam os sacrifícios cruentos sôbre o altar dos holocaustos."
+    },
+    "fn27_3": {
+      "rotulo": "PARA QUE AS LÂMPADAS LUZAM SEMPRE",
+      "texto": "Esta disposição era religiosamente cumprida. Samuel dormia no templo para cuidar da lâmpada que ardia diante da Arca do Senhor (Veja-se o v. 3, c. 3 dos 1 Rs)."
+    }
+  }
+}
