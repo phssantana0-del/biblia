@@ -91,6 +91,17 @@ Antes de salvar qualquer capítulo, verifique se `edicoes/vulgata/<livro>/<N>.js
 
 **O campo `"fonte"` é obrigatório** — contém a URL exata da página Wikisource de onde o capítulo foi extraído. Isso permite ao usuário clicar e conferir no site.
 
+### Versículo zero (inscrição/epígrafe dos Salmos)
+
+Nos Salmos, cada salmo frequentemente começa com uma inscrição sem número de versículo (título, indicação musical ou dedicatória). Regras:
+
+1. **Se há texto sem número antes do versículo 1** → salve como `{ "n": 0, "tipo": "epigrafe", "texto": "..." }`.
+2. **Se o primeiro item já tem número 1** → não crie versículo zero. O primeiro versículo numerado é o v. 1.
+3. **Nunca renumere versículos** por causa do versículo zero. O v. 1 permanece como v. 1, v. 2 como v. 2, etc. Se a Vulgata não tem inscrição, o salmo começa em v. 1.
+4. **Nunca salte versículos.** Se o texto do Wikisource mostra v. 1 como primeira linha numerada (mesmo que haja inscrição antes), o v. 1 deve estar no JSON com `"n": 1`.
+
+> ⚠️ Erro comum a evitar: salvar a inscrição como `n: 0` **e** começar os versículos em `n: 2`, pulando o `n: 1`. Isso está errado. O `n: 0` é somente para a inscrição; o corpo do salmo começa em `n: 1`.
+
 ### Tipos de versículo
 
 **Simples:**
@@ -101,6 +112,11 @@ Antes de salvar qualquer capítulo, verifique se `edicoes/vulgata/<livro>/<N>.js
 **Com citação profética:**
 ```json
 { "n": 23, "texto": "<span class='prophetic'>Ecce virgo in utero habebit, et pariet filium.</span>" }
+```
+
+**Inscrição/epígrafe (versículo zero — Salmos):**
+```json
+{ "n": 0, "tipo": "epigrafe", "texto": "In finem, Psalmus David." }
 ```
 
 Não há itens `"bio"` na Vulgata. Não há notas de rodapé a menos que o Wikisource as forneça explicitamente.

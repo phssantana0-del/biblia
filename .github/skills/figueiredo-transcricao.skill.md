@@ -121,10 +121,26 @@ Sem campo `"pdf"` — o visualizador deriva o caminho automaticamente.
 { "n": 6, "texto": "<span class='prophetic'>Eu te proclamei meu filho.</span>" }
 ```
 
+**Inscrição/epígrafe (versículo zero — Salmos):**
+```json
+{ "n": 0, "tipo": "epigrafe", "texto": "Ao regente do coro. Salmo de Davi." }
+```
+
 **Item biográfico/temático** (inserido na posição exata em que aparece no PDF):
 ```json
 { "tipo": "bio", "titulo": "Nome da pessoa ou tema", "texto": "Texto completo." }
 ```
+
+### Versículo zero (inscrição/epígrafe dos Salmos)
+
+Nos Salmos, cada salmo frequentemente começa com uma inscrição sem número de versículo (título, indicação musical ou dedicatória). Regras:
+
+1. **Se há texto sem número antes do versículo 1** → salve como `{ "n": 0, "tipo": "epigrafe", "texto": "..." }`.
+2. **Se o primeiro item já tem número 1** → não crie versículo zero. O salmo começa em v. 1.
+3. **Nunca renumere versículos** por causa do versículo zero. O v. 1 permanece como v. 1, v. 2 como v. 2, etc.
+4. **Nunca salte versículos.** O corpo do salmo deve ter todos os versículos numerados consecutivamente a partir de 1.
+
+> ⚠️ Erro comum a evitar: salvar a inscrição como `n: 0` **e** começar os versículos em `n: 2`, pulando o `n: 1`. O `n: 0` é somente para a inscrição; o corpo começa sempre em `n: 1`.
 
 ### Notas de rodapé
 
