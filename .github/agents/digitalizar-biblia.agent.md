@@ -115,18 +115,19 @@ Confirme que cada `edicoes/figueiredo/<livroId>/<N>.pdf` foi criado.
 
 **B1. Buscar e validar link dos capítulos do livro**
 
-Localize o link candidata para o livro (via skill ou inferência). **Teste-a** com `curl -sI <url>` e verifique se retorna HTTP 200.
+Localize o link candidato para o livro **na tabela canônica da skill `vulgata-clementina` ou no índice real do Wikisource**. **Nunca use inferência de slug.** Teste a URL com `curl -sI <url>` e verifique se retorna HTTP 200 antes de prosseguir.
 
 **B2. Extrair cada capítulo**
 
 Para cada capítulo N no intervalo:
 - Acesse a URL do livro e localize o capítulo correspondente.
 - Extraia os versículos respeitando a grafia Clementina obrigatória (tabela na skill).
-- Registre a URL exata da página como campo `"fonte"` no JSON.
+- Registre o campo `"link"` com **a mesma URL validada** + âncora `#Caput_<N>`.
+- Nunca reconstrua a base da URL a partir de `livroId`, `titulo`, abreviação ou do nome do livro.
 
 **B3. Salvar e atualizar**
 
-- Salve `edicoes/vulgata/<livroId>/<N>.json` com campo `"fonte"` obrigatório.
+- Salve `edicoes/vulgata/<livroId>/<N>.json` com campo `"link"` obrigatório.
 - Adicione N ao array `capitulos` do `edicoes/vulgata/<livroId>/index.json`.
 - Gere o relatório `edicoes/vulgata/<livroId>/<N>.md`.
 

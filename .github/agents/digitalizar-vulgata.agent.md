@@ -51,7 +51,9 @@ Se a URL retornar 404 ou outro erro:
 2. Extraia os links reais com: `curl -sL 'https://la.wikisource.org/wiki/Vulgata_Clementina' | grep -oP 'href="/wiki/Vulgata_Clementina/[^"]*"'`
 3. Identifique o link correto para o livro e use-o.
 
-**Nunca inferir ou construir slugs de URL a partir do nome do livro.** Sempre usar exatamente a URL confirmada via HTTP 200.
+**Nunca inferir ou construir slugs de URL a partir do nome do livro, do `id`, da abreviação ou do `titulo` do `index.json`.** Consulte primeiro a tabela canônica da skill `vulgata-clementina`; se ainda houver dúvida, copie o `href` real do índice.
+
+Casos como `Liber_Exodus`, `Liber_Genesis`, `Prophetia_Isaiæ`, `Canticum_Canticorum`, `Acta_Apostolorum` e `Pauli_Epistola_ad_Timotheum_II` provam que **não existe regra uniforme de prefixo**.
 
 ### 2. Extrair cada capítulo
 
@@ -59,7 +61,8 @@ Para cada capítulo N no intervalo:
 - Acesse a página do livro no Wikisource usando a URL validada.
 - Localize o capítulo correspondente.
 - Extraia os versículos respeitando **obrigatoriamente** a grafia Clementina (tabela na skill).
-- Registre o campo `"link"` com a URL validada + âncora de capítulo no formato `"<url-validada>#Caput_<N>"` (ex.: `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_51`).
+- Registre o campo `"link"` com **a mesma URL validada** + âncora de capítulo no formato `"<url-validada>#Caput_<N>"` (ex.: `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum#Caput_51`).
+- **Nunca recompute a base da URL** ao salvar o JSON. Reuse literalmente a string validada no passo anterior.
 
 ### 3. Salvar e atualizar
 

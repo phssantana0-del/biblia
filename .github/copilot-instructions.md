@@ -11,12 +11,16 @@ Para a edição **Vulgata Clementina**, o texto deve ser sempre extraído de:
 - Marcos: `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Marcum`
 - Lucas: `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam`
 - João: `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Ioannem`
-- Gênesis: `https://la.wikisource.org/wiki/Vulgata_Clementina/Genesis`
+- Gênesis: `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Genesis`
 - Salmos: `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum`
 - Deuteronômio: `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Deuteronomii`
 - Para outros livros: consultar o índice em `https://la.wikisource.org/wiki/Vulgata_Clementina` para obter o nome exato.
 
 **Nunca inferir slug de URL.** Sempre copiar o subartigo exatamente como aparece no índice do Wikisource.
+
+Os subartigos **não seguem uma regra uniforme**. Alguns usam `Liber_`, outros usam `Prophetia_`, outros não usam prefixo algum, e há casos compostos como `Acta_Apostolorum` e `Pauli_Epistola_ad_Timotheum_II`.
+
+**Só é permitido substituir espaços por `_` depois de escolher o subartigo canônico exato** no índice do Wikisource ou na lista canônica da skill `vulgata-clementina`.
 
 ### Grafia característica da Clementina (diferente da Nova Vulgata)
 | Clementina | Nova Vulgata |

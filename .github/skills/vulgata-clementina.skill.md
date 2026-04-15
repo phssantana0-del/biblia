@@ -17,20 +17,101 @@ O texto deve ser sempre extraído de:
 
 ## URLs por livro
 
-| Livro       | URL                                                                          |
-|-------------|------------------------------------------------------------------------------|
-| Mateus      | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Matthaeum` |
-| Marcos      | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Marcum`    |
-| Lucas       | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Lucam`     |
-| João        | `https://la.wikisource.org/wiki/Vulgata_Clementina/Evangelium_Secundum_Ioannem`   |
-| Gênesis     | `https://la.wikisource.org/wiki/Vulgata_Clementina/Genesis`                       |
-| Salmos      | `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Psalmorum`               |
-| Deuteronômio| `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Deuteronomii`            |
-| Outros      | Consultar o índice: `https://la.wikisource.org/wiki/Vulgata_Clementina`            |
+Os subartigos **não seguem uma regra uniforme**. Alguns usam `Liber_`, outros usam `Prophetia_`, outros não usam prefixo algum, e vários livros do Novo Testamento usam títulos compostos.
 
-Para livros não listados: acesse o índice, localize o nome exato do subartigo e construa a URL.
+**Nunca adivinhe slug de URL.** Primeiro escolha o **subartigo canônico exato** abaixo; só depois forme a URL substituindo espaços por `_`.
 
-Nunca adivinhe slug de URL. Sempre copie exatamente o subartigo do índice (ex.: `Liber_Psalmorum`, `Liber_Deuteronomii`).
+Formato permitido:
+
+```text
+https://la.wikisource.org/wiki/Vulgata_Clementina/<subartigo-exato-com-espacos-substituidos-por-_>
+```
+
+Exemplos válidos:
+
+- `Liber Exodus` → `https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Exodus`
+- `Prophetia Isaiæ` → `https://la.wikisource.org/wiki/Vulgata_Clementina/Prophetia_Isaiæ`
+- `Pauli Epistola ad Timotheum II` → `https://la.wikisource.org/wiki/Vulgata_Clementina/Pauli_Epistola_ad_Timotheum_II`
+
+### Subartigos canônicos do Wikisource
+
+| Livro | Subartigo exato |
+|------|------------------|
+| Gênesis | `Liber Genesis` |
+| Êxodo | `Liber Exodus` |
+| Levítico | `Liber Leviticus` |
+| Números | `Liber Numeri` |
+| Deuteronômio | `Liber Deuteronomii` |
+| Josué | `Liber Josue` |
+| Juízes | `Liber Judicum` |
+| Rute | `Liber Ruth` |
+| 1 Samuel | `Liber I Regum (sive I Samuelis)` |
+| 2 Samuel | `Liber II Regum (sive II Samuelis)` |
+| 1 Reis | `Liber III Regum (sive I Regum nunc)` |
+| 2 Reis | `Liber IV Regum (sive II Regum nunc)` |
+| 1 Crônicas | `Liber I Paralipomenon` |
+| 2 Crônicas | `Liber II Paralipomenon` |
+| Esdras | `Liber I Esdræ` |
+| Neemias | `Liber II Esdræ (sive Nehemiæ)` |
+| Tobias | `Liber Tobiæ` |
+| Judite | `Liber Judith` |
+| Ester | `Liber Esther` |
+| Jó | `Liber Job` |
+| Salmos | `Liber Psalmorum` |
+| Provérbios | `Liber Proverbiorum` |
+| Eclesiastes | `Liber Ecclesiastes` |
+| Cântico dos Cânticos | `Canticum Canticorum` |
+| Sabedoria | `Liber Sapientiæ` |
+| Eclesiástico | `Liber Ecclesiasticus` |
+| Isaías | `Prophetia Isaiæ` |
+| Jeremias | `Prophetia Jeremiæ` |
+| Lamentações | `Lamentationes` |
+| Baruc | `Prophetia Baruch` |
+| Ezequiel | `Prophetia Ezechielis` |
+| Daniel | `Prophetia Danielis` |
+| Oséias | `Prophetia Osee` |
+| Joel | `Prophetia Joel` |
+| Amós | `Prophetia Amos` |
+| Abdias | `Prophetia Abdiæ` |
+| Jonas | `Prophetia Jona` |
+| Miquéias | `Prophetia Michææ` |
+| Naum | `Prophetia Nahum` |
+| Habacuc | `Prophetia Habacuc` |
+| Sofonias | `Prophetia Sophoniæ` |
+| Ageu | `Prophetia Aggæi` |
+| Zacarias | `Prophetia Zachariæ` |
+| Malaquias | `Prophetia Malachiæ` |
+| 1 Macabeus | `Liber I Machabæorum` |
+| 2 Macabeus | `Liber II Machabæorum` |
+| Mateus | `Evangelium Secundum Matthæum` |
+| Marcos | `Evangelium Secundum Marcum` |
+| Lucas | `Evangelium Secundum Lucam` |
+| João | `Evangelium Secundum Joannem` |
+| Atos dos Apóstolos | `Acta Apostolorum` |
+| Romanos | `Pauli Epistola ad Romanos` |
+| 1 Coríntios | `Pauli Epistola ad Corinthios I` |
+| 2 Coríntios | `Pauli Epistola ad Corinthios II` |
+| Gálatas | `Pauli Epistola ad Galatas` |
+| Efésios | `Pauli Epistola ad Ephesios` |
+| Filipenses | `Pauli Epistola ad Philippenses` |
+| Colossenses | `Pauli Epistola ad Colossenses` |
+| 1 Tessalonicenses | `Pauli Epistola ad Thessalonicenses I` |
+| 2 Tessalonicenses | `Pauli Epistola ad Thessalonicenses II` |
+| 1 Timóteo | `Pauli Epistola ad Timotheum I` |
+| 2 Timóteo | `Pauli Epistola ad Timotheum II` |
+| Tito | `Pauli Epistola ad Titum` |
+| Filêmon | `Pauli Epistola ad Philemonem` |
+| Hebreus | `Pauli Epistola ad Hebræos` |
+| Tiago | `Jacobi Epistola` |
+| 1 Pedro | `Petri Epistola I` |
+| 2 Pedro | `Petri Epistola II` |
+| 1 João | `Joannis Epistola I` |
+| 2 João | `Joannis Epistola II` |
+| 3 João | `Joannis Epistola III` |
+| Judas | `Juda Epistola` |
+| Apocalipse | `Apocalypsis` |
+
+Se o livro não estiver na tabela ou se houver dúvida, acesse o índice e copie o `href` real em vez de montar o slug manualmente.
 
 ### Se a URL retornar 404 ou outro erro
 
@@ -43,7 +124,9 @@ Nunca adivinhe slug de URL. Sempre copie exatamente o subartigo do índice (ex.:
    ```
 3. Identifique o link correto para o livro e use-o.
 
-**Nunca inferir ou construir slugs de URL a partir do nome do livro.** Sempre usar a URL confirmada via HTTP 200.
+**Nunca inferir ou construir slugs de URL a partir do nome do livro, do `id`, da abreviação ou do `titulo` do `index.json`.** Sempre usar a URL confirmada via HTTP 200.
+
+**O campo `"link"` do capítulo deve reaproveitar exatamente a mesma base URL validada.** Depois de validar `https://.../Liber_Exodus`, o `link` salvo deve ser `https://.../Liber_Exodus#Caput_<N>`, nunca uma reconstrução paralela como `https://.../Exodus#Caput_<N>`.
 
 ---
 
