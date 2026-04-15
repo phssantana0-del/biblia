@@ -1,0 +1,244 @@
+{
+  "num": 13,
+  "sumario": "De lepra in homine ejusque variis speciebus, et de lepra in vestimentis.",
+  "versiculos": [
+    {
+      "n": 1,
+      "texto": "Locutusque est Dominus ad Moysen et Aaron, dicens :"
+    },
+    {
+      "n": 2,
+      "texto": "Homo, in cujus cute et carne ortus fuerit diversus color sive pustula, aut quasi lucens quippiam, id est plaga lepræ, adducetur ad Aaron sacerdotem, vel ad unum quemlibet filiorum ejus."
+    },
+    {
+      "n": 3,
+      "texto": "Qui cum viderit lepram in cute, et pilos in album mutatos colorem, ipsamque speciem lepræ humiliorem cute et carne reliqua : plaga lepræ est, et ad arbitrium ejus separabitur."
+    },
+    {
+      "n": 4,
+      "texto": "Sin autem lucens candor fuerit in cute, nec humilior carne reliqua, et pili coloris pristini, recludet eum sacerdos septem diebus,"
+    },
+    {
+      "n": 5,
+      "texto": "et considerabit die septimo : et siquidem lepra ultra non creverit, nec transierit in cute priores terminos, rursum recludet eum septem diebus aliis."
+    },
+    {
+      "n": 6,
+      "texto": "Et die septimo contemplabitur : si obscurior fuerit lepra, et non creverit in cute, mundabit eum, quia scabies est : lavabitque homo vestimenta sua, et mundus erit."
+    },
+    {
+      "n": 7,
+      "texto": "Quod si postquam a sacerdote visus est, et redditus munditiæ, iterum lepra creverit, adducetur ad eum,"
+    },
+    {
+      "n": 8,
+      "texto": "et immunditiæ condemnabitur."
+    },
+    {
+      "n": 9,
+      "texto": "Plaga lepræ si fuerit in homine, adducetur ad sacerdotem,"
+    },
+    {
+      "n": 10,
+      "texto": "et videbit eum. Cumque color albus in cute fuerit, et capillorum mutaverit aspectum, ipsa quoque caro viva apparuerit :"
+    },
+    {
+      "n": 11,
+      "texto": "lepra vetustissima judicabitur, atque inolita cuti. Contaminabit itaque eum sacerdos, et non recludet, quia perspicuæ immunditiæ est."
+    },
+    {
+      "n": 12,
+      "texto": "Sin autem effloruerit discurrens lepra in cute, et operuerit omnem cutem a capite usque ad pedes, quidquid sub aspectum oculorum cadit,"
+    },
+    {
+      "n": 13,
+      "texto": "considerabit eum sacerdos, et teneri lepra mundissima judicabit : eo quod omnis in candorem versa sit, et idcirco homo mundus erit."
+    },
+    {
+      "n": 14,
+      "texto": "Quando vero caro vivens in eo apparuerit,"
+    },
+    {
+      "n": 15,
+      "texto": "tunc sacerdotis judicio polluetur, et inter immundos reputabitur : caro enim viva, si lepra aspergitur, immunda est."
+    },
+    {
+      "n": 16,
+      "texto": "Quod si rursum versa fuerit in alborem, et totum hominem operuerit,"
+    },
+    {
+      "n": 17,
+      "texto": "considerabit eum sacerdos, et mundum esse decernet."
+    },
+    {
+      "n": 18,
+      "texto": "Caro autem et cutis in qua ulcus natum est et sanatum,"
+    },
+    {
+      "n": 19,
+      "texto": "et in loco ulceris cicatrix alba apparuerit, sive subrufa, adducetur homo ad sacerdotem :"
+    },
+    {
+      "n": 20,
+      "texto": "qui cum viderit locum lepræ humiliorem carne reliqua, et pilos versos in candorem, contaminabit eum : plaga enim lepræ orta est in ulcere."
+    },
+    {
+      "n": 21,
+      "texto": "Quod si pilus coloris est pristini, et cicatrix subobscura, et vicina carne non est humilior, recludet eum septem diebus :"
+    },
+    {
+      "n": 22,
+      "texto": "et si quidem creverit, adjudicabit eum lepræ :"
+    },
+    {
+      "n": 23,
+      "texto": "sin autem steterit in loco suo, ulceris est cicatrix, et homo mundus erit."
+    },
+    {
+      "n": 24,
+      "texto": "Caro autem, et cutis quam ignis exusserit, et sanata albam sive rufam habuerit cicatricem,"
+    },
+    {
+      "n": 25,
+      "texto": "considerabit eam sacerdos : et ecce versa est in alborem, et locus ejus reliqua cute est humilior, contaminabit eum, quia plaga lepræ in cicatrice orta est."
+    },
+    {
+      "n": 26,
+      "texto": "Quod si pilorum color non fuerit immutatus, nec humilior plaga carne reliqua, et ipsa lepræ species fuerit subobscura, recludet eum septem diebus,"
+    },
+    {
+      "n": 27,
+      "texto": "et die septimo contemplabitur : si creverit in cute lepra, contaminabit eum."
+    },
+    {
+      "n": 28,
+      "texto": "Sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturæ."
+    },
+    {
+      "n": 29,
+      "texto": "Vir, sive mulier, in cujus capite vel barba germinaverit lepra, videbit eos sacerdos."
+    },
+    {
+      "n": 30,
+      "texto": "Et siquidem humilior fuerit locus carne reliqua, et capillus flavus, solitoque subtilior : contaminabit eos, quia lepra capitis ac barbæ est."
+    },
+    {
+      "n": 31,
+      "texto": "Sin autem viderit locum maculæ æqualem vicinæ carni, et capillum nigrum : recludet eum septem diebus,"
+    },
+    {
+      "n": 32,
+      "texto": "et die septimo intuebitur. Si non creverit macula, et capillus sui coloris est, et locus plagæ carni reliquæ æqualis :"
+    },
+    {
+      "n": 33,
+      "texto": "radetur homo absque loco maculæ, et includetur septem diebus aliis."
+    },
+    {
+      "n": 34,
+      "texto": "Si die septimo visa fuerit stetisse plaga in loco suo, nec humilior carne reliqua, mundabit eum : lotisque vestibus suis, mundus erit."
+    },
+    {
+      "n": 35,
+      "texto": "Sin autem post emundationem rursus creverit macula in cute,"
+    },
+    {
+      "n": 36,
+      "texto": "non quæret amplius utrum capillus in flavum colorem sit mutatus, quia aperte immundus est."
+    },
+    {
+      "n": 37,
+      "texto": "Porro si steterit macula, et capilli nigri fuerint, noverit hominem sanatum, et confidenter eum pronuntiet mundum."
+    },
+    {
+      "n": 38,
+      "texto": "Vir, sive mulier, in cujus cute candor apparuerit,"
+    },
+    {
+      "n": 39,
+      "texto": "intuebitur eos sacerdos. Si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum."
+    },
+    {
+      "n": 40,
+      "texto": "Vir, de cujus capite capilli fluunt, calvus et mundus est :"
+    },
+    {
+      "n": 41,
+      "texto": "et si a fronte ceciderint pili, recalvaster et mundus est."
+    },
+    {
+      "n": 42,
+      "texto": "Sin autem in calvitio, sive in recalvatione, albus vel rufus color fuerit exortus,"
+    },
+    {
+      "n": 43,
+      "texto": "et hoc sacerdos viderit, condemnabit eum haud dubiæ lepræ, quæ orta est in calvitio."
+    },
+    {
+      "n": 44,
+      "texto": "Quicumque ergo maculatus fuerit lepra, et separatus est ad arbitrium sacerdotis,"
+    },
+    {
+      "n": 45,
+      "texto": "habebit vestimenta dissuta, caput nudum, os veste contectum, contaminatum ac sordidum se clamabit."
+    },
+    {
+      "n": 46,
+      "texto": "Omni tempore quo leprosus est et immundus, solus habitabit extra castra."
+    },
+    {
+      "n": 47,
+      "texto": "Vestis lanea sive linea quæ lepram habuerit,"
+    },
+    {
+      "n": 48,
+      "texto": "in stamine atque subtegmine, aut certe pellis, vel quidquid ex pelle confectum est,"
+    },
+    {
+      "n": 49,
+      "texto": "si alba vel rufa macula fuerit infecta, lepra reputabitur, ostendeturque sacerdoti."
+    },
+    {
+      "n": 50,
+      "texto": "Qui consideratam recludet septem diebus :"
+    },
+    {
+      "n": 51,
+      "texto": "et die septimo rursus aspiciet. Si deprehenderit crevisse, lepra perseverans est : polluet vestimentum et omne in quo fuerit inventa :"
+    },
+    {
+      "n": 52,
+      "texto": "et idcirco comburetur flammis."
+    },
+    {
+      "n": 53,
+      "texto": "Quod si eam viderit non crevisse,"
+    },
+    {
+      "n": 54,
+      "texto": "præcipiet, et lavabunt id in quo lepra est, recludetque illud septem diebus aliis."
+    },
+    {
+      "n": 55,
+      "texto": "Et cum viderit faciem quidem pristinam non reversam, nec tamen crevisse lepram, immundum judicabit, et igni comburet, eo quod infusa sit in superficie vestimenti, vel per totum, lepra."
+    },
+    {
+      "n": 56,
+      "texto": "Sin autem obscurior fuerit locus lepræ, postquam vestis est lota, abrumpet eum, et a solido dividet."
+    },
+    {
+      "n": 57,
+      "texto": "Quod si ultra apparuerit in his locis, quæ prius immaculata erant, lepra volatilis et vaga, debet igni comburi."
+    },
+    {
+      "n": 58,
+      "texto": "Si cessaverit, lavabit aqua ea quæ munda sunt, secundo, et munda erunt."
+    },
+    {
+      "n": 59,
+      "texto": "Ista est lex lepræ vestimenti lanei et linei, staminis atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari."
+    }
+  ],
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_Leviticus#Caput_13"
+}
