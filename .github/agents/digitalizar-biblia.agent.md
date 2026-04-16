@@ -28,7 +28,7 @@ Após concluir as pré-condições sequenciais, **delegue** as tarefas A, B e C 
 - Assim que a lista estiver validada, dispare **em paralelo, no máximo um subagente por edição**:
   - um subagente **Digitalizador — Figueiredo Atual** com todos os livros válidos;
   - um subagente **Digitalizador — Vulgata Clementina** com todos os livros válidos;
-  - um subagente **Digitalizador — Figueiredo Edição Antiga** apenas com os livros cujo `edicoes/figueiredo-original/<livroId>/index.pdf` exista.
+  - um subagente **Digitalizador — Figueiredo Edição Antiga** apenas com os livros cujo `.pdfs/figueiredo-original/<livroId>.pdf` exista.
 - **Nunca** abra subagentes por livro, por capítulo ou por faixa de capítulos.
 - Cada subagente de edição deve processar internamente sua própria lista de livros no mesmo contexto, sem fan-out adicional.
 - Não abra um segundo subagente da mesma edição só para dividir carga.
@@ -52,15 +52,15 @@ Com os dados definidos, registre a lista `trabalhos`, onde cada item contém:
 ### 2. Validar PDFs por livro
 
 Para cada item de `trabalhos`, verifique a existência de:
-- `edicoes/figueiredo/<livroId>/index.pdf` → obrigatório para prosseguir com esse livro
-- `edicoes/figueiredo-original/<livroId>/index.pdf` → necessário para Tarefa C desse livro
+- `.pdfs/figueiredo/<livroId>.pdf` → obrigatório para prosseguir com esse livro
+- `.pdfs/figueiredo-original/<livroId>.pdf` → necessário para Tarefa C desse livro
 
-Se `edicoes/figueiredo/<livroId>/index.pdf` não existir para algum item:
-> *"O arquivo `edicoes/figueiredo/<livroId>/index.pdf` não foi encontrado. Esse livro será ignorado até que o PDF seja colocado no caminho correto."*
+Se `.pdfs/figueiredo/<livroId>.pdf` não existir para algum item:
+> *"O arquivo `.pdfs/figueiredo/<livroId>.pdf` não foi encontrado. Esse livro será ignorado até que o PDF seja colocado no caminho correto."*
 
 Remova esse item da fila executável e prossiga com os demais.
 
-Se `edicoes/figueiredo-original/<livroId>/index.pdf` não existir, informe e pule a Tarefa C apenas desse livro. Execute as Tarefas A e B normalmente.
+Se `.pdfs/figueiredo-original/<livroId>.pdf` não existir, informe e pule a Tarefa C apenas desse livro. Execute as Tarefas A e B normalmente.
 
 Se nenhum item continuar executável, pare aqui.
 
@@ -97,7 +97,7 @@ Delegue ao **Digitalizador — Vulgata Clementina** os itens executáveis. Esse 
 
 ### TAREFA C — Figueiredo Original: PDF da edição original
 
-Delegue ao **Digitalizador — Figueiredo Edição Antiga** apenas os livros cujo `edicoes/figueiredo-original/<livroId>/index.pdf` exista. Esse subagente deve aceitar um ou mais livros e processá-los no mesmo contexto, sem abrir filhos por livro.
+Delegue ao **Digitalizador — Figueiredo Edição Antiga** apenas os livros cujo `.pdfs/figueiredo-original/<livroId>.pdf` exista. Esse subagente deve aceitar um ou mais livros e processá-los no mesmo contexto, sem abrir filhos por livro.
 
 ---
 
@@ -134,4 +134,5 @@ Liste os pontos de revisão agrupados por edição e por livro.
 - Nunca crie arquivos além dos JSONs de capítulo, `index.json` de livro e `.md` de revisão.
 - Nunca rascunhe JSON em arquivo auxiliar.
 - Quando uma decisão puder ser inferida (metadados canônicos, posição no array, ordem canônica), tome-a e informe brevemente ao usuário.
+- O PDF base de cada livro deve seguir o mapeamento `edicoes/<edicao>/<livroId>/` → `.pdfs/<edicao>/<livroId>.pdf`.
 - Mantenha o paralelismo limitado a **um subagente por edição**. Livros múltiplos devem ser processados dentro do mesmo subagente especializado.

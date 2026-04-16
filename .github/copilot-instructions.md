@@ -46,10 +46,10 @@ Os subartigos **não seguem uma regra uniforme**. Alguns usam `Liber_`, outros u
 ```
 node extrair-capitulos.js <livro-id> <cap:inicio:fim>...
 ```
-- O PDF fonte é sempre `edicoes/figueiredo/<livro-id>/index.pdf`
+- O PDF fonte é sempre `.pdfs/figueiredo/<livro-id>.pdf`
 - Os PDFs gerados vão para `edicoes/figueiredo/<livro-id>/<N>.pdf`
 
-### Regra de páginas para `edicoes/figueiredo/proverbios/index.pdf`
+### Regra de páginas para `.pdfs/figueiredo/proverbios.pdf`
 O `pdftotext --layout` reporta as páginas com **offset de −1** em relação às páginas reais deste PDF.
 Sempre aplicar **+1** nos números detectados pelo grep/awk.
 
