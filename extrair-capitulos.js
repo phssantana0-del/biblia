@@ -10,9 +10,9 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 //          node extrair-capitulos.js salmos --old 1:3:5 2:6:8
 //
 // <livro-id>       — slug do livro (ex: salmos, proverbios)
-//                    Sem --old: PDF fonte = edicoes/figueiredo/<livro-id>/index.pdf
+//                    Sem --old: PDF fonte = .pdfs/figueiredo/<livro-id>.pdf
 //                               PDFs gerados = edicoes/figueiredo/<livro-id>/<N>.pdf
-//                    Com --old: PDF fonte = edicoes/figueiredo-original/<livro-id>/index.pdf
+//                    Com --old: PDF fonte = .pdfs/figueiredo-original/<livro-id>.pdf
 //                               PDFs gerados = edicoes/figueiredo-original/<livro-id>/<N>.pdf
 // cap:inicio:fim   — número do capítulo, página inicial e página final no PDF fonte (1-based, inclusive)
 
@@ -33,11 +33,11 @@ async function main() {
 
   const edicaoDir = oldMode ? 'figueiredo-original' : 'figueiredo';
   const livroDir = path.join(__dirname, 'edicoes', edicaoDir, livroId);
-  const fontePath = path.join(livroDir, 'index.pdf');
+  const fontePath = path.join(__dirname, 'pdfs', edicaoDir, `${livroId}.pdf`);
 
   if (!fs.existsSync(fontePath)) {
     console.error(`PDF fonte não encontrado: ${fontePath}`);
-    console.error(`Certifique-se de que o arquivo index.pdf existe em edicoes/${edicaoDir}/${livroId}/`);
+    console.error(`Certifique-se de que o arquivo ${livroId}.pdf existe em .pdfs/${edicaoDir}/`);
     process.exit(1);
   }
 

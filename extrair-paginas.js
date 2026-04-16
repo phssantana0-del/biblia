@@ -5,8 +5,8 @@ import * as readline from 'readline';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-// Raiz onde ficam as edições: edicoes/figueiredo/<livro>/
 const EDICOES_DIR = path.join(__dirname, 'edicoes', 'figueiredo');
+const PDFS_DIR = path.join(__dirname, 'pdfs', 'figueiredo');
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
 const ask = (question) => new Promise((resolve) => rl.question(question, resolve));
@@ -28,8 +28,8 @@ function listLivros() {
 async function chooseLivro(livros) {
   console.log('\nLivros disponíveis em edicoes/figueiredo/:\n');
   livros.forEach((nome, i) => {
-    const temPdf = fs.existsSync(path.join(EDICOES_DIR, nome, 'index.pdf'));
-    const hint = temPdf ? '' : ' (sem index.pdf)';
+    const temPdf = fs.existsSync(path.join(PDFS_DIR, `${nome}.pdf`));
+    const hint = temPdf ? '' : ` (sem .pdfs/figueiredo/${nome}.pdf)`;
     console.log(`  ${i + 1}. ${nome}${hint}`);
   });
   console.log();
@@ -77,10 +77,10 @@ async function main() {
 
   const livroNome = await chooseLivro(livros);
   const livroDir = path.join(EDICOES_DIR, livroNome);
-  const pdfFonte = path.join(livroDir, 'index.pdf');
+  const pdfFonte = path.join(PDFS_DIR, `${livroNome}.pdf`);
 
   if (!fs.existsSync(pdfFonte)) {
-    console.error(`\nindex.pdf não encontrado em edicoes/figueiredo/${livroNome}/`);
+    console.error(`\nPDF fonte não encontrado em .pdfs/figueiredo/${livroNome}.pdf`);
     console.error('Coloque o PDF completo do livro nesse caminho e tente novamente.');
     rl.close();
     process.exit(1);
@@ -104,7 +104,7 @@ async function main() {
   rl.close();
 
   // Lê e processa o PDF
-  console.log(`\nLendo "edicoes/figueiredo/${livroNome}/index.pdf"...`);
+  console.log(`\nLendo ".pdfs/figueiredo/${livroNome}.pdf"...`);
   const srcBytes = fs.readFileSync(pdfFonte);
   const srcDoc = await PDFDocument.load(srcBytes);
   const totalPages = srcDoc.getPageCount();
