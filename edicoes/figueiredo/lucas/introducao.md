@@ -2,7 +2,7 @@
 
 ## Estatísticas
 - Seções: Autor, Data, Fim, Estilo, Divisão, Autenticidade (I extrínsecos, II intrínsecos)
-- Fonte: `edicoes/figueiredo/lucas/index.pdf`, páginas 1-5
+- Fonte: `.pdfs/figueiredo/lucas.pdf`, páginas 1-5
 
 ## Pontos de revisão
 

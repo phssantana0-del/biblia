@@ -1,6 +1,6 @@
 # João — Introdução — Relatório de Revisão
 
-- **Fonte:** edicoes/figueiredo/joao/index.pdf (páginas 1-15)
+- **Fonte:** .pdfs/figueiredo/joao.pdf (páginas 1-15)
 - **Campo:** index.json → introducao
 
 ## Pontos de revisão
