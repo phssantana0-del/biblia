@@ -5,6 +5,7 @@
 const BASE_URL = 'edicoes/index.json';
 const NAV_STORAGE_KEY = 'biblia:last-navigation';
 const THEME_STORAGE_KEY = 'biblia:theme';
+const REVIEW_POPUP_STORAGE_KEY = 'biblia:hide-review-popup';
 const ROUTING_MODE = 'hash';
 const MOBILE_PDF_INITIAL_SCALE = 1;
 
@@ -263,6 +264,49 @@ function toggleDarkMode() {
   } catch (_) {
     // sem persistencia quando localStorage nao estiver disponivel
   }
+}
+
+function hideReviewPopup(options = {}) {
+  const permanent = Boolean(options.permanent);
+  const popup = document.getElementById('review-popup');
+  if (popup) {
+    popup.hidden = true;
+  }
+  document.body.classList.remove('review-popup-open');
+
+  if (!permanent) return;
+
+  try {
+    localStorage.setItem(REVIEW_POPUP_STORAGE_KEY, '1');
+  } catch (_) {
+    // sem persistencia quando localStorage nao estiver disponivel
+  }
+}
+
+function initReviewPopup() {
+  const popup = document.getElementById('review-popup');
+  const okBtn = document.getElementById('review-popup-ok');
+  const hideBtn = document.getElementById('review-popup-hide');
+  if (!popup || !okBtn || !hideBtn) return;
+
+  let shouldHideForever = false;
+  try {
+    shouldHideForever = localStorage.getItem(REVIEW_POPUP_STORAGE_KEY) === '1';
+  } catch (_) {
+    shouldHideForever = false;
+  }
+
+  if (shouldHideForever) {
+    popup.hidden = true;
+    document.body.classList.remove('review-popup-open');
+    return;
+  }
+
+  popup.hidden = false;
+  document.body.classList.add('review-popup-open');
+
+  okBtn.addEventListener('click', () => hideReviewPopup());
+  hideBtn.addEventListener('click', () => hideReviewPopup({ permanent: true }));
 }
 
 function parsePositiveInt(value) {
@@ -585,6 +629,7 @@ async function restoreNavigationFromState(nav, options = {}) {
 
 async function init() {
   initTheme();
+  initReviewPopup();
   initPdfModalGestures();
   initPdfPinchGestures();
 
