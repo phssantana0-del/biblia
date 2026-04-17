@@ -1,10 +1,10 @@
 {
   "id": "judas",
-  "titulo": "Vulgata Clementina/Juda Epistola",
+  "titulo": "Juda Epistola",
   "tituloIndice": "Judas",
   "abreviacao": "Jd",
-  "testamento": "Novum Testamentum",
-  "grupo": "Epistolæ Catholicæ",
+  "testamento": "Novo Testamento",
+  "grupo": "Epístolas Católicas",
   "capitulos": [
     1
   ]

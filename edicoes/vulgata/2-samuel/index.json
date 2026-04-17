@@ -1,10 +1,10 @@
 {
   "id": "2-samuel",
-  "titulo": "Vulgata Clementina/Liber II Regum",
+  "titulo": "Liber II Regum",
   "tituloIndice": "2 Samuel",
   "abreviacao": "2Rg",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

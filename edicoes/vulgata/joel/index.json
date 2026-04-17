@@ -1,10 +1,10 @@
 {
   "id": "joel",
-  "titulo": "Vulgata Clementina/Prophetia Joel",
+  "titulo": "Prophetia Joel",
   "tituloIndice": "Joel",
   "abreviacao": "Jl",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

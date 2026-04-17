@@ -1,10 +1,10 @@
 {
   "id": "2-pedro",
-  "titulo": "Vulgata Clementina/Petri Epistola II",
+  "titulo": "Petri Epistola II",
   "tituloIndice": "2 Pedro",
   "abreviacao": "2Pt",
-  "testamento": "Novum Testamentum",
-  "grupo": "Epistolæ Catholicæ",
+  "testamento": "Novo Testamento",
+  "grupo": "Epístolas Católicas",
   "capitulos": [
     1,
     2,

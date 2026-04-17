@@ -1,10 +1,10 @@
 {
   "id": "tobias",
-  "titulo": "Vulgata Clementina/Liber Tobiae",
+  "titulo": "Liber Tobiae",
   "tituloIndice": "Tobias",
   "abreviacao": "Tob",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

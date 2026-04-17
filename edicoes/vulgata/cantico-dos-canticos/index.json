@@ -1,10 +1,10 @@
 {
   "id": "cantico-dos-canticos",
-  "titulo": "Vulgata Clementina/Canticum Canticorum",
+  "titulo": "Canticum Canticorum",
   "tituloIndice": "Cantico dos Canticos",
   "abreviacao": "Ct",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Poetici et Sapienciales",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Poéticos e Sapienciais",
   "capitulos": [
     1,
     2,

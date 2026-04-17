@@ -1,10 +1,10 @@
 {
   "id": "sabedoria",
-  "titulo": "Vulgata Clementina/Liber Sapientiae",
+  "titulo": "Liber Sapientiae",
   "tituloIndice": "Sabedoria",
   "abreviacao": "Sap",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Poetici et Sapienciales",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Poéticos e Sapienciais",
   "capitulos": [
     1,
     2,

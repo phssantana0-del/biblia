@@ -1,10 +1,10 @@
 {
   "id": "esdras",
-  "titulo": "Vulgata Clementina/Liber I Esdrae",
+  "titulo": "Liber I Esdrae",
   "tituloIndice": "Esdras",
   "abreviacao": "Esr",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

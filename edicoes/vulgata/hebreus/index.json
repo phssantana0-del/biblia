@@ -1,10 +1,10 @@
 {
   "id": "hebreus",
-  "titulo": "Vulgata Clementina/Pauli Epistola ad Hebraeos",
+  "titulo": "Pauli Epistola ad Hebraeos",
   "tituloIndice": "Hebreus",
   "abreviacao": "Heb",
-  "testamento": "Novum Testamentum",
-  "grupo": "Epistolæ Paulinæ",
+  "testamento": "Novo Testamento",
+  "grupo": "Epístolas Paulinas",
   "capitulos": [
     1,
     2,

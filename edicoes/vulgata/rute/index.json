@@ -1,10 +1,10 @@
 {
   "id": "rute",
-  "titulo": "Vulgata Clementina/Liber Ruth",
+  "titulo": "Liber Ruth",
   "tituloIndice": "Rute",
   "abreviacao": "Rt",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

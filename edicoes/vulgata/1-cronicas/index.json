@@ -1,10 +1,10 @@
 {
   "id": "1-cronicas",
-  "titulo": "Vulgata Clementina/Liber I Paralipomenon",
+  "titulo": "Liber I Paralipomenon",
   "tituloIndice": "1 Cronicas",
   "abreviacao": "1Par",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

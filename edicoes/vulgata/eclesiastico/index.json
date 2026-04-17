@@ -1,10 +1,10 @@
 {
   "id": "eclesiastico",
-  "titulo": "Vulgata Clementina/Liber Ecclesiasticus",
+  "titulo": "Liber Ecclesiasticus",
   "tituloIndice": "Eclesiastico",
   "abreviacao": "Sir",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Poetici et Sapienciales",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Poéticos e Sapienciais",
   "capitulos": [
     1,
     2,

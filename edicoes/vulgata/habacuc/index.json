@@ -1,10 +1,10 @@
 {
   "id": "habacuc",
-  "titulo": "Vulgata Clementina/Prophetia Habacuc",
+  "titulo": "Prophetia Habacuc",
   "tituloIndice": "Habacuc",
   "abreviacao": "Hab",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

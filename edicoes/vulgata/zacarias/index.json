@@ -1,10 +1,10 @@
 {
   "id": "zacarias",
-  "titulo": "Vulgata Clementina/Prophetia Zachariae",
+  "titulo": "Prophetia Zachariae",
   "tituloIndice": "Zacarias",
   "abreviacao": "Zc",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

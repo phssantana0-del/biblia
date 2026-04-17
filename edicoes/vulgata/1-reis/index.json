@@ -1,10 +1,10 @@
 {
   "id": "1-reis",
-  "titulo": "Vulgata Clementina/Liber III Regum",
+  "titulo": "Liber III Regum",
   "tituloIndice": "1 Reis",
   "abreviacao": "3Rg",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

@@ -1,10 +1,10 @@
 {
   "id": "naum",
-  "titulo": "Vulgata Clementina/Prophetia Nahum",
+  "titulo": "Prophetia Nahum",
   "tituloIndice": "Naum",
   "abreviacao": "Na",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

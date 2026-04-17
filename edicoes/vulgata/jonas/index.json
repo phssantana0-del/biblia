@@ -1,10 +1,10 @@
 {
   "id": "jonas",
-  "titulo": "Vulgata Clementina/Prophetia Jona",
+  "titulo": "Prophetia Jona",
   "tituloIndice": "Jonas",
   "abreviacao": "Jon",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

@@ -1,10 +1,10 @@
 {
   "id": "isaias",
-  "titulo": "Vulgata Clementina/Prophetia Isaiae",
+  "titulo": "Prophetia Isaiae",
   "tituloIndice": "Isaias",
   "abreviacao": "Is",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Maiores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Maiores",
   "capitulos": [
     1,
     2,

@@ -1,10 +1,10 @@
 {
   "id": "neemias",
-  "titulo": "Vulgata Clementina/Liber II Esdrae",
+  "titulo": "Liber II Esdrae",
   "tituloIndice": "Neemias",
   "abreviacao": "Neh",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

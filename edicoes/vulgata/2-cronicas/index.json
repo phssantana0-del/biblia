@@ -1,10 +1,10 @@
 {
   "id": "2-cronicas",
-  "titulo": "Vulgata Clementina/Liber II Paralipomenon",
+  "titulo": "Liber II Paralipomenon",
   "tituloIndice": "2 Cronicas",
   "abreviacao": "2Par",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

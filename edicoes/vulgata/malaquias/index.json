@@ -1,10 +1,10 @@
 {
   "id": "malaquias",
-  "titulo": "Vulgata Clementina/Prophetia Malachiae",
+  "titulo": "Prophetia Malachiae",
   "tituloIndice": "Malaquias",
   "abreviacao": "Ml",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

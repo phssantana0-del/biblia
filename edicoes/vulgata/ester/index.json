@@ -1,10 +1,10 @@
 {
   "id": "ester",
-  "titulo": "Vulgata Clementina/Liber Esther",
+  "titulo": "Liber Esther",
   "tituloIndice": "Ester",
   "abreviacao": "Est",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

@@ -1,10 +1,10 @@
 {
   "id": "juizes",
-  "titulo": "Vulgata Clementina/Liber Judicum",
+  "titulo": "Liber Judicum",
   "tituloIndice": "Juizes",
   "abreviacao": "Jdc",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

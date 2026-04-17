@@ -1,10 +1,10 @@
 {
   "id": "2-reis",
-  "titulo": "Vulgata Clementina/Liber IV Regum",
+  "titulo": "Liber IV Regum",
   "tituloIndice": "2 Reis",
   "abreviacao": "4Rg",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

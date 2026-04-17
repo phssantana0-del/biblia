@@ -1,10 +1,10 @@
 {
   "id": "sofonias",
-  "titulo": "Vulgata Clementina/Prophetia Sophoniae",
+  "titulo": "Prophetia Sophoniae",
   "tituloIndice": "Sofonias",
   "abreviacao": "So",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

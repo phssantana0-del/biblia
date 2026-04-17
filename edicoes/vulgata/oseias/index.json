@@ -1,10 +1,10 @@
 {
   "id": "oseias",
-  "titulo": "Vulgata Clementina/Prophetia Osee",
+  "titulo": "Prophetia Osee",
   "tituloIndice": "Oseias",
   "abreviacao": "Os",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

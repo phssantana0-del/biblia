@@ -1,10 +1,10 @@
 {
   "id": "ezequiel",
-  "titulo": "Vulgata Clementina/Prophetia Ezechielis",
+  "titulo": "Prophetia Ezechielis",
   "tituloIndice": "Ezequiel",
   "abreviacao": "Ez",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Maiores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Maiores",
   "capitulos": [
     1,
     2,

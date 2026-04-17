@@ -1,10 +1,10 @@
 {
   "id": "ageu",
-  "titulo": "Vulgata Clementina/Prophetia Aggaei",
+  "titulo": "Prophetia Aggaei",
   "tituloIndice": "Ageu",
   "abreviacao": "Ag",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2

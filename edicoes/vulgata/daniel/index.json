@@ -1,10 +1,10 @@
 {
   "id": "daniel",
-  "titulo": "Vulgata Clementina/Prophetia Danielis",
+  "titulo": "Prophetia Danielis",
   "tituloIndice": "Daniel",
   "abreviacao": "Dn",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Maiores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Maiores",
   "capitulos": [
     1,
     2,

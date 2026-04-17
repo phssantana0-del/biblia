@@ -1,10 +1,10 @@
 {
   "id": "amos",
-  "titulo": "Vulgata Clementina/Prophetia Amos",
+  "titulo": "Prophetia Amos",
   "tituloIndice": "Amos",
   "abreviacao": "Am",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Prophetæ Minores",
+  "testamento": "Antigo Testamento",
+  "grupo": "Profetas Menores",
   "capitulos": [
     1,
     2,

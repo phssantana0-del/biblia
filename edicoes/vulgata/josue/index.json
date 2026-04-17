@@ -1,10 +1,10 @@
 {
   "id": "josue",
-  "titulo": "Vulgata Clementina/Liber Josue",
+  "titulo": "Liber Josue",
   "tituloIndice": "Josue",
   "abreviacao": "Jos",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,

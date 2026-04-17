@@ -1,10 +1,10 @@
 {
   "id": "2-macabeus",
-  "titulo": "Vulgata Clementina/Liber II Machabaeorum",
+  "titulo": "Liber II Machabaeorum",
   "tituloIndice": "2 Macabeus",
   "abreviacao": "2Mcc",
-  "testamento": "Vetus Testamentum",
-  "grupo": "Libri Historici",
+  "testamento": "Antigo Testamento",
+  "grupo": "Livros Históricos",
   "capitulos": [
     1,
     2,
