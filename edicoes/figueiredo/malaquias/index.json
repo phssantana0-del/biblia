@@ -1,0 +1,10 @@
+{
+  "id": "malaquias",
+  "titulo": "Malaquias",
+  "abreviacao": "Ml",
+  "testamento": "Antigo Testamento",
+  "edicao": "figueiredo",
+  "grupo": "Profetas Menores",
+  "totalCapitulos": 4,
+  "capitulos": [1, 2, 3, 4]
+}

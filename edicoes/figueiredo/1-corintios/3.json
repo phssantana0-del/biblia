@@ -1,0 +1,37 @@
+{
+  "num": 3,
+  "sumario": "Sendo os Coríntios ainda carnais, não podiam receber as instruções espirituais. Contestações que entre êles havia. Jesus Cristo é só o fundamento. O edifício que se firmar sôbre êle, será provado pelo fogo. Não devemos violar o templo de Deus, que somos nós. A sabedoria do mundo será destruída. Ninguém se deve gloriar nos homens.",
+  "versiculos": [
+    { "n": 1, "texto": "E eu, irmãos, não vos pude falar como a espirituais, senão como a carnais. Como a pequeninos em Cristo." },
+    { "n": 2, "texto": "Leite vos dei a beber, não comida: Porque ainda não podíeis: E nem ainda agora podeis: Porque ainda sois carnais." },
+    { "n": 3, "texto": "Porquanto havendo entre vós zelos e contendas: Não é assim que sois carnais, e andais segundo o homem?" },
+    { "n": 4, "texto": "Porque dizendo um: Eu certamente sou de Paulo. E outro: Eu de Apolo: Não se está vendo nisto que sois homens? Que é logo Apolo? e que é Paulo?", "nota": "fn3_1" },
+    { "n": 5, "texto": "São uns Ministros daquele a quem crêstes, e segundo o que o Senhor deu a cada um." },
+    { "n": 6, "texto": "Eu plantei, Apolo regou: Mas Deus é o que deu crescimento." },
+    { "n": 7, "texto": "Assim que nem o que planta é alguma coisa, nem o que rega: Mas Deus, que dá o crescimento.", "nota": "fn3_2" },
+    { "n": 8, "texto": "E uma mesma coisa é o que planta e o que rega. E cada um receberá a sua recompensa particular segundo o seu trabalho." },
+    { "n": 9, "texto": "Porque nós outros somos uns cooperadores de Deus: Vós sois agricultura de Deus, sois edifício de Deus:", "nota": "fn3_3" },
+    { "n": 10, "texto": "Segundo a graça de Deus, que me foi dada, lancei o fundamento como sábio arquiteto; mas outro edifica sôbre êle. Porém veja cada um como edifica sôbre êle." },
+    { "n": 11, "texto": "Porque ninguém pode pôr outro fundamento senão o que foi pôsto, que é Jesus Cristo.", "nota": "fn3_4" },
+    { "n": 12, "texto": "Se algum porém levanta sôbre êste fundamento edifício de ouro, de prata, de pedras preciosas, de madeira, de feno, de palha,", "nota": "fn3_5" },
+    { "n": 13, "texto": "manifesta será a obra de cada um: Porque o dia do Senhor a demonstrará, porquanto em fogo será descoberta: E qual seja a obra de cada um, o fogo o provará.", "nota": "fn3_6" },
+    { "n": 14, "texto": "Se permanecer a obra do que a sobreedificou, receberá prêmio." },
+    { "n": 15, "texto": "Se a obra de alguem se queimar, padecerá êle detrimento, mas o tal será salvo: Se bem desta maneira como por intervenção do fogo." },
+    { "n": 16, "texto": "Não sabeis vós que sois templo de Deus, e que o espírito de Deus mora em vós?" },
+    { "n": 17, "texto": "Se alguém pois violar o Templo de Deus, Deus o destruirá. Porque o Templo de Deus, que sois vós, santo é." },
+    { "n": 18, "texto": "Ninguém se engane a si mesmo: Se algum dentre vós se tem por sábio neste mundo, faça-se insensato para ser sábio." },
+    { "n": 19, "texto": "Porque a sabedoria dêste mundo é uma estultícia diante de Deus. Porquanto está escrito: Eu apanharei os sábios na sua mesma astúcia." },
+    { "n": 20, "texto": "E outra vez: O Senhor conhece os pensamentos dos sábios que são váos." },
+    { "n": 21, "texto": "Portanto nenhum se glorie entre os homens." },
+    { "n": 22, "texto": "Porque tôdas as coisas são vossas, ou seja Paulo, ou seja Apolo, ou seja Cefas, ou seja o mundo, ou seja a vida, ou seja a morte, ou sejam as presentes, ou sejam as futuras, porque tudo é vosso:" },
+    { "n": 23, "texto": "E vós de Cristo: E Cristo de Deus." }
+  ],
+  "notas": {
+    "fn3_1": { "rotulo": "Eu de Apolo", "texto": "APOLO — Cfr. 1 Cor 1, 12." },
+    "fn3_2": { "rotulo": "Mas Deus, que dá o crescimento", "texto": "ASSIM QUE NEM O QUE PLANTA — Não é coisa alguma o que planta nem o que rega; porque ainda que de fora ponham a ação de plantar e de regar, não atingem com a sua ação no efeito intrínseco ao da vegetação nas coisas naturais, ou da santificação nas coisas espirituais. Porque a vegetação é obra da natureza, a quem Deus deu essa virtude; a santificação reservou-a Deus inteiramente a si, com exclusão de tôda a coisa criada. — Êstio." },
+    "fn3_3": { "rotulo": "somos uns cooperadores de Deus", "texto": "SOMOS UNS COOPERADORES DE DEUS — A Vulgata Latina diz, coadjutores de Deus. Porém o Grego tem Cooperadores, e assim verteram todos os intérpretes franceses e com êle o italiano Martini, movidos não só da autoridade do Original, mas também da razão, de que a respeito de Deus não é o homem própriamente Coadjutor, mas Cooperador. Por isso também o nosso português João Ferreira d'Almeida verteu, Obreiros com Deus. Glaire também traduziu cooperador." },
+    "fn3_4": { "rotulo": "que é Jesus Cristo", "texto": "PORQUE NINGUÉM PODE PÔR OUTRO — Entende-se: que seja fundamento primário e essencial. Porque falando do fundamento secundário, nenhum inconveniente há, em que também os Apóstolos e os Profetas se digam fundamento da Igreja, como S. Paulo os chama na Epístola aos Efésios, 2, 29." },
+    "fn3_5": { "rotulo": "de madeira, de feno, de palha", "texto": "EDIFÍCIO DE OURO, DE PRATA, DE PEDRAS PRECIOSAS — Por edifício de ouro, de prata, de pedras preciosas, entende Santo Agostinho as obras inteiramente boas e perfeitas que fazem os Santos de virtude abalizada; por edifício de madeira, de feno, de palha, as imperfeições, que nas obras boas misturam os que são menos santos e geralmente os pecados veniais. Assim Santo Agostinho no Livro da Fé, e das obras, cap. 16; no Manual, cap. 68; no Livro 21 da Cidade de Deus, cap. 26; nas Questões a Dulcídio, e na exposição dos Salmos, 37 e 80. Em todos os quais lugares reconhece o Santo Doutor ser êste discurso do Apóstolo dificultoso e escuro de entender. Com Santo Agostinho sente o mesmo S. Gregório Magno no Livro 4 dos seus diálogos, cap. 39. Os Expositores modernos, tomando por base da sua interpretação o sentimento de Santo Agostinho e de S. Gregório, e refletindo que o discurso do Apóstolo se contrai aos edificadores místicos, que são os doutores e pregadores evangélicos, entendem por edifício de ouro, de prata, de pedras preciosas, uma doutrina pura, sincera, sólida, tôda tendente a mover os fiéis à piedade e à compunção, e por edifício de madeira, de feno, de palha, uma doutrina mais pura e menos sólida, uma doutrina mundana, curiosa, impertinente, que mais nutre o aplauso do que a virtude. Assim Êstio, Amelote, Sacy com Santo Tomás, Dionísio e Caetano." },
+    "fn3_6": { "rotulo": "Porque o dia do Senhor a demonstrará", "texto": "PORQUE O DIA DO SENHOR — Isto é, o dia do Juizo Universal, que por antonomásia se chama nas Escrituras o dia do Senhor.\nA DEMONSTRARÁ — Pelo fogo que os teólogos chamam na conflagração ou abrasamento do Mundo. No qual fogo virá Jesus Cristo julgar todos os homens, como a Igreja reconhece no Ofício dos defuntos: Qui venturus es judicare vivos, et mortuos, et saeculum per ignem. — Pereira." }
+  }
+}

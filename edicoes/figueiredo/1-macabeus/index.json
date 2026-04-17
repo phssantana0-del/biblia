@@ -1,0 +1,10 @@
+{
+  "id": "1-macabeus",
+  "titulo": "Primeiro Livro dos Macabeus",
+  "abreviacao": "1Mc",
+  "testamento": "Antigo Testamento",
+  "edicao": "figueiredo",
+  "grupo": "Livros Históricos",
+  "totalCapitulos": 16,
+  "capitulos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+}

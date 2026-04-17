@@ -1,0 +1,38 @@
+{
+  "num": 25,
+  "sumario": "Festo em Jerusalém. Recusa Remeter-Lhes Paulo, Como os Judeus Pediam. Nova Acusação, e Nova Defensa de Paulo. Dá-Se-Lhe a Escolher Se Quer Ele Ser Julgado em Jerusalém. Apela Ele para o César. Fala Diante de Agripa.",
+  "versiculos": [
+    { "n": 1, "texto": "Tendo pois chegado Festo à província veio, passados três dias, de Cesaréia a Jerusalém." },
+    { "n": 2, "texto": "E os príncipes dos sacerdotes, e os principais dos judeus acudiram a êle contra Paulo, e lhe rogavam:" },
+    { "n": 3, "texto": "Pedindo favor contra êle, para que o mandasse vir a Jerusalém, armando-lhe insídias, para o assassinarem no caminho." },
+    { "n": 4, "texto": "Mas Festo respondeu que Paulo se achava em custódia em Cesaréia: E que êle partiria para lá dentro de poucos dias." },
+    { "n": 5, "texto": "Por onde, os que dentre vós (disse êle) são os principais, vinde comigo, se algum crime há neste homem, acusem-no." },
+    { "n": 6, "texto": "E havendo-se demorado entre êles não mais de oito, ou dez dias; baixou a Cesaréia, e o dia seguinte se assentou no Tribunal, e mandou trazer a Paulo." },
+    { "n": 7, "texto": "O qual depois de ser ali trazido, o rodearam os judeus que tinham vindo de Jerusalém, acusando-o de muitos e graves delitos, que não podiam provar." },
+    { "n": 8, "texto": "Dizendo Paulo em sua defesa: Em nada pois tenho pecado contra a lei dos judeus, nem contra o Templo, nem contra o César." },
+    { "n": 9, "texto": "Mas Festo querendo comprazer com os judeus, respondendo a Paulo, disse: Queres subir a Jerusalém, e ser ali julgado destas coisas diante de mim?" },
+    { "n": 10, "texto": "E Paulo disse: Ante o tribunal do César estou, onde convém que seja julgado: Nenhum mal tenho feito aos judeus, como tu melhor o sabes." },
+    { "n": 11, "texto": "E se lhes tenho feito algum mal, ou coisa digna de morte, não recuso morrer: Mas se nada há daquilo de que êstes me acusam, ninguém me pode entregar a êles: Apelo para o César.", "nota": "fn25_1" },
+    { "n": 12, "texto": "Então Festo, depois de haver conferido o negócio com o conselho, respondeu: Para o César tens apelado? Ao César irás." },
+    { "n": 13, "texto": "E alguns dias depois o rei Agripa e Berenice vieram a Cesaréia a dar os emboras a Festo.", "nota": "fn25_2" },
+    { "n": 14, "texto": "E demorando-se ali muitos dias Festo deu notícia de Paulo ao rei, dizendo: Félix deixou aqui prêso a um certo homem." },
+    { "n": 15, "texto": "Por cujo respeito quando estive em Jerusalém, acudiram a mim os príncipes dos sacerdotes, e os anciãos dos judeus, pedindo que o condenasse." },
+    { "n": 16, "texto": "Aos quais respondi que não era costume dos romanos condenar homem algum antes do acusado ter presentes os seus acusadores, e antes de se lhe dar liberdade para êle se defender dos crimes que se lhe imputam." },
+    { "n": 17, "texto": "Tendo êles, pois, acudido aqui sem a menor dilação, ao outro dia assentando-me no meu tribunal, mandei trazer a êste homem." },
+    { "n": 18, "texto": "A quem, estando presentes os seus acusadores, nenhum delito opuseram dos que eu suspeitava:" },
+    { "n": 19, "texto": "Mas tinham só contra êle algumas questões sôbre a sua superstição, e sôbre um certo Jesus defunto, o qual Paulo afirmava viver." },
+    { "n": 20, "texto": "E duvidando eu de semelhante questão, lhe disse se queria ir a Jerusalém e ali ser julgado destas coisas." },
+    { "n": 21, "texto": "Mas apelando Paulo para que ficasse reservado ao conhecimento de Augusto, mandei que o guardassem até que o remeta ao César.", "nota": "fn25_3" },
+    { "n": 22, "texto": "Então Agripa disse a Festo: Eu também queria ouvir a êste homem. Amanhã, respondeu êle, o ouvirás." },
+    { "n": 23, "texto": "Ao outro dia, pois, tendo vindo Agripa e Berenice com grande pompa, e depois de entrarem na audiência com os tribunos e pessoas principais da cidade, foi trazido Paulo por ordem que Festo dera." },
+    { "n": 24, "texto": "E disse Festo: Rei Agripa, e todos os varões que aqui estais conosco, aqui tendes êste homem, contra quem tôda a multidão dos judeus me fez recurso em Jerusalém, pedindo e gritando que não convinha que êle vivesse mais." },
+    { "n": 25, "texto": "E eu tenho achado que êle não tem feito coisa alguma de morte. Mas havendo êle mesmo apelado para Augusto, tenho determinado remeter-lho." },
+    { "n": 26, "texto": "Do qual não tenho coisa certa que escrever ao senhor. Pelo que vo-lo tenho apresentado, e mormente a ti, ó rei Agripa, a fim de ter que escrever-lhe, depois de feita a informação." },
+    { "n": 27, "texto": "Porque me parece sem razão remeter um homem prêso, e não informar das acusações que lhe fazem." }
+  ],
+  "notas": {
+    "fn25_1": { "rotulo": "APELO PARA O CÉSAR", "texto": "Pelo Direito Romano podiam os que gozavam o fôro de cidadãos apelar para o imperador nas causas-crimes, e prevenir a sentença quando o juiz fazia alguma coisa contra a Lei: Ante sententiam appellari potest in criminali negotio, si judex contra leges hoc faciat. Lei ante, D. De appellationibus suscipiendis. O César para quem apelava era para Nero." },
+    "fn25_2": { "rotulo": "O REI AGRIPA E BERENICE", "texto": "Êste Agripa era filho do rei Herodes Agripa, de quem falamos atrás. E Berenice era sua irmã. Agripa filho não sucedeu ao pai no reino da Judéia, mas o imperador Cláudio lhe deu o da Taracônite, com a guarda do Templo, e com direito de criar e depor os sumos sacerdotes. Depois lhe acrescentou Nero os estados. E sobreviveu ainda a Vespasiano e a Tito. Berenice, sua irmã, depois de casar a primeira vez com seu tio Herodes, rei de Calcida, deixando êste, casou com Polémon, rei do Ponto, a quem também deixou. E a fama, ou infâmia, que corria por todo o Oriente, era que Berenice era amiga do irmão, o que até deu lugar às sátiras de Juvenal. - Calmet." },
+    "fn25_3": { "rotulo": "AO CONHECIMENTO DE AUGUSTO", "texto": "Era êste então o imperador Nero, sucessor de Cláudio. E todos sabem que o título de Augusto, bem como o de César, ficou sendo comum a todos os imperadores. E Jesus Cristo com os seus Evangelistas, não obstante serem êstes títulos uns títulos inventados pela vaidade mundana, não duvidaram assim tratar por êles aos imperadores." }
+  }
+}

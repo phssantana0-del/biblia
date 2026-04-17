@@ -1,0 +1,38 @@
+{
+  "num": 3,
+  "sumario": "Pedro e João curam a um coxo de nascença. Concurso do povo a ver o milagre. Segunda pregação de Pedro.",
+  "versiculos": [
+    { "n": 1, "texto": "Pedro, pois, e João iam ao Templo, à oração, à hora da Noa.", "nota": "fn3_1" },
+    { "n": 2, "texto": "E era para ali trazido um certo homem que era coxo desde o ventre de sua mãe, ao qual punham todos os dias à porta do Templo chamada a Especiosa, para que pedisse esmola aos que entravam no Templo.", "nota": "fn3_2" },
+    { "n": 3, "texto": "Êste, quando viu a Pedro e a João, que iam a entrar no Templo, fazia a sua rogativa para receber alguma esmola." },
+    { "n": 4, "texto": "E Pedro pondo nêle os olhos juntamente com João, lhe disse: Olha para nós." },
+    { "n": 5, "texto": "E êle os olhava com atenção, esperando receber dêles alguma coisa." },
+    { "n": 6, "texto": "E Pedro disse: Não tenho prata nem ouro, mas o que tenho, isto te dou: Em nome de Jesus Cristo Nazareno, levanta-te e anda.", "nota": "fn3_3" },
+    { "n": 7, "texto": "E tomando-o pela mão direita, o levantou, e no mesmo ponto foram consolidadas as bases dos seus pés, e as suas plantas." },
+    { "n": 8, "texto": "E dando um salto se pôs em pé, e andava: E entrou com êles no Templo, andando e saltando e louvando a Deus." },
+    { "n": 9, "texto": "E todo o povo o viu andando, e louvando a Deus." },
+    { "n": 10, "texto": "E conheciam que êle era o mesmo que se assentava à porta Especiosa do Templo à esmola: E ficaram cheios de espanto, e como fora de si, pelo que àquele lhe havia acontecido." },
+    { "n": 11, "texto": "E tendo aferrado de Pedro e de João, todo o povo correu para êles de tropel ao pórtico, que se chama Salomão, atônitos." },
+    { "n": 12, "texto": "E vendo isto, Pedro disse ao povo: Varões israelitas, por que vos admirais disto, ou por que pondes os olhos em nós, como se por nossa virtude ou poder tivéssemos feito andar a êste?" },
+    { "n": 13, "texto": "O Deus de Abraão, e o Deus de Isaac, e o Deus de Jacó, o Deus de nossos pais glorificou a seu filho Jesus, a quem vós sem dúvida entregastes e negastes perante a face de Pilatos, julgando êle que, se soltasse." },
+    { "n": 14, "texto": "Mas vós negastes ao santo, e ao justo, e pedistes que se vos desse um homem homicida:" },
+    { "n": 15, "texto": "E assim matastes ao autor da vida, a quem Deus ressuscitou dentre os mortos, do que nós somos testemunhas." },
+    { "n": 16, "texto": "E na fé do seu nome confirmou seu mesmo nome a êste que vós tendes visto, e conheceis: E a fé, que há por meio dêle, foi a que lhe deu esta inteira saúde à vista de todos vós." },
+    { "n": 17, "texto": "E agora, irmãos, eu sei que o fizestes por ignorância, como também os vossos magistrados." },
+    { "n": 18, "texto": "Porém Deus, o que já dantes anunciou por bôca de todos os profetas, que padeceria o seu Cristo, assim o cumpriu." },
+    { "n": 19, "texto": "Portanto, arrependei-vos, e convertei-vos, para que os vossos pecados vos sejam perdoados:" },
+    { "n": 20, "texto": "Para que quando vierem os tempos do refrigério diante do Senhor, e enviar aquele Jesus Cristo que a vós vos foi pregado.", "nota": "fn3_4" },
+    { "n": 21, "texto": "Ao qual certamente é necessário que o Céu receba até os tempos da restauração de tôdas as coisas, as quais Deus falou por bôca dos seus santos profetas, desde o princípio do mundo." },
+    { "n": 22, "texto": "Moisés, sem dúvida, disse: Porquanto o Senhor vosso Deus vos suscitará um profeta dentre vossos irmãos, semelhante a mim: A êste ouvireis em tudo o que êle vos disser." },
+    { "n": 23, "texto": "E isto acontecerá: Tôda a alma que não ouvir aquele profeta, será exterminada do meio do povo." },
+    { "n": 24, "texto": "E todos os profetas desde Samuel, e quantos depois falaram, anunciaram êstes dias." },
+    { "n": 25, "texto": "Vós sois os filhos dos profetas, e do testamento, que Deus ordenou a nossos pais, dizendo a Abraão: E na tua semente serão abençoadas tôdas as famílias da terra." },
+    { "n": 26, "texto": "Deus ressuscitando a seu Filho vo-lo enviou primeiramente a vós, para que vos abençoasse: A fim de que cada um se aparte da sua maldade." }
+  ],
+  "notas": {
+    "fn3_1": { "rotulo": "A ORAÇÃO A HORA DA NOA", "texto": "Era a última das três, em que os judeus repartiam as suas preces, e correspondiam às nossas vésperas. - Amelote." },
+    "fn3_2": { "rotulo": "CHAMADA A ESPECIOSA", "texto": "Chamava-se assim por ser a maior, a mais alta e mais suntuosa. Josefo diz-nos que era de bronze de Corinto, coberta de ouro e prata. Ficava na parte oriental do Templo e conduzia ao recinto dos gentios, no vale de Cedron." },
+    "fn3_3": { "rotulo": "NÃO TENHO PRATA NEM OURO", "texto": "Aqui o espírito de pobreza." },
+    "fn3_4": { "rotulo": "QUE A VÓS", "texto": "Aqui se há de suprir alguma coisa: Para que sejais salvos quando vierem, etc. No texto grego é uma sentença continuada: para que vossos pecados vos sejam perdoados, quando vierem os tempos, etc., isto é, no tempo da outra vida, em que os judeus, e verdadeiros penitentes, depois dos trabalhos e misérias destas, hão de achar no seio de Deus um eterno descanso, e refrigério. S. João Crisóstomo, e outros intérpretes, com maior fundamento o entendem do Juízo final e alguns da ruína de Jerusalém. - Pereira." }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "naum",
+  "titulo": "Naum",
+  "abreviacao": "Na",
+  "testamento": "Antigo Testamento",
+  "edicao": "figueiredo",
+  "grupo": "Profetas Menores",
+  "totalCapitulos": 3,
+  "capitulos": [1, 2, 3]
+}

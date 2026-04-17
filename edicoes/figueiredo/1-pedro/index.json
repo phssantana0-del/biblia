@@ -1,0 +1,10 @@
+{
+  "id": "1-pedro",
+  "titulo": "Primeira Epístola de S. Pedro Apóstolo",
+  "abreviacao": "1Pd",
+  "testamento": "Novo Testamento",
+  "edicao": "figueiredo",
+  "grupo": "Epístolas Católicas",
+  "totalCapitulos": 5,
+  "capitulos": [1, 2, 3, 4, 5]
+}

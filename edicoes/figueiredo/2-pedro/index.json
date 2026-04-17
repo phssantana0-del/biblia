@@ -1,0 +1,10 @@
+{
+  "id": "2-pedro",
+  "titulo": "Segunda Epístola de S. Pedro Apóstolo",
+  "abreviacao": "2Pd",
+  "testamento": "Novo Testamento",
+  "edicao": "figueiredo",
+  "grupo": "Epístolas Católicas",
+  "totalCapitulos": 3,
+  "capitulos": [1, 2, 3]
+}

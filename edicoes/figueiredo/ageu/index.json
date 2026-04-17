@@ -1,0 +1,10 @@
+{
+  "id": "ageu",
+  "titulo": "Ageu",
+  "abreviacao": "Ag",
+  "testamento": "Antigo Testamento",
+  "edicao": "figueiredo",
+  "grupo": "Profetas Menores",
+  "totalCapitulos": 2,
+  "capitulos": [1, 2]
+}

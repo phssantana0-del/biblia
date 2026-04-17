@@ -1,0 +1,26 @@
+{
+  "num": 5,
+  "sumario": "O Coríntio incestuoso Paulo o entrega a Satanaz. Quer que se não tenha comunicação com os que cometem grandes crimes.",
+  "versiculos": [
+    { "n": 1, "texto": "E' fama constante que entre vós há fornicação, e tal fornicação, qual nem ainda entre os gentios, tanto que chega a haver quem abusa da mulher de seu pai." },
+    { "n": 2, "texto": "E andais ainda inchados: E nem ao menos haveis mostrado pena, para que seja tirado dentre vós o que fez tal maldade." },
+    { "n": 3, "texto": "Eu na verdade, ainda que ausente com o corpo, mas presente com o espírito, já tenho julgado como presente aquele que assim se portou." },
+    { "n": 4, "texto": "Em nome de Nosso Senhor Jesus Cristo, congregados vós e o meu espírito, com o poder de Nosso Senhor Jesus.", "nota": "fn5_1" },
+    { "n": 5, "texto": "Seja o tal entregue a satanaz, para mortificação da carne, a fim de que a sua alma seja salva no dia de nosso Senhor Jesus Cristo.", "nota": "fn5_2" },
+    { "n": 6, "texto": "Não é boa a vossa jactância. Não sabeis que um pouco de fermento corrompe tôda a massa?" },
+    { "n": 7, "texto": "Purificai o velho fermento, para que sejais uma nova massa, assim como sois asmos. Porquanto Cristo, que é nossa Páscoa, foi imolado.", "nota": "fn5_3" },
+    { "n": 8, "texto": "E assim solenizemos o nosso convite, não com o fermento velho, nem com o fermento da malícia e da corrupção: Mas com os asmos da sinceridade e da verdade." },
+    { "n": 9, "texto": "Por carta vos escrevi: Que não tivesseis comunicação com os impuros.", "nota": "fn5_4" },
+    { "n": 10, "texto": "Não a entendendo por certo daquela com os impuros dêste mundo, ou com os avarentos, ou ladrões, ou com os que adoram ídolos: De outra sorte deveríeis sair dêste mundo.", "nota": "fn5_5" },
+    { "n": 11, "texto": "Mas agora vos escrevi, que não tenhais comunicação com êles: Vindo nisto a dizer que se aquele que se nomeia vosso irmão, é impuro, ou avarento, ou idólatra, ou maldizente, ou dado a bebedices, ou ladrão, com êste tal nem comer deveis." },
+    { "n": 12, "texto": "Porque, que me vai a mim em julgar daqueles que estão fora? Porventura não julgais vós daqueles que estão dentro?" },
+    { "n": 13, "texto": "Porque Deus julgará aos que estão fora. Tirai do meio de vós outros a êsse iníquo." }
+  ],
+  "notas": {
+    "fn5_1": { "rotulo": "congregados vós e o meu espírito", "texto": "CONGREGADOS VÓS — O Apóstolo fala principalmente com os que governaram a Igreja de Corinto, porque a êstes, e não à multidão dos fiéis leigos, é que competia o poder de excomungar. E ainda que êle por si só podia excomungar a êste criminoso, quer contudo que esta ação se faça de comum acôrdo da Igreja. — Sacy." },
+    "fn5_2": { "rotulo": "Seja o tal entregue a satanaz, para mortificação da carne", "texto": "SEJA O TAL ENTREGUE A SATANAZ — Ao excomungar a um fiel chama o Apóstolo entregá-lo a satanaz.\nPARA MORTIFICAÇÃO DA CARNE — Para ser mortificado, ou pelo demônio com doenças e maus tratamentos, conforme a referida exposição dos Gregos, ou por si mesmo com penitências voluntárias conforme a exposição dos Latinos, devendo-se esperar que tanto as doenças como as penitências quebrantariam na carne daquele homem o apetite libidinoso e lhe seriam ocasião de que, emendado e arrependido êle do escândalo que dera, o tornasse a Igreja a admitir ao seu grêmio." },
+    "fn5_3": { "rotulo": "Cristo, que é nossa Páscoa, foi imolado", "texto": "NOSSA PÁSCOA — Que é verdadeiro cordeiro Pascal, de que era figura e dos judeus." },
+    "fn5_4": { "rotulo": "Por carta vos escrevi", "texto": "POR CARTA VOS ESCREVI — Esta carta entende S. João Crisóstomo, e com êle o comum dos expositores gregos, ser esta primeira Epístola aos Coríntios. E esta inteligência seguiu Calmet na sua versão. Os mais intérpretes latinos a entendem de outra Epístola, que se perdeu." },
+    "fn5_5": { "rotulo": "De outra sorte deveríeis sair dêste mundo", "texto": "DE OUTRA SORTE DEVERÍEIS — Como todo o mundo estava cheio de homens impudicos, avarentos, roubadores, idólatras, se os cristãos se houvessem de abster da comunicação de todos, diz o Apóstolo que seria necessário irem buscar outro mundo. E desta impossibilidade tira êle por conclusão que os públicos pecadores, a cujo trato deviam êles fugir, eram os fiéis escandalosos." }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rute",
+  "titulo": "Rute",
+  "abreviacao": "Rt",
+  "testamento": "Antigo Testamento",
+  "edicao": "figueiredo",
+  "grupo": "Livros Históricos",
+  "totalCapitulos": 4,
+  "capitulos": [1, 2, 3, 4]
+}

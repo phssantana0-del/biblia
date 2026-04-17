@@ -1,0 +1,27 @@
+{
+  "num": 6,
+  "sumario": "Queixume dos Judeus Gregos de Lhes Desatendérem as Suas Viúvas. Elegem os Apóstolos a Sete Diáconos para Distribuírem as Esmolas. Convertem-se Muitos dos Mesmos Sacerdotes. Vãs Disputas Contra Santo Estêvão, a Que se Seguem Muitos Falsos Testemunhos. O Seu Rosto Parece aos Mesmos Juízes Como o Rosto dum Anjo.",
+  "versiculos": [
+    { "n": 1, "texto": "Naqueles dias porém, crescendo o número dos discípulos, se moveu uma murmuração dos gregos contra os hebreus; pelo motivo de que as suas viúvas eram desprezadas no serviço de cada dia.", "nota": "fn6_1" },
+    { "n": 2, "texto": "Pelo que os doze, convocando a multidão dos discípulos, disseram: Não é justo que nós deixemos a palavra de Deus, e que sirvamos às mesas.", "nota": "fn6_2" },
+    { "n": 3, "texto": "Portanto, irmãos, escolhei dentre vós a sete varões de boa reputação, cheios do Espírito Santo, e de sabedoria, aos quais encarreguemos desta obra." },
+    { "n": 4, "texto": "E nós atenderemos de contínuo à oração, e à administração da palavra." },
+    { "n": 5, "texto": "E aprouve êste arrazoamento a tôda a Junta. E êles escolheram a Estêvão, homem cheio de fé e do Espírito Santo, e a Filipe, e a Prócoro, e a Nicanor, e a Timão, e a Parmenas, e a Nicolau, prosélito de Antioquia.", "nota": "fn6_3" },
+    { "n": 6, "texto": "A êstes apresentaram diante dos Apóstolos, e orando puseram as mãos sôbre êles." },
+    { "n": 7, "texto": "E crescia a palavra do Senhor, e se multiplicava muito o número dos discípulos em Jerusalém; uma grande multidão de sacerdotes obedecia também à fé." },
+    { "n": 8, "texto": "Mas Estêvão, cheio de graça e de fortaleza, fazia grandes prodígios e milagres entre o povo." },
+    { "n": 9, "texto": "E alguns da Sinagoga, que se chama dos libertinos, e dos cirenenses, e dos alexandrinos, e dos que eram da Cilícia, e da Ásia, se levantaram a disputar com Estêvão.", "nota": "fn6_4" },
+    { "n": 10, "texto": "E não podiam resistir à sabedoria, e ao Espírito que nele falava." },
+    { "n": 11, "texto": "Então subornaram a alguns que dissessem que êles lhe haviam ouvido dizer palavras de blasfêmia contra Moisés e contra Deus." },
+    { "n": 12, "texto": "Amotinaram enfim o povo, e os anciãos, e os escribas: E conjurados o arrebataram, e levaram ao conselho." },
+    { "n": 13, "texto": "E produziram falsas testemunhas, que dissessem: Êste homem não cessa de proferir palavras contra o lugar santo e contra a lei." },
+    { "n": 14, "texto": "Porque nós o ouvimos dizer: Que êsse Jesus Nazareno há de destruir êsse lugar, e há de trocar as tradições que Moisés nos deixou." },
+    { "n": 15, "texto": "E fixando nele os olhos todos aqueles que estavam assentados no conselho viram o seu rosto como o rosto dum anjo." }
+  ],
+  "notas": {
+    "fn6_1": { "rotulo": "DOS GREGOS CONTRA OS HEBREUS", "texto": "Judeus gregos se chamam os que não falavam senão grego, como eram os do Egito, os das ilhas do Arquipélago, os da Ásia Menor; Judeus Hebreus, os que falavam o Aramaico ou Síriaco que era o que então se chamava Hebraico, como eram os da Palestina, da Galiléia, da Síria. Tal é a advertência que faz com o comum dos intérpretes Calmet. PELO MOTIVO DE QUE AS SUAS VIÚVAS ERAM DESPREZADAS - O desprezo estava em que como a economia da administração da vida comum, que então professavam os novos convertidos, corria pelas mãos dos fiéis hebreus, a quem os Apóstolos a confiaram, estes se mostravam mais largos com as viúvas dos seus, do que com as de fora." },
+    "fn6_2": { "rotulo": "NÃO É JUSTO QUE NÓS DEIXEMOS A PALAVRA DE DEUS", "texto": "Com esta mesma consideração ordenou a Igreja, nos seus Cânones, que os Bispos, para lhes ficar todo o tempo livre para o estudo das sagradas letras, e para a instrução do povo, encarregassem da administração das rendas Eclesiásticas os seus Diáconos, com o título de Ecônomos. Assim o Concílio de Calcedónia." },
+    "fn6_3": { "rotulo": "E A NICOLAU, PROSÉLITO DE ANTIOQUIA", "texto": "A qualidade de prosélito mostra que Nicolau era gentio de origem, e que do gentilismo passou para o judaísmo, do judaísmo para o Cristianismo. A origem gentílica faz duvidar que êste fosse um dos setenta Discípulos de Cristo, como o deixou escrito Santo Epifânio. Fosse como fosse, e deixadas as diversas opiniões, que correm dos procedimentos pessoais dêste Nicolau pelo tempo adiante, é certo que os Nicolaítas, seita a mais torpe e abominável que tem havido na Igreja, se jactavam de o ter por autor, e Patriarca, o que é contestado." },
+    "fn6_4": { "rotulo": "DA SINAGOGA, QUE SE CHAMA DOS LIBERTINOS", "texto": "Isto é, dos que depois de serem cativos, e feitos escravos por Pompeu, e por outros capitães romanos, vieram a alcançar liberdade de suas pessoas e religião. - Amelote." }
+  }
+}

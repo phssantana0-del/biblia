@@ -1,0 +1,10 @@
+{
+  "id": "baruc",
+  "titulo": "Baruc",
+  "abreviacao": "Br",
+  "testamento": "Antigo Testamento",
+  "edicao": "figueiredo",
+  "grupo": "Profetas Maiores",
+  "totalCapitulos": 6,
+  "capitulos": [1, 2, 3, 4, 5, 6]
+}

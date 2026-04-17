@@ -1,0 +1,31 @@
+{
+  "num": 4,
+  "sumario": "Conceito que se deve fazer dos pregadores. Não os devemos julgar antes de tempo. Repreende o Apóstolo aos que se gloriavam dos dons que tinham recebido. Condição dos Apóstolos laboriosa, e desprezível aos olhos do mundo. Promete Paulo ir cedo ver os Coríntios.",
+  "versiculos": [
+    { "n": 1, "texto": "Os homens devem-nos considerar como uns ministros de Cristo: E como uns dispenseiros dos mistérios de Deus." },
+    { "n": 2, "texto": "Ora o que se deseja nos dispenseiros, é que êles se achem fiéis." },
+    { "n": 3, "texto": "A mim pois bem pouco se me dá de ser julgado de vós ou de qualquer outro homem: Pois nem ainda eu me julgo a mim mesmo.", "nota": "fn4_1" },
+    { "n": 4, "texto": "Porque de nada me argúi a consciência: Mas nem por isso me dou por justificado: Pois o Senhor é quem me julga." },
+    { "n": 5, "texto": "Pelo que não julgueis antes de tempo, até que venha o Senhor: O qual não só porá às claras o que se acha escondido nas mais profundas trevas, mas descobrirá ainda o que há de mais secreto nos corações: E então cada um receberá de Deus o louvor." },
+    { "n": 6, "texto": "Mas eu, irmão, tenho representado estas coisas na minha pessoa e na de Apolo, por amor de vós: Para que em nós outros aprendais, que um por causa de outro não se ensoberbeça contra outro fora do que está escrito." },
+    { "n": 7, "texto": "Porque quem é o que te diferença? E que tens tu que não recebesses? Se porém o recebeste, por que te glorias, como se o não tiveras recebido?" },
+    { "n": 8, "texto": "Vós já estais fartos, já estais ricos: Vós reinais sem nós: E praza a Deus que reineis, para também nós reinarmos convosco." },
+    { "n": 9, "texto": "Porque entendo que Deus nos tem pôsto pelos últimos dos Apóstolos, como sentenciados à morte: Porque somos feitos espetáculo ao mundo, e aos Anjos, e aos homens." },
+    { "n": 10, "texto": "Nós néscios por Cristo, e vós sábios em Cristo: Nós fracos, e vós fortes: Vós nobres, e nós desprezíveis." },
+    { "n": 11, "texto": "Até esta hora padecemos até fome, e sêde, e desnudez, e somos esbofeteados, e não temos morada segura." },
+    { "n": 12, "texto": "E trabalhamos obrando por nossas próprias mãos: Amaldiçoam-nos, e bendizemos: Perseguem-nos, e sofremos." },
+    { "n": 13, "texto": "Somos blasfemados, e rogamos: Temos chegado a ser como a imundícia deste mundo, como a escória de todos até agora.", "nota": "fn4_2" },
+    { "n": 14, "texto": "Eu não vos escrevo isto, para vos envergonhar, mas admoesto-vos como a filhos meus, que muito amo." },
+    { "n": 15, "texto": "Porque ainda que tenhais dez mil Aios em Cristo, não teríeis todavia muitos pais. Pois eu sou o que vos gerei em Jesus Cristo pelo Evangelho." },
+    { "n": 16, "texto": "Rogo-vos pois que sejais meus imitadores, como também eu o sou de Cristo." },
+    { "n": 17, "texto": "Por isso é que vos enviei Timóteo, que é meu filho muito amado, e fiel no Senhor: Que vos fará saber os meus caminhos, que são em Jesus Cristo, como eu ensino por tôdas as partes em cada Igreja." },
+    { "n": 18, "texto": "Alguns andam inchados, como se eu não houvesse de ir ter convosco." },
+    { "n": 19, "texto": "Mas brevemente irei ter convosco, se o Senhor quiser: E examinarei, não as palavras dos que assim andam inchados, mas a virtude." },
+    { "n": 20, "texto": "Porque o reino de Deus não consiste nas palavras, mas na virtude." },
+    { "n": 21, "texto": "Que quereis? irei a vós outros com vara, ou com caridade, e espírito de mansidão?" }
+  ],
+  "notas": {
+    "fn4_1": { "rotulo": "ou de qualquer outro homem", "texto": "OU DE QUALQUER OUTRO HOMEM — Assim interpreta S. João Crisóstomo e com êle a torrente dos expositores, o que tanto no Grego como no Latim se diz, aut ab humano die, que tomado à letra quer dizer, ou pelo dia humano. Porque na frase dos hebreus se chama dia humano o juizo humano ou o juizo dos homens, como adverte S. Jerônimo na Carta a Algásia. E com efeito o nosso Almeida verteu aqui, ou de juizo de homem. — Pereira." },
+    "fn4_2": { "rotulo": "como a escória de todos até agora", "texto": "COMO A ESCÓRIA DE TODOS — Os gentios em tempo de peste, ou de outro mal público, costumavam sacrificar a Netuno algum homem, que precipitavam no mar, desde o alto de um rochedo, dizendo-lhe ao mesmo tempo: Sis pro nobis peripsema, sê tu a vítima que nos salve a nós e à nossa cidade. Veja-se Suides. E assim o sentido dêste lugar parece ser êste: Somos tão detestáveis para com o vulgo dos gentios; como o eram aqueles que, carregados de maldições, despenhavam ou precipitavam no mar, pelo bem público." }
+  }
+}

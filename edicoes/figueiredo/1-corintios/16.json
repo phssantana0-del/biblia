@@ -1,0 +1,56 @@
+{
+  "num": 16,
+  "sumario": "Recomenda o Apóstolo aos Coríntios o cuidado dos pobres de Jerusalém. Promete ir vê-los. Desculpa a Apolo de não ter vindo. Recomenda-lhes a Timóteo, e a casa de Estéfanas. Conclui com várias saudações.",
+  "versiculos": [
+    { "n": 1, "texto": "Quanto porém às coletas, que se fazem a beneficio dos Santos, fazei também vós o mesmo que eu ordenei às igrejas da Galácia." },
+    { "n": 2, "texto": "Ao primeiro dia da semana, cada um de vós ponha de parte alguma soma em sua casa, guardando assim o que bem lhe parecer: Para que se não façam as coletas quando eu chegar.", "nota": "fn16_1" },
+    { "n": 3, "texto": "E quando eu fôr presente: Aos que vós aprovardes por cartas, a êsses tais enviarei eu, para que levem a Jerusalém o vosso socorro.", "nota": "fn16_2" },
+    { "n": 4, "texto": "E se a coisa merecer que também vá eu mesmo, irão comigo." },
+    { "n": 5, "texto": "Eu porém irei ver-vos, depois que tiver passado pela Macedônia: Porque tenho de passar pela Macedônia." },
+    { "n": 6, "texto": "E talvez que ficarei convosco, e passarei também o inverno: Para que vós me acompanheis aonde eu houver de ir." },
+    { "n": 7, "texto": "Porque não vos quero agora ver de passagem, antes espero demorar-me algum tempo convosco, se o Senhor o permitir." },
+    { "n": 8, "texto": "E ficarei em Éfeso até à festa de Pentecostes." },
+    { "n": 9, "texto": "Porque se me abriu uma porta grande, e espaçosa: E os adversários são muitos." },
+    { "n": 10, "texto": "E se vier Timóteo, vêde que esteja sem temor entre vós: Porque trabalha na obra do Senhor, assim como eu também." },
+    { "n": 11, "texto": "Portanto nenhum o tenha em pouco: Antes o acompanhai em paz, para que venha ter comigo: Porque o espero com os irmãos." },
+    { "n": 12, "texto": "E vos faço saber do irmão Apolo, que lhe roguei muito que passasse a vós outros com os irmãos: E na verdade não foi sua vontade o ir agora ter convosco: Mas irá quando tiver oportunidade." },
+    { "n": 13, "texto": "Vigiai, estai firmes na fé, portai-vos varonilmente, e fortalecei-vos." },
+    { "n": 14, "texto": "Tôdas as vossas obras sejam feitas em caridade.", "nota": "fn16_3" },
+    { "n": 15, "texto": "Rogo-vos porém, irmãos, pois já conheceis a casa de Estéfanas, e de Fortunato, e de Acaico; porque são as primícias da Acaia, e se consagraram ao serviço dos Santos:" },
+    { "n": 16, "texto": "Que não só vós sejais obedientes a êstes tais, mas também a todo aquêle que nos ajuda, e trabalha." },
+    { "n": 17, "texto": "E eu me alegro com a vinda de Estéfanas, e de Fortunato, e de Acaico: Porque o que a vós vos faltava, êles o supriram:" },
+    { "n": 18, "texto": "Porque recrearam assim o meu espírito, como o vosso. Tende pois consideração com tais pessoas." },
+    { "n": 19, "texto": "As igrejas da Ásia vos saudam. Muito vos saudam no Senhor, Áquila, e Priscila, com a igreja de sua casa: Na qual até me acho hospedado." },
+    { "n": 20, "texto": "Todos os irmãos vos saudam. Saudai-vos uns aos outros no ósculo santo." },
+    { "n": 21, "texto": "Eu, Paulo, escrevi de meu próprio punho a seguinte saudação.", "nota": "fn16_4" },
+    { "n": 22, "texto": "Se algum não ama a nosso Senhor Jesus Cristo, seja anátema, Maran-Ata.", "nota": "fn16_5" },
+    { "n": 23, "texto": "A graça de nosso Senhor Jesus Cristo seja convosco.", "nota": "fn16_6" },
+    { "n": 24, "texto": "O meu amor é por vós todos em Jesus Cristo. Amém." }
+  ],
+  "notas": {
+    "fn16_1": {
+      "rotulo": "o que bem lhe parecer",
+      "texto": "O QUE BEM LHE PARECER — É à letra o que diz a Vulgata. O original Grego tem: o em que tiver sido bem sucedido, isto é, uma racionável parte dos ganhos lícitos que tiver conseguido pela sua indústria e favor Divino, dependendo sempre dêste modo segundo as suas posses, como verte Amelote, segundo a fôrça do mesmo Original Grego, que Éstio expende."
+    },
+    "fn16_2": {
+      "rotulo": "Aos que vós aprovardes por cartas",
+      "texto": "AOS QUE VÓS APROVARDES POR CARTAS — Por cartas, que ou me tenhais escrito a mim, apontando quais êles devem ser: (Que é como o entendem Amelote, Calmet) ou por cartas, que hajais de escrever a Jerusalém pelos mesmos portadores, em recomendação sua, como o explica Éstio com Aires Montano."
+    },
+    "fn16_3": {
+      "rotulo": "Tôdas as vossas obras sejam feitas em caridade",
+      "texto": "TODAS AS VOSSAS OBRAS SEJAM FEITAS EM CARIDADE — Isto é, por motivo de caridade, de sorte, que a ela se refiram ao menos virtualmente. Assim o explicam Santo Agostinho, tanto no seu Manual, cap. 12, como no Livro da Graça, e do Livre Alvedrio, cap. 17, e com êle Santo Tomás expondo êste mesmo lugar do Apóstolo. Não é preciso porém, como adverte Éstio, que para as nossas ações saírem retificadas, procedam sempre da caridade perfeita, qual é a dos que estão em graça de Deus, mas basta que se radiquem nalguma caridade, ainda que sòmente inicial, imperfeita, como já na outra parte."
+    },
+    "fn16_4": {
+      "rotulo": "de meu próprio punho",
+      "texto": "DE MEU PRÓPRIO PUNHO — Tudo o que precede a esta carta foi ditado pelo Apóstolo, e escrito por amanuense: mas o presente verso, e os seguintes foram escritos pela sua própria mão. — Menóchio."
+    },
+    "fn16_5": {
+      "rotulo": "Se algum não ama a nosso Senhor Jesus Cristo, seja anátema, Maran-Ata",
+      "texto": "SE ALGUM NÃO AMA A NOSSO SENHOR JESUS CRISTO — Como o não amam os judeus, que blasfemam o seu Nome, e os hereges, que impugnam a sua doutrina. Assim Éstio com Santo Tomás.\nSEJA ANÁTEMA, MARAN-ATA — Anátema já notámos na Epístola aos Romanos, que significa na frase das Escrituras a pessoa, ou coisa, que como excrável se deve separar, e expelir. As outras duas vozes, Maran-Ata, S. Jerônimo, numa carta a Marcela diz, que na língua siríaca e hebraica querem dizer, Nosso Senhor velo. E isto confirma, que os contra quem o Apóstolo fala deste lugar, são principalmente os judeus."
+    },
+    "fn16_6": {
+      "rotulo": "A graça de nosso Senhor Jesus Cristo seja convosco",
+      "texto": "A GRAÇA — Depois de interpor no verso antecedente uma execração contra os que não têm amor de Deus, e que por isso são indignos de se salvarem, escreve agora a saudação, que afirmou ter escrito pelo seu próprio punho. — Menóchio."
+    }
+  }
+}
