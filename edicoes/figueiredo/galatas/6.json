@@ -1,0 +1,38 @@
+{
+  "num": 6,
+  "sumario": "Devem-se advertir os que pecam; sofrerem-se uns aos outros; não se estimar um a si mesmo. Cada um há de recolher, conforme tiver semeado. Paulo se não gloria senão em Jesus Cristo crucificado. A graça não consiste nem na circuncisão, nem na incircuncisão.",
+  "versiculos": [
+    { "n": 1, "texto": "Irmãos, se algum como homem fôr surpreendido ainda em algum delito, vós outros, que sois espirituais, admoestai ao tal com espírito de mansidão: Tu considera-te a ti mesmo, não sejas também tentado.", "nota": "fn6_1" },
+    { "n": 2, "texto": "Levai as cargas uns dos outros, e desta maneira cumprireis a Lei de Cristo." },
+    { "n": 3, "texto": "Porque se algum tem para si que é alguma coisa não sendo nada, êle mesmo a si se engana." },
+    { "n": 4, "texto": "Mas prove cada um a sua obra, e então terá glória em si mesmo sòmente, e não em outro.", "nota": "fn6_2" },
+    { "n": 5, "texto": "Porque cada um levará a sua carga." },
+    { "n": 6, "texto": "E o que é catequizado na palavra, reparta de todos os bens com o que o doutrina." },
+    { "n": 7, "texto": "Não queirais errar, de Deus não se zomba." },
+    { "n": 8, "texto": "Porque aquilo que semear o homem, isso também segará. Porquanto o que semeia na sua carne, da carne também segará corrupção: Mas o que semeia no espírito, do espírito segará a vida eterna." },
+    { "n": 9, "texto": "Não nos cansemos pois de fazer bem: Porque a seu tempo segaremos, não desfalecendo." },
+    { "n": 10, "texto": "Logo, enquanto temos tempo, façamos bem a todos, mas principalmente aos domésticos da fé." },
+    { "n": 11, "texto": "Vêde que carta vos escrevi de minha própria mão." },
+    { "n": 12, "texto": "Porque todos os que querem agradar na carne, êstes vos obrigam a que vos circuncideis, só por não padecerem êles a perseguição da Cruz de Cristo." },
+    { "n": 13, "texto": "Porque êsses mesmos, que se circuncidam, não guardam a Lei: Mas querem que vós vos circuncideis, para se gloriarem na vossa carne." },
+    { "n": 14, "texto": "Mas nunca Deus permita que eu me glorie, senão na Cruz de Nosso Senhor Jesus Cristo: Por quem o mundo está crucificado para mim, e eu crucificado para o mundo." },
+    { "n": 15, "texto": "Porque em Jesus Cristo nem a circuncisão, nem a incircuncisão valem nada, mas o ser uma nova criatura." },
+    { "n": 16, "texto": "E a todos os que seguirem esta regra, paz, e misericórdia sôbre êles, e sôbre o Israel de Deus.", "nota": "fn6_3" },
+    { "n": 17, "texto": "Quanto ao mais ninguém me seja molesto: Porque eu trago no meu corpo as marcas do Senhor Jesus." },
+    { "n": 18, "texto": "A graça de Nosso Senhor Jesus Cristo, irmãos, assista no vosso espírito. Amém." }
+  ],
+  "notas": {
+    "fn6_1": {
+      "rotulo": "TU CONSIDERA-TE A TI MESMO",
+      "texto": "Nada modera tanto a severidade de quem corrige, como o temor da queda própria. Santo Tomás. NÃO SEJAS TAMBÉM TENTADO - Pôs o Apóstolo a causa pelo efeito: a tentação pela queda. Porque o sentido é: Não caias tu também na tentação, segundo o que noutra parte diz o mesmo Apóstolo: O que está firme, veja não caia."
+    },
+    "fn6_2": {
+      "rotulo": "E ENTÃO TERÁ GLÓRIA EM SI MESMO",
+      "texto": "Isto é, no que achar de bom em si mesmo, e não em outro, isto é, e não comparando-se com outro. - Sacy."
+    },
+    "fn6_3": {
+      "rotulo": "E SÔBRE O ISRAEL DE DEUS",
+      "texto": "Isto acrescenta o Apóstolo, por não parecer que exclui da salvação todos os judeus. - Éstio."
+    }
+  }
+}

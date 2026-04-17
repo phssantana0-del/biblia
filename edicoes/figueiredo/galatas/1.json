@@ -1,0 +1,48 @@
+{
+  "num": 1,
+  "sumario": "Repreende Paulo aos Gálatas por haverem deixado a doutrina, que êle lhes pregara. Refere em suma os princípios e progressos da sua conversão.",
+  "versiculos": [
+    { "n": 1, "texto": "Paulo Apóstolo, não pelos homens, nem por algum homem, mas por Jesus Cristo, e por Deus Padre, que o ressuscitou dentre os mortos:", "nota": "fn1_1" },
+    { "n": 2, "texto": "E todos os irmãos, que estão comigo, às igrejas da Galacia." },
+    { "n": 3, "texto": "Graça a vós, e paz da parte de Deus Padre, e de nosso Senhor Jesus Cristo." },
+    { "n": 4, "texto": "O qual se deu a si mesmo por nossos pecados, para nos livrar dêste presente século mau, segundo a vontade de Deus, e Pai nosso." },
+    { "n": 5, "texto": "Ao qual seja dada glória por todos os séculos dos séculos: Amém." },
+    { "n": 6, "texto": "Eu me espanto de que deixando aquêle que vos chamou à graça de Cristo, passásseis assim tão depressa a outro Evangelho:", "nota": "fn1_2" },
+    { "n": 7, "texto": "Porque não há outro, senão é que há alguns que vos perturbam, e querem transtornar o Evangelho de Cristo." },
+    { "n": 8, "texto": "Mas ainda quando nós mesmos, ou um Anjo do Céu vos anuncie um Evangelho diferente do que nós vos temos anunciado, seja anátema.", "nota": "fn1_3" },
+    { "n": 9, "texto": "Assim como já vô-lo dissemos, agora de novo também vô-lo digo: Se algum vos anunciar um Evangelho diferente daquêle que recebestes seja anátema." },
+    { "n": 10, "texto": "Por que enfim desejo eu por acaso ser agora aprovado dos homens, ou de Deus? Ou é aos homens que eu pretendo agradar? Se agradasse ainda aos homens, não seria servo de Cristo." },
+    { "n": 11, "texto": "Porque vos faço saber, irmãos, que o Evangelho, que por mim vos tem sido pregado, não é segundo o homem:" },
+    { "n": 12, "texto": "Porque eu não o recebi, nem aprendi de homem algum, mas sim por revelação de Jesus Cristo." },
+    { "n": 13, "texto": "Porque vós ouvistes dizer de que modo eu vivi noutro tempo no Judaismo: Com que excesso perseguia a igreja de Deus, e a devastava," },
+    { "n": 14, "texto": "e aproveitava no Judaismo mais do que muitos coetâneos meus da minha Nação, sendo em extremo zeloso das tradições de meus pais." },
+    { "n": 15, "texto": "Mas quando aprouve àquele que me destinou desde o ventre da minha mãe, e me chamou pela sua graça," },
+    { "n": 16, "texto": "o revelar seu Filho por mim, para que eu o pregasse entre a gente: Desde aquêle ponto não me acomodei à carne, nem ao sangue.", "nota": "fn1_4" },
+    { "n": 17, "texto": "Nem vim a Jerusalém aos que eram Apóstolos antes de mim, mas parti para a Arábia, e voltei outra vez a Damasco." },
+    { "n": 18, "texto": "Dali, no fim de três anos, vim a Jerusalém por ver a Pedro, e fiquei com êle quinze dias." },
+    { "n": 19, "texto": "E dos outros Apóstolos não vi a nenhum, senão a Tiago, irmão do Senhor." },
+    { "n": 20, "texto": "E nisto que vos escrevo, vos digo diante de Deus que não minto." },
+    { "n": 21, "texto": "Ao depois fui para as partes da Síria, e da Cilícia." },
+    { "n": 22, "texto": "E as Igrejas da Judéia, que criam em Cristo, nem ainda de vista me conheciam." },
+    { "n": 23, "texto": "Mas sòmente tinham ouvido dizer: Aquêle porém que antes nos perseguia, agora prega aquela Fé que noutro tempo combatia." },
+    { "n": 24, "texto": "E davam glória a Deus a respeito de mim." }
+  ],
+  "notas": {
+    "fn1_1": {
+      "rotulo": "NÃO PELOS HOMENS",
+      "texto": "É como se dissera: Não por eleição do colégio apostólico, como foi Matias ou pelos votos dalguma igreja, como foram Barnabé e Silas. - Éstio."
+    },
+    "fn1_2": {
+      "rotulo": "OUTRO EVANGELHO",
+      "texto": "S. Paulo refere-se ao Evangelho que pregavam os falsos doutores. Era no fundo o de Jesus Cristo, ao qual juntavam a prática de mosaismo."
+    },
+    "fn1_3": {
+      "rotulo": "SEJA ANÁTEMA",
+      "texto": "Isto é, como já outras vezes explicamos, seja maldito e execrável: Que isso significa o nome grego anátema, que os Setenta Intérpretes substituiam ao hebreu Herma, e que a igreja adotou da Escritura nos seus Cânones, para significar, como aqui significa S. Paulo, que um tal merece ser excomungado, isto é separado do corpo dos Fiéis, e condenado a penas eternas. - Pereira."
+    },
+    "fn1_4": {
+      "rotulo": "DESDE AQUÊLE PONTO",
+      "texto": "Obedeci à vocação de Deus, sem consultar sôbre isso a nenhum homem porque estava assegurado que era de Deus. O Texto Grego: Não comuniquei, não consultei com nenhum homem. S. Jerônimo entende carne et sanguini do homem carnal. - Pereira."
+    }
+  }
+}
