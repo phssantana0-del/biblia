@@ -1078,30 +1078,42 @@ function buildBookSelector() {
   if (!ed) return;
 
   const testamentoMap = new Map();
+  const testamentoFirstIdx = new Map();
+  const grupoFirstIdx = new Map();
   const unloaded = [];
 
-  ed.livros.forEach(file => {
+  ed.livros.forEach((file, idx) => {
     const cacheKey = ed.id + '/' + file;
     const bookIdx = state.loadedBookIndexes[cacheKey];
     if (!bookIdx) { unloaded.push(file); return; }
     const testamento = bookIdx.testamento || 'Outros';
     const grupo = bookIdx.grupo || 'Outros';
-    if (!testamentoMap.has(testamento)) testamentoMap.set(testamento, new Map());
+    const grupoKey = testamento + '\0' + grupo;
+    if (!testamentoMap.has(testamento)) {
+      testamentoMap.set(testamento, new Map());
+      testamentoFirstIdx.set(testamento, idx);
+    }
     const grupoMap = testamentoMap.get(testamento);
-    if (!grupoMap.has(grupo)) grupoMap.set(grupo, []);
+    if (!grupoMap.has(grupo)) {
+      grupoMap.set(grupo, []);
+      grupoFirstIdx.set(grupoKey, idx);
+    }
     grupoMap.get(grupo).push({ file, book: bookIdx });
   });
 
-  const TESTAMENTO_ORDER = ['Antigo Testamento', 'Novo Testamento'];
-  const sortedTestamentos = [...testamentoMap.entries()].sort(([a], [b]) => {
-    const ia = TESTAMENTO_ORDER.indexOf(a), ib = TESTAMENTO_ORDER.indexOf(b);
-    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b, 'pt');
-  });
+  const sortedTestamentos = [...testamentoMap.entries()]
+    .sort(([a], [b]) => (testamentoFirstIdx.get(a) ?? 0) - (testamentoFirstIdx.get(b) ?? 0));
 
   let html = '';
   for (const [testamento, grupoMap] of sortedTestamentos) {
     html += `<div class="testament-section"><div class="testament-title">${testamento}</div>`;
-    for (const [grupo, items] of grupoMap.entries()) {
+    const sortedGrupos = [...grupoMap.entries()]
+      .sort(([a], [b]) => {
+        const ia = grupoFirstIdx.get(testamento + '\0' + a) ?? 0;
+        const ib = grupoFirstIdx.get(testamento + '\0' + b) ?? 0;
+        return ia - ib;
+      });
+    for (const [grupo, items] of sortedGrupos) {
       html += `<div class="book-group"><div class="group-label">${grupo}</div>`;
       items.forEach(({ file, book }) => {
         const cls = book.id === state.currentBookId ? ' class="current-book"' : '';
