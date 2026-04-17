@@ -1,0 +1,15 @@
+{
+  "id": "1-pedro",
+  "titulo": "Vulgata Clementina/Petri Epistola I",
+  "tituloIndice": "1 Pedro",
+  "abreviacao": "1Pt",
+  "testamento": "Novum Testamentum",
+  "grupo": "Epistolæ Catholicæ",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

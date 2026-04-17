@@ -1,0 +1,14 @@
+{
+  "id": "filipenses",
+  "titulo": "Epistola B. Pauli Apostoli ad Philippenses",
+  "tituloIndice": "Filipenses",
+  "abreviacao": "Phil",
+  "testamento": "Novum Testamentum",
+  "grupo": "Epistolæ Paulinæ",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

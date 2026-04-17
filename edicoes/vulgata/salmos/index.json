@@ -1,6 +1,7 @@
 {
   "id": "salmos",
   "titulo": "Liber Psalmorum",
+  "tituloIndice": "Salmos",
   "abreviacao": "Ps",
   "testamento": "Vetus Testamentum",
   "grupo": "Libri Poetici et Sapientiales",

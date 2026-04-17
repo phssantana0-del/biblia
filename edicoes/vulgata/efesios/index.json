@@ -1,0 +1,16 @@
+{
+  "id": "efesios",
+  "titulo": "Epistola B. Pauli Apostoli ad Ephesios",
+  "tituloIndice": "Efesios",
+  "abreviacao": "Eph",
+  "testamento": "Novum Testamentum",
+  "grupo": "Epistolæ Paulinæ",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

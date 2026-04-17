@@ -1,0 +1,13 @@
+{
+  "id": "tito",
+  "titulo": "Epistola B. Pauli Apostoli ad Titum",
+  "tituloIndice": "Tito",
+  "abreviacao": "Tit",
+  "testamento": "Novum Testamentum",
+  "grupo": "Epistolæ Paulinæ",
+  "capitulos": [
+    1,
+    2,
+    3
+  ]
+}

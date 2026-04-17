@@ -1,0 +1,16 @@
+{
+  "id": "baruc",
+  "titulo": "Vulgata Clementina/Prophetia Baruch",
+  "tituloIndice": "Baruc",
+  "abreviacao": "Bar",
+  "testamento": "Vetus Testamentum",
+  "grupo": "Prophetæ Maiores",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

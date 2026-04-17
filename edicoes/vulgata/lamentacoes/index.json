@@ -1,0 +1,15 @@
+{
+  "id": "lamentacoes",
+  "titulo": "Vulgata Clementina/Lamentationes",
+  "tituloIndice": "Lamentacoes",
+  "abreviacao": "Thr",
+  "testamento": "Vetus Testamentum",
+  "grupo": "Prophetæ Maiores",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

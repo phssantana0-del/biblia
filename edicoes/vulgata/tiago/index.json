@@ -1,0 +1,15 @@
+{
+  "id": "tiago",
+  "titulo": "Epistola Catholica B. Jacobi Apostoli",
+  "tituloIndice": "Tiago",
+  "abreviacao": "Jac",
+  "testamento": "Novum Testamentum",
+  "grupo": "Epistolæ Catholicæ",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

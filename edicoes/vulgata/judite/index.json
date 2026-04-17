@@ -1,0 +1,26 @@
+{
+  "id": "judite",
+  "titulo": "Vulgata Clementina/Liber Judith",
+  "tituloIndice": "Judite",
+  "abreviacao": "Jdt",
+  "testamento": "Vetus Testamentum",
+  "grupo": "Libri Historici",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ]
+}

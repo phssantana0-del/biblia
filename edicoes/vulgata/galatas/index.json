@@ -1,0 +1,16 @@
+{
+  "id": "galatas",
+  "titulo": "Epistola B. Pauli Apostoli ad Galatas",
+  "tituloIndice": "Galatas",
+  "abreviacao": "Gal",
+  "testamento": "Novum Testamentum",
+  "grupo": "Epistolæ Paulinæ",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

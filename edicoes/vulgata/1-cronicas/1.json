@@ -1,0 +1,224 @@
+{
+  "num": 1,
+  "sumario": "",
+  "versiculos": [
+    {
+      "n": 1,
+      "texto": "Adam, Seth, Enos,"
+    },
+    {
+      "n": 2,
+      "texto": "Cainan, Malaleel, Jared,"
+    },
+    {
+      "n": 3,
+      "texto": "Henoch, Mathusale, Lamech,"
+    },
+    {
+      "n": 4,
+      "texto": "Noë, Sem, Cham, et Japheth."
+    },
+    {
+      "n": 5,
+      "texto": "Filii Japheth : Gomer, et Magog, et Madai, et Javan, Thubal, Mosoch, Thiras."
+    },
+    {
+      "n": 6,
+      "texto": "Porro filii Gomer : Ascenez, et Riphath, et Thogorma."
+    },
+    {
+      "n": 7,
+      "texto": "Filii autem Javan : Elisa et Tharsis, Cethim et Dodanim."
+    },
+    {
+      "n": 8,
+      "texto": "Filii Cham : Chus, et Mesraim, et Phut, et Chanaan."
+    },
+    {
+      "n": 9,
+      "texto": "Filii autem Chus : Saba, et Hevila, Sabatha, et Regma, et Sabathacha. Porro filii Regma : Saba, et Dadan."
+    },
+    {
+      "n": 10,
+      "texto": "Chus autem genuit Nemrod : iste cœpit esse potens in terra."
+    },
+    {
+      "n": 11,
+      "texto": "Mesraim vero genuit Ludim, et Anamim, et Laabim, et Nephtuim,"
+    },
+    {
+      "n": 12,
+      "texto": "Phetrusim quoque, et Casluim : de quibus egressi sunt Philisthiim, et Caphtorim."
+    },
+    {
+      "n": 13,
+      "texto": "Chanaan vero genuit Sidonem primogenitum suum, Hethæum quoque,"
+    },
+    {
+      "n": 14,
+      "texto": "et Jebusæum, et Amorrhæum, et Gergesæum,"
+    },
+    {
+      "n": 15,
+      "texto": "Hevæumque et Aracæum, et Sinæum."
+    },
+    {
+      "n": 16,
+      "texto": "Aradium quoque, et Samaræum, et Hamathæum."
+    },
+    {
+      "n": 17,
+      "texto": "Filii Sem : Ælam, et Assur, et Arphaxad, et Lud, et Aram, et Hus, et Hul, et Gether, et Mosoch."
+    },
+    {
+      "n": 18,
+      "texto": "Arphaxad autem genuit Sale, qui et ipse genuit Heber."
+    },
+    {
+      "n": 19,
+      "texto": "Porro Heber nati sunt duo filii : nomen uni Phaleg, quia in diebus ejus divisa est terra ; et nomen fratris ejus Jectan."
+    },
+    {
+      "n": 20,
+      "texto": "Jectan autem genuit Elmodad, et Saleph, et Asarmoth, et Jare,"
+    },
+    {
+      "n": 21,
+      "texto": "Adoram quoque, et Huzal, et Decla,"
+    },
+    {
+      "n": 22,
+      "texto": "Hebal etiam, et Abimaël, et Saba, necnon"
+    },
+    {
+      "n": 23,
+      "texto": "et Ophir, et Hevila, et Jobab : omnes isti filii Jectan."
+    },
+    {
+      "n": 24,
+      "texto": "Sem, Arphaxad, Sale,"
+    },
+    {
+      "n": 25,
+      "texto": "Heber, Phaleg, Ragau,"
+    },
+    {
+      "n": 26,
+      "texto": "Serug, Nachor, Thare,"
+    },
+    {
+      "n": 27,
+      "texto": "Abram : iste est Abraham."
+    },
+    {
+      "n": 28,
+      "texto": "Filii autem Abraham, Isaac et Ismahel."
+    },
+    {
+      "n": 29,
+      "texto": "Et hæ generationes eorum. Primogenitus Ismahelis, Nabaioth, et Cedar, et Adbeel, et Mabsam,"
+    },
+    {
+      "n": 30,
+      "texto": "et Masma, et Duma, Massa, Hadad, et Thema,"
+    },
+    {
+      "n": 31,
+      "texto": "Jetur, Naphis, Cedma : hi sunt filii Ismahelis."
+    },
+    {
+      "n": 32,
+      "texto": "Filii autem Ceturæ concubinæ Abraham, quos genuit : Zamran, Jecsan, Madan, Madian, Jesboc, et Sue. Porro filii Jecsan : Saba, et Dadan. Filii autem Dadan : Assurim, et Latussim, et Laomim."
+    },
+    {
+      "n": 33,
+      "texto": "Filii autem Madian : Epha, et Epher, et Henoch, et Abida, et Eldaa : omnes hi filii Ceturæ."
+    },
+    {
+      "n": 34,
+      "texto": "Genuit autem Abraham Isaac : cujus fuerunt filii Esau, et Israël."
+    },
+    {
+      "n": 35,
+      "texto": "Filii Esau : Eliphaz, Rahuel, Jehus, Ihelom, et Core."
+    },
+    {
+      "n": 36,
+      "texto": "Filii Eliphaz : Theman, Omar, Sephi, Gathan, Cenez, Thamna, Amalec."
+    },
+    {
+      "n": 37,
+      "texto": "Filii Rahuel : Nahath, Zara, Samma, Meza."
+    },
+    {
+      "n": 38,
+      "texto": "Filii Seir : Lotan, Sobal, Sebeon, Ana, Dison, Eser, Disan."
+    },
+    {
+      "n": 39,
+      "texto": "Filii Lotan : Hori, Homam. Soror autem Lotan fuit Thamna."
+    },
+    {
+      "n": 40,
+      "texto": "Filii Sobal : Alian, et Manahath, et Ebal, Sephi et Onam. Filii Sebeon : Aja et Ana. Filii Ana : Dison."
+    },
+    {
+      "n": 41,
+      "texto": "Filii Dison : Hamram, et Eseban, et Jethran, et Charan."
+    },
+    {
+      "n": 42,
+      "texto": "Filii Eser : Balaan, et Zavan, et Jacan. Filii Disan : Hus et Aran."
+    },
+    {
+      "n": 43,
+      "texto": "Isti sunt reges qui imperaverunt in terra Edom, antequam esset rex super filios Israël. Bale filius Beor : et nomen civitatis ejus, Denaba."
+    },
+    {
+      "n": 44,
+      "texto": "Mortuus est autem Bale, et regnavit pro eo Jobab filius Zare de Bosra."
+    },
+    {
+      "n": 45,
+      "texto": "Cumque et Jobab fuisset mortuus, regnavit pro eo Husam de terra Themanorum."
+    },
+    {
+      "n": 46,
+      "texto": "Obiit quoque et Husam, et regnavit pro eo Adad filius Badad, qui percussit Madian in terra Moab : et nomen civitatis ejus Avith."
+    },
+    {
+      "n": 47,
+      "texto": "Cumque et Adad fuisset mortuus, regnavit pro eo Semla de Masreca."
+    },
+    {
+      "n": 48,
+      "texto": "Sed et Semla mortuus est, et regnavit pro eo Saul de Rohoboth, quæ juxta amnem sita est."
+    },
+    {
+      "n": 49,
+      "texto": "Mortuo quoque Saul, regnavit pro eo Balanan filius Achobor."
+    },
+    {
+      "n": 50,
+      "texto": "Sed et hic mortuus est, et regnavit pro eo Adad : cujus urbis nomen fuit Phau, et appellata est uxor ejus Meetabel filia Matred filiæ Mezaab."
+    },
+    {
+      "n": 51,
+      "texto": "Adad autem mortuo, duces pro regibus in Edom esse cœperunt : dux Thamna, dux Alva, dux Jetheth,"
+    },
+    {
+      "n": 52,
+      "texto": "dux Oolibama, dux Ela, dux Phinon,"
+    },
+    {
+      "n": 53,
+      "texto": "dux Cenez, dux Theman, dux Mabsar,"
+    },
+    {
+      "n": 54,
+      "texto": "dux Magdiel, dux Hiram : hi duces Edom."
+    }
+  ],
+  "notas": {},
+  "link": "https://la.wikisource.org/wiki/Vulgata_Clementina/Liber_I_Paralipomenon#Caput_1"
+}
