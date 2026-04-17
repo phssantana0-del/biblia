@@ -11,12 +11,94 @@ body {
   font-variant-numeric: oldstyle-nums;
 }
 
+body.review-popup-open {
+  padding-top: 92px;
+}
+
+.review-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 460;
+  border-bottom: 1px solid #d9cebd;
+  background: #f7f2e8;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.review-popup-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.review-popup-text {
+  color: #493f34;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.review-popup-text a,
+.review-popup-text a:visited,
+.review-popup-text a:hover,
+.review-popup-text a:active {
+  color: inherit;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.review-popup-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.review-popup-btn {
+  border: 1px solid #b9aa95;
+  background: #fff;
+  color: #493f34;
+  min-height: 34px;
+  padding: 0 12px;
+  cursor: pointer;
+  font-family: 'David Libre', Georgia, serif;
+  font-size: 14px;
+}
+
+.review-popup-btn:hover,
+.review-popup-btn:active {
+  background: #f0e7d8;
+}
+
+.review-popup-btn-secondary {
+  background: #f9f4ea;
+}
+
 /* ── Layout raiz para o drawer push ── */
 #page-layout {
   display: flex;
   align-items: stretch;
   width: 100%;
   max-width: 100%;
+}
+
+@media (max-width: 780px) {
+  body.review-popup-open {
+    padding-top: 132px;
+  }
+
+  .review-popup-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .review-popup-actions {
+    width: 100%;
+  }
 }
 
 /* ── Top bar ── */
@@ -854,6 +936,26 @@ body.pdf-modal-open {
 body.dark-mode {
   color: #eee6d6;
   background: #15120f;
+}
+
+body.dark-mode .review-popup {
+  border-color: #7e6a46;
+  background: #4a3d1c;
+}
+
+body.dark-mode .review-popup-text {
+  color: #e9d9a7;
+}
+
+body.dark-mode .review-popup-btn {
+  border-color: #8f7840;
+  background: #2a221b;
+  color: #e9d9a7;
+}
+
+body.dark-mode .review-popup-btn:hover,
+body.dark-mode .review-popup-btn:active {
+  background: #5a4a24;
 }
 
 body.dark-mode #content-wrapper,
