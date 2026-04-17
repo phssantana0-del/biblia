@@ -47,7 +47,9 @@ Exemplo: intervalo 1-10 → lotes [1-4], [5-8], [9-10]
 
 Para cada capítulo no lote, envie o arquivo PDF correspondente (`edicoes/figueiredo/<livroId>/<N>.pdf`) **diretamente como PDF** para a visão multimodal — anexe o arquivo `.pdf` sem nenhuma conversão prévia.
 
-> **PROIBIDO:** Nunca converta PDFs para PNG, JPG ou qualquer outro formato de imagem. Nunca use `pdftoppm`, `convert`, `ghostscript` ou ferramentas similares. Envie sempre o arquivo `.pdf` original.
+> **PROIBIDO:** Nunca converta PDFs para PNG, JPG ou qualquer outro formato de imagem. Nunca use `pdftoppm`, `convert`, `ghostscript` ou ferramentas similares. Nunca use `pdftotext`, `pdfminer`, OCR local ou qualquer outra extração/conversão local do conteúdo do PDF. Envie sempre o arquivo `.pdf` original.
+
+Se o fluxo atual não permitir anexar o PDF original diretamente à visão multimodal, **aborte e informe a limitação**. Não use fallback com `pdftotext`, OCR local, captura de texto local nem conversão do PDF para imagem sem instrução explícita do usuário.
 
 Se `edicoes/figueiredo/<livroId>/introducao.pdf` existir, envie-o também diretamente como PDF (uma única vez por execução) para extrair o texto introdutório do livro.
 
@@ -58,6 +60,7 @@ Se `edicoes/figueiredo/<livroId>/introducao.pdf` existir, envie-o também direta
 - Corrige automaticamente artefatos OCR comuns (não depende de extração local)
 - Preserva a ortografia original exata
 - Estrutura em JSON seguindo o schema abaixo
+- Não faça pré-processamento local do PDF para extrair texto, imagens ou OCR
 
 **Instruções para `introducao.pdf` (quando existir):**
 
@@ -91,7 +94,7 @@ Monte o JSON do capítulo obedecendo a estrutura abaixo. Revise internamente ant
 **Regras de transcrição obrigatórias:**
 
 - **Ortografia:** preserve a grafia exatamente como no PDF — não corrija para a norma culta atual. Ex: "sôbre", "tôda", "êle", "pôsto", "cêrca", "rêde", "pràticamente" devem permanecer intactos.
-- **Extração visual:** use a visão multimodal para ler o PDF diretamente, capturando fidedignamente o texto conforme aparece (sem intermediários como pdftotext).
+- **Extração visual:** use a visão multimodal para ler o PDF diretamente, capturando fidedignamente o texto conforme aparece (sem intermediários como `pdftotext`, OCR local ou conversão local para imagem).
 - **Versículos:** cada número vira um objeto `{ "n": <int>, "texto": "..." }`.
 - **Versículo zero (epígrafe/inscrição):** se há texto sem número antes do v. 1, que não seja o sumário do capítulo, salve como `{ "n": 0, "tipo": "epigrafe", "texto": "..." }`.
 - **Notas de rodapé:** remova o marcador `(N)` do texto; adicione `"nota": "fn<N>_<seq>"` ao versículo; crie entrada em `"notas": { "fn<N>_<seq>": { "rotulo": "...", "texto": "..." } }`.
