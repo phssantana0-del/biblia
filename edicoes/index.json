@@ -1,7 +1,7 @@
 [
   {
     "id": "figueiredo",
-    "edicao": "Bíblia Sagrada — Trad. Pe. Figueiredo",
+    "edicao": "Pe. Figueiredo (1950)",
     "idioma": "pt-BR",
     "livros": [
       "edicoes/figueiredo/genesis/index.json",
