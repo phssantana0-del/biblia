@@ -159,6 +159,12 @@ select {
   color: #1c00b9;
 }
 
+.compare-toggle-btn.disabled,
+.compare-toggle-btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
 .compare-status {
   color: #888;
   font-style: italic;
@@ -387,6 +393,26 @@ sup.fnref {
   text-decoration: none;
 }
 .ver-original-btn:hover { text-decoration: underline; }
+
+.inline-pdf-toolbar {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 6px;
+}
+
+.inline-pdf-toggle.active {
+  color: #111;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.chapter-pdf-fallback-frame {
+  width: 100%;
+  min-height: 78vh;
+  border: 1px solid #cfc6b7;
+  background: #fff;
+}
 
 /* Envoltório do conteúdo principal */
 #content-wrapper {
@@ -684,6 +710,13 @@ body.dark-mode .compare-toggle-btn:hover {
   background: #2a3f5c;
 }
 
+body.dark-mode .compare-toggle-btn.disabled,
+body.dark-mode .compare-toggle-btn:disabled {
+  background: #293446;
+  border-color: #647893;
+  color: #b9c5d8;
+}
+
 body.dark-mode .compare-status,
 body.dark-mode .nav-row .dimmed {
   color: #9a8f82;
@@ -712,4 +745,13 @@ body.dark-mode #intro-modal {
 
 body.dark-mode .error-msg {
   color: #ff9f9f;
+}
+
+body.dark-mode .inline-pdf-toggle.active {
+  color: #f3e8d5;
+}
+
+body.dark-mode .chapter-pdf-fallback-frame {
+  border-color: #5c4f41;
+  background: #221c17;
 }
