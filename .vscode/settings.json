@@ -8,5 +8,6 @@
   },
   "chat.tools.urls.autoApprove": {
     "*": true
-  }
+  },
+  "liveServer.settings.port": 5501
 }
