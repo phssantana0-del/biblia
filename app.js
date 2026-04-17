@@ -23,6 +23,8 @@ let state = {
   compareEditionId: null,
   compareBookData: null,
   activePdfType: null,
+  chapterViewMode: 'text',
+  inlinePdfType: 'recent',
   darkMode: false,
 };
 
@@ -468,12 +470,18 @@ function updateCompareButton() {
 
   const vulgata = getVulgataEdition();
   const shouldHide = !vulgata || state.currentEditionId === vulgata.id;
+  const shouldDisable = state.chapterViewMode === 'pdf';
 
   btn.style.display = shouldHide ? 'none' : 'inline-flex';
-  btn.textContent = state.compareMode
-    ? 'Desfazer comparação com Vulgata'
-    : 'Comparar com Vulgata';
+  btn.disabled = shouldDisable;
+  btn.title = shouldDisable ? 'Comparação indisponível enquanto este capítulo estiver em PDF.' : 'Comparar com Vulgata';
+  btn.textContent = shouldDisable
+    ? 'Comparação indisponível neste capítulo'
+    : state.compareMode
+      ? 'Desfazer comparação com Vulgata'
+      : 'Comparar com Vulgata';
   btn.classList.toggle('active', state.compareMode);
+  btn.classList.toggle('disabled', shouldDisable);
 }
 
 function onEditionChange(editionId) {
@@ -518,7 +526,12 @@ async function fetchChapter(bookDir, num) {
   if (state.loadedChapters[cacheKey]) return state.loadedChapters[cacheKey];
   const url = bookDir + '/' + num + '.json';
   const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP ${res.status} ao carregar ${url}`);
+  if (!res.ok) {
+    const err = new Error(`HTTP ${res.status} ao carregar ${url}`);
+    err.status = res.status;
+    err.url = url;
+    throw err;
+  }
   const data = await res.json();
   state.loadedChapters[cacheKey] = data;
   return data;
@@ -526,6 +539,30 @@ async function fetchChapter(bookDir, num) {
 
 function bookDirFromFile(bookFile) {
   return bookFile.substring(0, bookFile.lastIndexOf('/'));
+}
+
+function getChapterAssets(bookDir, chapterNumber) {
+  const pdfUrl = bookDir + '/' + chapterNumber + '.pdf';
+  const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + chapterNumber + '.pdf';
+  const hasPdf = !bookDir.includes('/vulgata/');
+  return { pdfUrl, pdfOldUrl, hasPdf };
+}
+
+function isMissingChapterError(error) {
+  return Boolean(error && error.status === 404);
+}
+
+function disableCompareForPdfFallback() {
+  state.compareMode = false;
+  state.compareEditionId = null;
+
+  const area = document.getElementById('main-area');
+  area.classList.remove('compare');
+  area.classList.add('single');
+
+  document.getElementById('compare-grid').innerHTML = '';
+  document.getElementById('content-compare').innerHTML = '';
+  document.getElementById('compare-status').textContent = 'comparação indisponível em capítulos sem transcrição';
 }
 
 async function loadBook(editionId, bookFile, chapter = 1, verse = null, options = {}) {
@@ -541,6 +578,8 @@ async function loadBook(editionId, bookFile, chapter = 1, verse = null, options 
     state.currentChapter = chapterNumber;
     state.currentVerse = verseNumber;
     state.currentBookIntroducao = bookIndex.introducao || null;
+    state.chapterViewMode = 'text';
+    document.getElementById('compare-status').textContent = '';
 
     const vulgata = getVulgataEdition();
     const area = document.getElementById('main-area');
@@ -555,13 +594,40 @@ async function loadBook(editionId, bookFile, chapter = 1, verse = null, options 
       area.classList.add('compare');
     }
 
-    const chData = await fetchChapter(bookDir, chapterNumber);
+    let chData;
+    try {
+      chData = await fetchChapter(bookDir, chapterNumber);
+    } catch (e) {
+      if (isMissingChapterError(e) && !bookDir.includes('/vulgata/')) {
+        state.currentVerse = null;
+        state.chapterViewMode = 'pdf';
+        disableCompareForPdfFallback();
+        renderChapterPdfFallback(chapterNumber, bookDir, 'content');
+        updateNav(bookIndex);
+        updateCompareButton();
+        document.getElementById('nav-book-title').textContent = bookIndex.tituloIndice || bookIndex.titulo;
+        document.getElementById('bot-book-title').textContent = bookIndex.tituloIndice || bookIndex.titulo;
+        buildBookSelector();
+
+        const shouldSyncUrl = state.urlSyncEnabled && options.syncUrl !== false;
+        if (shouldSyncUrl) {
+          updateUrlFromState(options.historyMode || 'replace');
+        }
+        saveNavigationToStorage();
+
+        requestAnimationFrame(() => {
+          if (options.scrollToTop !== false) window.scrollTo(0, 0);
+        });
+        return;
+      }
+      throw e;
+    }
 
     renderChapter(chData, bookDir, 'content');
     updateNav(bookIndex);
     updateCompareButton();
-    document.getElementById('nav-book-title').textContent = bookIndex.titulo;
-    document.getElementById('bot-book-title').textContent = bookIndex.titulo;
+    document.getElementById('nav-book-title').textContent = bookIndex.tituloIndice || bookIndex.titulo;
+    document.getElementById('bot-book-title').textContent = bookIndex.tituloIndice || bookIndex.titulo;
     buildBookSelector();
 
     const shouldSyncUrl = state.urlSyncEnabled && options.syncUrl !== false;
@@ -596,6 +662,10 @@ function renderChapter(ch, bookDir, targetId) {
     return;
   }
 
+  if (targetId === 'content') {
+    state.chapterViewMode = 'text';
+  }
+
   const chapterSummary = typeof ch.sumario === 'string' ? ch.sumario : '';
 
   const notaKeys = ch.notas ? Object.keys(ch.notas) : [];
@@ -619,9 +689,7 @@ function renderChapter(ch, bookDir, targetId) {
     return `<p class="verse" id="v-${item.n}" data-v="${item.n}"><span class="vnum"><a href="#" onclick="onVerseNumberClick(event, ${item.n}); return false;" name="v${item.n}">${vnumLabel}</a></span>${item.texto}${fnHtml}</p>`;
   }).join('\n');
 
-  const pdfUrl = bookDir + '/' + ch.num + '.pdf';
-  const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + ch.num + '.pdf';
-  const hasPdf = !bookDir.includes('/vulgata/');
+  const { pdfUrl, pdfOldUrl, hasPdf } = getChapterAssets(bookDir, ch.num);
   const originalLink = getOriginalLinkForChapter(ch);
   const pdfBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>` : '';
   const pdfOldBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>` : '';
@@ -656,6 +724,46 @@ function renderChapter(ch, bookDir, targetId) {
     document.getElementById('pdf-panel-title').textContent = getPanelIconByLabel(reloadLabel) + ' ' + reloadLabel;
     document.getElementById('pdf-frame').src = reloadUrl;
   }
+}
+
+function renderChapterPdfFallback(chapterNumber, bookDir, targetId) {
+  const container = document.getElementById(targetId);
+  const { pdfUrl, pdfOldUrl, hasPdf } = getChapterAssets(bookDir, chapterNumber);
+
+  if (!hasPdf) {
+    container.innerHTML = '<p class="error-msg">Texto do capítulo indisponível e não há PDF para fallback.</p>';
+    return;
+  }
+
+  const activeType = state.inlinePdfType === 'original' ? 'original' : 'recent';
+  const activeUrl = activeType === 'original' ? pdfOldUrl : pdfUrl;
+
+  container.innerHTML = `
+    <div class="chapter-header pdf-fallback-header">
+      <h1>Capítulo ${chapterNumber}</h1>
+      <div class="summary">Texto deste capítulo ainda não foi transcrito. Exibindo o PDF do capítulo.</div>
+      <div class="inline-pdf-toolbar">
+        <button class="ver-original-btn inline-pdf-toggle${activeType === 'recent' ? ' active' : ''}" data-pdf-type="recent" onclick="switchInlinePdfFallback('recent')">&#128196; PDF recente</button>
+        <button class="ver-original-btn inline-pdf-toggle${activeType === 'original' ? ' active' : ''}" data-pdf-type="original" onclick="switchInlinePdfFallback('original')">&#128196; PDF original</button>
+      </div>
+    </div>
+    <hr class="section-rule">
+    <iframe id="chapter-pdf-fallback-frame" class="chapter-pdf-fallback-frame" src="${activeUrl}" title="PDF do capítulo ${chapterNumber}"></iframe>
+  `;
+}
+
+function switchInlinePdfFallback(type) {
+  const frame = document.getElementById('chapter-pdf-fallback-frame');
+  if (!frame || !state.currentBookDir || !state.currentChapter) return;
+
+  const nextType = type === 'original' ? 'original' : 'recent';
+  const { pdfUrl, pdfOldUrl } = getChapterAssets(state.currentBookDir, state.currentChapter);
+  state.inlinePdfType = nextType;
+  frame.src = nextType === 'original' ? pdfOldUrl : pdfUrl;
+
+  document.querySelectorAll('.inline-pdf-toggle').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.pdfType === nextType);
+  });
 }
 
 function getOriginalLinkForChapter(chapterData) {
@@ -705,8 +813,7 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
     let buttonsHtml = '';
     const hasPdf = !bookDir.includes('/vulgata/');
     if (showPdfButtons && hasPdf) {
-      const pdfUrl = bookDir + '/' + ch.num + '.pdf';
-      const pdfOldUrl = bookDir.replace('/figueiredo/', '/figueiredo-original/') + '/' + ch.num + '.pdf';
+      const { pdfUrl, pdfOldUrl } = getChapterAssets(bookDir, ch.num);
       buttonsHtml = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>`
         + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>`;
     }
@@ -867,6 +974,18 @@ function toggleCompare() {
   const area = document.getElementById('main-area');
   const vulgata = getVulgataEdition();
 
+  if (state.chapterViewMode === 'pdf') {
+    state.compareMode = false;
+    state.compareEditionId = null;
+    area.classList.remove('compare');
+    area.classList.add('single');
+    document.getElementById('compare-grid').innerHTML = '';
+    document.getElementById('content-compare').innerHTML = '';
+    document.getElementById('compare-status').textContent = 'comparação indisponível em capítulos sem transcrição';
+    updateCompareButton();
+    return;
+  }
+
   if (!vulgata || state.currentEditionId === vulgata.id) {
     state.compareMode = false;
     state.compareEditionId = null;
@@ -919,6 +1038,12 @@ async function loadCompareChapter() {
   const ed = state.editions.find(e => e.id === state.compareEditionId);
   const grid = document.getElementById('compare-grid');
   document.getElementById('compare-status').textContent = '';
+
+  if (state.chapterViewMode === 'pdf') {
+    grid.innerHTML = '';
+    document.getElementById('compare-status').textContent = 'comparação indisponível em capítulos sem transcrição';
+    return;
+  }
 
   if (!ed || !ed.livros.length) {
     grid.innerHTML = '<p class="error-msg" style="grid-column:1/-1">Esta edição ainda não possui livros disponíveis.</p>';
@@ -980,7 +1105,7 @@ function buildBookSelector() {
       html += `<div class="book-group"><div class="group-label">${grupo}</div>`;
       items.forEach(({ file, book }) => {
         const cls = book.id === state.currentBookId ? ' class="current-book"' : '';
-        html += `<a${cls} href="#" onclick="selectBook('${file}'); return false;">${book.titulo}</a>`;
+        html += `<a${cls} href="#" onclick="selectBook('${file}'); return false;">${book.tituloIndice || book.titulo}</a>`;
       });
       html += `</div>`;
     }
