@@ -15,6 +15,10 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 //                    Com --old: PDF fonte = .pdfs/figueiredo-original/<livro-id>.pdf
 //                               PDFs gerados = edicoes/figueiredo-original/<livro-id>/<N>.pdf
 // cap:inicio:fim   — número do capítulo, página inicial e página final no PDF fonte (1-based, inclusive)
+//
+// Introdução automática (apenas figueiredo):
+// Se o capítulo 1 começar depois da página 1 em figueiredo, o script também gera:
+// edicoes/figueiredo/<livro-id>/introducao.pdf com as páginas 1 até inicio_cap_1 - 1.
 
 async function main() {
   const args = process.argv.slice(2);
@@ -68,6 +72,31 @@ async function main() {
   console.log(`Total de páginas no PDF fonte: ${totalPages}\n`);
 
   const generated = [];
+
+  const capitulo1 = capitulos.find(({ cap }) => cap === 1);
+  if (!oldMode && capitulo1 && capitulo1.inicio > 1) {
+    const introStart = 1;
+    const introEnd = Math.min(totalPages, capitulo1.inicio - 1);
+
+    if (introEnd >= introStart) {
+      const introIndices = [];
+      for (let p = introStart; p <= introEnd; p++) {
+        introIndices.push(p - 1);
+      }
+
+      const introDoc = await PDFDocument.create();
+      const introPages = await introDoc.copyPages(srcDoc, introIndices);
+      introPages.forEach((page) => introDoc.addPage(page));
+
+      const introBytes = await introDoc.save();
+      const introOutputFile = path.join(livroDir, `introducao${suffix}`);
+      fs.writeFileSync(introOutputFile, introBytes);
+
+      const introRelativePath = `edicoes/${edicaoDir}/${livroId}/introducao${suffix}`;
+      console.log(`  ✓ Introdução (pág. ${introStart}–${introEnd}) → ${introRelativePath}`);
+      generated.push({ cap: 'introducao', path: introRelativePath });
+    }
+  }
 
   for (const { cap, inicio, fim } of capitulos) {
     if (inicio > totalPages) {

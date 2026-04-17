@@ -14,6 +14,7 @@ Você separa um único PDF de livro em PDFs de capítulos.
   - `figueiredo-original` → `.pdfs/figueiredo-original/<livroId>.pdf`
 - Saída:
   - `figueiredo` → `edicoes/figueiredo/<livroId>/<N>.pdf`
+    - se detectar introdução antes do capítulo 1, também gerar `edicoes/figueiredo/<livroId>/introducao.pdf`
   - `figueiredo-original` → `edicoes/figueiredo-original/<livroId>/<N>.pdf`
 
 ## Fluxo
@@ -32,6 +33,7 @@ node extrair-capitulos.js <livroId> --old <cap:inicio:fim> [<cap:inicio:fim>...]
 ```
 
 7. Confirmar geração de todos os arquivos na pasta da edição escolhida.
+8. Para a edição `figueiredo`, verifique se `introducao.pdf` foi gerado quando houver páginas anteriores ao capítulo 1.
 
 ## Resposta final
 
