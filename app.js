@@ -6,7 +6,7 @@ const BASE_URL = 'edicoes/index.json';
 const NAV_STORAGE_KEY = 'biblia:last-navigation';
 const THEME_STORAGE_KEY = 'biblia:theme';
 const ROUTING_MODE = 'hash';
-const MOBILE_PDF_INITIAL_SCALE = 1.15;
+const MOBILE_PDF_INITIAL_SCALE = 1;
 
 function createPdfViewerState() {
   return {
@@ -664,24 +664,40 @@ function getVulgataEdition() {
     || null;
 }
 
+function buildCompareButtonHtml(options = {}) {
+  const isUndo = Boolean(options.isUndo);
+  const extraClass = options.extraClass ? ` ${options.extraClass}` : '';
+  const idAttr = options.withId === false ? '' : ' id="compare-toggle-btn"';
+  const btnClass = `compare-toggle-btn${isUndo ? ' active compare-toggle-btn-undo' : ''}${extraClass}`;
+  const label = isUndo ? 'Desfazer comparação' : 'Comparar à Vulgata';
+  const title = isUndo ? 'Desfazer comparação com Vulgata' : 'Comparar à Vulgata';
+  const icon = isUndo ? '✕' : '';
+  return `<button${idAttr} class="${btnClass}" onclick="toggleCompare()" title="${title}"><span class="compare-toggle-label">${label}</span><span class="compare-toggle-icon" aria-hidden="true">${icon}</span></button>`;
+}
+
 function updateCompareButton() {
   const btn = document.getElementById('compare-toggle-btn');
   if (!btn) return;
+  const label = btn.querySelector('.compare-toggle-label');
+  const icon = btn.querySelector('.compare-toggle-icon');
 
   const vulgata = getVulgataEdition();
   const shouldHide = !vulgata || state.currentEditionId === vulgata.id;
   const shouldDisable = state.chapterViewMode === 'pdf';
+  const isActive = state.compareMode && !shouldDisable;
 
   btn.style.display = shouldHide ? 'none' : 'inline-flex';
-  btn.disabled = shouldDisable;
-  btn.title = shouldDisable ? 'Comparação indisponível enquanto este capítulo estiver em PDF.' : 'Comparar com Vulgata';
-  btn.textContent = shouldDisable
-    ? 'Comparação indisponível neste capítulo'
-    : state.compareMode
-      ? 'Desfazer comparação com Vulgata'
-      : 'Comparar com Vulgata';
-  btn.classList.toggle('active', state.compareMode);
-  btn.classList.toggle('disabled', shouldDisable);
+  btn.disabled = false;
+  btn.title = isActive ? 'Desfazer comparação com Vulgata' : 'Comparar à Vulgata';
+  if (label) {
+    label.textContent = isActive ? 'Desfazer comparação' : 'Comparar à Vulgata';
+  }
+  if (icon) {
+    icon.textContent = isActive ? '✕' : '';
+  }
+  btn.classList.toggle('active', isActive);
+  btn.classList.toggle('compare-toggle-btn-undo', isActive);
+  btn.classList.toggle('disabled', false);
 }
 
 function onEditionChange(editionId) {
@@ -762,7 +778,7 @@ function disableCompareForPdfFallback() {
 
   document.getElementById('compare-grid').innerHTML = '';
   document.getElementById('content-compare').innerHTML = '';
-  document.getElementById('compare-status').textContent = 'comparação indisponível em capítulos sem transcrição';
+  document.getElementById('compare-status').textContent = '';
 }
 
 async function loadBook(editionId, bookFile, chapter = 1, verse = null, options = {}) {
@@ -893,15 +909,16 @@ function renderChapter(ch, bookDir, targetId) {
 
   const { pdfUrl, pdfOldUrl, hasPdf } = getChapterAssets(bookDir, ch.num);
   const originalLink = getOriginalLinkForChapter(ch);
-  const pdfBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>` : '';
-  const pdfOldBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>` : '';
-  const linkBtn = originalLink ? `<button class="ver-original-btn" onclick="openPdfPanel('${originalLink}', 'Link original', 'link')" style="margin-left:12px;">&#128279; Link original</button>` : '';
+  const pdfBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'Ver PDF 1950', 'recent')">Ver PDF 1950</button>` : '';
+  const pdfOldBtn = hasPdf ? `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'Ver PDF original', 'original')">Ver PDF original</button>` : '';
+  const linkBtn = originalLink ? `<button class="ver-original-btn" onclick="openPdfPanel('${originalLink}', 'Ver no Wikisource', 'link')">Ver no Wikisource</button>` : '';
+  const compareBtn = buildCompareButtonHtml();
 
   document.getElementById(targetId).innerHTML = `
     <div class="chapter-header">
       <h1>Capítulo ${ch.num}</h1>
       <div class="summary">${chapterSummary}</div>
-      ${pdfBtn}${pdfOldBtn}${linkBtn}
+      <div class="chapter-header-actions">${pdfOldBtn}${pdfBtn}${linkBtn}${compareBtn}</div>
     </div>
     <hr class="section-rule">
     ${lines}
@@ -915,10 +932,10 @@ function renderChapter(ch, bookDir, targetId) {
         ? pdfOldUrl
         : originalLink;
     const reloadLabel = state.activePdfType === 'recent'
-      ? 'PDF recente'
+      ? 'Ver PDF 1950'
       : state.activePdfType === 'original'
-        ? 'PDF original'
-        : 'Link original';
+        ? 'Ver PDF original'
+        : 'Ver no Wikisource';
     if (!reloadUrl) {
       closePdfPanel();
       return;
@@ -950,9 +967,10 @@ function renderChapterPdfFallback(chapterNumber, bookDir, targetId) {
     <div class="chapter-header pdf-fallback-header">
       <h1>Capítulo ${chapterNumber}</h1>
       <div class="summary">Texto deste capítulo ainda não foi transcrito. Exibindo o PDF do capítulo.</div>
-      <div class="inline-pdf-toolbar">
-        <button class="ver-original-btn inline-pdf-toggle${activeType === 'recent' ? ' active' : ''}" data-pdf-type="recent" onclick="switchInlinePdfFallback('recent')">&#128196; PDF recente</button>
-        <button class="ver-original-btn inline-pdf-toggle${activeType === 'original' ? ' active' : ''}" data-pdf-type="original" onclick="switchInlinePdfFallback('original')">&#128196; PDF original</button>
+      <div class="inline-pdf-toolbar chapter-header-actions">
+        <button class="ver-original-btn inline-pdf-toggle${activeType === 'recent' ? ' active' : ''}" data-pdf-type="recent" onclick="switchInlinePdfFallback('recent')">Ver PDF 1950</button>
+        <button class="ver-original-btn inline-pdf-toggle${activeType === 'original' ? ' active' : ''}" data-pdf-type="original" onclick="switchInlinePdfFallback('original')">Ver PDF original</button>
+        ${buildCompareButtonHtml()}
       </div>
     </div>
     <hr class="section-rule">
@@ -1010,7 +1028,7 @@ function getOriginalLinkForChapter(chapterData) {
 }
 
 function getPanelIconByLabel(label) {
-  return label === 'Link original' ? '\u{1F517}' : '\u{1F4C4}';
+  return label === 'Ver no Wikisource' ? '\u{1F517}' : '\u{1F4C4}';
 }
 
 function getPdfJsLib() {
@@ -1327,16 +1345,20 @@ function renderCompareGrid(ch1, ch2, bookDir1, bookDir2) {
     const hasPdf = !bookDir.includes('/vulgata/');
     if (showPdfButtons && hasPdf) {
       const { pdfUrl, pdfOldUrl } = getChapterAssets(bookDir, ch.num);
-      buttonsHtml = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'PDF recente')" style="margin-left:12px;">&#128196; PDF recente</button>`
-        + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'PDF original')" style="margin-left:12px;">&#128196; PDF original</button>`;
+      buttonsHtml = `<button class="ver-original-btn" onclick="openPdfPanel('${pdfUrl}', 'Ver PDF 1950', 'recent')">Ver PDF 1950</button>`
+        + `<button class="ver-original-btn" onclick="openPdfPanel('${pdfOldUrl}', 'Ver PDF original', 'original')">Ver PDF original</button>`;
     }
     if (originalLink) {
-      buttonsHtml += `<button class="ver-original-btn" onclick="openPdfPanel('${originalLink}', 'Link original', 'link')" style="margin-left:12px;">&#128279; Link original</button>`;
+      buttonsHtml += `<button class="ver-original-btn" onclick="openPdfPanel('${originalLink}', 'Ver no Wikisource', 'link')">Ver no Wikisource</button>`;
     }
+    if (state.compareMode && ed && ed.id === state.compareEditionId) {
+      buttonsHtml += buildCompareButtonHtml({ isUndo: true, extraClass: 'compare-toggle-btn-right', withId: false });
+    }
+    const actionsHtml = buttonsHtml ? `<div class="chapter-header-actions">${buttonsHtml}</div>` : '';
     div.innerHTML = `<div class="cg-edition-label">${ed ? ed.edicao : ''}</div>`
       + `<div class="cg-chapter-title">Capítulo ${ch.num}</div>`
       + `<div class="cg-summary-text">${chapterSummary}</div>`
-      + buttonsHtml;
+      + actionsHtml;
     return div;
   };
 
@@ -1494,7 +1516,8 @@ function toggleCompare() {
     area.classList.add('single');
     document.getElementById('compare-grid').innerHTML = '';
     document.getElementById('content-compare').innerHTML = '';
-    document.getElementById('compare-status').textContent = 'comparação indisponível em capítulos sem transcrição';
+    document.getElementById('compare-status').textContent = '';
+    alert('Comparação indisponível em capítulos sem transcrição.');
     updateCompareButton();
     return;
   }
@@ -1554,7 +1577,7 @@ async function loadCompareChapter() {
 
   if (state.chapterViewMode === 'pdf') {
     grid.innerHTML = '';
-    document.getElementById('compare-status').textContent = 'comparação indisponível em capítulos sem transcrição';
+    document.getElementById('compare-status').textContent = '';
     return;
   }
 
@@ -1705,7 +1728,7 @@ document.addEventListener('click', () => {
 function openPdfPanel(url, label, panelType = 'pdf') {
   state.activePdfType = panelType === 'link'
     ? 'link'
-    : (label === 'PDF recente' ? 'recent' : 'original');
+    : (panelType === 'recent' || label === 'Ver PDF 1950' || label === 'PDF recente' ? 'recent' : 'original');
 
   if (window.innerWidth < 768) {
     if (panelType === 'link') {

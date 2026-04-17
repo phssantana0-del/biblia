@@ -39,21 +39,18 @@
 <div id="nav">
   <div class="nav-row">
     <a href="#" onclick="prevBook(); return false;">&lt; livro ant.</a>
-    <span class="book-title" id="nav-book-title"></span>
+    <h2 class="book-title" id="nav-book-title"></h2>
     <a href="#" onclick="nextBook(); return false;">próx. livro &gt;</a>
   </div>
   <div class="nav-row" id="nav-chapter-row">
     <span class="dimmed" id="nav-prev-ch">&lt; cap. ant.</span>
-    <span class="book-title">Capítulo <span id="nav-ch-num">1</span></span>
+    <h3 class="book-title">Capítulo <span id="nav-ch-num">1</span></h3>
     <span class="dimmed" id="nav-next-ch">próx. cap. &gt;</span>
   </div>
   <div class="chapter-links" id="chapter-links">
     <span class="label">Capítulos:</span>
   </div>
-  <div id="chapter-actions">
-    <button id="compare-toggle-btn" class="compare-toggle-btn" onclick="toggleCompare()">Comparar com Vulgata</button>
-    <span id="compare-status" class="compare-status"></span>
-  </div>
+  <span id="compare-status" class="compare-status"></span>
 </div>
 
 <!-- ════════════════════════════════════════ CONTEÚDO PRINCIPAL -->
