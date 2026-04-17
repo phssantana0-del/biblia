@@ -96,6 +96,26 @@
   </div>
 </div>
 
+<!-- ════════════════════════════════════════ PDF MODAL (MOBILE / PDF.JS) -->
+<div id="pdf-modal" onclick="closePdfModalOverlay(event)">
+  <div id="pdf-modal-panel">
+    <div id="pdf-modal-header">
+      <span id="pdf-modal-title">&#128196; PDF</span>
+      <button id="pdf-modal-close" onclick="closePdfModal()" title="Fechar">&#x2715;</button>
+    </div>
+    <div class="pdfjs-mobile-toolbar" id="modal-pdf-toolbar" role="toolbar" aria-label="Controles de zoom do PDF">
+      <button class="pdfjs-tool-btn" onclick="pdfViewerZoomOut('modal')" title="Diminuir zoom">&#8722;</button>
+      <button class="pdfjs-tool-btn pdfjs-tool-btn-label" id="modal-pdf-zoom-label" onclick="pdfViewerZoomReset('modal')" title="Resetar zoom">100%</button>
+      <button class="pdfjs-tool-btn" onclick="pdfViewerZoomIn('modal')" title="Aumentar zoom">+</button>
+      <button class="pdfjs-tool-btn" onclick="pdfViewerFitWidth('modal')" title="Ajustar à largura">Ajustar</button>
+    </div>
+    <div class="pdfjs-canvas-wrap pdfjs-canvas-wrap-modal">
+      <div class="pdfjs-status" id="modal-pdf-status"></div>
+      <div id="modal-pdf-pages" class="pdfjs-pages" aria-label="Páginas do PDF"></div>
+    </div>
+  </div>
+</div>
+
 </div><!-- /#content-wrapper -->
 
 <!-- ════════════════════════════════════════ DRAWER DE ORIGINAIS (PDF/LINK) -->
@@ -109,6 +129,8 @@
 
 </div><!-- /#page-layout -->
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
