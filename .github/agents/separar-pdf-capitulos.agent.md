@@ -22,6 +22,9 @@ Você separa um único PDF de livro em PDFs de capítulos.
 1. Normalizar pedido em `{ edicao, livroId, capInicio, capFim }`, onde `edicao` é `figueiredo` ou `figueiredo-original`.
 2. Validar se o PDF fonte da edição existe. Se não existir, pare e informe caminho esperado.
 3. Detectar páginas de início dos capítulos com `pdftotext -layout` e conferência visual da página de transição.
+   - OCR só sugere início: validar `p-1`, `p` e `p+1`.
+   - Rejeitar início em cabeçalho corrido (ex.: "Cap. I" com texto já em andamento).
+   - No cap. 1, exigir versículo 1 completo; se truncado, recuar 1 página e revalidar.
 4. Definir `fim` de cada capítulo:
    - Se a página de início do capítulo N+1 também contém o final do N, incluir essa página no N.
    - Se N+1 começa em página limpa, `fim_N = inicio_(N+1) - 1`.
