@@ -270,12 +270,6 @@ select {
   display: none;
 }
 
-.compare-toggle-btn {
-  background: #f6f0d8;
-  border-color: #ccb570;
-  color: #6f5723;
-}
-
 .ver-original-btn:hover,
 .compare-toggle-btn:hover {
   background: #efe6c4;
@@ -1022,19 +1016,14 @@ body.dark-mode .theme-toggle-btn:hover {
   background: #3a3128;
 }
 
-body.dark-mode .compare-toggle-btn {
-  background: #4a3d1c;
-  border-color: #8f7840;
-  color: #e9d9a7;
-}
-
 body.dark-mode .compare-toggle-btn.compare-toggle-btn-undo {
   background: #4c2724;
   border-color: #a85f57;
   color: #f4c8c4;
 }
 
-body.dark-mode .ver-original-btn {
+body.dark-mode .ver-original-btn,
+body.dark-mode .compare-toggle-btn {
   background: #2a2f3b;
   border-color: #5c657a;
   color: #c7d0e5;
