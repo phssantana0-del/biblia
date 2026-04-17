@@ -4,5 +4,10 @@
   "abreviacao": "Tt",
   "testamento": "Novo Testamento",
   "grupo": "Epístolas Paulinas",
-  "capitulos": [1, 2, 3]
+  "capitulos": [
+    1,
+    2,
+    3
+  ],
+  "tituloIndice": "Tito"
 }

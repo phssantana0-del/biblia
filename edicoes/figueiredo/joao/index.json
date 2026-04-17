@@ -4,6 +4,29 @@
   "abreviacao": "Jo",
   "testamento": "Novo Testamento",
   "grupo": "Evangelhos",
-  "capitulos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
-  "introducao": "A tradição é unânime em atribuir o quarto Evangelho a S. João. Todos os Padres que falam dêste Evangelho proclamam como seu autor o apóstolo S. João, o discípulo a quem Jesus amava; apenas a seita dos Aloges, que negava a Divindade do Verbo, discordou desta afirmação. S. João, irmão de Tiago, era filho de Zebedeu e de Salomé, e natural de Betsaida. André, confiado na palavra do Mestre, foram com Pedro, Filipe e Natanael procurar Jesus, sendo os primeiros que ao Divino Mestre se juntaram (Jo 1, 35). Um ano mais tarde Jesus escolhe os doze Apóstolos e a lista insere S. João ao lado de Pedro (At 1, 13). S. João está porém bem averiguado que mais tarde partiu para Éfeso, onde continuou os seus trabalhos apostólicos, e onde esteve até ao fim do primeiro século. Êste Evangelho, destinado à Igreja Universal, foi dirigido duma maneira especial às Igrejas da Ásia menor e à sua metrópole, Éfeso, onde S. João tinha trabalhado, e cujas necessidades o determinaram a escrever."
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "introducao": "A tradição é unânime em atribuir o quarto Evangelho a S. João. Todos os Padres que falam dêste Evangelho proclamam como seu autor o apóstolo S. João, o discípulo a quem Jesus amava; apenas a seita dos Aloges, que negava a Divindade do Verbo, discordou desta afirmação. S. João, irmão de Tiago, era filho de Zebedeu e de Salomé, e natural de Betsaida. André, confiado na palavra do Mestre, foram com Pedro, Filipe e Natanael procurar Jesus, sendo os primeiros que ao Divino Mestre se juntaram (Jo 1, 35). Um ano mais tarde Jesus escolhe os doze Apóstolos e a lista insere S. João ao lado de Pedro (At 1, 13). S. João está porém bem averiguado que mais tarde partiu para Éfeso, onde continuou os seus trabalhos apostólicos, e onde esteve até ao fim do primeiro século. Êste Evangelho, destinado à Igreja Universal, foi dirigido duma maneira especial às Igrejas da Ásia menor e à sua metrópole, Éfeso, onde S. João tinha trabalhado, e cujas necessidades o determinaram a escrever.",
+  "tituloIndice": "Joao"
 }

@@ -6,5 +6,9 @@
   "edicao": "figueiredo",
   "grupo": "Profetas Menores",
   "totalCapitulos": 2,
-  "capitulos": [1, 2]
+  "capitulos": [
+    1,
+    2
+  ],
+  "tituloIndice": "Ageu"
 }

@@ -4,5 +4,12 @@
   "abreviacao": "1Ts",
   "testamento": "Novo Testamento",
   "grupo": "Epístolas Paulinas",
-  "capitulos": [1, 2, 3, 4, 5]
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "tituloIndice": "1 Tessalonicenses"
 }

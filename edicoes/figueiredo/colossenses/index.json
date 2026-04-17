@@ -4,5 +4,11 @@
   "abreviacao": "Cl",
   "testamento": "Novo Testamento",
   "grupo": "Epístolas Paulinas",
-  "capitulos": [1, 2, 3, 4]
+  "capitulos": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "tituloIndice": "Colossenses"
 }
