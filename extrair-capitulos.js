@@ -37,7 +37,7 @@ async function main() {
 
   const edicaoDir = oldMode ? 'figueiredo-original' : 'figueiredo';
   const livroDir = path.join(__dirname, 'edicoes', edicaoDir, livroId);
-  const fontePath = path.join(__dirname, 'pdfs', edicaoDir, `${livroId}.pdf`);
+  const fontePath = path.join(__dirname, '.pdfs', edicaoDir, `${livroId}.pdf`);
 
   if (!fs.existsSync(fontePath)) {
     console.error(`PDF fonte não encontrado: ${fontePath}`);
